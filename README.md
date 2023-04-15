@@ -14,14 +14,14 @@ https://chillvoxel.wordpress.com/2022/08/02/chill-voxel-aka-mantra-shader-v2-0/
 
 <br/>
 
-### Bicubic Shaders BE 3.3  
+### Bicubic Shaders BE  
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
 https://github.com/bambosan/Bicubic-Shaders-BE  
 
 <br/>
 
-### musk rose rd v2.1  
+### musk rose rd  
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
 https://github.com/Rinloid/musk_rose_rd  
@@ -44,10 +44,10 @@ https://magnificentshaders.home.blog/2022/10/22/row-your-boat/
 
 <br/>
 
-### Reflective Vanilla RD v2.0  
+### Reflective Vanilla RD
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
-https://github.com/Rinloid/reflective-vanilla-rd/releases
+https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
