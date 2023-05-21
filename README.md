@@ -3,7 +3,7 @@
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)
-![Progress](https://img.shields.io/badge/BetterRenderDragon-9cf?style=flat-square)  
+![Progress](https://img.shields.io/badge/BetterRenderDragon-ff69b4?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409  
   - [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip)
   - [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip)  
