@@ -26,7 +26,7 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip)
   - [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip)
   - [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip)
-  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip)
+  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip) ![Progress](https://img.shields.io/badge/Switch-red?style=flat-square)
   - [v1.9.8 beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip) ![Progress](https://img.shields.io/badge/BetterRenderDragon-ff69b4?style=flat-square)  
 
 
