@@ -168,8 +168,8 @@ https://github.com/ddf8196/MaterialBinLoader
 <br/>
 <br/>
 
-### RenderDragonData
-https://github.com/ddf8196/RenderDragonData
+### BetterRenderDragon
+https://github.com/ddf8196/BetterRenderDragon
 
 <br/>
 <br/>
