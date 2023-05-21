@@ -171,12 +171,6 @@ https://github.com/ddf8196/MaterialBinLoader
 
 ### BetterRenderDragon
 https://github.com/ddf8196/BetterRenderDragon
-
-<br/>
-<br/>
-
-### BetterRenderDragon
-https://github.com/ddf8196/RTX2Deferred
  
 <br/>
 <br/>
