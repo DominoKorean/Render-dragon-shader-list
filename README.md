@@ -117,6 +117,14 @@ https://discord.gg/years-static-shader-group-738688684223889409
 <br/>
 <br/>
 
+## RTX
+### BetterRTX-Installer
+![Progress](https://img.shields.io/badge/RTX-Window-blue?style=flat-square)  
+https://github.com/ABUCKY0/betterrtx-installer
+
+<br/>
+<br/>
+
 ## Ect Uitility
 <br/>
 
