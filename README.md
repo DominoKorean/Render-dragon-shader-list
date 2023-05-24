@@ -88,8 +88,9 @@ https://youtu.be/c55ABSyYEc4
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
-https://magnificentshaders.home.blog/2022/10/22/row-your-boat/  
+https://magnificentshaders.home.blog/  
   - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
+  - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
 
 <br/>
 <br/>
