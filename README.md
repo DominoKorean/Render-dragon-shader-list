@@ -122,9 +122,10 @@ https://discord.gg/years-static-shader-group-738688684223889409
 
 <br/>
 
-### BetterRTX-Installer
+### BetterRTX
 ![Progress](https://img.shields.io/badge/RTX-Window-blue?style=flat-square)  
 https://github.com/ABUCKY0/betterrtx-installer
+  - [BetterRTX_Installer](https://github.com/ABUCKY0/BetterRTX-Installer/releases/download/v1.0.0/BetterRTX_Installer.ps1) 
 
 <br/>
 <br/>
