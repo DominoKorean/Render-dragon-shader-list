@@ -106,7 +106,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### YSS Special Edition
-![Progress](https://img.shields.io/badge/RTX2Deferred-/MaterialBinLoader-yellowgreen?style=flat-square)  
+![Progress](https://img.shields.io/badge/RTX2Deferred-MaterialBinLoader-yellowgreen?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409
   - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
   - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip)
