@@ -69,7 +69,7 @@ https://github.com/Rinloid/musk_rose_rd
   - [v1.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_v1.0.zip)
     - [v1.0 Base .mcpack](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_Base.mcpack)
   - [v2.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.0/musk_rose_rd-v2.0.zip)
-  - [v2.1](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.1/musk_rose_rd-v2.1.zip)\
+  - [v2.1](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.1/musk_rose_rd-v2.1.zip)
   - [v4.0 Beta](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0b/musk_rose_rd-v4.0b.zip)
 
 <br/>
