@@ -62,6 +62,39 @@ https://github.com/bambosan/Bicubic-Shaders-BE
 <br/>
 <br/>
 
+### BSBE Lite
+![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
+![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
+https://github.com/bambosan/BSBE-Lite
+  - [1.2](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.2 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-Lite-RD-Material-Android-1.2.zip)
+    - [1.2 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-RD-Material-Support.mcpack)
+  - [1.3](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.3 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Android-1.3.zip)
+    - [1.3 IOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-iOS-1.3.zip)
+    - [1.3 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Windows-1.3.zip)
+    - [1.3 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-RD-Material-Support.mcpack)
+  - [1.4](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.4 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Android-1.4.zip)
+    - [1.4 IOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-iOS-1.4.zip)
+    - [1.4 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Windows-1.4.zip)
+    - [1.4 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
+  - [1.5](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.5 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Android-1.5.zip)
+      -[1.5 No Water Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Android-1.5.zip)
+    - [1.5 IOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-iOS-1.5.zip)
+      -[1.5 No Water IOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-iOS-1.5.zip)
+    - [1.5 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Windows-1.5.zip)
+      -[1.5 No Water Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Windows-1.5.zip)
+    - [1.5 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
+  - [1.6](https://github.com/bambosan/BSBE-Lite/releases/tag/1.6)
+    - [1.6 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Android-1.6.zip)
+    - [1.6 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Windows-1.6.zip)
+
+<br/>
+<br/>
+
 ### Musk Rose RD  
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
@@ -93,6 +126,25 @@ https://youtu.be/c55ABSyYEc4
 https://magnificentshaders.home.blog/  
   - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
   - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
+
+<br/>
+<br/>
+
+### KMPE Shader Rebooted Edition
+![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)  
+![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)  
+https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
+  - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
+
+<br/>
+<br/>
+
+### Darkfall BE
+![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
+![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
+https://magnificentshaders.home.blog
+  - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
 
 <br/>
 <br/>
