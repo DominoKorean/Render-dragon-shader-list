@@ -173,6 +173,39 @@ https://discord.gg/years-static-shader-group-738688684223889409
 <br/>
 <br/>
 
+### Newb X
+![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Window-blue?style=flat-square) 
+![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
+https://github.com/devendrn/newb-x-mcbe
+  - [001 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116362183526330420/newb-x-001-android-1.19.83.zip)
+  - [002 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116730003191767070/newb-x-002-android-1.19.83.zip)
+  - [003 Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117078788883357778/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
+  - [004](https://discord.com/channels/844591537430069279/1116247638094909460/1117136656890339431)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1117136656210858104/newb-x-004-android-1.19.83.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117146008158228511/newb-x-004-win-1.19.60.zip)
+  - [005](https://discord.com/channels/844591537430069279/1116247638094909460/1117811788931674283)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1117811788570951842/newb-x-005-android-1.20.0.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117811788218634310/newb-x-005-win-1.19.60.zip)
+  - [006](https://discord.com/channels/844591537430069279/1116247638094909460/1118175826601582602)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1118175825766928455/newb-x-006-android-1.20.0.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1118175825242628238/newb-x-006-win-1.20.0.zip)
+  - [007](https://discord.com/channels/844591537430069279/1116247638094909460/1118925382037557371)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1118925381420986398/newb-x-007-android-1.20.0.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1118925381102211124/newb-x-007-win-1.20.0.zip)
+  - [008](https://discord.com/channels/844591537430069279/1116247638094909460/1120417436177539152)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1120417435833618464/newb-x-008-android-1.20.0.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1120417435531608184/newb-x-008-win-1.20.0.zip)
+  - [009](https://discord.com/channels/844591537430069279/1116247638094909460/1120603151196758066)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1120603150492123236/newb-x-009-android-1.20.0.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1120603150089461780/newb-x-009-win-1.20.0.zip)
+  - [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969682628668/newb-x-010-android-1.20.0.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969204473918/newb-x-010-win-1.20.0.zip)
+
+<br/>
+<br/>
+
 ## RTX
 
 <br/>
