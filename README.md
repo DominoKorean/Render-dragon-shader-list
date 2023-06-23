@@ -286,3 +286,9 @@ https://github.com/ddf8196/RenderDragonData
 
 ### draco
 https://github.com/cqdetdev/draco
+
+<br/>
+<br/>
+
+## Patched app
+https://github.com/DominoKorean/Render-dragon-shader-list/wiki/Patched-app
