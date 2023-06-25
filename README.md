@@ -11,10 +11,10 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [v1.4](https://cdn.discordapp.com/attachments/972141088607436890/973825512340336710/YSS_for_RenderDragon_v1.4.zip)  
   - [v1.5](https://cdn.discordapp.com/attachments/972141088607436890/974172944588738580/YSS_for_RenderDragon_v1.5.zip)
   - [v1.6](https://cdn.discordapp.com/attachments/972141088607436890/975756710050426931/YSS_for_RenderDragon_v1.6.zip)
-  - [v1.8 beta1](https://cdn.discordapp.com/attachments/972141088607436890/1005717121336090624/YSS_RD_v1.8_Beta1.zip)
-  - [v1.8 beta2](https://cdn.discordapp.com/attachments/972141088607436890/1006752018863489117/YSS_RD_v1.8_beta2.zip)
-  - [v1.8 beta5](https://cdn.discordapp.com/attachments/972141088607436890/1040820223135199252/YSS_RD_1.8_beta_5.zip)
-  - [v1.8 beta6](https://cdn.discordapp.com/attachments/972141088607436890/1042112926401708043/YSS_RD_1.8_beta_6.zip)
+  - [v1.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1005717121336090624/YSS_RD_v1.8_Beta1.zip)
+  - [v1.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1006752018863489117/YSS_RD_v1.8_beta2.zip)
+  - [v1.8 Beta5](https://cdn.discordapp.com/attachments/972141088607436890/1040820223135199252/YSS_RD_1.8_beta_5.zip)
+  - [v1.8 Beta6](https://cdn.discordapp.com/attachments/972141088607436890/1042112926401708043/YSS_RD_1.8_beta_6.zip)
   - [v1.8](https://cdn.discordapp.com/attachments/972141088607436890/1060557487507525732/YSS_RD_v1.8.zip)
   - [v1.9](https://cdn.discordapp.com/attachments/972141088607436890/1073634274009419896/YSS_RD_v1.9.zip)
   - [v1.4 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621327875674172/YSS_RD_1.4_1.19.60.zip)
@@ -27,8 +27,10 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip)
   - [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip)
   - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip) ![Progress](https://img.shields.io/badge/Switch-red?style=flat-square)
-  - [v1.9.8 beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip) ![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
-  - [v1.9.8 beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip)
+  - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip) ![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
+  - [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip)
+  - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
+  - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
 
 
 <br/>
