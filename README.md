@@ -48,7 +48,7 @@ https://chillvoxel.wordpress.com/2022/08/02/chill-voxel-aka-mantra-shader-v2-0/
 ### Bicubic Shaders BE  
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
+![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)
 ![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
 https://github.com/bambosan/Bicubic-Shaders-BE  
   - [3.0 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.0/Bicubic-Shaders-BE-3.0.mcpack)
