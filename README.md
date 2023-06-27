@@ -65,6 +65,7 @@ https://bambosan.github.io/Bicubic-Shaders-BE/
     - [3.3 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Android-3.3.zip)
     - [3.3 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
     - [3.3 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/Bicubic-Shaders-BE-3.3.mcpack)
+  - [3.4 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/Bicubic-Shader-BE-3.4.mcpack)
 
 <br/>
 <br/>
