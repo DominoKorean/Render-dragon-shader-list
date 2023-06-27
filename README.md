@@ -138,7 +138,7 @@ https://magnificentshaders.home.blog/
 <br/>
 
 ### KMPE Shader Rebooted Edition
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)  
+![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)  
 https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
   - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
