@@ -104,7 +104,7 @@ https://github.com/bambosan/BSBE-Lite
 
 ### Musk Rose RD  
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)
+![Progress](https://img.shields.io/badge/Window-blue?style=flat-square)  
 https://github.com/Rinloid/musk_rose_rd  
   - [v0.5](https://github.com/Rinloid/musk_rose_rd/releases/download/v0.5/Musk_Rose_RDv0.5.zip)
   - [v1.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_v1.0.zip)
