@@ -36,6 +36,19 @@ https://discord.gg/years-static-shader-group-738688684223889409
 <br/>
 <br/>
 
+### YSS Special Edition
+![Progress](https://img.shields.io/badge/RTX2DEFFERD-BetterRenderDragon-ff69b4?style=flat-square)  
+https://discord.gg/years-static-shader-group-738688684223889409
+  - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
+  - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip)
+  - [beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip)
+    - [v1.0 .mcpack](https://cdn.discordapp.com/attachments/1066623642194153582/1068534357247152251/YSS_SE_Pack_v1.0.mcpack)
+  - [beta5](https://cdn.discordapp.com/attachments/1066623642194153582/1069602081679364167/YSS_Special_Edition_beta5.zip)
+  - [bata6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip)
+
+<br/>
+<br/>
+
 ### Chill Voxel Aka Mantra Shader V2.0  
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
 ![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)  
@@ -163,19 +176,6 @@ https://magnificentshaders.home.blog
 https://github.com/Rinloid/reflective-vanilla-rd
   - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
   - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
-
-<br/>
-<br/>
-
-### YSS Special Edition
-![Progress](https://img.shields.io/badge/RTX2DEFFERD-BetterRenderDragon-ff69b4?style=flat-square)  
-https://discord.gg/years-static-shader-group-738688684223889409
-  - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
-  - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip)
-  - [beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip)
-    - [v1.0 .mcpack](https://cdn.discordapp.com/attachments/1066623642194153582/1068534357247152251/YSS_SE_Pack_v1.0.mcpack)
-  - [beta5](https://cdn.discordapp.com/attachments/1066623642194153582/1069602081679364167/YSS_Special_Edition_beta5.zip)
-  - [bata6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip)
 
 <br/>
 <br/>
