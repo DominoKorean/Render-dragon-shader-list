@@ -182,6 +182,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 ### Newb X
 ![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
 ![Progress](https://img.shields.io/badge/Window-blue?style=flat-square) 
 ![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
 https://github.com/devendrn/newb-x-mcbe
@@ -209,6 +210,24 @@ https://github.com/devendrn/newb-x-mcbe
   - [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969682628668/newb-x-010-android-1.20.0.zip)
     - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969204473918/newb-x-010-win-1.20.0.zip)
+  - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122915915810492416/newb-x-011-lite-android-1.20.0.zip)
+    - [IOS](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523479277649/newb-x-011-ios-1.19.60.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523118551164/newb-x-011-win-1.20.0.zip)
+  - [011 Lite](https://discord.com/channels/844591537430069279/1116247638094909460/1122915916158603414)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122903524032913598/newb-x-011-android-1.20.0.zip)
+  - [011 Lite patch1](https://discord.com/channels/844591537430069279/1116247638094909460/1122941754761543721)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122941754505695273/newb-x-011-android-1.20.0-patch1.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1123219353505107968/newb-x-011-win-1.20.0-patch1.zip)
+  - [012](https://discord.com/channels/844591537430069279/1116247638094909460/1124362397243682948)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1124362395947651246/newb-x-012-android-1.20.zip)
+    - [IOS](https://cdn.discordapp.com/attachments/1116247638094909460/1124362394618052759/newb-x-012-ios-1.19.60.zip)
+    - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1124362395574349925/newb-x-012-win-1.20.zip)
+  - [013](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
+    - [Android no fog](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841156063273/newb-x-013-android-no-fog.zip)
+    - [Android lantern wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841529339975/newb-x-013-no-lantern-wave.zip)
+    - [Android no wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841860706364/newb-x-013-android-no-wave.zip)
+    - [Android all](https://cdn.discordapp.com/attachments/1116247638094909460/1125317842187845692/newb-x-013-android-all.zip)
 
 <br/>
 <br/>
