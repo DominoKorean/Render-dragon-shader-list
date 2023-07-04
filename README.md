@@ -210,7 +210,7 @@ https://github.com/devendrn/newb-x-mcbe
   - [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969682628668/newb-x-010-android-1.20.0.zip)
     - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969204473918/newb-x-010-win-1.20.0.zip)
-  - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303)
+  - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![Progress](https://img.shields.io/badge/IOS-orange?style=flat-square)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122915915810492416/newb-x-011-lite-android-1.20.0.zip)
     - [IOS](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523479277649/newb-x-011-ios-1.19.60.zip)
     - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523118551164/newb-x-011-win-1.20.0.zip)
