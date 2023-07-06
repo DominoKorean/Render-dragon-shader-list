@@ -1,11 +1,11 @@
 # Render-dragon-shader-list
 ### YSS RD
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)
-![Progress](https://img.shields.io/badge/Switch-red?style=flat-square)
-![Progress](https://img.shields.io/badge/Xbox-lightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)
+![](https://img.shields.io/badge/Switch-e60012?style=flat-square)
+![](https://img.shields.io/badge/Xbox-107c10?style=flat-square)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409  
   - [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip)
   - [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip)  
@@ -27,10 +27,10 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip)
   - [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip)
   - [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip)
-  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip) ![Progress](https://img.shields.io/badge/Switch-red?style=flat-square)
-  - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip) ![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
+  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip) ![Progress](https://img.shields.io/badge/Supported_from_this_version-Switch-e60012?style=flat-square)
+  - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip) ![Progress](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
   - [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip)
-  - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
+  - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip) ![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square)
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
 
 
@@ -38,7 +38,8 @@ https://discord.gg/years-static-shader-group-738688684223889409
 <br/>
 
 ### YSS Special Edition
-![Progress](https://img.shields.io/badge/RTX2DEFERRED-BetterRenderDragon-ff69b4?style=flat-square)  
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)
+![](https://img.shields.io/badge/RTX2DEFERRED-BetterRenderDragon-ff69b4?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409
   - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
   - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip)
@@ -51,8 +52,8 @@ https://discord.gg/years-static-shader-group-738688684223889409
 <br/>
 
 ### Chill Voxel Aka Mantra Shader V2.0  
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)  
 https://chillvoxel.wordpress.com/2022/08/02/chill-voxel-aka-mantra-shader-v2-0/  
   - [V2.0](https://download2389.mediafire.com/fbwrmfm9bpbgKL5hHIDQ0R23EfYbQcT9UP0ber9JQiK6wSNpCH_FZIW3Rv8ZrkypZjrZGmi19qcmauJHkErantL9/c26hmb2uyipbvbe/Chill+Voxel+Shader+for+R.D+Bedrock+platforms.zip)
 
@@ -60,10 +61,10 @@ https://chillvoxel.wordpress.com/2022/08/02/chill-voxel-aka-mantra-shader-v2-0/
 <br/>
 
 ### Bicubic Shaders BE  
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)
-![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://bambosan.github.io/Bicubic-Shaders-BE/
   - [3.0 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.0/Bicubic-Shaders-BE-3.0.mcpack)
   - [3.1](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.1)
@@ -85,9 +86,9 @@ https://bambosan.github.io/Bicubic-Shaders-BE/
 <br/>
 
 ### BSBE Lite
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/bambosan/BSBE-Lite
   - [1.2](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
     - [1.2 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-Lite-RD-Material-Android-1.2.zip)
@@ -118,8 +119,8 @@ https://github.com/bambosan/BSBE-Lite
 <br/>
 
 ### Musk Rose RD  
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/Rinloid/musk_rose_rd  
   - [v0.5](https://github.com/Rinloid/musk_rose_rd/releases/download/v0.5/Musk_Rose_RDv0.5.zip)
   - [v1.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_v1.0.zip)
@@ -132,9 +133,9 @@ https://github.com/Rinloid/musk_rose_rd
 <br/>
 
 ### Harmony Voxel R.D  
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://youtu.be/c55ABSyYEc4  
   - [Harmony Voxel R.D](https://download2392.mediafire.com/qpbeqifk6zkgrWqPX27AQC3qiUl6ha4fRW5OCE4ub2AJ9l3342uNERtm75HiEM1hqVSDPOQb2sC1V5S-DdLs6OAA/x81jndnwitfr5r9/Harmony+Voxel+R.D.zip)
 
@@ -142,9 +143,9 @@ https://youtu.be/c55ABSyYEc4
 <br/>
 
 ### ISPE Renewed Beta  
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://magnificentshaders.home.blog/  
   - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
   - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
@@ -153,8 +154,8 @@ https://magnificentshaders.home.blog/
 <br/>
 
 ### KMPE Shader Rebooted Edition
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)  
 https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
   - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
 
@@ -162,9 +163,9 @@ https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
 <br/>
 
 ### Darkfall BE
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://magnificentshaders.home.blog
   - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
 
@@ -172,8 +173,8 @@ https://magnificentshaders.home.blog
 <br/>
 
 ### Reflective Vanilla RD
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/Rinloid/reflective-vanilla-rd
   - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
   - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
@@ -182,10 +183,10 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Newb X
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square) 
-![Progress](https://img.shields.io/badge/MaterialBinLoader-yellowgreen?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/devendrn/newb-x-mcbe
   - [001 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116362183526330420/newb-x-001-android-1.19.83.zip)
   - [002 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116730003191767070/newb-x-002-android-1.19.83.zip)
@@ -211,7 +212,7 @@ https://github.com/devendrn/newb-x-mcbe
   - [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969682628668/newb-x-010-android-1.20.0.zip)
     - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969204473918/newb-x-010-win-1.20.0.zip)
-  - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![Progress](https://img.shields.io/badge/iOS-orange?style=flat-square)
+  - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![](https://img.shields.io/badge/Supported_from_this_version-iOS-0A84E1?style=flat-square)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122915915810492416/newb-x-011-lite-android-1.20.0.zip)
     - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523479277649/newb-x-011-ios-1.19.60.zip)
     - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523118551164/newb-x-011-win-1.20.0.zip)
@@ -238,7 +239,7 @@ https://github.com/devendrn/newb-x-mcbe
 <br/>
 
 ### BetterRTX
-![Progress](https://img.shields.io/badge/RTX-Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/ABUCKY0/betterrtx-installer
   - [BetterRTX_Installer](https://github.com/ABUCKY0/BetterRTX-Installer/releases/download/v1.0.0/BetterRTX_Installer.ps1) 
 
@@ -249,8 +250,8 @@ https://github.com/ABUCKY0/betterrtx-installer
 <br/>
 
 ### RenderDragon FullBright
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)    
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/Furzide/RenderDragonFullBright  
   - [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
   - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
@@ -259,8 +260,8 @@ https://github.com/Furzide/RenderDragonFullBright
 <br/>
 
 ### FogRemover
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/Furzide/RenderDragonFogRemover  
   - [1.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v1.1.0/RenderDragonNoFog_1.1.0.zip)
   - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
@@ -269,8 +270,8 @@ https://github.com/Furzide/RenderDragonFogRemover
 <br/>
 
 ### RD Cubemap Fix
-![Progress](https://img.shields.io/badge/Android-brightgreen?style=flat-square)
-![Progress](https://img.shields.io/badge/Windows-blue?style=flat-square)  
+![](https://img.shields.io/badge/Android-3ddc84?style=flat-square)
+![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
 https://github.com/Furzide/RenderDragonCubemapFix
   - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
   - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
