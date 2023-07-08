@@ -27,10 +27,13 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip)
   - [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip)
   - [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip)
-  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip) ![Progress](https://img.shields.io/badge/Supported_from_this_version-Switch-e60012?style=flat-square)
-  - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip) ![Progress](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
+  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip)
+![](https://img.shields.io/badge/Supported_from_this_version-Switch-e60012?style=flat-square)
+  - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip)
+![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
   - [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip)
-  - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip) ![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square)
+  - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
+![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square)
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
 
 
@@ -39,9 +42,11 @@ https://discord.gg/years-static-shader-group-738688684223889409
 
 ### YSS Special Edition
 ![](https://img.shields.io/badge/Windows-00adef?style=flat-square)
-![](https://img.shields.io/badge/RTX2DEFERRED-BetterRenderDragon-ff69b4?style=flat-square)  
+![](https://img.shields.io/badge/RTX2DEFERRED-BetterRenderDragon-ff69b4?style=flat-square)
+![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.60-2d7a3e?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409
   - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
+![](https://img.shields.io/badge/Supported_MC_version-1.19.60.27_preview-2d7a3e?style=flat-square)
   - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip)
   - [beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip)
     - [v1.0 .mcpack](https://cdn.discordapp.com/attachments/1066623642194153582/1068534357247152251/YSS_SE_Pack_v1.0.mcpack)
