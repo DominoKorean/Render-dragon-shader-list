@@ -251,7 +251,7 @@ https://github.com/ABUCKY0/betterrtx-installer
 <br/>
 <br/>
 
-## Ect Uitility Shaders
+## Ect Utility Shaders
 <br/>
 
 ### RenderDragon FullBright
@@ -320,7 +320,7 @@ https://github.com/DominoKorean/Render-dragon-shader-list/wiki/Patched-app
 <br/>
 
 ### mcpelauncher shadersmod
-https://github.com/GameParrot/mcpelauncher-shadersmod\
+https://github.com/GameParrot/mcpelauncher-shadersmod
 
 <br/>
 <br/>
