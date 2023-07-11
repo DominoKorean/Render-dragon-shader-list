@@ -245,14 +245,13 @@ https://github.com/devendrn/newb-x-mcbe
 <br/>
 
 ### BetterRTX
-![](https://img.shields.io/badge/Windows-00adef?style=flat-square)  
+![](https://img.shields.io/badge/Bedrock_RTX-Windows-00adef?style=flat-square)  
 https://github.com/ABUCKY0/betterrtx-installer
-  - [BetterRTX_Installer](https://github.com/ABUCKY0/BetterRTX-Installer/releases/download/v1.0.0/BetterRTX_Installer.ps1) 
 
 <br/>
 <br/>
 
-## Ect Uitility
+## Ect Uitility Shaders
 <br/>
 
 ### RenderDragon FullBright
@@ -285,6 +284,47 @@ https://github.com/Furzide/RenderDragonCubemapFix
 <br/>
 <br/>
 
+ ## Utility
+
+<br/>
+<br/>
+
+### MaterialBinLoader
+https://github.com/ddf8196/MaterialBinLoader
+ 
+<br/>
+<br/>
+
+### MaterialBinTool
+https://github.com/ddf8196/MaterialBinTool
+
+<br/>
+<br/>
+
+### BetterRenderDragon
+https://github.com/ddf8196/BetterRenderDragon
+
+<br/>
+<br/>
+
+### draco
+https://github.com/cqdetdev/draco
+
+<br/>
+<br/>
+
+### Patched app
+https://github.com/DominoKorean/Render-dragon-shader-list/wiki/Patched-app
+
+<br/>
+<br/>
+
+### mcpelauncher shadersmod
+https://github.com/GameParrot/mcpelauncher-shadersmod\
+
+<br/>
+<br/>
+
 ## Dev
 <br/>
 
@@ -300,29 +340,5 @@ https://github.com/ddf8196/MaterialBinTool
 <br/>
 <br/>
 
-### MaterialBinLoader
-https://github.com/ddf8196/MaterialBinLoader
- 
-<br/>
-<br/>
-
-### BetterRenderDragon
-https://github.com/ddf8196/BetterRenderDragon
- 
-<br/>
-<br/>
-
 ### RenderDragonData
 https://github.com/ddf8196/RenderDragonData
- 
-<br/>
-<br/>
-
-### draco
-https://github.com/cqdetdev/draco
-
-<br/>
-<br/>
-
-### Patched app
-https://github.com/DominoKorean/Render-dragon-shader-list/wiki/Patched-app
