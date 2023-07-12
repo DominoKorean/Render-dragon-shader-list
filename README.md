@@ -251,7 +251,7 @@ https://github.com/ABUCKY0/betterrtx-installer
 <br/>
 <br/>
 
-## Ect Uitility Shaders
+## Etc Uitility Shaders
 <br/>
 
 ### RenderDragon FullBright
