@@ -319,7 +319,7 @@ https://github.com/cqdetdev/draco
 
 ### Patched app
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)  
-https://github.com/DominoKorean/Render-dragon-shader-list/wiki/Patched-app
+https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md
 
 <br/>
 <br/>
