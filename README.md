@@ -241,6 +241,20 @@ https://github.com/devendrn/newb-x-mcbe
 <br/>
 <br/>
 
+### AziFy EnDefault Shader
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+https://aziangeloprojects.blogspot.com
+  - [1.0](https://download2262.mediafire.com/flh39ua16pkgfBilxlIjdMk6XGmEblTFF5IlbXGbmKrGJjM3HBhTJzXEkYHp9TSCrc2LrFXVi3oqS9egegryWibNrrLTxBDqF6XV-MolZIyisG6XkPDpZ5rEzAtSpYiHGuPSJFVmHUE1zQ1-pZTPc9Q8l3eEE1zrR1u9o8lvEQ/0e16y86o7e9yebe/AziFy+EnDefault+v1.0.zip)
+  - [1.2.0](https://aziangeloprojects.blogspot.com/2023/07/azify-endefault-v120.html)
+    - [Standard](https://download2271.mediafire.com/nus0id6cpaugt3HVJj7G_Mqai2O0POmoL5OtebXzU46zDUnFqIhO8gfjnjLfn8zMBmREXvq4YkcuJvijRVCNmNISGOLdjikZdplkOrL5KvpYsAfBJ91Wuz0xi0Lg3Z7niHNUXqm-T0aZ2Nzkg5iF0e_oZYOHJU2izjmPGftm5g/13n5xz1nddlsiyg/AziFy+EnDefault+v1.2.0.zip)
+    - [Medium 1](https://download2298.mediafire.com/b8t88uznduzgm7ZeZ2rXEc0aUO7M5GXUwgLoDFknMqJClFHelrx4iN0z3wgVBhZfo2pq_D-7BesptEpj90vQmnVHBLcywC8vqk_YIjvUAO8vxxmW5Pr5HaUIF5myMfH_RCDDYkDLBphVMReGfpCvx7TFEYkNS-6uhCQ5gFUrWg/k9qcwjuxvnsjto0/EnDefault+v1.2.0+Medium+1.zip) (No Glossy Effect)
+    - [Medium 2](https://download2272.mediafire.com/olidyixjrkbgNc6ltgz84vRQCcwKgVQki-GSXQ1P_w3dWcScRux8qMbrbhfkAnH9OujbbnpbakmLPTSE9BJmxPP3UUna2T2UZW1LRI1gQckHKmaFKNfjTGWSpc4ujXdc56ZNlvmhMyT0rtrcJOT-Czue17JjncjeMrOnBKm8pA/umtyu0z8a5bbti4/EnDefault+v1.2.0+Medium+2.mcpack) (No Waves/Waving Effect)
+    - [Low](https://download1527.mediafire.com/higqq5ybqddgAX2T55l-WcVHdBBIdTNqLigb1fut0_VuACr3j7Ao8axaNe5RSbVTAcfRgT4n4JKrvmW1mdjtQNdRb2q_rwKkuAreh-doYTAx4bTM9sxXr6QF6CRQuFtX7PqnRvdQ0qrZKu4yS5qwuDOWOoben5PEFhugMzqeNQ/k6xgpksdioqyzve/EnDefault+1.2.0+Low.mcpack) (Removed Fake Terrain Reflection, Waves/ Waving Effect, Glossy Effect.)
+
+<br/>
+<br/>
+
 ### GLSL RDR
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
@@ -315,7 +329,8 @@ https://github.com/ddf8196/MaterialBinTool
 <br/>
 
 ### BetterRenderDragon
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/ddf8196/BetterRenderDragon
 
 <br/>
@@ -329,7 +344,8 @@ https://github.com/cqdetdev/draco
 <br/>
 
 ### Patched app
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md
 
 <br/>
