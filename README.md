@@ -45,7 +45,6 @@ https://discord.gg/years-static-shader-group-738688684223889409
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/RTX2DEFERRED-BetterRenderDragon-ff69b4?style=flat-square)
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.60-2d7a3e?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE)  
 https://discord.gg/years-static-shader-group-738688684223889409
   - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.60.27_preview-2d7a3e?style=flat-square)
@@ -202,6 +201,7 @@ https://magnificentshaders.home.blog
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Newb%20X)  
 https://github.com/devendrn/newb-x-mcbe
   - [001 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116362183526330420/newb-x-001-android-1.19.83.zip)
   - [002 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116730003191767070/newb-x-002-android-1.19.83.zip)

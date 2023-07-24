@@ -2,4 +2,4 @@
 ![](2.jpg)
 ![](3.jpg)
 ![](4.jpg)
-![Lite Screen Shots](screenshots/Years%20static%20shader/YSS%20RD/Lite)
+[![](https://img.shields.io/badge/YSS_RD_Lite_Screen_Shots-click-white?style=social-square)](Lite)
