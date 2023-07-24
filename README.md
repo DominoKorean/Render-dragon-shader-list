@@ -119,6 +119,7 @@ https://github.com/bambosan/BSBE-Lite
 ### Musk Rose RD  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Musk%20Rose%20RD)  
 https://github.com/Rinloid/musk_rose_rd  
   - [v0.5](https://github.com/Rinloid/musk_rose_rd/releases/download/v0.5/Musk_Rose_RDv0.5.zip)
   - [v1.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_v1.0.zip)
@@ -146,7 +147,8 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://youtu.be/c55ABSyYEc4  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Harmony%20Voxel)  
+https://magnificentshaders.home.blog
   - [Beta](https://www.mediafire.com/file/by1z63ejtncbjcu/Harmony_Voxel_%255BBETA%255D_All_Platforms.zip/file#)
 
 <br/>
@@ -157,6 +159,7 @@ https://youtu.be/c55ABSyYEc4
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Chill%20Voxel)  
 https://magnificentshaders.home.blog
   - [V2.0](https://download2389.mediafire.com/fbwrmfm9bpbgKL5hHIDQ0R23EfYbQcT9UP0ber9JQiK6wSNpCH_FZIW3Rv8ZrkypZjrZGmi19qcmauJHkErantL9/c26hmb2uyipbvbe/Chill+Voxel+Shader+for+R.D+Bedrock+platforms.zip)
   - [v2.2](https://www.mediafire.com/file/hrkcnr6ckoji6pk/Chill_Voxel_V2.2_%2528All_Platforms%2529.zip/file#) 
@@ -170,6 +173,7 @@ https://magnificentshaders.home.blog
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/ISPE)  
 https://magnificentshaders.home.blog/  
   - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
   - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
@@ -180,6 +184,7 @@ https://magnificentshaders.home.blog/
 ### KMPE Shader Rebooted Edition
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/KMPE)  
 https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
   - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
 
@@ -190,6 +195,7 @@ https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Darkfall%20BE)  
 https://magnificentshaders.home.blog
   - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
 
@@ -252,6 +258,7 @@ https://github.com/devendrn/newb-x-mcbe
 ### AziFy EnDefault Shader
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/AziFy%20EnDefault)  
 https://aziangeloprojects.blogspot.com
   - [1.0](https://download2262.mediafire.com/flh39ua16pkgfBilxlIjdMk6XGmEblTFF5IlbXGbmKrGJjM3HBhTJzXEkYHp9TSCrc2LrFXVi3oqS9egegryWibNrrLTxBDqF6XV-MolZIyisG6XkPDpZ5rEzAtSpYiHGuPSJFVmHUE1zQ1-pZTPc9Q8l3eEE1zrR1u9o8lvEQ/0e16y86o7e9yebe/AziFy+EnDefault+v1.0.zip)
   - [1.2.0](https://aziangeloprojects.blogspot.com/2023/07/azify-endefault-v120.html)
