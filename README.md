@@ -139,6 +139,16 @@ https://github.com/Rinloid/musk_rose_rd
 <br/>
 <br/>
 
+### Reflective Vanilla RD
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+https://github.com/Rinloid/reflective-vanilla-rd
+  - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
+  - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
+
+<br/>
+<br/>
+
 ### Harmony Voxel R.D  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
@@ -175,16 +185,6 @@ https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://magnificentshaders.home.blog
   - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
-
-<br/>
-<br/>
-
-### Reflective Vanilla RD
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-https://github.com/Rinloid/reflective-vanilla-rd
-  - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
-  - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
 
 <br/>
 <br/>
@@ -237,6 +237,17 @@ https://github.com/devendrn/newb-x-mcbe
     - [Android lantern wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841529339975/newb-x-013-no-lantern-wave.zip)
     - [Android no wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841860706364/newb-x-013-android-no-wave.zip)
     - [Android all](https://cdn.discordapp.com/attachments/1116247638094909460/1125317842187845692/newb-x-013-android-all.zip)
+
+<br/>
+<br/>
+
+### GLSL RDR
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Price-1$-FF424D?style=flat-square&logo=patreon)  
+https://www.patreon.com/paixao
+  - [A1](https://www.patreon.com/posts/86536770)
 
 <br/>
 <br/>
