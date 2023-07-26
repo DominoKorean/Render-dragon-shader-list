@@ -276,7 +276,7 @@ https://aziangeloprojects.blogspot.com
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Price-1$-FF424D?style=flat-square&logo=patreon)  
 https://www.patreon.com/paixao
-  - [A1](https://www.patreon.com/posts/86536770)
+  - [Alpha 1](https://www.patreon.com/posts/86536770)
 
 <br/>
 <br/>
