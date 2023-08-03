@@ -1,64 +1,74 @@
-# Android Render Dragon Shader Installation Guide
+# 안드로이드 렌더드래곤 셰이더 설치법
 
-## Table of Contents
+## 목차
 * [MaterialBinLoader](#materialbinloader)
-* [Manual Installation](#manual-installation)
-* [Backup](#backup)
+* [직접 설치](#직접-설치)
+* [백업](#백업)
 
 ## MaterialBinLoader
-MaterialBinLoader is a program that allows you to load the shader file material.bin as a resource pack, similar to the existing HAL engine. While you can modify the Minecraft APK file and install it directly, it is more convenient to install the APK of the Patched APP prepared in advance by developer [@ENDERMANYK](https://github.com/ENDERMANYK). You can download the Patched APP from this location: [Patched APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md).
+MaterialBinLoader는 셰이더 파일인 material.bin파일을 기존의 HAL 엔진처럼  
+리소스팩으로 불러올 수 있게 해주는 프로그램입니다.  
+마인크래프트 파일의 APK를 수정해 직접 설치할 수도 있으나  
+[@ENDERMANYK](https://github.com/ENDERMANYK)개발자가 미리 준비해준   Patched APP의 APK를 설치하는 것이 가장 편리합니다.  
+Patched APP은 이곳에서 받을 수 있습니다.  
+https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md  
 
-If your existing Minecraft version is lower than the Patched APP version due to not having updated yet, you can simply install the APK and update it. However, if the Patched APP version is lower or the same as your current Minecraft version, you must first remove the existing Minecraft and then install the Patched APP. Therefore, it is essential to [back up](#백업) your Minecraft before the removal process.
+만약 기존의 마인크래프트를 아직 업데이트하지않아 Patched APP보다 버전이 낮을경우  
+APK 설치시 업데이트항목이 떠 바로 설치할 수 있으나  
+Patched APP의 버전이 더 낮거나 동일한 경우  
+기존의 마인크래프트를 제거 후 설치해주셔야합니다.  
+따라서 제거 전 먼저 마인크래프트를 [백업](#백업)해주셔야합니다.
 
-## Manual Installation
+## 직접 설치
+MaterialBinLoader를 지원하지 않는 경우 직접 마인크래프트의 렌더파일을 수정해 주어야 합니다.  
+이 과정에서 마인크래프트를 재설치하는 과정이 필요하기 때문에 [백업](#백업)을 먼저 해주시길 바랍니다.  
 
-If MaterialBinLoader is not supported, you will need to modify the Minecraft render file directly. During this process, reinstalling Minecraft will be necessary, so please make sure to [back up](#백업) your Minecraft before proceeding.
+마인크래프트의 렌더파일을 수정하기 위해선 먼저 Apktool M과 MT Manager가 필요합니다.  
+먼저 [APKtool](https://maximoff.su/apktool/?lang=en)을 설치해줍니다.
+그 후 APKtool에서 상단에 Application 탭으로 가준 다음  
+Installed Applications 에서 Minecraft를 선택한 후 Antisplit을 선택해줍니다.  
+그 후 Use aapt2를 선택해주고  
+Select a signature file에서 Don't sign을 선택해 줍니다.  
+이 후 APK를 추출하게 되는데 시간이 좀 걸릴 수 있습니다.  
+백그라운드에서 실행이 가능하니 폰을 끄거나 APKtool을 끄지 않는 한에서 다른 어플을 사용할 수 있습니다.  
 
-To modify the Minecraft render file, you will need Apktool M and MT Manager. Here's a step-by-step guide:
+설치가 다되었다면 이제[MT Manager](https://mt2.cn/download)을 설치해주시면됩니다.  
+링크에서 파란색 글씨로 된 本地下载를 눌러주시면 됩니다.  
+그 후 MT Manager에서 한쪽 탭에서는 APKtool_M 폴더를 열고
+다른 한쪽에는 다운로드 받은 셰이더 파일을 열어줍니다.  
+이제 APKtool_M폴더에 Anti Split된 APK 파일을 눌르고 VIEW를 눌러줍니다.  
+그 후 assets/rnderer/materials 순으로 폴더를 들어가줍니다.
+이제 셰이더 파일에 있던 material.bin파일을 꾹누른 후  
++Add 버튼 눌러준 뒤 AUTO SIGN 체크 박스 선택한 후 OK눌러줍니다.  
+모든 material.bin파일에 동일한 작업이 끝났다면 뒤로가기로 나가서  
+APK다시 선택해 준 후 FUNCTION에 들어가줍니다.  
+그 후 APK Sign선택하고 OK눌러주시면 됩니다.  
+이제 APK를 설치하면 인게임에서 셰이더가 적용된 모습을 보실 수 있습니다.  
 
-1. First, install [APKtool](https://maximoff.su/apktool/?lang=en).
-2. Open APKtool and go to the Application tab. Then, select Minecraft from the Installed Applications list and choose "Antisplit."
-3. Enable "Use aapt2" and select "Don't sign" under "Select a signature file."
-4. The APK extraction process may take some time. You can use other apps on your phone or leave APKtool running in the background without closing it.
+추가로 만약 셰이더 파일에 base.mcpack같은 파일이 같이 있다면  
+선택 후 왼쪽 하단 TYPE에서 ALL선택 후  
+MInecraft선택해서 열어주신다음  
+리소스팩이 불러와지면 리소스팩 적용해주시면 됩니다.
 
-Once the installation of APKtool is complete, proceed with the following steps:
-
-5. Install [MT Manager](https://mt2.cn/download) by clicking on the blue 本地下载 (Local Download) link on the website.
-6. Open MT Manager and open the APKtool_M folder on one side and the downloaded shader file on the other side.
-7. Press on the Anti-Split APK file in the APKtool_M folder and click on VIEW.
-8. Navigate to assets/rnderer/materials to find the material.bin file in the shader folder.
-9. Long-press the material.bin file, click on the +Add button, and check the AUTO SIGN checkbox before clicking OK.
-10. If there are multiple material.bin files, repeat the same process for each of them.
-11. Go back to the previous menu, select the APK file again, and go to FUNCTION.
-12. Choose APK Sign and click OK.
-13. Now, you can install the modified APK, and you will see the shaders applied in-game.
-
-If there are additional files like base.mcpack accompanying the shader file, follow these steps:
-
-14. Select the base.mcpack file and click on TYPE at the bottom left. Choose ALL, then select Minecraft to open it.
-15. Once the resource pack is loaded, apply the resource pack, and the process will be complete.
-
-For a visual guide, you can refer to this [video tutorial](https://youtu.be/MYlnjqnFBgw).
-<!---
-Note: The provided links are subject to change or may be in a different language, as this is a translation. Please use similar guides in your preferred language if necessary.
---->
-
-
+[영상 설명](https://youtu.be/MYlnjqnFBgw)
 
 
-## Backup
 
-For Minecraft saved data, it is stored in the following directory:
 
+## 백업
+마인크래프트의 저장 데이터의 경우  
 ```
 0\Android\data\com.mojang.minecraftpe
 ```
+에 저장됩니다.  
+Android/data이상의 폴더는 일반적인 파일탐색기로는 접근이 불가능하며  
+해당 폴더에 접근이 가능한 다른 파일탐색기를 설치해야합니다.  
+( [MT Manager](https://mt2.cn/download)을 추천드립니다. 링크에 들어가서 本地下载를 누르면 다운로드됩니다. )
 
-However, accessing folders beyond Android/data is not possible using a regular file explorer. You will need to install a file explorer that allows access to these folders. [MT Manager](https://mt2.cn/download) is recommended for this purpose. You can download it by clicking on the 本地下载 (Local Download) link on the website.
+접근이 가능한 파일탐색기를 가지고 계시다면  
+com.mojang.minecraftpe에 있는 files폴더를 잠시 다른 폴더에 옮겨두시면 됩니다.  
+단, 이때 마인크래프트를 설치한지 얼마 지나지 않았을경우 files폴더에 아무것도 없을 수 있습니다.
 
-Once you have a file explorer that allows access to these folders:
-
-1. Navigate to `com.mojang.minecraftpe` and locate the `files` folder.
-2. Temporarily move the `files` folder to a different location to create a backup. Please note that if you recently installed Minecraft, the `files` folder might be empty.
-
-In some specific device models or Android versions, access to the Android/data folder might be entirely restricted within the phone's filesystem. In such cases, you will need to connect your phone to a PC via USB or another method to access the `com.mojang.minecraftpe` folder and create a backup.
+특정 기종의 특정 안드로이드 버전에서는 폰 내에서 Android\data이상의 폴더가 접근이 아예 불가능 할 수 있습니다.  
+이 경우 PC에 USB등을통해 연결하여  
+com.mojang.minecraftpe폴더에 접근해야합니다.
