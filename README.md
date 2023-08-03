@@ -386,3 +386,12 @@ https://github.com/ddf8196/MaterialBinTool
 
 ### RenderDragonData
 https://github.com/ddf8196/RenderDragonData
+
+<br/>
+<br/>
+
+## Docs
+<br/>
+
+### Renderdragon Shader Installation
+https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
