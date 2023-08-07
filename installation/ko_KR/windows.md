@@ -16,14 +16,6 @@ Windows에서는 BetterRenderDragon을 통해 손쉽게 사용할 수 있습니�
 BetterRenderDragon에서 MaterialBinLoader은 기본적으로 켜져있으며  
 MaterialBinLoader를 지원하는 셰이더를 리소스팩으로 적용해주기만 하면 됩니다.
 
-## Vanilla2Deferred
-[BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon)의 가장 최신버전을 다운로드한 후  
-압축을 푼다음 bat파일을 실행준 뒤 ImGui에서  
-Enable Deferred Rendering에 체크하신 뒤
-플레이 하면 됩니다.  
-만약 RTX그래픽카드를 이용시  
-Disable RTX 에 체크 후 BetterRenderDragon을 재실행 시켜주면 됩니다.
-
 ## 직접 설치
 MaterialBinLoader를 지원하지 않는 경우 직접 마인크래프트의 렌더파일을 수정해 주어야 합니다.  
 먼저 Bedrock Launcher를 설치해야합니다.  

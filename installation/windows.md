@@ -11,10 +11,6 @@
 ## MaterialBinLoader
 MaterialBinLoader is a program that allows you to load the shader file material.bin as a resource pack, similar to the existing HAL engine. On Windows, you can easily use MaterialBinLoader through BetterRenderDragon. First, download the latest version of [BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon), then unzip the downloaded files. After that, simply run the bat file. MaterialBinLoader is enabled by default in BetterRenderDragon, so you just need to apply the shader that supports MaterialBinLoader as a resource pack.
 
-## Vanilla2Deferred
-To use Vanilla2Deferred, download the latest version of [BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon), then unzip the downloaded files. Run the bat file, and in ImGui, check "Enable Deferred Rendering." After that, you can start playing. If you have an RTX graphics card, you can disable RTX by checking "Disable RTX" and then restart BetterRenderDragon.
-
-
 ## Manual Installation
 
 If MaterialBinLoader is not supported, you will need to modify the Minecraft render file directly. Here's how:

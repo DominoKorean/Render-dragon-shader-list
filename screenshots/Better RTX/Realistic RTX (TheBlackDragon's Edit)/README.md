@@ -1,0 +1,20 @@
+# 2023.06.24
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1121946379275743312/Minecraft_6_23_2023_4_05_51_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1121946380076859423/Minecraft_6_23_2023_4_06_58_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1121946380974436393/Minecraft_6_23_2023_4_08_37_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1121946381901381693/Minecraft_6_23_2023_4_09_27_PM.png)
+
+# 2023.06.09
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107013729926782996/Minecraft_5_13_2023_1_43_35_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107017989628366888/Minecraft_5_13_2023_1_45_02_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107017990521749584/Minecraft_5_13_2023_1_47_16_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107017991494840320/Minecraft_5_13_2023_2_00_22_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107017992333688872/Minecraft_5_13_2023_2_11_39_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076013327908894/Minecraft_5_13_2023_6_24_30_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076014124847244/Minecraft_5_13_2023_6_30_55_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076014917550170/Minecraft_5_13_2023_6_33_07_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076016557543465/Minecraft_5_13_2023_6_34_29_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076478329442396/Minecraft_5_13_2023_1_43_35_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076479629676584/Minecraft_5_13_2023_1_47_29_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076480657272882/Minecraft_5_13_2023_2_43_15_PM.png)
+![](https://cdn.discordapp.com/attachments/1107013729192792165/1107076481571618917/Minecraft_5_13_2023_3_05_28_PM.png)

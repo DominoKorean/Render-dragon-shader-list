@@ -1,4 +1,57 @@
-# Render-dragon-shader-list
+# Render dragon shader list
+
+<br/>
+
+## Table of Contents
+- Render dragon shaders
+  - [YSS RD](#yss-rd)
+  - [Bicubic Shaders BE](#bicubic-shaders-be)
+  - [BSBE Lite](#bsbe-lite)
+  - [Musk Rose RD](#musk-rose-rd)
+  - [Reflective Vanilla RD](#reflective-vanilla-rd)
+  - [Harmony Voxel](#harmony-voxel)
+  - [Chill Voxel Shader](#chill-voxel-shader)
+  - [ISPE](#ispe)
+  - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
+  - [Darkfall BE](#darkfall-be)
+  - [Newb X](#newb-x)
+  - [AziFy EnDefault Shader](#azify-endefault-shader)
+  - [GLSL RDR](#glsl-rdr)
+- [Deffered Shading](#deffered-shading)
+  - [YSS Special Edition](#yss-special-edition)
+- [RTX](#rtx)
+  - [BetterRTX](#betterrtx)
+    - [BetterRTX](#betterrtx-1)
+    - [BetterRTX: Experimental](#betterrtx-experimental)
+    - [BetterRTX with Motion Blur](#betterrtx-with-motion-blur)
+    - [BetterRTX with Depth of Field](#betterrtx-with-depth-of-field)
+    - [Kelly's Better RTX Preset](#kellys-better-rtx-preset)
+    - [Realistic RTX (TheBlackDragon's Edit)](#realistic-rtx-theblackdragons-edit)
+    - [BetterRTX Prizma Preset](#betterrtx-prizma-preset)
+- [Ect Utility Shaders](#ect-utility-shaders)
+  - [RenderDragon FullBright](#renderdragon-fullbright)
+  - [RenderDragonFogRemover](#renderdragonfogremover)
+  - [RD Cubemap Fix](#rd-cubemap-fix)
+- [Utility](#utility)
+  - [MaterialBinLoader](#materialbinloader)
+  - [BetterRenderDragon](#betterrenderdragon)
+  - [draco](#draco)
+  - [Patched app](#patched-app)
+  - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
+- [Dev](#dev)
+  - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
+  - [MaterialBinTool](#materialbintool)
+  - [RenderDragonData](#renderdragondata)
+- [Docs](#docs)
+  - [Renderdragon Shader Installation](#renderdragon-shader-installation)
+
+<br/>
+
+---
+
+<br/>
+<br/>
+
 ### YSS RD
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
@@ -36,26 +89,6 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
 ![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square&logo=xbox)
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
-
-
-<br/>
-<br/>
-
-### YSS Special Edition
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/Deferred-ff69b4?style=flat-square)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.20.30_Public_BETA-2d7a3e?style=flat-square)  
-https://discord.gg/years-static-shader-group-738688684223889409
-  - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
-![](https://img.shields.io/badge/Supported_MC_version-1.19.60.27_preview-2d7a3e?style=flat-square)
-  - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
-  - [beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
-    - [v1.0 .mcpack](https://cdn.discordapp.com/attachments/1066623642194153582/1068534357247152251/YSS_SE_Pack_v1.0.mcpack)
-  - [beta5](https://cdn.discordapp.com/attachments/1066623642194153582/1069602081679364167/YSS_Special_Edition_beta5.zip)
-  - [beta6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.63-2d7a3e?style=flat-square)
-  - [beta9](https://cdn.discordapp.com/attachments/1066623642194153582/1137723521422852136/YSS_Special_Edition_beta9.mcpack) ![](https://img.shields.io/badge/Supported_MC_version-1.20.30_Public_BETA-2d7a3e?style=flat-square)
-![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
 
 <br/>
 <br/>
@@ -285,13 +318,169 @@ https://www.patreon.com/paixao
 <br/>
 <br/>
 
+## Deffered Shading
+
+<br/>
+
+### YSS Special Edition
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Deferred-ff69b4?style=flat-square)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.20.30_Public_BETA-2d7a3e?style=flat-square)  
+https://discord.gg/years-static-shader-group-738688684223889409
+  - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
+![](https://img.shields.io/badge/Supported_MC_version-1.19.60.27_preview-2d7a3e?style=flat-square)
+  - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
+  - [beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
+    - [v1.0 .mcpack](https://cdn.discordapp.com/attachments/1066623642194153582/1068534357247152251/YSS_SE_Pack_v1.0.mcpack)
+  - [beta5](https://cdn.discordapp.com/attachments/1066623642194153582/1069602081679364167/YSS_Special_Edition_beta5.zip)
+  - [beta6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.63-2d7a3e?style=flat-square)
+  - [beta9](https://cdn.discordapp.com/attachments/1066623642194153582/1137723521422852136/YSS_Special_Edition_beta9.mcpack) ![](https://img.shields.io/badge/Supported_MC_version-1.20.30_Public_BETA-2d7a3e?style=flat-square)
+![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
+
+<br/>
+<br/>
+
 ## RTX
 
 <br/>
 
 ### BetterRTX
 ![](https://img.shields.io/badge/Bedrock_RTX-Windows-0078D6?style=flat-square&logo=nvidia)  
-https://github.com/ABUCKY0/betterrtx-installer
+https://discord.gg/minecraft-rtx-691547840463241267?event=1106779096836481137
+- [Installer](https://github.com/ABUCKY0/betterrtx-installer)
+
+#### BetterRTX
+- 1.0
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106815836624277535/1107023065667354694/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106815836624277535/1107023065256308777/RTXStub.material.bin)
+
+#### BetterRTX: Experimental
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Better%20RTX/README.md)  
+- 2023.05.26
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1111389944276062257/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1111389944276062257/RTXPostFX.Tonemapping.material.bin)
+
+    - Depth Of Field Enabled
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1113704104053714955/RTXStub.material.bin)
+    - Motion Blur Enabled
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1113705335421669417/RTXStub.material.bin)
+
+#### BetterRTX with Motion Blur
+- 2023.05.14
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106816250249744457/1107024812649500733/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106816250249744457/1107024812947292220/RTXStub.material.bin)
+
+
+#### BetterRTX with Depth of Field
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Better%20RTX/README.md)  
+- 2023.05.14
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106816902807949384/1107024422906384404/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106816902807949384/1107024423262896259/RTXStub.material.bin)
+
+
+#### Kelly's Better RTX Preset
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Kelly's%20Better%20RTX%20Preset/README.md)  
+- 2023.06.09
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106821387185827881/1116633455577546812/RTXStub.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106816902807949384/1107024423262896259/RTXStub.material.bin)
+    - Depth Of Field Enabled
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106821387185827881/1116633525693722736/RTXStub.material.bin)
+    - Motion Blur Enabled
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106821387185827881/1116633595231084584/RTXStub.material.bin)
+
+#### Realistic RTX (TheBlackDragon's Edit)
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Realistic%20RTX%20(TheBlackDragon's%20Edit)/README.md)  
+- 2023.05.14
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107158063330361434/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107158063724630117/RTXStub.material.bin)
+    -  MADLAD-like nights
+        - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107353895254106324/RTXStub.material.bin)
+        - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107353894482366594/RTXPostFX.Tonemapping.material.bin)
+- 2023.05.16
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107722908748488884/RTXPostFX.Tonemapping.material.bin) 
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107722909042094212/RTXStub.material.bin)
+    - less eye searing fog + more MADLAD-like nights
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107779082034356234/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107779082336350310/RTXStub.material.bin)
+    - Without Motion Blur
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1108035147229560922/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1108035147716120647/RTXStub.material.bin)
+    - much moonlight brightness  
+    [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Realistic%20RTX%20(TheBlackDragon's%20Edit)/much%moonlight%brightness/README.md)
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1108736675506573312/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1108736675816931459/RTXStub.material.bin)
+    -  decrease saturation in dark places
+        - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1108882963095097406/RTXPostFX.Tonemapping.material.bin)
+        - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1108882963380318239/RTXStub.material.bin)
+    - Almost no moonlight and a big sun
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1109329433493524560/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1109329433883574332/RTXStub.material.bin)
+    - Double bright end and slow water wave
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1109988219317141615/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1109988219690430464/RTXStub.material.bin)
+    - Brighter end
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1111714710186885160/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1111714710681833502/RTXStub.material.bin)
+    - Outdated Santa's request <details> <summary> [Details] </summary> Slightly less fog, a bit brighter at night, more moonlight (the thing that makes the ground easier to see), also turn the general brightness up, get default brtx end and double its brightness, add depth of field instead of motion blur </details>
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1119848351362465813/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1119848351660249169/RTXStub.material.bin)
+    - depth of field instead of motion blur and brighter night
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1120567125870915584/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1120567126256795668/RTXStub.material.bin)
+- 2023.06.24
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122033445137289316/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122033445506396181/RTXStub.material.bin)
+    - Bird Bread's request
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1133659319414554674/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1133659319712354375/RTXStub.material.bin)
+    - Motion Blur Enabled
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122673701515698238/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122673701876400168/RTXStub.material.bin)
+    - Depth Of Field Enabled
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1123681175660138547/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1123681176092147812/RTXStub.material.bin)
+    - Worse version of rtx <details> <summary>Details</summary> Make the shadows even blurrier than regular rtx. |
+Turn off the caustics (reflective and the fake refractive ones in the water) |
+Also turn off the water pom, if possible) |
+Turn up the color saturation slightly. |
+.Turn the gamma up slightly</details>
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1124113409772892291/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1124113410074886184/RTXStub.material.bin)
+    - End back to BetterRTX's default
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1127716124096725152/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1127716124474220554/RTXStub.material.bin)
+    - More less fog
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1131077268991660102/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1131077269306228816/RTXStub.material.bin)
+    - Purple and brighter end
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1132200591112798218/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1132200591502880849/RTXStub.material.bin)
+    - Photon-like preset
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1133527246733324359/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1133527247144370206/RTXStub.material.bin)
+    - Brighter Nether
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1134720660271276069/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1134720660644577290/RTXStub.material.bin)
+    - increase the brightness
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1135317902376063208/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1135317902703210596/RTXStub.material.bin)
+
+
+#### BetterRTX Prizma Preset
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/BetterRTX%20Prizma%20Preset/README.md)  
+- 2023.07.14
+  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129181947587989635/RTXPostFX.Tonemapping.material.bin)
+  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129181947915141120/RTXStub.material.bin)
+    - Motion Blur
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129517820691103825/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129517821110538330/RTXStub.material.bin)
+    - Lumen Preset
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129872721405300876/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129872721745035324/RTXStub.material.bin)
+    - Without DOF and motion blur
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1131554007396126740/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1131554007802990702/RTXStub.material.bin)
 
 <br/>
 <br/>
@@ -310,7 +499,7 @@ https://github.com/Furzide/RenderDragonFullBright
 <br/>
 <br/>
 
-### FogRemover
+### RenderDragonFogRemover
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/Furzide/RenderDragonFogRemover  

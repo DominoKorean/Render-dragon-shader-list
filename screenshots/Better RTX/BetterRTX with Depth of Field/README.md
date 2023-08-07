@@ -1,0 +1,6 @@
+![](https://cdn.discordapp.com/attachments/1102066299397476372/1106831556477210684/final1.png)
+![](https://cdn.discordapp.com/attachments/1102066299397476372/1106831556921798696/final2.png)
+![](https://cdn.discordapp.com/attachments/1102066299397476372/1106831557328642068/final3.png)
+![](https://cdn.discordapp.com/attachments/1102066299397476372/1106831557764862012/final4.png)
+![](https://cdn.discordapp.com/attachments/1102066299397476372/1110173509897945168/BetterRTX_Logo_Screenshot-By-Philip11073146Edited.png)
+![](https://media.discordapp.net/attachments/1102066299397476372/1112790822837047388/IMG_3900.png?width=868&height=488)
