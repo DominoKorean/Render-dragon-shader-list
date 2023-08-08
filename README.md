@@ -323,8 +323,9 @@ https://www.patreon.com/paixao
 <br/>
 
 ### YSS Special Edition
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/Deferred-ff69b4?style=flat-square)
+![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.20.30_Public_BETA-2d7a3e?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409
@@ -337,6 +338,10 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - [beta6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.63-2d7a3e?style=flat-square)
   - [beta9](https://cdn.discordapp.com/attachments/1066623642194153582/1137723521422852136/YSS_Special_Edition_beta9.mcpack) ![](https://img.shields.io/badge/Supported_MC_version-1.20.30_Public_BETA-2d7a3e?style=flat-square)
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
+  - beta 9.5
+![](https://img.shields.io/badge/Supported_from_this_version-Android-black?style=flat-square&logo=android)
+    - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1138147476130496604/YSS_SE_Beta_9.5_Android.mcpack)
+    - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1138147476466057316/YSS_SE_Beta_9.5_Windows.mcpack)
 
 <br/>
 <br/>
