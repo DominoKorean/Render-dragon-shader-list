@@ -470,6 +470,9 @@ Turn up the color saturation slightly. |
     - increase the brightness
       - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1135317902376063208/RTXPostFX.Tonemapping.material.bin)
       - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1135317902703210596/RTXStub.material.bin)
+    - Just A Gent's request<details> <summary>Details</summary>cloud shadows about 50% darker, light dof and no motion blur with a little more moonlight</details>
+      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1138676066890821743/RTXPostFX.Tonemapping.material.bin)
+      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1138676067452862504/RTXStub.material.bin)
 
 
 #### BetterRTX Prizma Preset
