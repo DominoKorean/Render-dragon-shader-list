@@ -17,6 +17,7 @@
   - [Newb X](#newb-x)
   - [AziFy EnDefault Shader](#azify-endefault-shader)
   - [GLSL RDR](#glsl-rdr)
+  - [Rewanston Shader: Hypercolor](#rewanston-shader-hypercolor)
 - [Deffered Shading](#deffered-shading)
   - [YSS Special Edition](#yss-special-edition)
 - [RTX](#rtx)
