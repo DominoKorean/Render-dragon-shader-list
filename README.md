@@ -318,6 +318,17 @@ https://www.patreon.com/paixao
 <br/>
 <br/>
 
+### Rewanston Shader: Hypercolor
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/ReSH/README.md)   
+https://twitter.com/Rewanston
+- [v0.7](https://download2290.mediafire.com/2uoeoc74xkogH61S0r_25kp-k96U84IbCEpk1GNYK4doCaCK8Nuj9QntsbXKu5pGhGSmVC1-P866q5w_s0n4zV9L8JHBVJfvgZ9my3V9KMfph_F2z29Lzu1-M8hl_Jh5b6FdBPaLRaLROmENyUoxL5jrmQzfGnG6etX9xQbJXg/k0ud7jqgnhfuqwg/%5BRD%5DReSH0.7.mcpack)
+
+
+<br/>
+<br/>
+
 ## Deffered Shading
 
 <br/>
