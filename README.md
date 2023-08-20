@@ -2,7 +2,6 @@
 
 <br/>
 
-## Table of Contents
 - Render dragon shaders
   - [YSS RD](#yss-rd)
   - [Bicubic Shaders BE](#bicubic-shaders-be)
