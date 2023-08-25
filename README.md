@@ -340,19 +340,25 @@ https://twitter.com/Rewanston
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.20.30_Public_BETA-2d7a3e?style=flat-square)  
 https://discord.gg/years-static-shader-group-738688684223889409
-  - [beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
+  - [1.0 beta1](https://cdn.discordapp.com/attachments/1066623642194153582/1067137962925637722/YSS_Special_Edition_beta1.zip)
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.60.27_preview-2d7a3e?style=flat-square)
-  - [beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
-  - [beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
+  - [1.0 beta2](https://cdn.discordapp.com/attachments/1066623642194153582/1067435344028499988/YSS_Special_Edition_beta2.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
+  - [1.0 beta4](https://cdn.discordapp.com/attachments/1066623642194153582/1068534732310196264/YSS_Special_Edition_beta4.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.51-2d7a3e?style=flat-square)
     - [v1.0 .mcpack](https://cdn.discordapp.com/attachments/1066623642194153582/1068534357247152251/YSS_SE_Pack_v1.0.mcpack)
-  - [beta5](https://cdn.discordapp.com/attachments/1066623642194153582/1069602081679364167/YSS_Special_Edition_beta5.zip)
-  - [beta6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.63-2d7a3e?style=flat-square)
-  - [beta9](https://cdn.discordapp.com/attachments/1066623642194153582/1137723521422852136/YSS_Special_Edition_beta9.mcpack) ![](https://img.shields.io/badge/Supported_MC_version-1.20.30_Public_BETA-2d7a3e?style=flat-square)
+  - [1.0 beta5](https://cdn.discordapp.com/attachments/1066623642194153582/1069602081679364167/YSS_Special_Edition_beta5.zip)
+  - [1.0 beta6](https://cdn.discordapp.com/attachments/1066623642194153582/1071805388065882172/YSS_Special_Edition_beta6.zip) ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.19.63-2d7a3e?style=flat-square)
+  - [1.0 beta 9](https://cdn.discordapp.com/attachments/1066623642194153582/1137723521422852136/YSS_Special_Edition_beta9.mcpack) ![](https://img.shields.io/badge/Supported_MC_version-1.20.30_Public_BETA-2d7a3e?style=flat-square)
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
-  - beta 9.5
+  - 1.0 beta 9.5
 ![](https://img.shields.io/badge/Supported_from_this_version-Android-black?style=flat-square&logo=android)
     - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1138147476130496604/YSS_SE_Beta_9.5_Android.mcpack)
     - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1138147476466057316/YSS_SE_Beta_9.5_Windows.mcpack)
+  - 1.9.6 Beta
+    - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1139960073209258075/YSS_SE_Beta_1.9.6_Android.mcpack)
+    - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1139960073544798258/YSS_SE_Beta_1.9.6_Windows.mcpack)
+  - 1.9.7 Beta
+    - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1143899104313872515/YSS_SE_Beta_1.9.7_Android.mcpack)
+    - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1143899105152745662/YSS_SE_Beta_1.9.7_Windows.mcpack)
 
 <br/>
 <br/>
