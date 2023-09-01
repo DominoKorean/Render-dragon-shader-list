@@ -548,7 +548,16 @@ https://github.com/Furzide/RenderDragonFogRemover
 https://github.com/Furzide/RenderDragonCubemapFix
   - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
   - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
- 
+
+<br/>
+<br/>
+
+### Deffered mali-gpu-fix
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
+![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
+  - [mcpack](https://cdn.discordapp.com/attachments/327203882180542484/1140958249974239343/mali-gpu-fix.mcpack)
+
 <br/>
 <br/>
 
