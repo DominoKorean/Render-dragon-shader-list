@@ -17,7 +17,7 @@
   - [AziFy EnDefault Shader](#azify-endefault-shader)
   - [GLSL RDR](#glsl-rdr)
   - [Rewanston Shader: Hypercolor](#rewanston-shader-hypercolor)
-- [Deffered Shading](#deffered-shading)
+- [Deferred Rendering](#deferred-rendering)
   - [YSS Special Edition](#yss-special-edition)
 - [RTX](#rtx)
   - [BetterRTX](#betterrtx)
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-## Deffered Shading
+## Deferred Rendering
 
 <br/>
 
