@@ -17,7 +17,7 @@
   - [AziFy EnDefault Shader](#azify-endefault-shader)
   - [GLSL RDR](#glsl-rdr)
   - [Rewanston Shader: Hypercolor](#rewanston-shader-hypercolor)
-- [Deffered Shading](#deffered-shading)
+- [Deferred Rendering](#deferred-rendering)
   - [YSS Special Edition](#yss-special-edition)
 - [RTX](#rtx)
   - [BetterRTX](#betterrtx)
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-## Deffered Shading
+## Deferred Rendering
 
 <br/>
 
@@ -552,7 +552,7 @@ https://github.com/Furzide/RenderDragonCubemapFix
 <br/>
 <br/>
 
-### Deffered mali-gpu-fix
+### Deferred mali-gpu-fix
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
