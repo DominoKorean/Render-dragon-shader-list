@@ -23,6 +23,13 @@ If MaterialBinLoader is not supported, you will need to modify the Minecraft ren
 
 If the shader file includes additional resource pack files like `base.mcpack`, apply them together as well.
 
+## Vanilla2Deferred
+
+It is a program which unlocks the Raytracing Option in Video settings and replaces its function with Deferred Rendering.  
+**NOTE:**  
+- The program is now built into [BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon).
+- In 1.20.10+ versions, it does not unlock the Raytracing option. Instead, it automatically starts when you join a world.
+    
 ## YSS Special Edition
 
 YSS Special Edition works only for versions 1.19.40 to 1.19.63. Follow the steps mentioned in the [Manual Installation](#manual-installation) for installing the desired version using Bedrock Launcher. After that, download [RTX2Deferred 1.2.0](https://github.com/ddf8196/BetterRenderDragon/releases/tag/v1.2.0) and run the bat file.
