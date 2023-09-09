@@ -552,7 +552,7 @@ https://github.com/Furzide/RenderDragonCubemapFix
 <br/>
 <br/>
 
-### Deffered mali-gpu-fix
+### Deferred mali-gpu-fix
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
