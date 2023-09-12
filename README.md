@@ -32,6 +32,7 @@
   - [RenderDragon FullBright](#renderdragon-fullbright)
   - [RenderDragonFogRemover](#renderdragonfogremover)
   - [RD Cubemap Fix](#rd-cubemap-fix)
+  - [Deferred mali-gpu-fix](#deferred-mali-gpu-fix)
 - [Utility](#utility)
   - [MaterialBinLoader](#materialbinloader)
   - [BetterRenderDragon](#betterrenderdragon)
@@ -86,6 +87,9 @@ https://discord.gg/years-static-shader-group-738688684223889409
   - 1.9.7.2 Beta
     - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1146114414500651028/YSS_SE_Beta_1.9.7.2_Android.mcpack)
     - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1146114414903316510/YSS_SE_Beta_1.9.7.2_Windows.mcpack)
+  - 1.9.7.2 Beta
+    - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1148852076105973780/YSS_SE_Beta_1.9.7.4_Android.mcpack)
+    - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1148852076458299402/YSS_SE_Beta_1.9.7.4_Windows.mcpack)
 
 <br/>
 <br/>
