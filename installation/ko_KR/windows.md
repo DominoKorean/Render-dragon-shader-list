@@ -1,11 +1,13 @@
 # PC
 
 ## 목차
-* [MaterialBinLoader](#MaterialBinLoader)
-* [Vanilla2Deferred](#vanilla2deferred)
-* [직접 설치](#직접-설치)
-* [YSS Special Edition](#yss-special-edition)
-* [BetterRTX](#betterrtx)
+- [PC](#pc)
+  - [목차](#목차)
+  - [MaterialBinLoader](#materialbinloader)
+  - [직접 설치](#직접-설치)
+  - [Vanilla2Deferred](#vanilla2deferred)
+  - [YSS Special Edition](#yss-special-edition)
+  - [BetterRTX](#betterrtx)
 
 ## MaterialBinLoader
 MaterialBinLoader는 셰이더 파일인 material.bin파일을 기존의 HAL 엔진처럼  
@@ -41,6 +43,15 @@ material.bin 셰이더 파일을 덮어씌우기 해주시면됩니다.
 
 추가로 추가로 만약 셰이더 파일에 base.mcpack같은 리소스팩 파일이 같이 있다면  
 같이 적용해주시면 됩니다.
+
+## Vanilla2Deferred
+
+레이트레이싱 옵션을 해제하고 Deferred Rendering으로 대체하는 프로그램입니다.
+
+**참고:**
+
+* 이 프로그램은 이제 BetterRenderDragon: https://github.com/ddf8196/BetterRenderDragon에 내장되어 있습니다.
+* 1.20.10 이상 버전에서는 레이트레이싱 옵션을 해제하지 않아도 됩니다. 대신, 세계에 참여하면 자동으로 켜지게됩니다.
 
 ## YSS Special Edition
 YSS Special Edition은 1.19.40 ~ 1.19.63 에서만 작동합니다.  
