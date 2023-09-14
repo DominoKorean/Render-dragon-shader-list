@@ -290,7 +290,7 @@ https://magnificentshaders.home.blog
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Newb%20X)  
-https://github.com/devendrn/newb-x-mcbe
+https://devendrn.github.io/newb-shader
   - [001 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116362183526330420/newb-x-001-android-1.19.83.zip)
   - [002 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116730003191767070/newb-x-002-android-1.19.83.zip)
   - [003 Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117078788883357778/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
@@ -333,6 +333,16 @@ https://github.com/devendrn/newb-x-mcbe
     - [Android lantern wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841529339975/newb-x-013-no-lantern-wave.zip)
     - [Android no wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841860706364/newb-x-013-android-no-wave.zip)
     - [Android all](https://cdn.discordapp.com/attachments/1116247638094909460/1125317842187845692/newb-x-013-android-all.zip)
+  - [v14](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1130169921154854952/newb-x-14-android.mcpack)
+    - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1130169921473626232/newb-x-14-windows.mcpack)
+    - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1130169922362814606/newb-x-14-ios.zip)
+  - [v15](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
+    - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420633485343/newb-x-15-android.mcpack)
+    - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420931260516/newb-x-15-windows.mcpack)
+    - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1149051421271007462/newb-x-15-ios.zip)
+
+
 
 <br/>
 <br/>
