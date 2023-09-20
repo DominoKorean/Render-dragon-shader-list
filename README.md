@@ -800,4 +800,4 @@ https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
 <br/>
 
 ### BetterRTX : Realistic RTX (TheBlackDragon's Edit) User Requests
-https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/RealisticRTX_request
+https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/RealisticRTX_request.md
