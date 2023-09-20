@@ -23,10 +23,8 @@
   - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
   - [Darkfall BE](#darkfall-be)
   - [Newb X](#newb-x)
-  - [Azify Shader](#azify-shader)
   - [AziFy Revive](#azify-revive)
   - [AziFy EnDefault Shader](#azify-endefault-shader)
-  - [AziFy Dynamic Luminous](#azify-dynamic-luminous)
   - [AziFy Natural](#azify-natural)
   - [Truly Default](#truly-default)
   - [GLSL RDR](#glsl-rdr)
@@ -472,25 +470,13 @@ https://devendrn.github.io/newb-shader
 <br/>
 <br/>
 
-### Azify Shader
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/Azify/README.md)  
-https://www.youtube.com/@aziangelo
-
-- [version 2.0](https://download1507.mediafire.com/jkmjw332erogXBE4a5oz7ETCukIH5ArwvFxHoclfRZ4DUQd82rtsqdXQo_0E_dmYeQFnbxeJ1msL5AqO8cop12qJkzfPAE6uwj6wqcZ2-7XNqhACSg6gVaeTkgoccpCFUjCa6TrIJO-qLOp95w-MiRbC5rIWsWOq7fUVgnkP6Q/572on16ndddusng/Azify-Renewed-2.0-Released.mcpack)
-- [Preview](https://download2265.mediafire.com/0a9qt8uwh66gwySy739Qmi52JoySMBFGXKSTgRaNspDOBZF6UJEe-1Y7ZQH811gmuS4fzGvDsjF-xC9_4Vx_JMvF0UBD5XeMhOjjyaFUBgKuNIyFz_1sSfanovUTmYcqNLN3GAmTNuXzh2WN29gLF5SJYbdb_CFpUSL46MPaaw/ahrmsglwk4o96hp/Azify-Preview.mcpack)
-
-
-<br/>
-<br/>
-
 ### AziFy Revive
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20Revive/README..md)  
 https://www.youtube.com/@aziangelo
 
+- [1.0](https://download2290.mediafire.com/szxxaz5xt6pgf0Wt9VxYLIvZjO4J0-R0LlyfiOQLuJdoGiDQO5Age4U3yVNCY9nY2aMlDN5kqDa6XY1MpcJnsmZYJNJAim4lfuAtb-XpfenFsEAVDpI8JYDLgCR7Sm6RjsFxqlH7Gl2trOQ-QvkHOlxA7tQjIu9rt7ipojpHCg/ub4r0u1dy5dbr17/Revive+AziFy+v1.0+RD.mcpack)
 - [1.3.0](https://download2302.mediafire.com/sb5dd4blqpygLSBmmMbFkoGacR-azQoM5vCi0Om5idyqZ8-2ntBJ1rSWk7pjb09VbtyH4a96IWHVOdpkeFFWN8hmvpSXo2zjkx9DEAgJ8qgdKnh8L603AiG0p7Yke7mc1XUfctCvl9-ggw7EIP-EdSlWhOlM9BU-4aWbe9Ecpg/b8qrtuagoiak2g6/AziFy-Revive%21-v1.3.0.zip)
 - [v1.2.9](https://download2273.mediafire.com/ecaluejigi7giaqzICvXuQSnSF8mFuX3mdFNlVWQoaI2a1bSC55p7dke1DXhWA4t9VU80j4EPlFMy7yZ6BPEpI8lBoSsu3IxlqoGTJR3RsSaMu31TNx7EXDknQ2-C1hcWhovyoC9Y9dRxMBLf0sihDoeD77sQLORAypGmlMHyA/wgr43a4g59sghdv/Azify+RD+v1.2.9.zip)
 
@@ -511,21 +497,6 @@ https://aziangeloprojects.blogspot.com
     - [Medium 2](https://download2272.mediafire.com/olidyixjrkbgNc6ltgz84vRQCcwKgVQki-GSXQ1P_w3dWcScRux8qMbrbhfkAnH9OujbbnpbakmLPTSE9BJmxPP3UUna2T2UZW1LRI1gQckHKmaFKNfjTGWSpc4ujXdc56ZNlvmhMyT0rtrcJOT-Czue17JjncjeMrOnBKm8pA/umtyu0z8a5bbti4/EnDefault+v1.2.0+Medium+2.mcpack) (No Waves/Waving Effect)
     - [Low](https://download1527.mediafire.com/higqq5ybqddgAX2T55l-WcVHdBBIdTNqLigb1fut0_VuACr3j7Ao8axaNe5RSbVTAcfRgT4n4JKrvmW1mdjtQNdRb2q_rwKkuAreh-doYTAx4bTM9sxXr6QF6CRQuFtX7PqnRvdQ0qrZKu4yS5qwuDOWOoben5PEFhugMzqeNQ/k6xgpksdioqyzve/EnDefault+1.2.0+Low.mcpack) (Removed Fake Terrain Reflection, Waves/ Waving Effect, Glossy Effect.)
   - [1.0](https://download2262.mediafire.com/flh39ua16pkgfBilxlIjdMk6XGmEblTFF5IlbXGbmKrGJjM3HBhTJzXEkYHp9TSCrc2LrFXVi3oqS9egegryWibNrrLTxBDqF6XV-MolZIyisG6XkPDpZ5rEzAtSpYiHGuPSJFVmHUE1zQ1-pZTPc9Q8l3eEE1zrR1u9o8lvEQ/0e16y86o7e9yebe/AziFy+EnDefault+v1.0.zip)
-
-
-<br/>
-<br/>
-
-### AziFy Dynamic Luminous
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20Dynamic%20Luminous/README..md)  
-https://www.youtube.com/@aziangelo
-
-- [Released](https://download1500.mediafire.com/1u71voxqfgig9aYvTj8sxqibqs7MPV8oHm4AcVAJPfrHvKaavdfrzyYNA1blFYG9Fnu_1naLiJaPEawatVQBEO7mlkVY9xtB1TA18ptG-dmpwBhhdgC10_0tvr_R6Jcd6lpXm7UKUlpZQr7nccTP-4MrtNoXCEqY7XDBWQGvPw/osfo8bq8fwhbx98/AziFy+Dynamic+Luminous+%28Released%29.mcpack)
-- [Beta v1.02](https://download1349.mediafire.com/9lct4mw6fabgG2xygZlIUV8yWcY-_UikJNJUK-tW4zG47rJb1GBxM1y5druRanIJTrUi5Y9tn9xNF5TkngEIluOWmgRhBjWYfzo1FgWolYO-Z5mPCzJrCBGpXMBmFW6Y6xlS6_xuYtqbbdMt2nzFeY5ZMofuWwttPuWaY8T51A/b9nacrwh70dvfuf/AziFy+DL%5C%27S+Update+BETA+v1.02.zip)
-- [Beta v1.01](https://download1591.mediafire.com/jkwazzow4hsg7Jgs5DIvEx3zxgeZxuuqIn20MHdm72Ld7DsP30Tz5fLbPzSzMeUHBqIaKZu2Gir3Es2Rb9oiB6ZuZJTrk59lfmw2lRBsuwWULhk_ki4gfpZ1GPH-_TyBwJ3I7XNG1Q7rnaMhfi7UJu6usx9CSPXLX0_ls4Ip1Q/4hgv057ackib5ob/AziFy+DL%5C%27S+Update+%5BBETA%5D+v1.01.zip)
-
 
 <br/>
 <br/>
