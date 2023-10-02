@@ -1,15 +1,15 @@
 # Android Render Dragon Shader Installation Guide
 
 ## Table of Contents
-* [MaterialBinLoader](#materialbinloader)
-* [Manual Installation](#manual-installation)
-* [Backup](#backup)
+- [Android Render Dragon Shader Installation Guide](#android-render-dragon-shader-installation-guide)
+  - [Table of Contents](#table-of-contents)
+  - [MaterialBinLoader](#materialbinloader)
+  - [Manual Installation](#manual-installation)
+  - [Backup](#backup)
 
 ## MaterialBinLoader
 
 MaterialBinLoader is a program that allows you to load the shader file material.bin as a resource pack, similar to the existing HAL engine. While you can modify the Minecraft APK file and install it directly, it is more convenient to install the APK of the Patched APP prepared in advance by developer [@ENDERMANYK](https://github.com/ENDERMANYK). You can download the Patched APP from this location: [Patched APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md).
-
-If your existing Minecraft version is lower than the Patched APP version due to not having updated yet, you can simply install the APK and update it. However, if the Patched APP version is lower or the same as your current Minecraft version, you must first remove the existing Minecraft and then install the Patched APP. Therefore, it is essential to [back up](#백업) your Minecraft before the removal process.
 
 ## Manual Installation
 

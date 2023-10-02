@@ -1,9 +1,11 @@
 # 안드로이드 렌더드래곤 셰이더 설치법
 
 ## 목차
-* [MaterialBinLoader](#materialbinloader)
-* [직접 설치](#직접-설치)
-* [백업](#백업)
+- [안드로이드 렌더드래곤 셰이더 설치법](#안드로이드-렌더드래곤-셰이더-설치법)
+  - [목차](#목차)
+  - [MaterialBinLoader](#materialbinloader)
+  - [직접 설치](#직접-설치)
+  - [백업](#백업)
 
 ## MaterialBinLoader
 MaterialBinLoader는 셰이더 파일인 material.bin파일을 기존의 HAL 엔진처럼  
@@ -12,12 +14,6 @@ MaterialBinLoader는 셰이더 파일인 material.bin파일을 기존의 HAL 엔
 [@ENDERMANYK](https://github.com/ENDERMANYK)개발자가 미리 준비해준   Patched APP의 APK를 설치하는 것이 가장 편리합니다.  
 Patched APP은 이곳에서 받을 수 있습니다.  
 https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md  
-
-만약 기존의 마인크래프트를 아직 업데이트하지않아 Patched APP보다 버전이 낮을경우  
-APK 설치시 업데이트항목이 떠 바로 설치할 수 있으나  
-Patched APP의 버전이 더 낮거나 동일한 경우  
-기존의 마인크래프트를 제거 후 설치해주셔야합니다.  
-따라서 제거 전 먼저 마인크래프트를 [백업](#백업)해주셔야합니다.
 
 ## 직접 설치
 MaterialBinLoader를 지원하지 않는 경우 직접 마인크래프트의 렌더파일을 수정해 주어야 합니다.  
