@@ -1,6 +1,10 @@
 # 렌더드래곤 셰이더 리스트
 <br/>
 
+- [렌더드래곤 셰이더 설치법](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation/ko_KR)
+
+<br/>
+
 - [영어 / English](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main)
 
 <br/>
