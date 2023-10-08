@@ -52,6 +52,7 @@ material.bin 셰이더 파일을 덮어씌우기 해주시면됩니다.
 
 * 이 프로그램은 이제 BetterRenderDragon: https://github.com/ddf8196/BetterRenderDragon에 내장되어 있습니다.
 * 1.20.10 이상 버전에서는 레이트레이싱 옵션을 해제하지 않아도 됩니다. 대신, 세계에 참여하면 자동으로 켜지게됩니다.
+* Windows, Android, Xbox의 경우 실험기능에서 사용이 가능합니다.
 
 ## YSS Special Edition
 YSS Special Edition은 1.19.40 ~ 1.19.63 에서만 작동합니다.  

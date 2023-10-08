@@ -2,11 +2,13 @@
 
 ## Table of Contents
 
-* [MaterialBinLoader](#materialbinloader)
-* [Vanilla2Deferred](#vanilla2deferred)
-* [Manual Installation](#manual-installation)
-* [YSS Special Edition](#yss-special-edition)
-* [BetterRTX](#betterrtx)
+- [Windows Render Dragon Shader Installation Guide](#windows-render-dragon-shader-installation-guide)
+  - [Table of Contents](#table-of-contents)
+  - [MaterialBinLoader](#materialbinloader)
+  - [Manual Installation](#manual-installation)
+  - [Vanilla2Deferred](#vanilla2deferred)
+  - [YSS Special Edition](#yss-special-edition)
+  - [BetterRTX](#betterrtx)
 
 ## MaterialBinLoader
 MaterialBinLoader is a program that allows you to load the shader file material.bin as a resource pack, similar to the existing HAL engine. On Windows, you can easily use MaterialBinLoader through BetterRenderDragon. First, download the latest version of [BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon), then unzip the downloaded files. After that, simply run the bat file. MaterialBinLoader is enabled by default in BetterRenderDragon, so you just need to apply the shader that supports MaterialBinLoader as a resource pack.
@@ -29,6 +31,7 @@ It is a program which unlocks the Raytracing Option in Video settings and replac
 **NOTE:**  
 - The program is now built into [BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon).
 - In 1.20.10+ versions, it does not unlock the Raytracing option. Instead, it automatically starts when you join a world.
+- In the case of Windows, Android, and Xbox, you can use experimental features.
     
 ## YSS Special Edition
 
