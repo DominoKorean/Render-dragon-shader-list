@@ -754,10 +754,13 @@ https://github.com/Furzide/RenderDragonCubemapFix
 
 ### HD Font Fix
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/GameParrot/mcpe-hdfont-fix
 
   - [v1.0.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
+    - [Android](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Android.mcpack)
+    - [Windows](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Windows.mcpack)
 
 <br/>
 <br/>
