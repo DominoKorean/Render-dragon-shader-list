@@ -1,8 +1,8 @@
 https://discord.gg/years-static-shader-group-738688684223889409  
-Patched app is an APK file of Minecraft that includes the [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader) supported by the developer of the Years Static Shader.  
-With Materialbinloader, you can easily apply or remove the Render Dragon shader pack, which is compatible with it, as a resource pack.  
-However, it's important to note that **this APK file is equivalent to an illegal Minecraft duplication app that anyone can install.**  
-This app should be used only after purchasing Minecraft legally.
+Patched APP은 Years Static Shader 개발자가 지원하는 [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader)를 포함한 Minecraft의 APK 파일입니다.
+Materialbinloader를 지원하는 리소스팩을 통해 Render Dragon 셰이더 팩을 손쉽게 적용할 수 있습니다.
+그러나 이 APK 파일이 누구나 설치할 수 있는 불법 Minecraft 복제 앱과 동등하다는 사실을 기억해야합니다.
+이 앱은 반드시 Minecraft를 합법적으로 구매한 후에만 사용해야 합니다.
 
 
 <br/>
