@@ -52,6 +52,7 @@
   - [RenderDragon FullBright](#renderdragon-fullbright)
   - [RenderDragonFogRemover](#renderdragonfogremover)
   - [RD Cubemap Fix](#rd-cubemap-fix)
+  - [HD Font Fix](#hd-font-fix)
   - [Deferred mali-gpu-fix](#deferred-mali-gpu-fix)
   - [Glow Em All](#glow-em-all)
 
@@ -747,6 +748,16 @@ https://github.com/Furzide/RenderDragonCubemapFix
   - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
   - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
 
+
+<br/>
+<br/>
+
+### HD Font Fix
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+https://github.com/GameParrot/mcpe-hdfont-fix
+
+  - [v1.0.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
 
 <br/>
 <br/>
