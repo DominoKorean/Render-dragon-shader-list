@@ -2,6 +2,10 @@
 
 <br/>
 
+- [Renderdragon Shader Installation](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation)
+
+<br/>
+
 - [Korean / 한국어](/ko_KR/README.md)
 
 <br/>
@@ -53,7 +57,6 @@
   - [RenderDragonFogRemover](#renderdragonfogremover)
   - [RD Cubemap Fix](#rd-cubemap-fix)
   - [HD Font Fix](#hd-font-fix)
-  - [Deferred mali-gpu-fix](#deferred-mali-gpu-fix)
   - [Glow Em All](#glow-em-all)
 
 <br/>
@@ -756,20 +759,12 @@ https://github.com/Furzide/RenderDragonCubemapFix
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/HD%20Font%20Fix/README.md)  
 https://github.com/GameParrot/mcpe-hdfont-fix
 
   - [v1.0.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
     - [Android](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Android.mcpack)
     - [Windows](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Windows.mcpack)
-
-<br/>
-<br/>
-
-### Deferred mali-gpu-fix
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
-![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
-  - [mcpack](https://cdn.discordapp.com/attachments/327203882180542484/1140958249974239343/mali-gpu-fix.mcpack)
 
 <br/>
 <br/>
