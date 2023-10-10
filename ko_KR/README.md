@@ -75,8 +75,8 @@
   - [MaterialBinTool](#materialbintool)
   - [RenderDragonData](#renderdragondata)
 - [문서](#문서)
-  - [Renderdragon Shader Installation](#renderdragon-shader-installation)
-  - [BetterRTX : Realistic RTX (TheBlackDragon's Edit) User Requests](#betterrtx--realistic-rtx-theblackdragons-edit-user-requests)
+  - [렌더드래곤 셰이더 설치법](#렌더드래곤-셰이더-설치법)
+  - [BetterRTX : Realistic RTX (TheBlackDragon's Edit) 유저 리퀘스트](#betterrtx--realistic-rtx-theblackdragons-edit-유저-리퀘스트)
 
 <br/>
 
