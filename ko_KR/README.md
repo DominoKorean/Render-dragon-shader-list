@@ -1,3 +1,7 @@
+![](https://repository-images.githubusercontent.com/628325764/1d7d3a93-0a81-4f3e-886a-f825e50b7221)
+
+<br/>
+
 # 렌더드래곤 셰이더 리스트
 
 <br/>
@@ -7,6 +11,10 @@
 <br/>
 
 - [영어 / English](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main)
+
+<br/>
+
+---
 
 <br/>
 
