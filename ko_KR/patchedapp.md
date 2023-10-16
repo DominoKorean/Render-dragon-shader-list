@@ -1,8 +1,8 @@
 https://discord.gg/years-static-shader-group-738688684223889409  
-Patched APP은 Years Static Shader 개발자가 지원하는 [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader)를 포함한 Minecraft의 APK 파일입니다.
-Materialbinloader를 지원하는 리소스팩을 통해 Render Dragon 셰이더 팩을 손쉽게 적용할 수 있습니다.  
-그러나 이 APK 파일이 누구나 설치할 수 있는 불법 Minecraft 복제 앱과 동등하다는 사실을 기억해야합니다.  
-이 앱은 반드시 Minecraft를 합법적으로 구매한 후에만 사용해야 합니다.
+Patched app is an APK file of Minecraft that includes the [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader) supported by the developer of the Years Static Shader.  
+With Materialbinloader, you can easily apply or remove the Render Dragon shader pack, which is compatible with it, as a resource pack.  
+However, it's important to note that **this APK file is equivalent to an illegal Minecraft duplication app that anyone can install.**  
+This app should be used only after purchasing Minecraft legally.
 
 
 <br/>
@@ -34,3 +34,6 @@ Materialbinloader를 지원하는 리소스팩을 통해 Render Dragon 셰이더
 * [1.20.40.20_arm64_v8a_patched](https://download2264.mediafire.com/9cij2dn8nb0g12SkO44_pr8DMKsD0ExBFXYaQJWnyUUFaAtbuIy78c-X_8YYw261Xx-Lktv04Yh-1OhSR-t5TeQUInQ_uZRv6UPV9CjSQ1A_Ah3lnuO_xxmAeeouRnn3b-egfXhNoS7K9zX1_u53PdPBbaD0LGCSUesRNWpSbg/tnbo8pt78nnt2m1/1.20.40.20_arm64_v8a_patched.apk) (Preview Version)
 * [1.20.30.02_arm64_v8a_patched](https://download2388.mediafire.com/38s77jstskvghaNXe2cIv8EDITyaAsjzjTN8yLb9w6xdKG4goldqwEMVOsm3r8TxG_iUFskOnqwbRKsRFNgSHl52Tv6eMW0VRPng1pcoA5Eoe7bMbp0bayZedFdkqQ9odRXVDTnrfK6RDarkIBEF6ONCvu9PfTCl7hKLfqAymg/61k2gzvdsdz6gip/1.20.30.02_arm64_v8a_patched.apk)
 * [1.20.40.20_arm64_v8a_patched](https://download2264.mediafire.com/1337rzx75hggixcsX0FjHmJF2cw6LKJhuHjUsb26JMMPM53gQ-pI2h8kydr6amInMu2tK-bzC49xaJ0JB3nGz8iId7zGFZMy9J36gGR-xdY8MpqfUTiniJbRci0kNFJuPfKMx19APxcDwPG1qvFQadkqj9cHdDTzVrUaUcXGtg/tnbo8pt78nnt2m1/1.20.40.20_arm64_v8a_patched.apk) (Preview Version)
+* [1.20.32.03_arm64_v8a_patched](https://download2281.mediafire.com/hkz64wckovrgyubcD9m0WXb7TpqlEtbLaZH4QpnQjgJyQ5dETGHnIOvnUN-INgB25ueuju9ed2faPEICyX1k3KxZKvjBuHrrlBTQ_w3U0LtPCnLnf5mjP_d68FiDhZ7Rah0JkKdv-bfTMfvPACPJNwwV28RTxMGeN_xdl2WJ_Q/jbiun3m59ustpo3/1.20.32.03_arm64_v8a_patched.apk)
+* [1.20.40.24_arm64_v8a_patched](https://download2392.mediafire.com/utzxzjvxfqkgXLqDTJIO-rpGy-GdSaLRES07IB0lCPnTIdW0uPBzTLm0bWpaQRRZWmO94BHV_gSqeQSCfVvqhooYYPf9NeT8z7iNvwTSRo3-jToHR7rV_vpzjzNYffWx9zicqz9-4EI7R2gT5Rx10uA0La_BT3N-nTBy-Ilyrg/hu7q1fksxstwkup/1.20.40.24_arm64_v8a_patched.apk) (Preview Version)
+* [1.20.50.20_arm64_v8a_patched](https://download2279.mediafire.com/gasy8aqi3crgaN8e3ximr6tCAjAM7B5GO7PikTh8y9EhOK8oX0piRNK-fS0Id8x5xPxl2Scwjkhe6cM_G2f4z0zQ_cPUd0XEKtrgZ5Eu3hHmPZtfQls8-GnVRe77s55gz1-EjFUFR0x03eY0Ycq0KOD0pNfGkEVQC7MhN5ARmQ/31a9gaocjfiv5j0/1.20.50.20_arm64_v8a_patched.apk) (Preview Version)

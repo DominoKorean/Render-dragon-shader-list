@@ -175,11 +175,13 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~_1.20.30_Public_BETA-2d7a3e?style=flat-square)  
+![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~-2d7a3e?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
 https://discord.gg/years-static-shader-group-738688684223889409
 
-
+  - 1.9.7.6 Beta
+    - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1158767758721429645/YSS_SE_Beta_1.9.7.6_Android.mcpack?ex=6537d012&is=65255b12&hm=cac102f61ea84e3f5dbc3f59bb0db01568c76e41a37c9b37c2814b443a7e7535&)
+    - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1158767759069560893/YSS_SE_Beta_1.9.7.6_Windows.mcpack?ex=6537d012&is=65255b12&hm=9f3625b5edc63e4a088581b9dcde4dbebaec5e2836466193856d5f7bf167e52e&)
   - 1.9.7.4 Beta
     - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1148852076105973780/YSS_SE_Beta_1.9.7.4_Android.mcpack)
     - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1148852076458299402/YSS_SE_Beta_1.9.7.4_Windows.mcpack)
