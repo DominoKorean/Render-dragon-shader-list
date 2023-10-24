@@ -111,7 +111,10 @@ _**마인크래프트 베드락 에디션**_ 렌더드래곤 엔진용 강화모
 
 ![](https://img.shields.io/badge/윈도우-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://github.com/ddf8196/BetterRenderDragon
+https://github.com/ddf8196/BetterRenderDragon  
+https://discord.gg/yss
+
+* [1.3.5](https://cdn.discordapp.com/attachments/1149409096936726680/1163817740784652429/BetterRenderDragon-1.3.5.zip?ex=6540f4bc&is=652e7fbc&hm=0389d4e8cdb35670538edefd7735336450f223538dacaa2a42b55b3bb3929a45&)
 
 <br/>
 <br/>
@@ -180,7 +183,7 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 ![](https://img.shields.io/badge/지원하는_마인크래프트_버전-1.19.40_~-2d7a3e?style=flat-square)  
 [![](https://img.shields.io/badge/스크린샷-클릭-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
-https://discord.gg/years-static-shader-group-738688684223889409
+https://discord.gg/yss
 
 
   - 1.9.7.6 Beta
@@ -233,7 +236,7 @@ https://discord.gg/years-static-shader-group-738688684223889409
 ![](https://img.shields.io/badge/Xbox-107c10?style=flat-square&logo=xbox)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/스크린샷-클릭-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20RD)  
-https://discord.gg/years-static-shader-group-738688684223889409  
+https://discord.gg/yss  
 
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
   - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
