@@ -728,7 +728,8 @@ https://discord.gg/minecraft-rtx-691547840463241267?event=1106779096836481137
 
 ### RenderDragon FullBright
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonFullBright  
 
   - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
@@ -740,7 +741,8 @@ https://github.com/Furzide/RenderDragonFullBright
 
 ### RenderDragonFogRemover
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonFogRemover  
 
   - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
@@ -752,7 +754,8 @@ https://github.com/Furzide/RenderDragonFogRemover
 
 ### RD Cubemap Fix
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonCubemapFix
 
   - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
