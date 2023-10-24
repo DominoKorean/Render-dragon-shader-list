@@ -108,7 +108,9 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://github.com/ddf8196/BetterRenderDragon
+https://github.com/ddf8196/BetterRenderDragon  
+https://discord.gg/yss
+* [1.3.5](https://cdn.discordapp.com/attachments/1149409096936726680/1163817740784652429/BetterRenderDragon-1.3.5.zip?ex=6540f4bc&is=652e7fbc&hm=0389d4e8cdb35670538edefd7735336450f223538dacaa2a42b55b3bb3929a45&)
 
 <br/>
 <br/>
@@ -177,7 +179,7 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~-2d7a3e?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
-https://discord.gg/years-static-shader-group-738688684223889409
+https://discord.gg/yss
 
   - 1.9.7.6 Beta
     - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1158767758721429645/YSS_SE_Beta_1.9.7.6_Android.mcpack?ex=6537d012&is=65255b12&hm=cac102f61ea84e3f5dbc3f59bb0db01568c76e41a37c9b37c2814b443a7e7535&)
@@ -229,7 +231,7 @@ https://discord.gg/years-static-shader-group-738688684223889409
 ![](https://img.shields.io/badge/Xbox-107c10?style=flat-square&logo=xbox)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20RD)  
-https://discord.gg/years-static-shader-group-738688684223889409  
+https://discord.gg/yss  
 
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
   - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
