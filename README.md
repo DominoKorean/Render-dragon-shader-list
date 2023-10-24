@@ -2,7 +2,7 @@
 
 <br/>
 
-- [Renderdragon Shader Installation](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/RealisticRTX_request.md)
+- [Renderdragon Shader Installation]([/installation/](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation))
 
 
 <br/>
