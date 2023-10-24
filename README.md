@@ -2,7 +2,7 @@
 
 <br/>
 
-- [Renderdragon Shader Installation]([/installation/](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation))
+- [Renderdragon Shader Installation]([/installation/](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/installation))
 
 
 <br/>
