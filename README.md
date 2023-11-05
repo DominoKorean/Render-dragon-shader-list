@@ -434,6 +434,9 @@ https://magnificentshaders.home.blog
 https://devendrn.github.io/newb-shader
 
   - [v15](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
+    - [Newb Modified MC]
+      - [Android (1.20.40.01 - support 32 bit phones)](https://www.mediafire.com/file/j0bfiw2pkf925nz/minecraft-1.20.40.01-newb.apk/file)
+      - [iOS (1.20.40 - doesn't support xbox account login)](https://download1510.mediafire.com/6d8rfo20a0wgkYD83WIG4XF7A5PTZ4TsDoh6_AcriGKhUZV9XWG6TNyJbcvgSkonGR4gYax50DsBGLPVcymOwrtoQsx6F-J6JqeGwnP1wh0-QS1CuOOAQ15wMWxOgTqStJyYB0i17Wcy3gM3d76TggX4TMOIjuaWiseEzPX-qA/p4eg1515iaz9uhh/Minecraft-v1.20.40-newb.ipa)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420633485343/newb-x-15-android.mcpack)
     - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420931260516/newb-x-15-windows.mcpack)
     - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1149051421271007462/newb-x-15-ios.zip)
