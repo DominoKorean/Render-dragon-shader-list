@@ -53,6 +53,7 @@
 - [디퍼드 렌더링](#디퍼드-렌더링)
   - [YSS Special Edition](#yss-special-edition)
   - [BSBE Deffered](#bsbe-deffered)
+  - [Innovative Shader Deferred](#innovative-shader-deferred)
 - [RTX](#rtx)
   - [BetterRTX](#betterrtx)
     - [BetterRTX](#betterrtx-1)
@@ -239,6 +240,7 @@ https://github.com/bambosan/BSBE-Deferred
 ![](https://img.shields.io/badge/안드로이드-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/디퍼드_렌더링-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/스크린샷-클릭-white?style=social-square)](screenshots/Innovative%20Shader%20Deferred/README.md)   
 https://magnificentshaders.home.blog
 
 - [Test](https://download2263.mediafire.com/x9eqajf5dlxgU71_8EiqPShIcDBqwxsfBD3wRWFB99GiCTmhfmCelxaRtt5cYZjRpOvWKWSfNJ38oQgmiPmejJ6NIzN0PnkBwmumTo2E5twGkFiXMjDtxoTLhrfjgx6O_C_4o5KjTi9pMT7lIwo-LoPWirSmglV3KdFW6BO2PA/i8ydu9x6ihystae/ISPE+Deferred+%28Android+only%29.mcpack)
