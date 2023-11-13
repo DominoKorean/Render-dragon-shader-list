@@ -234,6 +234,22 @@ https://github.com/bambosan/BSBE-Deferred
 <br/>
 <br/>
 
+
+
+
+### Innovative Shader Deferred
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+https://magnificentshaders.home.blog
+
+- [Test](https://download2263.mediafire.com/x9eqajf5dlxgU71_8EiqPShIcDBqwxsfBD3wRWFB99GiCTmhfmCelxaRtt5cYZjRpOvWKWSfNJ38oQgmiPmejJ6NIzN0PnkBwmumTo2E5twGkFiXMjDtxoTLhrfjgx6O_C_4o5KjTi9pMT7lIwo-LoPWirSmglV3KdFW6BO2PA/i8ydu9x6ihystae/ISPE+Deferred+%28Android+only%29.mcpack)
+
+
+
+<br/>
+<br/>
+
 ---
 
 <br/>
