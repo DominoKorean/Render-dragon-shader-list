@@ -11,6 +11,17 @@
 
 <br/>
 
+
+## About RenderDragon Shader List
+
+The RenderDragon Shader List is a GitHub repository that compiles information about RenderDragon. It was created to address the difficulty for existing Bedrock users to access information due to a new and unfamiliar approach. Additionally, it serves the purpose of distinguishing the information from other fake RenderDragon shaders.
+
+Since the list is manually curated by individuals, there may be occasional mistakes or delays in updates. Users can report issues, unupdated information, list errors, or restrictions on the [Issues](https://github.com/DominoKorean/Render-dragon-shader-list/issues) page. Contributions to translating the list into more languages are also welcome through [Pull Requests](https://github.com/DominoKorean/Render-dragon-shader-list/pulls).
+
+
+
+<br/>
+
 ---
 
 <br/>

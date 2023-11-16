@@ -14,6 +14,19 @@
 
 <br/>
 
+## 렌더드래곤 셰이더 리스트에 대해서
+
+렌더드래곤 셰이더 리스트는 렌더드래곤에 관한 자료를 한데 모아둔 깃허브 레퍼지토리입니다.  
+기존의 베드락유저들에게 익숙하지 않은 방식으로 인해 접근이 힘든것과  
+자료를 다른 가짜 렌더드래곤 셰이더들과 구분하기 위해 제작되었습니다.  
+직접 사람이 체크해 리스트를 업데이트하기 때문에 간혹 실수가 있거나  
+리스트 업데이트가 늦을 수도 있습니다.  
+[Issues](https://github.com/DominoKorean/Render-dragon-shader-list/issues)에서 아직 업데이트가 되지 않은 자료, 리스트 오류 또는 제한사항등을 말할 수 있습니다.  
+[Pull Request](https://github.com/DominoKorean/Render-dragon-shader-list/pulls)를 통해 더많은 언어로 번역될 수 있게 도와주세요.
+
+
+<br/>
+
 ---
 
 <br/>
