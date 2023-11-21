@@ -44,7 +44,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [Reflective Vanilla RD](#reflective-vanilla-rd)
   - [Harmony Voxel](#harmony-voxel)
   - [Chill Voxel Shader](#chill-voxel-shader)
-  - [ISPE](#ispe)
+  - [Innovative Shader for BE](#innovative-shader-for-be)
   - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
   - [Darkfall BE](#darkfall-be)
   - [Newb X](#newb-x)
@@ -200,6 +200,12 @@ https://discord.gg/yss
   - 1.9.7.6 Beta
     - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1158767758721429645/YSS_SE_Beta_1.9.7.6_Android.mcpack?ex=6537d012&is=65255b12&hm=cac102f61ea84e3f5dbc3f59bb0db01568c76e41a37c9b37c2814b443a7e7535&)
     - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1158767759069560893/YSS_SE_Beta_1.9.7.6_Windows.mcpack?ex=6537d012&is=65255b12&hm=9f3625b5edc63e4a088581b9dcde4dbebaec5e2836466193856d5f7bf167e52e&)
+
+<details>
+<summary> Show all versions </summary>
+
+<br/>
+
   - 1.9.7.4 Beta
     - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1148852076105973780/YSS_SE_Beta_1.9.7.4_Android.mcpack)
     - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1148852076458299402/YSS_SE_Beta_1.9.7.4_Windows.mcpack)
@@ -227,6 +233,8 @@ https://discord.gg/yss
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.60.27_preview-2d7a3e?style=flat-square)
 
 
+</details>
+
 
 
 
@@ -236,10 +244,13 @@ https://discord.gg/yss
 <br/>
 
 ### BSBE Deffered
+ 
+[![](banners/BSBE%20Deferred.png)](https://bambosan.github.io/bsbe-deferred/)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://github.com/bambosan/BSBE-Deferred
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
+
+<br/>
 
 - [Test 1.0](https://github.com/bambosan/BSBE-Deferred/releases/download/1.0/BSBE-Deferred-Test-1.0.mcpack)
   - [BtterRenderDragon](https://github.com/bambosan/BSBE-Deferred/releases/download/1.0/BetterRenderDragon-1.3.6-beta.zip)
@@ -251,11 +262,13 @@ https://github.com/bambosan/BSBE-Deferred
 
 
 ### Innovative Shader Deferred
+
+[![](banners/Innovative%20Shader%20Deferred.png)](https://magnificentshaders.home.blog/2023/10/26/innovative-shader-deferred-test)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Innovative%20Shader%20Deferred/README.md)   
-https://magnificentshaders.home.blog
+
+<br/>
 
 - [Test](https://download2263.mediafire.com/x9eqajf5dlxgU71_8EiqPShIcDBqwxsfBD3wRWFB99GiCTmhfmCelxaRtt5cYZjRpOvWKWSfNJ38oQgmiPmejJ6NIzN0PnkBwmumTo2E5twGkFiXMjDtxoTLhrfjgx6O_C_4o5KjTi9pMT7lIwo-LoPWirSmglV3KdFW6BO2PA/i8ydu9x6ihystae/ISPE+Deferred+%28Android+only%29.mcpack)
 
@@ -265,11 +278,13 @@ https://magnificentshaders.home.blog
 <br/>
 
 ### Harmony Voxel Deferred
+
+[![](banners/Harmony%20Voxel%20Deferred.png)](https://magnificentshaders.home.blog/2023/11/15/harmony-voxel-deferred-v0-1/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Harmony%20Voxel/Harmony%20Voxel%20Deferred/README.md)   
-https://magnificentshaders.home.blog
+
+<br/>
 
 - [V0.1](https://download944.mediafire.com/9arg0f4e6z3gFcUooE97A2tZXyekb_xC0ojwPPUAGoyM8rJXnoX_YJjToiYFYQ7a9GaXv5wjIW5CKjEluYl20aFuirJZpXCT_kQdBOZTKyouldqkXxJofz1jOQod6k1rucQl03sGT1H-lVphTTl73PmN8ZKbjAR46607EsRE_g/0rlqp417g3s569x/Harmony+Voxel+Deferred+%5BPATCH+MCPE%5D.mcpack)
 
@@ -294,6 +309,12 @@ https://discord.gg/yss
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
   - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
 ![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square&logo=xbox)
+
+<details>
+<summary> Show all versions </summary>
+
+<br/>
+
   - [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip)
   - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip)
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
@@ -320,24 +341,31 @@ https://discord.gg/yss
   - [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip)  
   - [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip)
 
-
+</details>
 
 
 <br/>
 <br/>
 
 ### Bicubic Shaders BE  
+
+[![](/banners/BSBE.png)](https://bambosan.github.io/bsbe-deferred)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://bambosan.github.io/Bicubic-Shaders-BE/
+
+<br/>
 
   - [3.4 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/Bicubic-Shader-BE-3.4.mcpack) (only support on ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows))
   - [3.3](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.3)
     - [3.3 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Android-3.3.zip)
     - [3.3 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
     - [3.3 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/Bicubic-Shaders-BE-3.3.mcpack)
+
+<details>
+<summary> Show all versions </summary>
+
   - [3.2](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
     - [3.2 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
     - [3.2 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/BSBE-RD-Materials-Windows.zip)
@@ -349,52 +377,62 @@ https://bambosan.github.io/Bicubic-Shaders-BE/
     - [3.1 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Material-Support.mcpack)
   - [3.0 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.0/Bicubic-Shaders-BE-3.0.mcpack)
 
+</details>
 
 <br/>
 <br/>
 
 ### BSBE Lite
+[![](/banners/BSBE%20Lite.png)](https://bambosan.github.io/BSBE-Lite/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-https://github.com/bambosan/BSBE-Lite
+
+<br/>
 
   - [1.6](https://github.com/bambosan/BSBE-Lite/releases/tag/1.6)
     - [1.6 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Android-1.6.zip)
-    - [1.6 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Windows-1.6.zip)
-      - [1.5 No Water Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Windows-1.5.zip)
-    - [1.5 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
-    - [1.5 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-iOS-1.5.zip)
-      - [1.5 No Water iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-iOS-1.5.zip)
-    - [1.5 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Windows-1.5.zip)
+    - [1.6 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Windows-1.6.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [1.5](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
     - [1.5 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Android-1.5.zip)
       - [1.5 No Water Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Android-1.5.zip)
+    - [1.5 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-iOS-1.5.zip)
+      - [1.5 No Water iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-iOS-1.5.zip)
+    - [1.5 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Windows-1.5.zip)
+      - [1.5 No Water Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Windows-1.5.zip)
+    - [1.5 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
   - [1.4](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
     - [1.4 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Android-1.4.zip)
     - [1.4 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-iOS-1.4.zip)
-    - [1.4 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Windows-1.4.zip)
+    - [1.4 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Windows-1.4.zip)
     - [1.4 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
   - [1.3](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
     - [1.3 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Android-1.3.zip)
     - [1.3 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-iOS-1.3.zip)
-    - [1.3 Window](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Windows-1.3.zip)
+    - [1.3 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Windows-1.3.zip)
     - [1.3 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-RD-Material-Support.mcpack)
   - [1.2](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
     - [1.2 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-Lite-RD-Material-Android-1.2.zip)
     - [1.2 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-RD-Material-Support.mcpack)
 
+</details>
 
 <br/>
 <br/>
 
 ### Vine Shaders BE
+
+[![](/banners/vine.png)](https://bambosan.github.io/Vine-Shaders-BE/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/vine/README.md)  
-https://bambosan.github.io/Vine-Shaders-BE
+
+<br/>
 
 - [1.1.1](https://github.com/bambosan/Vine-Shaders-BE/releases/tag/v1.1.1)
   - [Windows](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Windows-1.1.1.zip)
@@ -406,12 +444,18 @@ https://bambosan.github.io/Vine-Shaders-BE
 <br/>
 
 ### Musk Rose RD  
+
+[![](/banners/Musk%20Rose%20RD.png)](https://github.com/Rinloid/musk_rose_rd)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Musk%20Rose%20RD)  
-https://github.com/Rinloid/musk_rose_rd  
+ 
+ <br/>
 
   - [v4.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0r/musk_rose_rd-v4.0r.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [v4.0 Beta](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0b/musk_rose_rd-v4.0b.zip)
   - [v2.1](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.1/musk_rose_rd-v2.1.zip)
   - [v2.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.0/musk_rose_rd-v2.0.zip)
@@ -419,6 +463,7 @@ https://github.com/Rinloid/musk_rose_rd
     - [v1.0 Base .mcpack](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_Base.mcpack)
   - [v0.5](https://github.com/Rinloid/musk_rose_rd/releases/download/v0.5/Musk_Rose_RDv0.5.zip)
 
+</details>
 
 <br/>
 <br/>
@@ -429,47 +474,63 @@ https://github.com/Rinloid/musk_rose_rd
 https://github.com/Rinloid/reflective-vanilla-rd
 
   - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
 
+</details>
 
 <br/>
 <br/>
 
 ### Harmony Voxel
+
+[![](/banners/Harmony%20Voxel.png)](https://magnificentshaders.home.blog/2023/07/09/harmony-voxel-beta/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Harmony%20Voxel)  
-https://magnificentshaders.home.blog
+
+ <br/>
+
   - [Beta](https://www.mediafire.com/file/by1z63ejtncbjcu/Harmony_Voxel_%255BBETA%255D_All_Platforms.zip/file#)
 
 <br/>
 <br/>
 
 ### Chill Voxel Shader 
+[![](/banners/Chill%20Voxel%20Shader.png)](https://magnificentshaders.home.blog/2023/05/26/chill-voxel-v2-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Chill%20Voxel)  
-https://magnificentshaders.home.blog
+
+ <br/>
 
   - [v2.2](https://www.mediafire.com/file/hrkcnr6ckoji6pk/Chill_Voxel_V2.2_%2528All_Platforms%2529.zip/file#) 
 ![](https://img.shields.io/badge/Supported_from_this_version-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)  
+
+<details>
+<summary> Show all versions </summary>
+
   - [V2.0](https://download2389.mediafire.com/fbwrmfm9bpbgKL5hHIDQ0R23EfYbQcT9UP0ber9JQiK6wSNpCH_FZIW3Rv8ZrkypZjrZGmi19qcmauJHkErantL9/c26hmb2uyipbvbe/Chill+Voxel+Shader+for+R.D+Bedrock+platforms.zip)
 
+</details>
 
 <br/>
 <br/>
 
-### ISPE
+### Innovative Shader for BE
+
+[![](/banners/ISPE.png)](https://magnificentshaders.home.blog/2023/05/13/innovative-shader-for-be-ispe-beta-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/ISPE)  
-https://magnificentshaders.home.blog/  
+
+ <br/>
 
   - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
   - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
@@ -479,33 +540,41 @@ https://magnificentshaders.home.blog/
 <br/>
 
 ### KMPE Shader Rebooted Edition
+
+[![](/banners/KMPE%20Shader%20Rebooted%20Edition.png)](https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/KMPE)  
-https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition
+
+ <br/>
+
   - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
 
 <br/>
 <br/>
 
 ### Darkfall BE
+
+[![](/banners/Darkfall%20BE.png)](https://magnificentshaders.home.blog/2023/06/11/darkfall-be-v0-1-experimental/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/magnificent/Darkfall%20BE)  
-https://magnificentshaders.home.blog
+
+ <br/>
+
   - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
 
 <br/>
 <br/>
 
 ### Newb X
+
+[![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Newb%20X)  
-https://devendrn.github.io/newb-shader
+
+ <br/>
 
   - [v15](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
     - [Newb Modified MC]
@@ -514,6 +583,10 @@ https://devendrn.github.io/newb-shader
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420633485343/newb-x-15-android.mcpack)
     - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420931260516/newb-x-15-windows.mcpack)
     - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1149051421271007462/newb-x-15-ios.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [v14](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
     - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1130169921154854952/newb-x-14-android.mcpack)
     - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1130169921473626232/newb-x-14-windows.mcpack)
@@ -561,6 +634,7 @@ https://devendrn.github.io/newb-shader
   - [002 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116730003191767070/newb-x-002-android-1.19.83.zip)
   - [001 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116362183526330420/newb-x-001-android-1.19.83.zip)
 
+</details>
 
 <br/>
 <br/>
@@ -571,11 +645,16 @@ https://devendrn.github.io/newb-shader
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20Revive/README..md)  
 https://www.youtube.com/@aziangelo
 
-- [1.0](https://download2290.mediafire.com/szxxaz5xt6pgf0Wt9VxYLIvZjO4J0-R0LlyfiOQLuJdoGiDQO5Age4U3yVNCY9nY2aMlDN5kqDa6XY1MpcJnsmZYJNJAim4lfuAtb-XpfenFsEAVDpI8JYDLgCR7Sm6RjsFxqlH7Gl2trOQ-QvkHOlxA7tQjIu9rt7ipojpHCg/ub4r0u1dy5dbr17/Revive+AziFy+v1.0+RD.mcpack)
+
 - [1.3.0](https://download2302.mediafire.com/sb5dd4blqpygLSBmmMbFkoGacR-azQoM5vCi0Om5idyqZ8-2ntBJ1rSWk7pjb09VbtyH4a96IWHVOdpkeFFWN8hmvpSXo2zjkx9DEAgJ8qgdKnh8L603AiG0p7Yke7mc1XUfctCvl9-ggw7EIP-EdSlWhOlM9BU-4aWbe9Ecpg/b8qrtuagoiak2g6/AziFy-Revive%21-v1.3.0.zip)
+
+<details>
+<summary> Show all versions </summary>
+
 - [v1.2.9](https://download2273.mediafire.com/ecaluejigi7giaqzICvXuQSnSF8mFuX3mdFNlVWQoaI2a1bSC55p7dke1DXhWA4t9VU80j4EPlFMy7yZ6BPEpI8lBoSsu3IxlqoGTJR3RsSaMu31TNx7EXDknQ2-C1hcWhovyoC9Y9dRxMBLf0sihDoeD77sQLORAypGmlMHyA/wgr43a4g59sghdv/Azify+RD+v1.2.9.zip)
+- [1.0](https://download2290.mediafire.com/szxxaz5xt6pgf0Wt9VxYLIvZjO4J0-R0LlyfiOQLuJdoGiDQO5Age4U3yVNCY9nY2aMlDN5kqDa6XY1MpcJnsmZYJNJAim4lfuAtb-XpfenFsEAVDpI8JYDLgCR7Sm6RjsFxqlH7Gl2trOQ-QvkHOlxA7tQjIu9rt7ipojpHCg/ub4r0u1dy5dbr17/Revive+AziFy+v1.0+RD.mcpack)
 
-
+</details>
 
 <br/>
 <br/>
@@ -591,7 +670,13 @@ https://aziangeloprojects.blogspot.com
     - [Medium 1](https://download2298.mediafire.com/b8t88uznduzgm7ZeZ2rXEc0aUO7M5GXUwgLoDFknMqJClFHelrx4iN0z3wgVBhZfo2pq_D-7BesptEpj90vQmnVHBLcywC8vqk_YIjvUAO8vxxmW5Pr5HaUIF5myMfH_RCDDYkDLBphVMReGfpCvx7TFEYkNS-6uhCQ5gFUrWg/k9qcwjuxvnsjto0/EnDefault+v1.2.0+Medium+1.zip) (No Glossy Effect)
     - [Medium 2](https://download2272.mediafire.com/olidyixjrkbgNc6ltgz84vRQCcwKgVQki-GSXQ1P_w3dWcScRux8qMbrbhfkAnH9OujbbnpbakmLPTSE9BJmxPP3UUna2T2UZW1LRI1gQckHKmaFKNfjTGWSpc4ujXdc56ZNlvmhMyT0rtrcJOT-Czue17JjncjeMrOnBKm8pA/umtyu0z8a5bbti4/EnDefault+v1.2.0+Medium+2.mcpack) (No Waves/Waving Effect)
     - [Low](https://download1527.mediafire.com/higqq5ybqddgAX2T55l-WcVHdBBIdTNqLigb1fut0_VuACr3j7Ao8axaNe5RSbVTAcfRgT4n4JKrvmW1mdjtQNdRb2q_rwKkuAreh-doYTAx4bTM9sxXr6QF6CRQuFtX7PqnRvdQ0qrZKu4yS5qwuDOWOoben5PEFhugMzqeNQ/k6xgpksdioqyzve/EnDefault+1.2.0+Low.mcpack) (Removed Fake Terrain Reflection, Waves/ Waving Effect, Glossy Effect.)
+
+<details>
+<summary> Show all versions </summary>
+
   - [1.0](https://download2262.mediafire.com/flh39ua16pkgfBilxlIjdMk6XGmEblTFF5IlbXGbmKrGJjM3HBhTJzXEkYHp9TSCrc2LrFXVi3oqS9egegryWibNrrLTxBDqF6XV-MolZIyisG6XkPDpZ5rEzAtSpYiHGuPSJFVmHUE1zQ1-pZTPc9Q8l3eEE1zrR1u9o8lvEQ/0e16y86o7e9yebe/AziFy+EnDefault+v1.0.zip)
+
+</details>
 
 <br/>
 <br/>
@@ -646,6 +731,10 @@ https://discord.gg/tGQApquvXb
 
 - [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
 - [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack)
+
+<details>
+<summary> Show all versions </summary>
+
 - [Renewed B9](https://cdn.discordapp.com/attachments/1131912512787460235/1147503613376213092/GMRD-Renewed-B9.mcpack)
 - [Renewed B8](https://cdn.discordapp.com/attachments/1131912512787460235/1145945063478808646/GetMoon-Renewed_B8.mcpack)
 - [Renewed B7](https://cdn.discordapp.com/attachments/1131912512787460235/1145503721850163251/GetMoon-Renewed_B7.mcpack)
@@ -671,6 +760,7 @@ https://discord.gg/tGQApquvXb
 - [V2](https://download2301.mediafire.com/2qswkw11ns4g5xcQQYZLJ_FCSyWzb1xYYUkr-qii49ZkwT5tabNP3vQ4p8-SM-W1AeVAvnBGqQTA-1Xg7aMLuIUszXHURDiD8FrbHl2XX_mgophAGNU3GzD30jhmqAAG7VcKecy3DeIePMq3DVpptRDopfuylcKDynOJ1x6Ktg/g1zr2qdhjufcbql/Getmoon-RD-V2.zip)
 - [V1](https://download849.mediafire.com/o2rjxn12lxdgft99k95d_FltulBmkAFPN2WqGMlMvpnYaWPR-K15aX23LhhdvjAgSS0eUpuOS3_HrBNv8JFD41sfcwNCSVYg2w8o7RivaGRXg9gqlbd31-8YWofb9K6PSqi3yRB9bwP9ToQtHoMNIDsXsVYmMTzric5yafzBNA/3aylqc12rqvs6qu/GetMoon-Shader-RD.zip)
 
+</details>
 
 <br/>
 <br/>
@@ -771,6 +861,9 @@ https://discord.gg/minecraft-rtx-691547840463241267?event=1106779096836481137
   - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122033445137289316/RTXPostFX.Tonemapping.material.bin)
   - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122033445506396181/RTXStub.material.bin)
 
+<details>
+<summary> Show all versions </summary>
+
 - 2023.05.16
   - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107722908748488884/RTXPostFX.Tonemapping.material.bin) 
   - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107722909042094212/RTXStub.material.bin)
@@ -779,7 +872,7 @@ https://discord.gg/minecraft-rtx-691547840463241267?event=1106779096836481137
   - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107158063330361434/RTXPostFX.Tonemapping.material.bin)
   - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107158063724630117/RTXStub.material.bin)
 
-
+</details>
 
 <br/>
 
@@ -813,8 +906,13 @@ https://discord.gg/minecraft-rtx-691547840463241267?event=1106779096836481137
 https://github.com/Furzide/RenderDragonFullBright  
 
   - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
 
+</details>
 
 <br/>
 <br/>
@@ -826,9 +924,14 @@ https://github.com/Furzide/RenderDragonFullBright
 https://github.com/Furzide/RenderDragonFogRemover  
 
   - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [1.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v1.1.0/RenderDragonNoFog_1.1.0.zip)
 
- 
+</details>
+
 <br/>
 <br/>
 
@@ -839,8 +942,13 @@ https://github.com/Furzide/RenderDragonFogRemover
 https://github.com/Furzide/RenderDragonCubemapFix
 
   - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
+
+<details>
+<summary> Show all versions </summary>
+
   - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
 
+</details>
 
 <br/>
 <br/>
