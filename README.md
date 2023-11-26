@@ -253,8 +253,18 @@ https://discord.gg/yss
 
 <br/>
 
-- [Test 1.0](https://github.com/bambosan/BSBE-Deferred/releases/download/1.0/BSBE-Deferred-Test-1.0.mcpack)
+- [Beta 1.1.0](https://github.com/bambosan/BSBE-Deferred/releases/download/1.1.0-beta/BSBE-Deferred-Beta-1.1.0.mcpack)
+
+<details>
+<summary> Show all versions </summary>
+
+<br/>
+
+
+- [Test 1.0.0](https://github.com/bambosan/BSBE-Deferred/releases/download/1.0/BSBE-Deferred-Test-1.0.mcpack)
   - [BtterRenderDragon](https://github.com/bambosan/BSBE-Deferred/releases/download/1.0/BetterRenderDragon-1.3.6-beta.zip)
+
+</details>
 
 <br/>
 <br/>
@@ -306,6 +316,9 @@ https://discord.gg/yss
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20RD)  
 https://discord.gg/yss  
+
+<br/>
+
 
   - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
   - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
