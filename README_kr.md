@@ -597,8 +597,8 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Newb X Legacy
-[![](https://img.shields.io/badge/소스_코드-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
 [![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
+[![](https://img.shields.io/badge/소스_코드-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
 ![](https://img.shields.io/badge/안드로이드-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/윈도우-0078D6?style=flat-square&logo=Windows)
