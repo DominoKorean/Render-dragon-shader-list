@@ -65,6 +65,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [BSBE Deffered](#bsbe-deffered)
   - [Innovative Shader Deferred](#innovative-shader-deferred)
   - [Harmony Voxel Deferred](#harmony-voxel-deferred)
+  - [OriginShaderDeferred](#originshaderdeferred)
 - [RTX](#rtx)
   - [BetterRTX](#betterrtx)
     - [BetterRTX Edits](#betterrtx-edits)
@@ -301,6 +302,33 @@ https://discord.gg/yss
 <br/>
 <br/>
 
+### OriginShaderDeferred
+
+https://github.com/luit04/OriginShaderDeferred  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/luit04/OriginShaderDeferred)
+[![](https://img.shields.io/badge/GPL_3.0_license-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
+
+<br/>
+
+- 0.0.2
+  - [Android](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.2/OriginShaderDeferred-0.0.2-Android.zip)
+  - [Windows](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.2/OriginShaderDeferred-0.0.2-Windows.zip)
+
+<details>
+<summary> Show all versions </summary>
+
+- 0.0.1
+  - [Android](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.1/OriginShaderDeferred-0.0.1-Android.zip)
+  - [Windows](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.1/OriginShaderDeferred-0.0.1-Windows.zip)
+
+</details>
+
+<br/>
+<br/>
 
 ---
 
