@@ -47,9 +47,11 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [Innovative Shader for BE](#innovative-shader-for-be)
   - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
   - [Darkfall BE](#darkfall-be)
-  - [Newb X](#newb-x)
+  - [Newb X Legacy](#newb-x-legacy)
+    - [newb virants](#newb-virants)
   - [AziFy Revive](#azify-revive)
-  - [AziFy EnDefault Shader](#azify-endefault-shader)
+  - [AziFy Reimagined](#azify-reimagined)
+  - [AziFy EnDefault](#azify-endefault)
   - [AziFy Natural](#azify-natural)
   - [Truly Default](#truly-default)
   - [GLSL RDR](#glsl-rdr)
@@ -65,13 +67,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [Harmony Voxel Deferred](#harmony-voxel-deferred)
 - [RTX](#rtx)
   - [BetterRTX](#betterrtx)
-    - [BetterRTX](#betterrtx-1)
-    - [BetterRTX: Experimental](#betterrtx-experimental)
-    - [BetterRTX with Motion Blur](#betterrtx-with-motion-blur)
-    - [BetterRTX with Depth of Field](#betterrtx-with-depth-of-field)
-    - [Kelly's Better RTX Preset](#kellys-better-rtx-preset)
-    - [Realistic RTX (TheBlackDragon's Edit)](#realistic-rtx-theblackdragons-edit)
-    - [BetterRTX Prizma Preset](#betterrtx-prizma-preset)
+    - [BetterRTX Edits](#betterrtx-edits)
 - [Ect Utility Shaders](#ect-utility-shaders)
   - [RenderDragon FullBright](#renderdragon-fullbright)
   - [RenderDragonFogRemover](#renderdragonfogremover)
@@ -86,6 +82,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
   - [MaterialBinTool](#materialbintool)
   - [RenderDragonData](#renderdragondata)
+  - [mcbe-shader-codebase](#mcbe-shader-codebase)
 - [Docs](#docs)
   - [Renderdragon Shader Installation](#renderdragon-shader-installation)
   - [BetterRTX : Realistic RTX (TheBlackDragon's Edit) User Requests](#betterrtx--realistic-rtx-theblackdragons-edit-user-requests)
@@ -189,6 +186,7 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <br/>
 
 ### YSS Special Edition
+[![](banners/YSS%20Special%20Edition.png)](https://discord.gg/yss)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
@@ -246,7 +244,8 @@ https://discord.gg/yss
 ### BSBE Deffered
 
 [![](banners/BSBE%20Deferred.png)](https://bambosan.github.io/bsbe-deferred/)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Deferred)  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Deferred)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
@@ -308,6 +307,7 @@ https://discord.gg/yss
 <br/>
 
 ### YSS RD
+[![](banners/YSS%20RD.png)](https://discord.gg/yss)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -315,7 +315,6 @@ https://discord.gg/yss
 ![](https://img.shields.io/badge/Xbox-107c10?style=flat-square&logo=xbox)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20RD)  
-https://discord.gg/yss  
 
 <br/>
 
@@ -364,7 +363,8 @@ https://discord.gg/yss
 ### Bicubic Shaders BE  
 
 [![](/banners/BSBE.png)](https://bambosan.github.io/bsbe/)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Bicubic-Shaders-BE)  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Bicubic-Shaders-BE)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -399,7 +399,8 @@ https://discord.gg/yss
 
 ### BSBE Lite
 [![](/banners/BSBE%20Lite.png)](https://bambosan.github.io/BSBE-Lite/)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Lite)  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Lite)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
@@ -444,7 +445,8 @@ https://discord.gg/yss
 
 [![](/banners/vine.png)](https://bambosan.github.io/Vine-Shaders-BE/)
 
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Vine-Shaders-BE)  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Vine-Shaders-BE)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -464,7 +466,8 @@ https://discord.gg/yss
 ### Musk Rose RD  
 
 [![](/banners/Musk%20Rose%20RD.png)](https://github.com/Rinloid/musk_rose_rd)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/musk_rose_rd)  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/musk_rose_rd)
+[![](https://img.shields.io/badge/CC0_1.0_license-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
  
@@ -488,7 +491,8 @@ https://discord.gg/yss
 <br/>
 
 ### Reflective Vanilla RD
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/reflective-vanilla-rd)  
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/reflective-vanilla-rd)
+[![](https://img.shields.io/badge/CC0_1.0_license-white?style=flat-square&logo=unlicense)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/Rinloid/reflective-vanilla-rd
@@ -586,7 +590,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 <br/>
 
-### Newb X
+### Newb X Legacy
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
 [![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
@@ -657,14 +661,22 @@ https://github.com/Rinloid/reflective-vanilla-rd
 </details>
 
 <br/>
+
+#### newb virants
+[![](/banners/newb%20variant/newb%20virant.png)](/newb_virants.md)
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 ### AziFy Revive
+[![](/banners/AziFy%20Revive.png)](https://youtu.be/jsZ0yC8dzuw?si=6DCpBmOe9LKBQ1wv)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20Revive/README..md)  
-https://www.youtube.com/@aziangelo
 
+<br/>
 
 - [1.3.0](https://download2302.mediafire.com/sb5dd4blqpygLSBmmMbFkoGacR-azQoM5vCi0Om5idyqZ8-2ntBJ1rSWk7pjb09VbtyH4a96IWHVOdpkeFFWN8hmvpSXo2zjkx9DEAgJ8qgdKnh8L603AiG0p7Yke7mc1XUfctCvl9-ggw7EIP-EdSlWhOlM9BU-4aWbe9Ecpg/b8qrtuagoiak2g6/AziFy-Revive%21-v1.3.0.zip)
 
@@ -679,11 +691,24 @@ https://www.youtube.com/@aziangelo
 <br/>
 <br/>
 
-### AziFy EnDefault Shader
+### AziFy Reimagined
+[![](/banners/AziFy%20Reimagined.png)](https://youtu.be/KBeTlCPB0PY?si=qNl4uTxzMnL6606R)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20EnDefault/README.md)  
-https://aziangeloprojects.blogspot.com
+
+<br/>
+
+- [2.1](https://linkvertise.com/1015125/azify-reimagined?o=sharing) (Ad link exists)
+
+<br/>
+<br/>
+
+### AziFy EnDefault
+[![](/banners/AziFy%20EnDefault.png)](https://aziangeloprojects.blogspot.com)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)   
+
+<br/>
 
   - [1.2.0](https://aziangeloprojects.blogspot.com/2023/07/azify-endefault-v120.html)
     - [Standard](https://download2271.mediafire.com/nus0id6cpaugt3HVJj7G_Mqai2O0POmoL5OtebXzU46zDUnFqIhO8gfjnjLfn8zMBmREXvq4YkcuJvijRVCNmNISGOLdjikZdplkOrL5KvpYsAfBJ91Wuz0xi0Lg3Z7niHNUXqm-T0aZ2Nzkg5iF0e_oZYOHJU2izjmPGftm5g/13n5xz1nddlsiyg/AziFy+EnDefault+v1.2.0.zip)
@@ -702,52 +727,68 @@ https://aziangeloprojects.blogspot.com
 <br/>
 
 ### AziFy Natural
+[![](/banners/AziFy%20Natural.png)](https://youtu.be/XvLuxATC51M?si=1HKPDbHE9KOfEEv0)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20Natural/README..md)  
-https://www.youtube.com/@aziangelo
+
+<br/>
+
 - [BETA](https://download2298.mediafire.com/l0s9mkjh9udgkKE3WhqeVBrOcgXJuZRQBOJ74laAgaccJGHpKrruzVkWv_gsgdFMHQs2vZvbSwAB8wtgZkcrD9OSWpwcDMdAiAOY3c6sfFAUZGlHx5c4mQ3rDIAd24GLD6ZaCRICkIGFQSW2eU1viAhzi04Eo8FTimnENtoFKA/opiomc9as9yw2yy/Azify-Natural-BETA-1-RD.zip)
 
 <br/>
 <br/>
 
 ### Truly Default
+[![](/banners/Truly%20Default.png)](https://youtu.be/XvLuxATC51M?si=1HKPDbHE9KOfEEv0)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/Truly%20Default/README..md)  
-https://www.youtube.com/@aziangelo
+
+<br/>
+
 - [v1.0](https://www.mediafire.com/file/cr9mzblplifr4be/Truly_Default-1.0.mcpack#)
 
 <br/>
 <br/>
 
 ### GLSL RDR
+[![](/banners/GLSL%20RDR.png)](https://www.patreon.com/posts/download-glsl-1-86536770?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/GLSL%20RDR)   
-https://www.patreon.com/paixao
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
+
+<br/>
+
   - [Alpha 1](https://www.patreon.com/posts/86536770)
 
 <br/>
 <br/>
 
 ### Rewanston Shader: Hypercolor
+[![](/banners/Rewanston%20Shader%20Hypercolor.png)](https://youtu.be/l9n0PBDJenQ?si=LhRCjeYsZ6hKrnfj)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/ReSH/README.md)   
-https://twitter.com/Rewanston
-- [v0.7](https://download2290.mediafire.com/2uoeoc74xkogH61S0r_25kp-k96U84IbCEpk1GNYK4doCaCK8Nuj9QntsbXKu5pGhGSmVC1-P866q5w_s0n4zV9L8JHBVJfvgZ9my3V9KMfph_F2z29Lzu1-M8hl_Jh5b6FdBPaLRaLROmENyUoxL5jrmQzfGnG6etX9xQbJXg/k0ud7jqgnhfuqwg/%5BRD%5DReSH0.7.mcpack)
+
+<br/>
+
+- [0.8](https://download2279.mediafire.com/f7mvfqf2dp1g2n5ccNZff5CzFqwFrH_f9qKSGhZL4JmGxVu3vjP5uSPKcUfTBqC5c2BIVPzj8vkGSiCcvS3O3mxOIaYk2y_pceekRzj6YiKdadKnF-sZjso8RTguo0OlXcRwpOSREtB4lJGMMRL3mHAPMJGu29SiNogfnfY2nA/rqwzwfmryohaj6g/ReSHv0.8RD.mcpack)
+
+<details>
+<summary> Show all versions </summary>
+
+- [0.7](https://download2290.mediafire.com/2uoeoc74xkogH61S0r_25kp-k96U84IbCEpk1GNYK4doCaCK8Nuj9QntsbXKu5pGhGSmVC1-P866q5w_s0n4zV9L8JHBVJfvgZ9my3V9KMfph_F2z29Lzu1-M8hl_Jh5b6FdBPaLRaLROmENyUoxL5jrmQzfGnG6etX9xQbJXg/k0ud7jqgnhfuqwg/%5BRD%5DReSH0.7.mcpack)
+
+</details>
 
 <br/>
 <br/>
 
 ### GetMoon Shader Renewed
+[![](/banners/GetMoon%20Shader%20Renewed.png)](https://youtu.be/60OVpyUBLXk?si=dbzQL5yYO7d4hwef)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/GetMoon/README.md)  
-https://discord.gg/tGQApquvXb
+
+<br/>
 
 - [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
 - [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack)
@@ -786,31 +827,38 @@ https://discord.gg/tGQApquvXb
 <br/>
 
 ### ADIN SHADER
+[![](/banners/ADIN%20SHADER.png)](https://youtu.be/uxssfrEONCk?si=Dc1mgDiPcDLcuM5X)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/ADIN/README.md)  
 https://www.youtube.com/@KinKaren
+
+<br/>
+
 - [V13](https://download2281.mediafire.com/ht658unanuxg0mgYYKEodlWRedQebw5vCm1kc2EEzerlVESJZNqEriRCM6QU520GD4aRzq6j--MkwYjQcEVmUob5XG1D9qnxiHdVSPH05Q_pVcWW1KRTnwbw6uG_NBUN5onmAUqPpKNrjvQKjJ2-NTHEces8Kic4UObCb_A9Nw/6svlx0y2w9lc34i/adin+shader+v13+%5BRD%5D.mcpack)
 
 <br/>
 <br/>
 
 ### VERT legacy
+[![](/banners/VERT%20legacy.png)](https://youtu.be/yAuPbIURh-E?si=bSHK6lDuewLwcObA)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)   
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/VERT/README.md)  
-https://www.youtube.com/@KinKaren
+
+<br/>
+
 - [VERT legacy](https://www.mediafire.com/file/o3lrggswzrpvery/VERT_legacy_%2528Android%2526windows%2529.zip/file#)
 
 <br/>
 <br/>
 
 ### Ringo Shaders RenderDragon
+[![](/banners/Ringo%20Shaders%20RenderDragon.png)](https://youtu.be/t_Z-DTJ2NAw?si=1U7COvkZH6FUYBcq)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Ringo/README.md)  
-https://www.youtube.com/@i11212
+
+<br/>
+
 - [Ringo Shaders RenderDragon](https://download2294.mediafire.com/79e20ize29lgb6tpo8p8x-iw-WtUOXsii6PuJ8A5qv4z2c8L1P01VQSAoumb1zP9CEXaoBbkF9Qym2e_WUUStmXwQ16ySRoC_HqE1JwtmaXvrwuzPYzjFBjDh0mK88f3NVYpT6yx5h_1uG8f3NQEdElFHtP4rFdsYvf6tLmBVA/shoyowcvn30pro3/Ringo+Shaders.zip)
 
 <br/>
@@ -822,96 +870,29 @@ https://www.youtube.com/@i11212
 <br/>
 
 ### BetterRTX
-![](https://img.shields.io/badge/Bedrock_RTX-Windows-0078D6?style=flat-square&logo=nvidia)  
-https://discord.gg/minecraft-rtx-691547840463241267?event=1106779096836481137
+[![](/banners/BetterRTX.png)](https://github.com/BetterRTX)
+![](https://img.shields.io/badge/Bedrock_RTX-Windows-0078D6?style=flat-square&logo=nvidia) 
+
+<br/>
+
 - [Installer](https://github.com/ABUCKY0/betterrtx-installer)
 
 <br/>
 
-#### BetterRTX
+
+**The latest version allows installation through the BetterRTX installer.**
+
 - 1.0
   - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106815836624277535/1107023065667354694/RTXPostFX.Tonemapping.material.bin)
   - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106815836624277535/1107023065256308777/RTXStub.material.bin)
 
 <br/>
-
-#### BetterRTX: Experimental
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Better%20RTX/README.md)  
-- 2023.05.26
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1111389944276062257/RTXPostFX.Tonemapping.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1111389944276062257/RTXPostFX.Tonemapping.material.bin)
-    - Depth Of Field Enabled
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1113704104053714955/RTXStub.material.bin)
-    - Motion Blur Enabled
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1111388664468086836/1113705335421669417/RTXStub.material.bin)
-
 <br/>
 
-#### BetterRTX with Motion Blur
-- 2023.05.14
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106816250249744457/1107024812649500733/RTXPostFX.Tonemapping.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106816250249744457/1107024812947292220/RTXStub.material.bin)
+#### BetterRTX Edits
+[![](/banners/BetterRTX%20Edits/BetterRTX%20Edits.png)](/BetterRTX_Edits.md)
 
-<br/>
 
-#### BetterRTX with Depth of Field
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Better%20RTX/README.md)  
-- 2023.05.14
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106816902807949384/1107024422906384404/RTXPostFX.Tonemapping.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106816902807949384/1107024423262896259/RTXStub.material.bin)
-
-<br/>
-
-#### Kelly's Better RTX Preset
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Kelly's%20Better%20RTX%20Preset/README.md)  
-- 2023.06.09
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106821387185827881/1116633455577546812/RTXStub.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106816902807949384/1107024423262896259/RTXStub.material.bin)
-    - Depth Of Field Enabled
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106821387185827881/1116633525693722736/RTXStub.material.bin)
-    - Motion Blur Enabled
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106821387185827881/1116633595231084584/RTXStub.material.bin)
-
-<br/>
-
-#### Realistic RTX (TheBlackDragon's Edit)
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/Realistic%20RTX%20(TheBlackDragon's%20Edit)/README.md) 
-
-- 2023.06.24
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122033445137289316/RTXPostFX.Tonemapping.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1122033445506396181/RTXStub.material.bin)
-
-<details>
-<summary> Show all versions </summary>
-
-- 2023.05.16
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107722908748488884/RTXPostFX.Tonemapping.material.bin) 
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107722909042094212/RTXStub.material.bin)
-
-- 2023.05.14
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107158063330361434/RTXPostFX.Tonemapping.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1107013729192792165/1107158063724630117/RTXStub.material.bin)
-
-</details>
-
-<br/>
-
-#### BetterRTX Prizma Preset
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Better%20RTX/BetterRTX%20Prizma%20Preset/README.md)  
-- 2023.07.14
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129181947587989635/RTXPostFX.Tonemapping.material.bin)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129181947915141120/RTXStub.material.bin)
-    - Motion Blur
-      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129517820691103825/RTXPostFX.Tonemapping.material.bin)
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129517821110538330/RTXStub.material.bin)
-    - Lumen Preset
-      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129872721405300876/RTXPostFX.Tonemapping.material.bin)
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1129872721745035324/RTXStub.material.bin)
-    - Without DOF and motion blur
-      - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1131554007396126740/RTXPostFX.Tonemapping.material.bin)
-      - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1129180719499989122/1131554007802990702/RTXStub.material.bin)
-
-<br/>
 <br/>
 <br/>
 
@@ -958,7 +939,7 @@ https://github.com/Furzide/RenderDragonFogRemover
 <br/>
 
 ### RD Cubemap Fix
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Furzide/RenderDragonCubemapFix) 
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Furzide/RenderDragonCubemapFix)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
@@ -977,7 +958,7 @@ https://github.com/Furzide/RenderDragonCubemapFix
 <br/>
 
 ### HD Font Fix
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/GameParrot/mcpe-hdfont-fix) 
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/GameParrot/mcpe-hdfont-fix)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
@@ -995,6 +976,8 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Ringo/README.md)  
+https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
+
   - [1.0](https://www.mediafire.com/folder/iix1tnqyymssy/Glow+em+all+v1.0)
     - [No Cave Brighter](https://download2301.mediafire.com/u4avtu5m52hgkIP0Q_Z3CF34Kf_IgYBmyNuzisMRs7VhigRoAM1Wixlf3mccdbFv2a1Yhr9MNLsT0ptvyIy82p18RiU5PonIEUdoNqJL-QDP0hYOFq6HBRe8pMEZ2zLNmKHZ1NFGepi7kYxcprC_FwIyP6TxA9wgOSLD7uvRSg/4p37dyo0ullv4y9/GEA+-+No+Cave+Brighter.mcpack)
     - [With Cave Brighter](https://download2267.mediafire.com/oymhtyb5wjdg3c0xjUu01RaKGX_4bvlwjYKbYX3nHUBNQL0mf9-wn7XTnqsUTrU9PADQchc5EVoS6QgQSnQTW3LNJO5U-g1qHAMGQtBmxpvzFK1DHlun2_dOYCZZR8CoYT-_-h-SCw60Nf8aRN8Gcx_zRDDlz3D5IY7uzc6KsQ/hhr1lphjeo2p42r/GEA+-+With+Cave+Brighter.mcpack)
@@ -1021,6 +1004,12 @@ https://github.com/ddf8196/MaterialBinTool
 
 ### RenderDragonData
 https://github.com/ddf8196/RenderDragonData
+
+<br/>
+<br/>
+
+### mcbe-shader-codebase
+https://github.com/Veka0/mcbe-shader-codebase
 
 <br/>
 <br/>
