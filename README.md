@@ -80,6 +80,7 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 
 - [Dev](#dev)
+  - [ShaderLABS](#shaderlabs)
   - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
   - [MaterialBinTool](#materialbintool)
   - [RenderDragonData](#renderdragondata)
@@ -818,12 +819,13 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
-- [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack)
+- [V5 Beta7](https://cdn.discordapp.com/attachments/1131912512787460235/1181427887111426069/GetMoonV5_Beta7.mcpack?ex=65810576&is=656e9076&hm=b4f78c14762815b7cc90502d70bdca25acfb95545042100a04572d06492d7a26&)
 
 <details>
 <summary> Show all versions </summary>
 
+- [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
+- [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack)
 - [Renewed B9](https://cdn.discordapp.com/attachments/1131912512787460235/1147503613376213092/GMRD-Renewed-B9.mcpack)
 - [Renewed B8](https://cdn.discordapp.com/attachments/1131912512787460235/1145945063478808646/GetMoon-Renewed_B8.mcpack)
 - [Renewed B7](https://cdn.discordapp.com/attachments/1131912512787460235/1145503721850163251/GetMoon-Renewed_B7.mcpack)
@@ -1016,6 +1018,15 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 <br/>
 
 ## Dev
+
+<br/>
+
+### ShaderLABS
+https://discord.gg/RpzWN9S  
+ShaderLABS is a community where developers and users involved in the graphics of Minecraft, including shader packs, resource packs, and mods, gather.  
+If you need assistance in creating the RenderDragon shader, you can seek help from various developers in the [bedrock-shaders](https://discord.com/channels/237199950235041794/327203882180542484) channel.
+
+<br/>
 <br/>
 
 ### RenderDragonSourceCodeInv
@@ -1038,6 +1049,7 @@ https://github.com/ddf8196/RenderDragonData
 
 ### mcbe-shader-codebase
 https://github.com/Veka0/mcbe-shader-codebase
+
 
 <br/>
 <br/>

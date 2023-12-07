@@ -85,6 +85,7 @@
 <br/>
 
 - [개발](#개발)
+  - [ShaderLABS](#shaderlabs)
   - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
   - [MaterialBinTool](#materialbintool)
   - [RenderDragonData](#renderdragondata)
@@ -825,12 +826,13 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
-- [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack)
+- [V5 Beta7](https://cdn.discordapp.com/attachments/1131912512787460235/1181427887111426069/GetMoonV5_Beta7.mcpack?ex=65810576&is=656e9076&hm=b4f78c14762815b7cc90502d70bdca25acfb95545042100a04572d06492d7a26&)
 
 <details>
 <summary> 모든 버전 표시 </summary>
 
+- [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
+- [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack)
 - [Renewed B9](https://cdn.discordapp.com/attachments/1131912512787460235/1147503613376213092/GMRD-Renewed-B9.mcpack)
 - [Renewed B8](https://cdn.discordapp.com/attachments/1131912512787460235/1145945063478808646/GetMoon-Renewed_B8.mcpack)
 - [Renewed B7](https://cdn.discordapp.com/attachments/1131912512787460235/1145503721850163251/GetMoon-Renewed_B7.mcpack)
@@ -1023,6 +1025,15 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 <br/>
 
 ## 개발
+
+<br/>
+
+### ShaderLABS
+https://discord.gg/RpzWN9S  
+ShaderLABS는 마인크래프트의 그래픽과 관련된 셰이더팩, 리소스팩, 모드의 개발자및 유저들이 모여있는 커뮤니티입니다.  
+만약 렌더드래곤 셰이더를 제작하는데 도움이 필요하다면 [bedrock-shaders](https://discord.com/channels/237199950235041794/327203882180542484)채널에서 여러 개발자들에게 도움을 받을 수 있습니다.
+
+<br/>
 <br/>
 
 ### RenderDragonSourceCodeInv
