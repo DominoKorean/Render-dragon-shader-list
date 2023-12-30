@@ -412,7 +412,9 @@ https://github.com/luit04/OriginShaderDeferred
 
 <br/>
 
-  - [3.4 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/Bicubic-Shader-BE-3.4.mcpack) (![](https://img.shields.io/badge/윈도우-0078D6?style=flat-square&logo=Windows)에서만 지원함)
+  - [3.4 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.4)
+    - [3.4 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Android.mcpack)
+    - [3.4 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Windows.mcpack)
   - [3.3](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.3)
     - [3.3 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Android-3.3.zip)
     - [3.3 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
