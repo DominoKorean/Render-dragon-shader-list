@@ -45,7 +45,6 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [Harmony Voxel](#harmony-voxel)
   - [Chill Voxel Shader](#chill-voxel-shader)
   - [Innovative Shader for BE](#innovative-shader-for-be)
-  - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
   - [Darkfall BE](#darkfall-be)
   - [Newb X Legacy](#newb-x-legacy)
     - [newb virants](#newb-virants)
@@ -75,6 +74,8 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [RD Cubemap Fix](#rd-cubemap-fix)
   - [HD Font Fix](#hd-font-fix)
   - [Glow Em All](#glow-em-all)
+- [Discontinued Shaders](#discontinued-shaders)
+  - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
 
 <br/>
 <br/>
