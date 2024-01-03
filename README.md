@@ -279,14 +279,14 @@ https://discord.gg/yss
 
 ### Innovative Shader Deferred
 
-[![](banners/Innovative%20Shader%20Deferred.png)](https://magnificentshaders.home.blog/2023/10/26/innovative-shader-deferred-test)
+[![](banners/Innovative%20Shader%20Deferred.png)](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-deferred-v1-0-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
-- [Test](https://download2263.mediafire.com/x9eqajf5dlxgU71_8EiqPShIcDBqwxsfBD3wRWFB99GiCTmhfmCelxaRtt5cYZjRpOvWKWSfNJ38oQgmiPmejJ6NIzN0PnkBwmumTo2E5twGkFiXMjDtxoTLhrfjgx6O_C_4o5KjTi9pMT7lIwo-LoPWirSmglV3KdFW6BO2PA/i8ydu9x6ihystae/ISPE+Deferred+%28Android+only%29.mcpack)
+- [1.0](https://download2263.mediafire.com/x9eqajf5dlxgU71_8EiqPShIcDBqwxsfBD3wRWFB99GiCTmhfmCelxaRtt5cYZjRpOvWKWSfNJ38oQgmiPmejJ6NIzN0PnkBwmumTo2E5twGkFiXMjDtxoTLhrfjgx6O_C_4o5KjTi9pMT7lIwo-LoPWirSmglV3KdFW6BO2PA/i8ydu9x6ihystae/ISPE+Deferred+%28Android+only%29.mcpack)
 
 
 
@@ -295,7 +295,7 @@ https://discord.gg/yss
 
 ### Harmony Voxel Deferred
 
-[![](banners/Harmony%20Voxel%20Deferred.png)](https://magnificentshaders.home.blog/2023/11/15/harmony-voxel-deferred-v0-1/)
+[![](banners/Harmony%20Voxel%20Deferred.png)](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-deferred-v0-1-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
@@ -544,7 +544,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 ### Harmony Voxel
 
-[![](/banners/Harmony%20Voxel.png)](https://magnificentshaders.home.blog/2023/07/09/harmony-voxel-beta/)
+[![](/banners/Harmony%20Voxel.png)](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-beta-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -558,7 +558,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Chill Voxel Shader 
-[![](/banners/Chill%20Voxel%20Shader.png)](https://magnificentshaders.home.blog/2023/05/26/chill-voxel-v2-2/)
+[![](/banners/Chill%20Voxel%20Shader.png)](https://magnificentshaders.home.blog/2023/12/24/chill-voxel-shader-v2-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -582,7 +582,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 ### Innovative Shader for BE
 
-[![](/banners/ISPE.png)](https://magnificentshaders.home.blog/2023/05/13/innovative-shader-for-be-ispe-beta-2/)
+[![](/banners/ISPE.png)](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-for-be-ispe-beta-2-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
@@ -596,22 +596,9 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 <br/>
 
-### KMPE Shader Rebooted Edition
-
-[![](/banners/KMPE%20Shader%20Rebooted%20Edition.png)](https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)  
-
- <br/>
-
-  - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
-
-<br/>
-<br/>
-
 ### Darkfall BE
 
-[![](/banners/Darkfall%20BE.png)](https://magnificentshaders.home.blog/2023/06/11/darkfall-be-v0-1-experimental/)
+[![](/banners/Darkfall%20BE.png)](https://magnificentshaders.home.blog/2023/12/24/darkfall-be-v0-1-experimental-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
@@ -1015,6 +1002,25 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
   - [1.0](https://www.mediafire.com/folder/iix1tnqyymssy/Glow+em+all+v1.0)
     - [No Cave Brighter](https://download2301.mediafire.com/u4avtu5m52hgkIP0Q_Z3CF34Kf_IgYBmyNuzisMRs7VhigRoAM1Wixlf3mccdbFv2a1Yhr9MNLsT0ptvyIy82p18RiU5PonIEUdoNqJL-QDP0hYOFq6HBRe8pMEZ2zLNmKHZ1NFGepi7kYxcprC_FwIyP6TxA9wgOSLD7uvRSg/4p37dyo0ullv4y9/GEA+-+No+Cave+Brighter.mcpack)
     - [With Cave Brighter](https://download2267.mediafire.com/oymhtyb5wjdg3c0xjUu01RaKGX_4bvlwjYKbYX3nHUBNQL0mf9-wn7XTnqsUTrU9PADQchc5EVoS6QgQSnQTW3LNJO5U-g1qHAMGQtBmxpvzFK1DHlun2_dOYCZZR8CoYT-_-h-SCw60Nf8aRN8Gcx_zRDDlz3D5IY7uzc6KsQ/hhr1lphjeo2p42r/GEA+-+With+Cave+Brighter.mcpack)
+
+<br/>
+<br/>
+
+## Discontinued Shaders
+
+<br/>
+<br/>
+
+### KMPE Shader Rebooted Edition
+
+[![](/banners/KMPE%20Shader%20Rebooted%20Edition.png)](https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)  
+
+ <br/>
+
+  - [KMPE Shader Rebooted Edition](https://www.mediafire.com/file/7r6hk1segeu1ix7/KMPE_Reboot_%2528Both_Engines%2529.zip/file)
+
 
 <br/>
 <br/>
