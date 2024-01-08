@@ -121,13 +121,25 @@ https://discord.gg/newb-community-844591537430069279
 
 <br/>
 
-- 2024.01.01
-  - [Android](https://cdn.discordapp.com/attachments/1165187716779085917/1191298625251315822/Android_Newb_X_Legacy_More_Improvement.mcpack?ex=65a4ee4d&is=6592794d&hm=9a6c92a42b5ef63f9255ba1305c958eaa29add0771ee55452905e1580084cd76&)
-  - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1191298625616236595/Windows_Newb_X_Legacy_More_Improvement.mcpack?ex=65a4ee4d&is=6592794d&hm=eaf7701f5e73e6822c04630ad6d7295b04d9c792aa4c29b86e6a1bacde35e364&)
+
+- [2024.01.05](https://cdn.discordapp.com/attachments/1165187716779085917/1192597613418135615/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a9a814&is=65973314&hm=282bad90a7d2ad4e891b976734738756f89794a67b4997644a50b2f95996eb4b&)
+- [2024.01.04 Windows bug fixed (mybe)](https://cdn.discordapp.com/attachments/1165187716779085917/1192445665331130418/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a91a91&is=6596a591&hm=4e55a787222a75dd6db5556deeed9df69bfe5497b443a561a5d97e26cabcf5fd&)
+- 2024.01.04
+  - [Andorid](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712217767997/Android_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=e8eb78268ddec2622ece7d9819c3cbbcafa520d301261d4869372b2cfc7c507f&)
+  - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712494583868/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=53cebbb1955eef3546aeb8e2c380f6902567a2cfaba02d917a60db5dc3d30543&)
+
 
 <details>
 <summary> Show all versions </summary>
 
+- [2024.01.05](https://cdn.discordapp.com/attachments/1165187716779085917/1192597613418135615/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a9a814&is=65973314&hm=282bad90a7d2ad4e891b976734738756f89794a67b4997644a50b2f95996eb4b&)
+- [2024.01.04 Windows bug (mybe)](https://cdn.discordapp.com/attachments/1165187716779085917/1192445665331130418/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a91a91&is=6596a591&hm=4e55a787222a75dd6db5556deeed9df69bfe5497b443a561a5d97e26cabcf5fd&)
+- 2024.01.04
+  - [Andorid](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712217767997/Android_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=e8eb78268ddec2622ece7d9819c3cbbcafa520d301261d4869372b2cfc7c507f&)
+  - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712494583868/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=53cebbb1955eef3546aeb8e2c380f6902567a2cfaba02d917a60db5dc3d30543&)
+- 2024.01.01
+  - [Android](https://cdn.discordapp.com/attachments/1165187716779085917/1191298625251315822/Android_Newb_X_Legacy_More_Improvement.mcpack?ex=65a4ee4d&is=6592794d&hm=9a6c92a42b5ef63f9255ba1305c958eaa29add0771ee55452905e1580084cd76&)
+  - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1191298625616236595/Windows_Newb_X_Legacy_More_Improvement.mcpack?ex=65a4ee4d&is=6592794d&hm=eaf7701f5e73e6822c04630ad6d7295b04d9c792aa4c29b86e6a1bacde35e364&)
 - 2023.12.29
   - [Android](https://cdn.discordapp.com/attachments/1165187716779085917/1190169778141274262/Android_Newb_X_Legacy_More_Improvement.mcpack?ex=65a0d2fb&is=658e5dfb&hm=f1fe095e9345771bd43249e1d597fe54e86eb6746553efadf7dac9e179fa1f84&)
   - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1190169778518773810/Windows_Newb_X_Legacy_More_Improvement.mcpack?ex=65a0d2fb&is=658e5dfb&hm=22278164dae29f12065613aca2efa8071748677929f99419496afd76d754f5c5&)
@@ -217,14 +229,41 @@ https://discord.gg/newb-community-844591537430069279
 
 <br/>
 
-- Chill Edition
-  - [Android](https://cdn.discordapp.com/attachments/1161625110843768834/1182683865035317288/newb-x-renewed-CE-android.mcpack?ex=65a146ae&is=658ed1ae&hm=ce25a58b01eca2a17bb6baeb4499fd35939f72cbc51bad092b86af8788ac4031&)
-  - [iOS](https://cdn.discordapp.com/attachments/1161625110843768834/1182683865479909457/newb-x-ios-renewed-CE-ios.zip?ex=65a146ae&is=658ed1ae&hm=cbed05f7c762ee0419a4d9a82458624e343230cbf4f2549892d334b90a8df97a&)
-  - [WIndows](https://cdn.discordapp.com/attachments/1161625110843768834/1182683864641048667/newb-x-renewed-CE-windows.mcpack?ex=65a146ae&is=658ed1ae&hm=dd5c0c3db6173fdeae9cee4a2348eacd9ed16cf37282880220506fb1f0e1c32f&)
+- 2024.01.08
+  - Normal
+    - [Andorid](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-android.mcpack)
+    - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
+    - [Windows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
+  - Chill
+    - [Andorid](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-android.mcpack)
+    - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-ios-materials.zip)
+    - [Windows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-windows.mcpack)
 
 <details>
 <summary> Show all versions </summary>
 
+- 2024.01.08 pre-release
+  - [Android](https://cdn.discordapp.com/attachments/1161625110843768834/1193749075561037865/newb-x-paretion-beta-android.mcpack?ex=65add876&is=659b6376&hm=8f5d38771e0ad31e292532051c085ba2577578e7e768ab1a0f08de3ee61c1df1&)
+  - [iOS](https://cdn.discordapp.com/attachments/1161625110843768834/1193749074889945128/newb-x-paretion-beta-ios-materials.zip?ex=65add876&is=659b6376&hm=c158ce2403481bc93883952af6d5032bfb3c78025ea2d9e400980422dde0bb4a&)
+  - [Widnows](https://cdn.discordapp.com/attachments/1161625110843768834/1193749074516643930/newb-x-paretion-beta-windows.mcpack?ex=65add876&is=659b6376&hm=9ec25ae5b465ae9e54a5cdfcf70d4a51662f15d1cf85cffbd04fe38d59494c94&)
+- 2024.01.07
+  - Normal
+    - [Android](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-android.mcpack)
+    - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
+    - [Widnows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
+  - Chill
+    - [Android](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-android.mcpack)
+    - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-ios-materials.zip)
+    - [Windows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-windows.mcpack)
+- 2024.01.06
+  - Normal
+    - [Android](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-android.mcpack)
+    - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
+    - [Windows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
+  - Chill
+    - [Android](https://cdn.discordapp.com/attachments/1161625110843768834/1182683865035317288/newb-x-renewed-CE-android.mcpack?ex=65a146ae&is=658ed1ae&hm=ce25a58b01eca2a17bb6baeb4499fd35939f72cbc51bad092b86af8788ac4031&)
+    - [iOS](https://cdn.discordapp.com/attachments/1161625110843768834/1182683865479909457/newb-x-ios-renewed-CE-ios.zip?ex=65a146ae&is=658ed1ae&hm=cbed05f7c762ee0419a4d9a82458624e343230cbf4f2549892d334b90a8df97a&)
+    - [Windows](https://cdn.discordapp.com/attachments/1161625110843768834/1182683864641048667/newb-x-renewed-CE-windows.mcpack?ex=65a146ae&is=658ed1ae&hm=dd5c0c3db6173fdeae9cee4a2348eacd9ed16cf37282880220506fb1f0e1c32f&)
 - [v15.20 e7](https://cdn.discordapp.com/attachments/1161625110843768834/1175625049571594250/Newb_X_Renewed_V15.20_e7.mcpack?ex=657e5e25&is=656be925&hm=557f32ef59e16d732b4b8e789f510cff44fbfbe000101d7f6a7386348f3b1a3a&)
 - [V15.20 e6](https://cdn.discordapp.com/attachments/1161625110843768834/1170586252509188106/Newb_X_Renewed_V15.20_e6.mcpack?ex=657e7e67&is=656c0967&hm=22e85114ba4cc59496780bd5abba48f09bbad577f53d92d4c897d5692cbb47a8&)
 - [water wave (patch) Released 1](https://cdn.discordapp.com/attachments/1161625110843768834/1169256503102951504/Newb_X_Renewed_water_wave_patch_R1.mcpack?ex=6579a7fa&is=656732fa&hm=96b394dc29d9b65681336005db34fdce1493633e4e0ea896e81bc1607e83af75&)
