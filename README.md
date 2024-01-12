@@ -1065,6 +1065,12 @@ https://github.com/ddf8196/RenderDragonData
 ### mcbe-shader-codebase
 https://github.com/Veka0/mcbe-shader-codebase
 
+<br/>
+<br/>
+
+### bgfx-mcbe
+https://github.com/ddf8196/bgfx-mcbe
+
 
 <br/>
 <br/>
