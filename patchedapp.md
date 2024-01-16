@@ -2,7 +2,7 @@ https://discord.gg/years-static-shader-group-738688684223889409
 Patched app is an APK file of Minecraft that includes the [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader) supported by the developer of the Years Static Shader.  
 With Materialbinloader, you can easily apply or remove the Render Dragon shader pack, which is compatible with it, as a resource pack.  
 
-
+Any Patched APP not labeled as 32bit is all 64bit.
 
 <br/>
 <br/>
