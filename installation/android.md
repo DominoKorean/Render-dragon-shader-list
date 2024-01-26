@@ -11,6 +11,8 @@
 
 MaterialBinLoader is a program that allows you to load the shader file material.bin as a resource pack, similar to the existing HAL engine. While you can modify the Minecraft APK file and install it directly, it is more convenient to install the APK of the Patched APP prepared in advance by developer [@ENDERMANYK](https://github.com/ENDERMANYK). You can download the Patched APP from this location: [Patched APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md).
 
+If your phone uses 32-bit, it may not work. Check the model of your phone and install the Patched APP.
+
 ## Manual Installation
 
 If MaterialBinLoader is not supported, you will need to modify the Minecraft render file directly. During this process, reinstalling Minecraft will be necessary, so please make sure to [back up](#백업) your Minecraft before proceeding.

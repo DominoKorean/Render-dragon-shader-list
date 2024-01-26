@@ -4,6 +4,8 @@ With Materialbinloader, you can easily apply or remove the Render Dragon shader 
 
 Any Patched APP not labeled as 32bit is all 64bit.
 
+[What is 64, 32bit?](installation/android)
+
 <br/>
 <br/>
 <br/>
@@ -39,5 +41,5 @@ Any Patched APP not labeled as 32bit is all 64bit.
 * [1.20.50.21_arm64_v8a_patched](https://download2390.mediafire.com/sb2l0vri80ig7Cs_pzhemU6NQR6uqtZ0G27zLw0WvjRl6JNSM0XiSC_ssNhVPTKKgmKNcTpq1H9oAv6dodaBFNg89feNrP9INlPWqFoJPuBcs4GcU_t2d3ENPmqfbGXnEXdFaWAZEkRSTfxYaPpnzYY83cIhhsVqzO69sjXSxw/gwrf0tf6f0dgjvj/1.20.50.21_arm64_v8a_patched.apk) (Preview Version)
 * [1.20.40.01_arm64_v8a_patched](https://download2434.mediafire.com/ydujuynzz76ghooJF8iQOwA1vIY35rhSOlzOprpc_NTf2HmUzF9gNf5gsPo3iz31ZLT3vPiV_y27AElWE6rodgS8WWdxS3bDWrJOssCbZdGXgF70PS-hYphBjsKJ822MpuMMVjgSVp96EXs4GMjFu2hOeT5ErnP5qiMf-IRvSg/olatjslsodtp9nk/1.20.40.01_arm64_v8a_patched.apk)
 * [1.20.41.02_arm64_v8a_patched](https://download2391.mediafire.com/c6gdbcv0jeqgNaGwGVOXqur2W2qehRvg2vZpG6rufpxszrULg9uiXlwAMSWY1KXlLt7v2SwVAeGudQxyPSBNct8wczEyydLKHlm2fUHHvYPtBcecaLqVYOa-tO3sO4z0HTB-5tASe5XNmtOFLDqpbj5YnGks94AFMgx_pqqp_w/eyhdpgboshmwlq1/1.20.41.02_arm64_v8a_patched.apk)
-* [1.20.51.01_arm64_v8a_patched](https://yss.minecraft.pe/PatchAPP/1.20.50%20Release/1.20.51.01_arm64_v8a_patched.apk)
+* [1.20.51.01_arm64_v8a_patched](https://download2392.mediafire.com/coem6ymgxfygfcRFa4iXylTTONHDJAtthN5qRWuXPRI54XxjQXgOa6zyAsEAevfPnufE2GlgpZB_WeTY512HFHEVn3ZnDXBz_rISWV8wKo3DNzM4Qxc88ouj1IJf8wkRROb6VbcSqQk_7tI17MHV0S4t89TdtbLi3HDZmcTDFg/pplk51uj3cflkv2/1.20.51.01_arm64_v8a_patched.apk)
 * [1.20.51.01_arm32_v7a_patched](https://download2435.mediafire.com/35m0ztyd63sgmnPRgKzXddVuCuHNZvFyvPUp-2ZK9gkumaOQD31f0b0QMp04ZQLgMIA4ZNi3ib1phB73_j838Vzjurt5a0k_iqLB6UI6wJoMHnx3PjYUsENoiWT1DnqSU5GiD--CGAAPOeagOqO_RiRXelv_PEiysGOBu1GYf1JenVM/f6qaggi56jn8tk9/1.20.51.01_arm32_v7a_patched.apk) (32 bit)

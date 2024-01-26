@@ -1037,6 +1037,12 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 
 <br/>
 
+### RenderDragon Shaders - Docs
+https://devendrn.github.io/renderdragon-shaders/docs/start.html
+
+<br/>
+<br/>
+
 ### ShaderLABS
 https://discord.gg/RpzWN9S  
 ShaderLABS is a community where developers and users involved in the graphics of Minecraft, including shader packs, resource packs, and mods, gather.  
@@ -1082,8 +1088,3 @@ https://github.com/ddf8196/bgfx-mcbe
 
 ### Renderdragon Shader Installation
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
-
-<br/>
-
-### BetterRTX : Realistic RTX (TheBlackDragon's Edit) User Requests
-https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/RealisticRTX_request.md
