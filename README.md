@@ -5,8 +5,6 @@
 - [Renderdragon Shader Installation](installation/README.md)
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=DominoKoreanf&repo=Render-dragon-shader-list&countColor=%1616167A)
-
 <br/>
 
 - [Korean / 한국어](README_kr.md)
