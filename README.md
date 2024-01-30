@@ -621,6 +621,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/IPA-0A84E1?style=flat-square&logo=Appstore)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
@@ -640,7 +641,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
   - [iOS Materials](https://cdn.discordapp.com/attachments/1127879378378969088/1199570927218856017/newb-x-15.20-ios-materials.zip?ex=65c3067b&is=65b0917b&hm=24dd4c5cd3316553b217bdf46abc1cfe1b116dfd9534b4e30dde04faf7f79c40&)
 
 - [v15.15](https://discord.com/channels/844591537430069279/1127879378378969088/1178747874977259570)
-  - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1178747874234876105/newb-x-15.15-android.mcpack?ex=65c11981&is=65aea481&hm=bcf308e2d656ed89b2fb46739542c5dbd163bc0e391e2f209b3b27ed840d8136&)
+  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1178747874234876105/newb-x-15.15-android.mcpack?ex=65c11981&is=65aea481&hm=bcf308e2d656ed89b2fb46739542c5dbd163bc0e391e2f209b3b27ed840d8136&)
   - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1178747873848991854/newb-x-15.15-windows.mcpack?ex=65c11981&is=65aea481&hm=ce32f0c742ca97b8b02aace8178da4a7255d5ac0d53b1f7c79b132f3dba0a2f9&)
   - [iOS Materials](https://cdn.discordapp.com/attachments/1127879378378969088/1178747874570407936/newb-x-15.15-ios-materials.zip?ex=65c11981&is=65aea481&hm=ec39c66994d7921e8c57304a7f646c233f15db8440c00b8f7c6323244d81ce7f&)
 
@@ -649,7 +650,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
   - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1157635358318657636/newb-x-15.10-windows.mcpack?ex=65c75971&is=65b4e471&hm=8dd6e84c25bb2329c8c5a3bc72952a56c9101abc99ffdec11c6d83ee2e5583c2&)
 
 - [v15.1](https://discord.com/channels/844591537430069279/1127879378378969088/1155538579649478658)
-  - [Andopoid](https://cdn.discordapp.com/attachments/1127879378378969088/1157635357681135617/newb-x-15.10-android.mcpack?ex=65c75971&is=65b4e471&hm=496c57adb50dee38b98d9804c226ff23df5882169ec3572fe997bb6254232646&)
+  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1157635357681135617/newb-x-15.10-android.mcpack?ex=65c75971&is=65b4e471&hm=496c57adb50dee38b98d9804c226ff23df5882169ec3572fe997bb6254232646&)
   - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1155538578936438794/newb-x-15.1-windows.mcpack?ex=65c8f32a&is=65b67e2a&hm=5c0829fb572e005c0570f86799dbe9dfb7d9c2767d9e782f5decb824b2d2eb86&)
 
 </details>
@@ -733,7 +734,6 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 </details>
 
-<br/>
 
 #### newb virants
 [![](/banners/newb%20variant/newb%20virant.png)](/newb_virants.md)

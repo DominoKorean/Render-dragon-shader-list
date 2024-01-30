@@ -23,11 +23,15 @@ https://discord.gg/newb-community-844591537430069279
 
 
 ## Newb X Zalegz
-[![](/banners/newb%20variant/Newb%20X%20Zalegz.png)](https://discord.com/channels/844591537430069279/1168098142613417985)
+[![](/banners/newb%20variant/Newb%20X%20Zalegz.png)](https://discord.com/channels/844591537430069279/1168098142613417985)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 
 <br/>
 
-- [16.0 Andorid](https://cdn.discordapp.com/attachments/1168098142613417985/1198550653384011816/Newb-X-ZalegzAndriod-16.0b1.mcpack?ex=65c88ac7&is=65b615c7&hm=8b9e051590b3807d4dd0e417b9eb76f52f141ede303fa87f1226307f71b1eebf&)
+- [16.0 Android](https://cdn.discordapp.com/attachments/1168098142613417985/1198550653384011816/Newb-X-ZalegzAndriod-16.0b1.mcpack?ex=65c88ac7&is=65b615c7&hm=8b9e051590b3807d4dd0e417b9eb76f52f141ede303fa87f1226307f71b1eebf&)
 
 <details>
 <summary> Show all versions </summary>
@@ -56,7 +60,11 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Nostalgia
-[![](/banners/newb%20variant/Newb%20X%20Nostalgia.png)](https://discord.com/channels/844591537430069279/1162254556697210952)
+[![](/banners/newb%20variant/Newb%20X%20Nostalgia.png)](https://discord.com/channels/844591537430069279/1162254556697210952)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 
 <br/>
 
@@ -83,7 +91,9 @@ https://discord.gg/newb-community-844591537430069279
 
 
 ## Improved Newb X Legacy
-[![](/banners/newb%20variant/Improved%20Newb%20X%20Legacy.png)](https://discord.com/channels/844591537430069279/1163421396634980443)
+[![](/banners/newb%20variant/Improved%20Newb%20X%20Legacy.png)](https://discord.com/channels/844591537430069279/1163421396634980443)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 
 <br/>
 
@@ -103,7 +113,10 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Legacy More Improvement
-[![](/banners/newb%20variant/Newb%20X%20Legacy%20More%20Improvement.png)](https://discord.com/channels/844591537430069279/1165187716779085917)
+[![](/banners/newb%20variant/Newb%20X%20Legacy%20More%20Improvement.png)](https://discord.com/channels/844591537430069279/1165187716779085917)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
@@ -118,13 +131,13 @@ https://discord.gg/newb-community-844591537430069279
 - [2024.01.05](https://cdn.discordapp.com/attachments/1165187716779085917/1192597613418135615/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a9a814&is=65973314&hm=282bad90a7d2ad4e891b976734738756f89794a67b4997644a50b2f95996eb4b&)
 - [2024.01.04 Windows bug fixed (mybe)](https://cdn.discordapp.com/attachments/1165187716779085917/1192445665331130418/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a91a91&is=6596a591&hm=4e55a787222a75dd6db5556deeed9df69bfe5497b443a561a5d97e26cabcf5fd&)
 - 2024.01.04
-  - [Andorid](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712217767997/Android_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=e8eb78268ddec2622ece7d9819c3cbbcafa520d301261d4869372b2cfc7c507f&)
+  - [Android](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712217767997/Android_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=e8eb78268ddec2622ece7d9819c3cbbcafa520d301261d4869372b2cfc7c507f&)
   - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712494583868/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=53cebbb1955eef3546aeb8e2c380f6902567a2cfaba02d917a60db5dc3d30543&)
 
 - [2024.01.05](https://cdn.discordapp.com/attachments/1165187716779085917/1192597613418135615/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a9a814&is=65973314&hm=282bad90a7d2ad4e891b976734738756f89794a67b4997644a50b2f95996eb4b&)
 - [2024.01.04 Windows bug (mybe)](https://cdn.discordapp.com/attachments/1165187716779085917/1192445665331130418/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a91a91&is=6596a591&hm=4e55a787222a75dd6db5556deeed9df69bfe5497b443a561a5d97e26cabcf5fd&)
 - 2024.01.04
-  - [Andorid](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712217767997/Android_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=e8eb78268ddec2622ece7d9819c3cbbcafa520d301261d4869372b2cfc7c507f&)
+  - [Android](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712217767997/Android_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=e8eb78268ddec2622ece7d9819c3cbbcafa520d301261d4869372b2cfc7c507f&)
   - [Windows](https://cdn.discordapp.com/attachments/1165187716779085917/1192361712494583868/Windows_Newb_X_Legacy_More_Improvement_beta-A1.mcpack?ex=65a8cc61&is=65965761&hm=53cebbb1955eef3546aeb8e2c380f6902567a2cfaba02d917a60db5dc3d30543&)
 - 2024.01.01
   - [Android](https://cdn.discordapp.com/attachments/1165187716779085917/1191298625251315822/Android_Newb_X_Legacy_More_Improvement.mcpack?ex=65a4ee4d&is=6592794d&hm=9a6c92a42b5ef63f9255ba1305c958eaa29add0771ee55452905e1580084cd76&)
@@ -153,7 +166,12 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Supplementary
-[![](/banners/newb%20variant/Newb%20X%20Supplementary.png)](https://github.com/IndeedItzGab/Newb-X-Supplementary/tree/main)
+[![](/banners/newb%20variant/Newb%20X%20Supplementary.png)](https://github.com/IndeedItzGab/Newb-X-Supplementary/tree/main)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/IPA-0A84E1?style=flat-square&logo=Appstore)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
@@ -216,17 +234,21 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Paretion shader
-[![](/banners/newb%20variant/Newb%20X%20Renewed.png)](https://discord.com/channels/844591537430069279/1161625110843768834)
+[![](/banners/newb%20variant/Newb%20X%20Renewed.png)](https://discord.com/channels/844591537430069279/1161625110843768834)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
 - 2024.01.08
   - Normal
-    - [Andorid](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-android.mcpack)
+    - [Android](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-android.mcpack)
     - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
     - [Windows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
   - Chill
-    - [Andorid](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-android.mcpack)
+    - [Android](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-android.mcpack)
     - [iOS](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-ios-materials.zip)
     - [Windows](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-windows.mcpack)
 
@@ -275,7 +297,11 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Legacy - Always Reflection Edition
-[![](/banners/newb%20variant/Newb%20X%20Legacy%20-%20Always%20Reflection%20Edition.png)](https://always-reflection.vercel.app/)
+[![](/banners/newb%20variant/Newb%20X%20Legacy%20-%20Always%20Reflection%20Edition.png)](https://always-reflection.vercel.app/)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
 
 <br/>
 
@@ -287,7 +313,9 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## NewB X Untitled
-[![](/banners/newb%20variant/NewB%20X%20Untitled.png)](https://discord.com/channels/844591537430069279/1161645870253621279)
+[![](/banners/newb%20variant/NewB%20X%20Untitled.png)](https://discord.com/channels/844591537430069279/1161645870253621279)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
@@ -308,7 +336,9 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## NewB Reimagined
-[![](/banners/newb%20variant/NewB%20Reimagined.png)](https://discord.com/channels/844591537430069279/1173214578881085480)
+[![](/banners/newb%20variant/NewB%20Reimagined.png)](https://discord.com/channels/844591537430069279/1173214578881085480)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
@@ -325,7 +355,9 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Utitaretion
-[![](/banners/newb%20variant/Newb%20X%20Utitaretion.png)](https://github.com/MKGamer345/Download-Newb-X-Utitaretion-shader)
+[![](/banners/newb%20variant/Newb%20X%20Utitaretion.png)](https://github.com/MKGamer345/Download-Newb-X-Utitaretion-shader)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 - [Download](https://github.com/MKGamer345/Download-Newb-X-Utitaretion-shader/blob/main/Download.md)
 
@@ -333,7 +365,12 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X NoRH Shader
-[![](/banners/newb%20variant/Newb%20X%20NoRH%20Shader.png)](https://discord.com/channels/844591537430069279/1197599885931859978)
+[![](/banners/newb%20variant/Newb%20X%20NoRH%20Shader.png)](https://discord.com/channels/844591537430069279/1197599885931859978)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/IPA-0A84E1?style=flat-square&logo=Appstore)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 - 2024.01.27
   - [Andoroid](https://cdn.discordapp.com/attachments/1197599885931859978/1200783957986398328/newb-x-norh-android.mcpack?ex=65c77035&is=65b4fb35&hm=8c6af1d19ed664f61025008338b92e624d7fd2c4b3d8a6f3eb78e3486fea426d&)
@@ -346,14 +383,14 @@ https://discord.gg/newb-community-844591537430069279
 <summary> Show all versions </summary>
 
 - 2024.01.19
-  - [Andorid](https://cdn.discordapp.com/attachments/1197599885931859978/1198612214400172173/newb-x-norh-android.mcpack?ex=65bf899d&is=65ad149d&hm=f4f4c205bc80017d9fcc7379abd4c2d565501b1a6cef81d8f2d1c5bad09720cc&)
+  - [Android](https://cdn.discordapp.com/attachments/1197599885931859978/1198612214400172173/newb-x-norh-android.mcpack?ex=65bf899d&is=65ad149d&hm=f4f4c205bc80017d9fcc7379abd4c2d565501b1a6cef81d8f2d1c5bad09720cc&)
   - iOS
     - [Materials](https://cdn.discordapp.com/attachments/1197599885931859978/1198612629095190629/Newb-X-NoRH-ios-materials.zip?ex=65bf89ff&is=65ad14ff&hm=43c04b93fbb8e2a625ec8076d4044205ba1d86ef463a5c87d00b0f1689450c50&)
     - [Shader](https://cdn.discordapp.com/attachments/1197599885931859978/1198612629468487690/Newb-X-NoRH-ios-pack.mcpack?ex=65bf8a00&is=65ad1500&hm=c86cbd26dd6588d7e012de5ec5e94c197c5222d4223cd83dfd4c8f508c9b4f2f&)
     - [IPA](https://www.mediafire.com/file/8azravnalnae1kf/Minecraft+NewbXNoRH.ipa/file)
   - [Windows](https://cdn.discordapp.com/attachments/1197599885931859978/1198612723685130270/Newb-X-NoRH-windows.mcpack?ex=65bf8a16&is=65ad1516&hm=a00fb196a0e4b7eb79b231e5054b4cedd872d65b6c6d4b42a10e604359215706&)
 - 2024.01.19
-  - [Andorid](https://cdn.discordapp.com/attachments/1197599885931859978/1197600764714029167/newb-x-norh-android.mcpack?ex=65c51620&is=65b2a120&hm=dcf3a5189733fd0b6489a28fcdeef24b345e14229e970e9d396a7f77e95298f0&)
+  - [Android](https://cdn.discordapp.com/attachments/1197599885931859978/1197600764714029167/newb-x-norh-android.mcpack?ex=65c51620&is=65b2a120&hm=dcf3a5189733fd0b6489a28fcdeef24b345e14229e970e9d396a7f77e95298f0&)
 
 </details>
 
@@ -361,14 +398,16 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb X Remaining
-[![](/banners/newb%20variant/Newb%20X%20Remaining.png)](https://discord.com/channels/844591537430069279/1200711882013691916)
+[![](/banners/newb%20variant/Newb%20X%20Remaining.png)](https://discord.com/channels/844591537430069279/1200711882013691916)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
-- [v15 - 2.0 Andorid](https://cdn.discordapp.com/attachments/1200711882013691916/1200790212503162970/newb_x_remaining_android.mcpack?ex=65c77608&is=65b50108&hm=e37c7b083a8576f1b9e351f6be48b52001be6787a0d787a72074e27f886ed908&)
+- [v15 - 2.0 Android](https://cdn.discordapp.com/attachments/1200711882013691916/1200790212503162970/newb_x_remaining_android.mcpack?ex=65c77608&is=65b50108&hm=e37c7b083a8576f1b9e351f6be48b52001be6787a0d787a72074e27f886ed908&)
 
 <details>
 <summary> Show all versions </summary>
 
-- [v15 - 1.0 Andorid](https://cdn.discordapp.com/attachments/1200711882013691916/1200712263594692619/newb_x_remaining_android_test.mcpack?ex=65c72d6f&is=65b4b86f&hm=1f27ae78e845d3ca8a327300d587d9bc5755542c8538a19efdce365d673d40fc&)
+- [v15 - 1.0 Android](https://cdn.discordapp.com/attachments/1200711882013691916/1200712263594692619/newb_x_remaining_android_test.mcpack?ex=65c72d6f&is=65b4b86f&hm=1f27ae78e845d3ca8a327300d587d9bc5755542c8538a19efdce365d673d40fc&)
 
 </details>
 
@@ -377,6 +416,8 @@ https://discord.gg/newb-community-844591537430069279
 
 ## Newb X Dentral
 [![](/banners/newb%20variant/Newb%20X%20Dentral.png)](https://discord.com/channels/844591537430069279/1198975172292661298)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 - [1.2](https://cdn.discordapp.com/attachments/1198975172292661298/1201086324061507604/Newb-x-Dentral-v1.2_android.mcpack?ex=65c889ce&is=65b614ce&hm=576ec125369577d6812b15950fe119c52c45d3576974ab6a148c90f390e23d66&)
 
@@ -384,7 +425,7 @@ https://discord.gg/newb-community-844591537430069279
 <summary> Show all versions </summary>
 
 - [1.1](https://cdn.discordapp.com/attachments/1198975172292661298/1199289027623403530/Newb_x_Dentral_v1.1_android.mcpack?ex=65c1fff1&is=65af8af1&hm=f37997c3e4430149fbe5d11de4cc3bef49a92739eb8681b98de6ad0f42bd3d1e&)
-- [2024.01.22 Andorid](https://cdn.discordapp.com/attachments/1198975172292661298/1198975695683059763/Newb_x_Dentral_android.mcpack?ex=65ca16a1&is=65b7a1a1&hm=fa62f24ae97fa6eb24efaeaf137bef395d1e31f935ef0d2561fca7d4d10d391a&)
+- [2024.01.22 Android](https://cdn.discordapp.com/attachments/1198975172292661298/1198975695683059763/Newb_x_Dentral_android.mcpack?ex=65ca16a1&is=65b7a1a1&hm=fa62f24ae97fa6eb24efaeaf137bef395d1e31f935ef0d2561fca7d4d10d391a&)
 
 </details>
 
@@ -398,6 +439,10 @@ https://discord.gg/newb-community-844591537430069279
 
 ## Trailer shader(Newb X Trailer)
 [![](/banners/newb%20variant/Trailer%20shader(Newb%20X%20Trailer).png)](https://discord.com/channels/844591537430069279/1170572151863115836)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
