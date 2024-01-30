@@ -621,9 +621,9 @@ https://github.com/Rinloid/reflective-vanilla-rd
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/IPA-0A84E1?style=flat-square&logo=Appstore)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
+![](https://img.shields.io/badge/IPA-white?style=flat-square&logo=Appstore)
 
  <br/>
 

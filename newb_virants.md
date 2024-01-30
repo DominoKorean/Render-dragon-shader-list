@@ -169,9 +169,9 @@ https://discord.gg/newb-community-844591537430069279
 [![](/banners/newb%20variant/Newb%20X%20Supplementary.png)](https://github.com/IndeedItzGab/Newb-X-Supplementary/tree/main)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/IPA-0A84E1?style=flat-square&logo=Appstore)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
+![](https://img.shields.io/badge/IPA-white?style=flat-square&logo=Appstore)
 
 <br/>
 
@@ -368,9 +368,9 @@ https://discord.gg/newb-community-844591537430069279
 [![](/banners/newb%20variant/Newb%20X%20NoRH%20Shader.png)](https://discord.com/channels/844591537430069279/1197599885931859978)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/IPA-0A84E1?style=flat-square&logo=Appstore)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
+![](https://img.shields.io/badge/IPA-white?style=flat-square&logo=Appstore)
 
 - 2024.01.27
   - [Andoroid](https://cdn.discordapp.com/attachments/1197599885931859978/1200783957986398328/newb-x-norh-android.mcpack?ex=65c77035&is=65b4fb35&hm=8c6af1d19ed664f61025008338b92e624d7fd2c4b3d8a6f3eb78e3486fea426d&)
