@@ -752,11 +752,14 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [1.3.0](https://download2302.mediafire.com/sb5dd4blqpygLSBmmMbFkoGacR-azQoM5vCi0Om5idyqZ8-2ntBJ1rSWk7pjb09VbtyH4a96IWHVOdpkeFFWN8hmvpSXo2zjkx9DEAgJ8qgdKnh8L603AiG0p7Yke7mc1XUfctCvl9-ggw7EIP-EdSlWhOlM9BU-4aWbe9Ecpg/b8qrtuagoiak2g6/AziFy-Revive%21-v1.3.0.zip)
+- 1.4.0 (Ad link exists)
+  - [Ultra](https://linkvertise.com/1015125/azify-revive4?o=sharing)
+  - [Medium](https://linkvertise.com/1015125/azify-revive3?o=sharing)
 
 <details>
 <summary> Show all versions </summary>
 
+- [1.3.0](https://download2302.mediafire.com/sb5dd4blqpygLSBmmMbFkoGacR-azQoM5vCi0Om5idyqZ8-2ntBJ1rSWk7pjb09VbtyH4a96IWHVOdpkeFFWN8hmvpSXo2zjkx9DEAgJ8qgdKnh8L603AiG0p7Yke7mc1XUfctCvl9-ggw7EIP-EdSlWhOlM9BU-4aWbe9Ecpg/b8qrtuagoiak2g6/AziFy-Revive%21-v1.3.0.zip)
 - [v1.2.9](https://download2273.mediafire.com/ecaluejigi7giaqzICvXuQSnSF8mFuX3mdFNlVWQoaI2a1bSC55p7dke1DXhWA4t9VU80j4EPlFMy7yZ6BPEpI8lBoSsu3IxlqoGTJR3RsSaMu31TNx7EXDknQ2-C1hcWhovyoC9Y9dRxMBLf0sihDoeD77sQLORAypGmlMHyA/wgr43a4g59sghdv/Azify+RD+v1.2.9.zip)
 - [1.0](https://download2290.mediafire.com/szxxaz5xt6pgf0Wt9VxYLIvZjO4J0-R0LlyfiOQLuJdoGiDQO5Age4U3yVNCY9nY2aMlDN5kqDa6XY1MpcJnsmZYJNJAim4lfuAtb-XpfenFsEAVDpI8JYDLgCR7Sm6RjsFxqlH7Gl2trOQ-QvkHOlxA7tQjIu9rt7ipojpHCg/ub4r0u1dy5dbr17/Revive+AziFy+v1.0+RD.mcpack)
 
@@ -813,13 +816,20 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Truly Default
-[![](/banners/Truly%20Default.png)](https://youtu.be/XvLuxATC51M?si=1HKPDbHE9KOfEEv0)
+[![](/banners/Truly%20Default.png)](https://youtu.be/VxQfcZZ8Tf0?si=Soo2dg80jpjxnc9C)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
-- [v1.0](https://www.mediafire.com/file/cr9mzblplifr4be/Truly_Default-1.0.mcpack#)
+- [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) (Ad link exists)
+
+<details>
+<summary> Show all versions </summary>
+
+- [v1.0](https://linkvertise.com/1015125/truly-default-ultra?o=sharing) (Ad link exists)
+
+</details>
 
 <br/>
 <br/>
@@ -982,11 +992,12 @@ https://www.youtube.com/@KinKaren
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonFullBright  
 
-  - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
+- [2.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v2.0.0/RenderDragonFullBright-v2.0.0.zip)
 
 <details>
 <summary> Show all versions </summary>
 
+  - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
   - [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
 
 </details>
@@ -1001,12 +1012,14 @@ https://github.com/Furzide/RenderDragonFullBright
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonFogRemover  
 
-  - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
+- [3.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.1.0/RenderDragonFogRemover.3.1.0.zip)
 
 <details>
 <summary> Show all versions </summary>
 
-  - [1.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v1.1.0/RenderDragonNoFog_1.1.0.zip)
+- [3.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.0.0/RenderDragonNoFog-v3.0.0.zip)
+- [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
+- [1.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v1.1.0/RenderDragonNoFog_1.1.0.zip)
 
 </details>
 
@@ -1020,12 +1033,13 @@ https://github.com/Furzide/RenderDragonFogRemover
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonCubemapFix
 
-  - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
+- [2.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.0.0/RD.Cubemap.Fix.2.0.0.zip)
 
 <details>
 <summary> Show all versions </summary>
 
-  - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
+- [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
+- [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
 
 </details>
 
@@ -1040,7 +1054,7 @@ https://github.com/Furzide/RenderDragonCubemapFix
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/HD%20Font%20Fix/README.md)  
 https://github.com/GameParrot/mcpe-hdfont-fix
 
-  - [v1.0.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
+  - [v1.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
     - [Android](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Android.mcpack)
     - [Windows](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Windows.mcpack)
 
@@ -1053,9 +1067,7 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Ringo/README.md)  
 https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 
-  - [1.0](https://www.mediafire.com/folder/iix1tnqyymssy/Glow+em+all+v1.0)
-    - [No Cave Brighter](https://download2301.mediafire.com/u4avtu5m52hgkIP0Q_Z3CF34Kf_IgYBmyNuzisMRs7VhigRoAM1Wixlf3mccdbFv2a1Yhr9MNLsT0ptvyIy82p18RiU5PonIEUdoNqJL-QDP0hYOFq6HBRe8pMEZ2zLNmKHZ1NFGepi7kYxcprC_FwIyP6TxA9wgOSLD7uvRSg/4p37dyo0ullv4y9/GEA+-+No+Cave+Brighter.mcpack)
-    - [With Cave Brighter](https://download2267.mediafire.com/oymhtyb5wjdg3c0xjUu01RaKGX_4bvlwjYKbYX3nHUBNQL0mf9-wn7XTnqsUTrU9PADQchc5EVoS6QgQSnQTW3LNJO5U-g1qHAMGQtBmxpvzFK1DHlun2_dOYCZZR8CoYT-_-h-SCw60Nf8aRN8Gcx_zRDDlz3D5IY7uzc6KsQ/hhr1lphjeo2p42r/GEA+-+With+Cave+Brighter.mcpack)
+  - [1.0](https://linkvertise.com/1015125/glow-em-all?o=sharing)
 
 <br/>
 <br/>
