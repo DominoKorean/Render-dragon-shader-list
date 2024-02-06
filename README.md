@@ -745,7 +745,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### AziFy Revive
-[![](/banners/AziFy%20Revive.png)](https://youtu.be/jsZ0yC8dzuw?si=6DCpBmOe9LKBQ1wv)
+[![](/banners/AziFy%20Revive.png)](https://youtu.be/syNnpGMhDss?si=x7sIPwvxKazpBhmI)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Azi%20Angelo/AziFy%20Revive/README..md)  
@@ -759,9 +759,9 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <details>
 <summary> Show all versions </summary>
 
-- [1.3.0](https://download2302.mediafire.com/sb5dd4blqpygLSBmmMbFkoGacR-azQoM5vCi0Om5idyqZ8-2ntBJ1rSWk7pjb09VbtyH4a96IWHVOdpkeFFWN8hmvpSXo2zjkx9DEAgJ8qgdKnh8L603AiG0p7Yke7mc1XUfctCvl9-ggw7EIP-EdSlWhOlM9BU-4aWbe9Ecpg/b8qrtuagoiak2g6/AziFy-Revive%21-v1.3.0.zip)
-- [v1.2.9](https://download2273.mediafire.com/ecaluejigi7giaqzICvXuQSnSF8mFuX3mdFNlVWQoaI2a1bSC55p7dke1DXhWA4t9VU80j4EPlFMy7yZ6BPEpI8lBoSsu3IxlqoGTJR3RsSaMu31TNx7EXDknQ2-C1hcWhovyoC9Y9dRxMBLf0sihDoeD77sQLORAypGmlMHyA/wgr43a4g59sghdv/Azify+RD+v1.2.9.zip)
-- [1.0](https://download2290.mediafire.com/szxxaz5xt6pgf0Wt9VxYLIvZjO4J0-R0LlyfiOQLuJdoGiDQO5Age4U3yVNCY9nY2aMlDN5kqDa6XY1MpcJnsmZYJNJAim4lfuAtb-XpfenFsEAVDpI8JYDLgCR7Sm6RjsFxqlH7Gl2trOQ-QvkHOlxA7tQjIu9rt7ipojpHCg/ub4r0u1dy5dbr17/Revive+AziFy+v1.0+RD.mcpack)
+- [1.3.0](https://linkvertise.com/1015125/azify-revive?o=sharing) (Ad link exists)
+- [v1.2.9](https://linkvertise.com/381213/azify-revive?o=sharing) (Ad link exists)
+- [1.0](https://linkvertise.com/381213/revive-azify1?o=sharing) (Ad link exists)
 
 </details>
 
