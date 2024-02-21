@@ -737,7 +737,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 
 #### newb virants
-[![](/banners/newb%20variant/newb%20virant.png)](/newb_virants.md)
+> [![](/banners/newb%20variant/newb%20virant.png)](/newb_virants.md)
 
 <br/>
 <br/>

@@ -4,6 +4,9 @@ List of modified versions of Newb X Legacy.
 If the OS is not specified, it is for Android only.  
 https://discord.gg/newb-community-844591537430069279
 
+> [!NOTE]
+> This list is now managed exclusively through Pull Requests.
+
 - [newb virants](#newb-virants)
   - [Newb X Zalegz](#newb-x-zalegz)
   - [Newb X Nostalgia](#newb-x-nostalgia)
