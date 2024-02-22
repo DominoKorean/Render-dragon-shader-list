@@ -47,7 +47,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [Innovative Shader for BE](#innovative-shader-for-be)
   - [Darkfall BE](#darkfall-be)
   - [Newb X Legacy](#newb-x-legacy)
-    - [newb virants](#newb-virants)
+    - [newb variants](#newb-variants)
   - [AziFy Revive](#azify-revive)
   - [AziFy Reimagined](#azify-reimagined)
   - [AziFy EnDefault](#azify-endefault)
@@ -736,8 +736,8 @@ https://github.com/Rinloid/reflective-vanilla-rd
 </details>
 
 
-#### newb virants
-> [![](/banners/newb%20variant/newb%20virant.png)](/newb_virants.md)
+#### newb variants
+> [![](/banners/newb%20variant/newb%20variant.png)](/newb_variants.md)
 
 <br/>
 <br/>
