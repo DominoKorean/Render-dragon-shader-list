@@ -126,8 +126,12 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/ddf8196/BetterRenderDragon  
 https://discord.gg/yss
+
+The versions listed below were uploaded on the YSS Discord.  
+For the latest version, refer to the GitHub repository.
+
 * [1.3.5](https://cdn.discordapp.com/attachments/1149409096936726680/1163817740784652429/BetterRenderDragon-1.3.5.zip?ex=6540f4bc&is=652e7fbc&hm=0389d4e8cdb35670538edefd7735336450f223538dacaa2a42b55b3bb3929a45&)
-* [1.3.6](https://cdn.discordapp.com/attachments/1149409096936726680/1169626525214179358/BetterRenderDragon-1.3.6-beta.zip?ex=65561696&is=6543a196&hm=cb84fb7f7e24f219f3d06b28d5894054c07810a20e81c6bcaae1a755a86f3366&)
+* [1.3.6 Beta](https://cdn.discordapp.com/attachments/1149409096936726680/1169626525214179358/BetterRenderDragon-1.3.6-beta.zip?ex=65561696&is=6543a196&hm=cb84fb7f7e24f219f3d06b28d5894054c07810a20e81c6bcaae1a755a86f3366&)
 
 <br/>
 <br/>
