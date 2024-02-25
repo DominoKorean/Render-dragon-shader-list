@@ -89,7 +89,6 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [bgfx-mcbe](#bgfx-mcbe)
 - [Docs](#docs)
   - [Renderdragon Shader Installation](#renderdragon-shader-installation)
-  - [BetterRTX : Realistic RTX (TheBlackDragon's Edit) User Requests](#betterrtx--realistic-rtx-theblackdragons-edit-user-requests)
 
 <br/>
 
