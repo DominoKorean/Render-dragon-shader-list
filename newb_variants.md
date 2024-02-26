@@ -18,7 +18,7 @@ https://discord.gg/newb-community-844591537430069279
   - [NewB Reimagined](#newb-reimagined)
   - [Newb X Utitaretion](#newb-x-utitaretion)
   - [Newb X NoRH Shader](#newb-x-norh-shader)
-  - [Newb X Remaining](#newb-x-remaining)
+  - [Newb Remaining](#newb-remaining)
   - [Newb X Dentral](#newb-x-dentral)
   - [Newb X Paretion shader](#newb-x-paretion-shader)
 - [Discontinued Shaders](#discontinued-shaders)
@@ -340,19 +340,14 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 <br/>
 
-## Newb X Remaining
+## Newb Remaining
 [![](/banners/newb%20variant/Newb%20X%20Remaining.png)](https://discord.com/channels/844591537430069279/1200711882013691916)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
-- [v15 - 2.0 Android](https://cdn.discordapp.com/attachments/1200711882013691916/1200790212503162970/newb_x_remaining_android.mcpack?ex=65c77608&is=65b50108&hm=e37c7b083a8576f1b9e351f6be48b52001be6787a0d787a72074e27f886ed908&)
-
-<details>
-<summary> Show all versions </summary>
-
-- [v15 - 1.0 Android](https://cdn.discordapp.com/attachments/1200711882013691916/1200712263594692619/newb_x_remaining_android_test.mcpack?ex=65c72d6f&is=65b4b86f&hm=1f27ae78e845d3ca8a327300d587d9bc5755542c8538a19efdce365d673d40fc&)
-
-</details>
+- [Download from Website](https://firmw4.github.io/newb-remaining/)
 
 <br/>
 <br/>
