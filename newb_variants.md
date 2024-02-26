@@ -341,7 +341,7 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 
 ## Newb Remaining
-[![](/banners/newb%20variant/Newb%20X%20Remaining.png)](https://discord.com/channels/844591537430069279/1200711882013691916)  
+[![](/banners/newb%20variant/Newb%20Remaining.png)](https://discord.com/channels/844591537430069279/1200711882013691916)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
