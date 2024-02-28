@@ -1,4 +1,4 @@
-https://discord.gg/years-static-shader-group-738688684223889409  
+https://yss.minecraft.pe/MinecraftPatched
 Patched app is an APK file of Minecraft that includes the [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader) supported by the developer of the Years Static Shader.  
 With Materialbinloader, you can easily apply or remove the Render Dragon shader pack, which is compatible with it, as a resource pack.  
 
@@ -43,3 +43,5 @@ Any Patched APP not labeled as 32bit is all 64bit.
 * [1.20.41.02_arm64_v8a_patched](https://download2391.mediafire.com/c6gdbcv0jeqgNaGwGVOXqur2W2qehRvg2vZpG6rufpxszrULg9uiXlwAMSWY1KXlLt7v2SwVAeGudQxyPSBNct8wczEyydLKHlm2fUHHvYPtBcecaLqVYOa-tO3sO4z0HTB-5tASe5XNmtOFLDqpbj5YnGks94AFMgx_pqqp_w/eyhdpgboshmwlq1/1.20.41.02_arm64_v8a_patched.apk)
 * [1.20.51.01_arm64_v8a_patched](https://download2392.mediafire.com/coem6ymgxfygfcRFa4iXylTTONHDJAtthN5qRWuXPRI54XxjQXgOa6zyAsEAevfPnufE2GlgpZB_WeTY512HFHEVn3ZnDXBz_rISWV8wKo3DNzM4Qxc88ouj1IJf8wkRROb6VbcSqQk_7tI17MHV0S4t89TdtbLi3HDZmcTDFg/pplk51uj3cflkv2/1.20.51.01_arm64_v8a_patched.apk)
 * [1.20.51.01_arm32_v7a_patched](https://download2435.mediafire.com/35m0ztyd63sgmnPRgKzXddVuCuHNZvFyvPUp-2ZK9gkumaOQD31f0b0QMp04ZQLgMIA4ZNi3ib1phB73_j838Vzjurt5a0k_iqLB6UI6wJoMHnx3PjYUsENoiWT1DnqSU5GiD--CGAAPOeagOqO_RiRXelv_PEiysGOBu1GYf1JenVM/f6qaggi56jn8tk9/1.20.51.01_arm32_v7a_patched.apk) (32 bit)
+* [1.20.70.20_arm32_arm64_patched](https://download1585.mediafire.com/qu1tk2v8h6xgoDsZhJ63rbJGjOL_lgFKOe_q8TSoPwpNvrKd0k5Sh2dqGc3WReIoqBki-EmAbvesg8Y6J41FYbB8X9VJaLOmuHoUs-YIJJboMkpDUgZRJ-ZpWrMX-zxl3jFM4eE9RkVHbqT-KlRA3RFWJ2MF0chr75wKqX-JwA/e6c54z0zr4eb18g/1.20.70.20_arm32_arm64_patched.apk) (Preview Version)
+* [1.20.60.04_arm32_arm64_patched](https://download2393.mediafire.com/dz2im2vh2gggcwDKfu4cCMzWXJYPXmiSk8Rj1sEfr259WSYalbTb0AU7HvgNjpFXKyLPAfoqms-fQArT-RiuW2fRaxRMJ1k458T3JxfoLLCD_YQ3el2qi5WW5EBsT7cLLx97nRWDDujxbPn-_ACX3W5KBtR40schpEPgbttocw/464olxxg76ng27d/1.20.60.04_arm32_arm64_patched..apk)

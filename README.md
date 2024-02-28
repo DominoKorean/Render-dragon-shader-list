@@ -193,7 +193,7 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <br/>
 
 ### YSS Special Edition
-[![](banners/YSS%20Special%20Edition.png)](https://discord.gg/yss)
+[![](banners/YSS%20Special%20Edition.png)](https://yss.minecraft.pe/home.html)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
