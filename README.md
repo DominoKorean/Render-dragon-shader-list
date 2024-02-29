@@ -193,14 +193,13 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <br/>
 
 ### YSS Special Edition
-[![](banners/YSS%20Special%20Edition.png)](https://yss.minecraft.pe/home.html)
+[![](banners/YSS%20Special%20Edition.png)](https://yss.minecraft.pe/YSS_SE/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Deferred-B200FF?style=flat-square)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 ![](https://img.shields.io/badge/Supported_MC_version-1.19.40_~-2d7a3e?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
-https://discord.gg/yss
 
 - 1.9.7.8 Beta
   - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1191885864641507378/YSS_SE_1.9.7.8_Android.mcpack?ex=65a71136&is=65949c36&hm=53fa713d48d623396c9b45e74485e10ba9ae4717d3f699795ba06a5b50cb51b0&)
@@ -347,7 +346,7 @@ https://github.com/luit04/OriginShaderDeferred
 <br/>
 
 ### YSS RD
-[![](banners/YSS%20RD.png)](https://discord.gg/yss)
+[![](banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
