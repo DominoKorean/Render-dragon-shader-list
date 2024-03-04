@@ -977,7 +977,7 @@ https://www.youtube.com/@KinKaren
 <br/>
 
 #### BetterRTX Edits
-[![](/banners/BetterRTX%20Edits/BetterRTX%20Edits.png)](/BetterRTX_Edits.md)
+> [![](/banners/BetterRTX%20Edits/BetterRTX%20Edits.png)](/BetterRTX_Edits.md)
 
 
 <br/>

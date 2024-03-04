@@ -1,3 +1,6 @@
+# 2023.08.31
+![](https://cdn.discordapp.com/attachments/1129180719499989122/1146573165615652874/image.png?ex=65f22978&is=65dfb478&hm=c2d7aa7e9a2d2ddf9558fda815ca994c4ceea3e2ee27b882d04bd90024350715&)
+
 # 2023.07.14
 ![](https://cdn.discordapp.com/attachments/1129180719499989122/1129180719722270740/image.png)
 ![](https://cdn.discordapp.com/attachments/1129180719499989122/1129180981237137458/image.png)
