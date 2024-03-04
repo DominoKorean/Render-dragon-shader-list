@@ -596,7 +596,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 
- <br/>
+<br/>
 
   - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
   - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
@@ -612,9 +612,24 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 
- <br/>
+<br/>
 
   - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
+
+<br/>
+<br/>
+
+## Shasvat Shader
+[![](/banners/Shasvat%20Shader.png)](https://magnificentshaders.home.blog/2024/02/23/shasvat-shader-v0-1/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+
+<br/>
+
+- V0.1
+  - [Extreme](https://download2278.mediafire.com/mduj447b1ewgMD7F_a6Enpp-6kQDDfHLz5QdF8h3e2xdVfWWaZ3fuIl1FqbZqZQXfmCXI5f7EfmGIeNpxBXxK5c82l_g_BgX8cnYPVFvYN44yDEUqH7boIEpS3HXDLI8ghozEG9RVEOCEEZQ1MhpyE-BE6IsNWBhFCb8nyEqQQ/r50o8ainbn81f0q/Shasvat+Shader+V0.1+%5BExtreme%5D.zip)
+  - [High](https://download2270.mediafire.com/xj2se3lf5ocgjnR_HdS0Eh2ySgHyDWUZlsgvHyIz6jo0hpvznvgDSQS5oCQojNUu-tS3Od_21mxFHXCa6qq4jgMaKuDRx5HtMoQdi4XCA5zJEHwqRqUUic-B4eT273aRg4g5lDENoLL4s5f2k6zsx8luluoCbwpXrzkDWaP9tw/77domjee8zc6pip/Shasvat+Shader+V0.1+%5BHigh%5D.zip)
+  - [Medium](https://download2275.mediafire.com/m2tfy7cydgfgYgvezGZ0fgb2fZSxEm3-YLxr9Lp8_jcViiwkAvs9WV1pf_2MV_pmlOAQN2BAQ7GFlAX0P0ytXVSvRZZ_9z6SnDU76rHsJiQhe7FJ7tvcJIVpj1hVUX78ZYgvDO6FmfUjw7UlvQUhu1vbN5mxpw6kgl5ZaWwyUA/k8hd4koldmuxmin/Shasvat+Shader+V0.1+%5BMedium%5D.zip)
 
 <br/>
 <br/>
@@ -633,10 +648,20 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <details>
 <summary> Show Beta versions </summary>
 
+[v15.27]
+  - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1211740253623160952/newb-x-15.27-android.mcpack?ex=65ef4c0d&is=65dcd70d&hm=6be3ee1fc0068be4f5f42542f0ec890da07b434191b8a0932e8f037a4b1fb4b2&)
+  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1211740253954777128/newb-x-15.27-ios-materials.zip?ex=65ef4c0d&is=65dcd70d&hm=e6eab61012ffaa90f28e154f779f1596c71e06b2bab1f4090b3e8286108983dd&)
+  - [iOS Materails](https://cdn.discordapp.com/attachments/1127879378378969088/1211740253954777128/newb-x-15.27-ios-materials.zip?ex=65ef4c0d&is=65dcd70d&hm=e6eab61012ffaa90f28e154f779f1596c71e06b2bab1f4090b3e8286108983dd&)
+
+- [v15.26]
+  - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1211306106329108561/newb-x-15.26-android.mcpack?ex=65f6f238&is=65e47d38&hm=7b5f85ea988f4340af725f06aaac79bd8edddd28c4ce00c936ef216734caac0c&)
+  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1211306107138736229/newb-x-15.26-windows.mcpack?ex=65f6f238&is=65e47d38&hm=1dafe180e48b586d139a5c66382c01298321c1f0b3766b094d4b069249b85518&)
+  - [iOS Materails](https://cdn.discordapp.com/attachments/1127879378378969088/1211306106807390218/newb-x-15.26-ios-materials.zip?ex=65f6f238&is=65e47d38&hm=8dd346868709cf2c7492118a605362d670f68db7e8d17f1095b9e56dc7408051&)
+
 - [v15.21](https://discord.com/channels/844591537430069279/1127879378378969088/1201107107869634590)
   - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1201107106850418718/newb-x-15.21-android.mcpack?ex=65c89d29&is=65b62829&hm=1c52540976da893b73bc7f1b1a560828ec0ee2f5a42ee36c7cf6d80ebcc37ecb&)
   - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1201107107546664990/newb-x-15.21-windows.mcpack?ex=65c89d29&is=65b62829&hm=c0298cf953806c685bd8a5f16252f27a521e0ee3ea59e9c67c574dc982112ba8&)
-  - [iOS Materail](https://cdn.discordapp.com/attachments/1127879378378969088/1201107107177582774/newb-x-15.21-ios-materials.zip?ex=65c89d29&is=65b62829&hm=74537a801ea20df13a945c0232ff8317d4f65aa7e9d563b18b07ac173c9b5441&)
+  - [iOS Materails](https://cdn.discordapp.com/attachments/1127879378378969088/1201107107177582774/newb-x-15.21-ios-materials.zip?ex=65c89d29&is=65b62829&hm=74537a801ea20df13a945c0232ff8317d4f65aa7e9d563b18b07ac173c9b5441&)
 
 - [v15.20](https://discord.com/channels/844591537430069279/1127879378378969088/1199570927638294609)
   - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1199570926803636294/newb-x-15.20-android.mcpack?ex=65c3067b&is=65b0917b&hm=879251233f1989fa7585e5ddf67dc1714d604a188c4dcc103b18707cf2e6df5c&)
@@ -754,12 +779,14 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- 1.4.0 (Ad link exists)
-  - [Ultra](https://linkvertise.com/1015125/azify-revive4?o=sharing)
-  - [Medium](https://linkvertise.com/1015125/azify-revive3?o=sharing)
+- [0.6](https://linkvertise.com/1015125/azify-rev-v06?o=sharing) (Ad link exists)
 
 <details>
 <summary> Show all versions </summary>
+
+- 1.4.0 (Ad link exists)
+  - [Ultra](https://linkvertise.com/1015125/azify-revive4?o=sharing)
+  - [Medium](https://linkvertise.com/1015125/azify-revive3?o=sharing)
 
 - [1.3.0](https://linkvertise.com/1015125/azify-revive?o=sharing) (Ad link exists)
 - [v1.2.9](https://linkvertise.com/381213/azify-revive?o=sharing) (Ad link exists)
@@ -947,6 +974,18 @@ https://www.youtube.com/@KinKaren
 <br/>
 
 - [Ringo Shaders RenderDragon](https://download2294.mediafire.com/79e20ize29lgb6tpo8p8x-iw-WtUOXsii6PuJ8A5qv4z2c8L1P01VQSAoumb1zP9CEXaoBbkF9Qym2e_WUUStmXwQ16ySRoC_HqE1JwtmaXvrwuzPYzjFBjDh0mK88f3NVYpT6yx5h_1uG8f3NQEdElFHtP4rFdsYvf6tLmBVA/shoyowcvn30pro3/Ringo+Shaders.zip)
+
+<br/>
+<br/>
+
+### Grand Shaders
+[![](/banners/Grand%20Shaders.png)](https://youtu.be/jYR5Ugb3G0s?si=xosq-V0hViv8P_Vb)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
+
+<br/>
+
+- [Grand Shaders For Minecraft Render Dragon](https://linkvertise.com/898765/grand-shaders-for-mcpe-rd?o=sharing) (Ad link exists)
 
 <br/>
 <br/>
