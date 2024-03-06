@@ -237,7 +237,7 @@ https://discord.gg/newb-community-844591537430069279
 <br/>
 <br/>
 
-\
+
 
 ## Newb X Legacy - Always Reflection Edition
 [![](/banners/newb%20variant/Newb%20X%20Legacy%20-%20Always%20Reflection%20Edition.png)](https://always-reflection.vercel.app/)  
