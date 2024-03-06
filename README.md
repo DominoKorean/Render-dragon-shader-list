@@ -766,7 +766,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 
 #### newb variants
-> [![](/banners/newb%20variant/newb%20variant.png)](/newb_variants.md)
+> [![](/banners/newb%20variant/newb%20variants.png)](/newb_variants.md)
 
 <br/>
 <br/>
