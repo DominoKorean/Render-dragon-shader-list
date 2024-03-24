@@ -4,7 +4,7 @@ With Materialbinloader, you can easily apply or remove the Render Dragon shader 
 
 Any Patched APP not labeled as 32bit is all 64bit.
 
-[What is 64, 32bit?](installation/android)
+[What is 64, 32bit?](installation/android.md)
 
 <br/>
 <br/>
