@@ -4,21 +4,13 @@
 
 - [Renderdragon Shader Installation](installation/README.md)
 
-
 <br/>
-
-- [Korean / 한국어](README_kr.md)
-
-<br/>
-
 
 ## About RenderDragon Shader List
 
 The RenderDragon Shader List is a GitHub repository that compiles information about RenderDragon. It was created to address the difficulty for existing Bedrock users to access information due to a new and unfamiliar approach. Additionally, it serves the purpose of distinguishing the information from other fake RenderDragon shaders.
 
 Since the list is manually curated by individuals, there may be occasional mistakes or delays in updates. Users can report issues, unupdated information, list errors, or restrictions on the [Issues](https://github.com/DominoKorean/Render-dragon-shader-list/issues) page. Contributions to translating the list into more languages are also welcome through [Pull Requests](https://github.com/DominoKorean/Render-dragon-shader-list/pulls).
-
-
 
 <br/>
 
@@ -111,6 +103,7 @@ https://github.com/ddf8196/MaterialBinLoader
 <br/>
 
 ### BetterRenderDragon
+
 <details>
 <summary>Information</summary>
 
@@ -126,13 +119,6 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/ddf8196/BetterRenderDragon  
-https://discord.gg/yss
-
-The versions listed below were uploaded on the YSS Discord.  
-For the latest version, refer to the GitHub repository.
-
-* [1.3.5](https://cdn.discordapp.com/attachments/1149409096936726680/1163817740784652429/BetterRenderDragon-1.3.5.zip?ex=6540f4bc&is=652e7fbc&hm=0389d4e8cdb35670538edefd7735336450f223538dacaa2a42b55b3bb3929a45&)
-* [1.3.6 Beta](https://cdn.discordapp.com/attachments/1149409096936726680/1169626525214179358/BetterRenderDragon-1.3.6-beta.zip?ex=65561696&is=6543a196&hm=cb84fb7f7e24f219f3d06b28d5894054c07810a20e81c6bcaae1a755a86f3366&)
 
 <br/>
 <br/>
@@ -142,6 +128,7 @@ For the latest version, refer to the GitHub repository.
 <summary>Information</summary>
 
 a multiversion gophertunnel proxy to join the latest MC version without renderdragon
+
 </details>
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
