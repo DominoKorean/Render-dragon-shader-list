@@ -2,10 +2,6 @@
 
 <br/>
 
-- [Renderdragon Shader Installation](installation/README.md)
-
-<br/>
-
 ## About RenderDragon Shader List
 
 The RenderDragon Shader List is a GitHub repository that compiles information about RenderDragon. It was created to address the difficulty for existing Bedrock users to access information due to a new and unfamiliar approach. Additionally, it serves the purpose of distinguishing the information from other fake RenderDragon shaders.
@@ -16,6 +12,17 @@ Since the list is manually curated by individuals, there may be occasional mista
 
 > [!NOTE]
 > Due to [changes in the Discord download link format](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), the download links for [YSS RD](#yss-rd), [YSS SE](#yss-special-edition), [NewbX](#newb-x-legacy), and the [Getmoon](#getmoon-shader-renewed) shader packs may not work and display the message `This content is no longer available.`. In this case, please click on the banner to enter the Discord server directly and download the files.
+
+<br/>
+
+---
+
+<br/>
+
+- [Renderdragon Shader Installation](installation/README.md)
+
+- [Terms of Use](/TERMS_OF_USE.md)
+
 
 <br/>
 
