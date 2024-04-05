@@ -645,117 +645,141 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <details>
 <summary> Show Beta versions </summary>
 
-[v15.27]
-  - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1211740253623160952/newb-x-15.27-android.mcpack?ex=65ef4c0d&is=65dcd70d&hm=6be3ee1fc0068be4f5f42542f0ec890da07b434191b8a0932e8f037a4b1fb4b2&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1211740253954777128/newb-x-15.27-ios-materials.zip?ex=65ef4c0d&is=65dcd70d&hm=e6eab61012ffaa90f28e154f779f1596c71e06b2bab1f4090b3e8286108983dd&)
-  - [iOS Materails](https://cdn.discordapp.com/attachments/1127879378378969088/1211740253954777128/newb-x-15.27-ios-materials.zip?ex=65ef4c0d&is=65dcd70d&hm=e6eab61012ffaa90f28e154f779f1596c71e06b2bab1f4090b3e8286108983dd&)
+- [v15.27](https://discord.com/channels/844591537430069279/1127879378378969088/1211740254822989895)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-windows.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-ios-materials.zip)
 
-- [v15.26]
-  - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1211306106329108561/newb-x-15.26-android.mcpack?ex=65f6f238&is=65e47d38&hm=7b5f85ea988f4340af725f06aaac79bd8edddd28c4ce00c936ef216734caac0c&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1211306107138736229/newb-x-15.26-windows.mcpack?ex=65f6f238&is=65e47d38&hm=1dafe180e48b586d139a5c66382c01298321c1f0b3766b094d4b069249b85518&)
-  - [iOS Materails](https://cdn.discordapp.com/attachments/1127879378378969088/1211306106807390218/newb-x-15.26-ios-materials.zip?ex=65f6f238&is=65e47d38&hm=8dd346868709cf2c7492118a605362d670f68db7e8d17f1095b9e56dc7408051&)
+- [v15.26](https://discord.com/channels/844591537430069279/1127879378378969088/1211306107428020264)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-windows.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-ios-materials.zip)
 
 - [v15.21](https://discord.com/channels/844591537430069279/1127879378378969088/1201107107869634590)
-  - [Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1201107106850418718/newb-x-15.21-android.mcpack?ex=65c89d29&is=65b62829&hm=1c52540976da893b73bc7f1b1a560828ec0ee2f5a42ee36c7cf6d80ebcc37ecb&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1201107107546664990/newb-x-15.21-windows.mcpack?ex=65c89d29&is=65b62829&hm=c0298cf953806c685bd8a5f16252f27a521e0ee3ea59e9c67c574dc982112ba8&)
-  - [iOS Materails](https://cdn.discordapp.com/attachments/1127879378378969088/1201107107177582774/newb-x-15.21-ios-materials.zip?ex=65c89d29&is=65b62829&hm=74537a801ea20df13a945c0232ff8317d4f65aa7e9d563b18b07ac173c9b5441&)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-windows.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-ios-materials.zip)
 
 - [v15.20](https://discord.com/channels/844591537430069279/1127879378378969088/1199570927638294609)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1199570926803636294/newb-x-15.20-android.mcpack?ex=65c3067b&is=65b0917b&hm=879251233f1989fa7585e5ddf67dc1714d604a188c4dcc103b18707cf2e6df5c&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1199570927705411594/newb-x-15.20-windows.mcpack?ex=65c3067c&is=65b0917c&hm=4d96f4867882f9d107101d0fd91fcdaab7f2467d2247720c76df30cbe9b5bbe4&)
-  - [iOS Materials](https://cdn.discordapp.com/attachments/1127879378378969088/1199570927218856017/newb-x-15.20-ios-materials.zip?ex=65c3067b&is=65b0917b&hm=24dd4c5cd3316553b217bdf46abc1cfe1b116dfd9534b4e30dde04faf7f79c40&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-windows.mcpack)
+  - [iOS Materials](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-ios-materials.zip)
 
 - [v15.15](https://discord.com/channels/844591537430069279/1127879378378969088/1178747874977259570)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1178747874234876105/newb-x-15.15-android.mcpack?ex=65c11981&is=65aea481&hm=bcf308e2d656ed89b2fb46739542c5dbd163bc0e391e2f209b3b27ed840d8136&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1178747873848991854/newb-x-15.15-windows.mcpack?ex=65c11981&is=65aea481&hm=ce32f0c742ca97b8b02aace8178da4a7255d5ac0d53b1f7c79b132f3dba0a2f9&)
-  - [iOS Materials](https://cdn.discordapp.com/attachments/1127879378378969088/1178747874570407936/newb-x-15.15-ios-materials.zip?ex=65c11981&is=65aea481&hm=ec39c66994d7921e8c57304a7f646c233f15db8440c00b8f7c6323244d81ce7f&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-windows.mcpack)
+  - [iOS Materials](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-ios-materials.zip)
 
 - [v15.10](https://discord.com/channels/844591537430069279/1127879378378969088/1157635358629044347)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1157635357681135617/newb-x-15.10-android.mcpack?ex=65c75971&is=65b4e471&hm=496c57adb50dee38b98d9804c226ff23df5882169ec3572fe997bb6254232646&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1157635358318657636/newb-x-15.10-windows.mcpack?ex=65c75971&is=65b4e471&hm=8dd6e84c25bb2329c8c5a3bc72952a56c9101abc99ffdec11c6d83ee2e5583c2&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.10-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.10-windows.mcpack)
 
 - [v15.1](https://discord.com/channels/844591537430069279/1127879378378969088/1155538579649478658)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1157635357681135617/newb-x-15.10-android.mcpack?ex=65c75971&is=65b4e471&hm=496c57adb50dee38b98d9804c226ff23df5882169ec3572fe997bb6254232646&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1155538578936438794/newb-x-15.1-windows.mcpack?ex=65c8f32a&is=65b67e2a&hm=5c0829fb572e005c0570f86799dbe9dfb7d9c2767d9e782f5decb824b2d2eb86&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.1-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.1-windows.mcpack)
+
+- [v15b4](https://discord.com/channels/844591537430069279/1127879378378969088/1145978490466865244)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b4-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b4-windows.mcpack)
+
+- [v15b3](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b3-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b3-windows.mcpack)
+
+- [v15b2](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b2-android.mcpack)
+
+- [Custom v14 - Saturated version](https://discord.com/channels/844591537430069279/1127879378378969088/1130196780924022885)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
+  - [Custom v14 - Brighter ores: Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
+
+- [Final v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14-android-saturated.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14-android-brighter-ores.mcpack)
+
+- [v14b](https://discord.com/channels/844591537430069279/1127879378378969088/1128002862237094019)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-all.mcpack)
+  - [Android Chunk Animation](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-chunk_anim.mcpack)
+  - [Android No Wave No Fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-no_wave_no_fog.mcpack)
+  - [Android No Fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-no_fog.mcpack)
+  - [Andorid Subpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-subpack_test.mcpack)
+
+---
 
 </details>
 
 - [v15](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
-  - [Newb Modified MC]
+  - Newb Modified MC
     - [Android (1.20.40.01 - support 32 bit phones)](https://www.mediafire.com/file/j0bfiw2pkf925nz/minecraft-1.20.40.01-newb.apk/file)
     - [iOS (1.20.40 - doesn't support xbox account login)](https://download1510.mediafire.com/6d8rfo20a0wgkYD83WIG4XF7A5PTZ4TsDoh6_AcriGKhUZV9XWG6TNyJbcvgSkonGR4gYax50DsBGLPVcymOwrtoQsx6F-J6JqeGwnP1wh0-QS1CuOOAQ15wMWxOgTqStJyYB0i17Wcy3gM3d76TggX4TMOIjuaWiseEzPX-qA/p4eg1515iaz9uhh/Minecraft-v1.20.40-newb.ipa)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420633485343/newb-x-15-android.mcpack)
-  - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1149051420931260516/newb-x-15-windows.mcpack)
-  - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1149051421271007462/newb-x-15-ios.zip)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
+  - [Winodows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-windows.mcpack)
+  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-ios.zip)
 
 <details>
 <summary> Show all versions </summary>
 
-- [v15b4](https://discord.com/channels/844591537430069279/1127879378378969088/1145978490466865244)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1145978489107910717/newb-x-15b4-android.mcpack?ex=65c1db23&is=65af6623&hm=df31ceebba56916e3ea04cabc9c2feaf28009aea513a6f7b94ab15100269f814&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1145978489862881280/newb-x-15b4-windows.mcpack?ex=65c1db23&is=65af6623&hm=1475a701e30b9fccfeb6b56089006621ae238cd6874a3ff7f45440d23f1acd69&)
-- [v15b3](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1136643278633193472/newb-x-15b3-android.mcpack?ex=65c4cf0b&is=65b25a0b&hm=0e15c3b924e747d86211cde15d9545b8e21d80ce4fcc66d2bd3b3616c2888634&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1140638318984429658/newb-x-15b3-windows.mcpack?ex=65c0e2b7&is=65ae6db7&hm=aba7a7a1aa2df33c507f4f17dcdd49d9574d863be47916d572996d1e842fbe19&)
-- [v15b2 Android](https://cdn.discordapp.com/attachments/1127879378378969088/1133478680371417178/newb-x-15b2-android.mcpack?ex=65c28648&is=65b01148&hm=8bdc6b923f433d4c87dbb03fa908eccce73733a8a82718d7aed0d4fc0ed61a58&)
-- [Custom v14 - Saturated version](https://discord.com/channels/844591537430069279/1127879378378969088/1130196780924022885)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1130196780299071618/newb-x-14-android-saturated.mcpack?ex=65c90ac6&is=65b695c6&hm=67bd26f2bbf4f95b7e9b49bf64a95828c56cf3e60d893093fff1b06cc2b65f8e&)
-  - [Custom v14 - Brighter ores: Andorid](https://cdn.discordapp.com/attachments/1127879378378969088/1130197429728333955/newb-x-14-android-brighter-ores.mcpack?ex=65c90b61&is=65b69661&hm=d1a0759a18f4407458e3ec7efbd309f798c312a94c88956f4496d60083f03b94&)
-- [v14](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1130169921154854952/newb-x-14-android.mcpack)
-  - [Winodows](https://cdn.discordapp.com/attachments/1116247638094909460/1130169921473626232/newb-x-14-windows.mcpack)
-  - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1130169922362814606/newb-x-14-ios.zip)
-- [Final v14](https://discord.com/channels/844591537430069279/1127879378378969088/1130086960216682577)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1130086959788871750/newb-x-14-android.mcpack?ex=65c8a47f&is=65b62f7f&hm=a96e2ad085a9db26ff9c1a92d74e6ed38b6f8e758a793ba41833f22da8620fdb&)
-  - [Windows](https://cdn.discordapp.com/attachments/1127879378378969088/1130117684487540809/newb-x-14-windows.mcpack?ex=65c8c11c&is=65b64c1c&hm=a7a0f7371f0136ba1175d2df1c451d552ce66a906b3ac3e8d592e445bfdd877b&)
-- [v14b](https://discord.com/channels/844591537430069279/1127879378378969088/1128002862237094019)
-  - [Android](https://cdn.discordapp.com/attachments/1127879378378969088/1128002860928466984/newb-x-14b1-android-all.mcpack?ex=65c10f87&is=65ae9a87&hm=82e783474fe2ed40429f65fa1d7f5647974190c0824dc0c2f901b5f0049c8a9d&)
-  - [Android Chunk Animation](https://cdn.discordapp.com/attachments/1127879378378969088/1128002861259821056/newb-x-14b1-android-chunk_anim.mcpack?ex=65c10f87&is=65ae9a87&hm=839d01129c273da5a387e583e1ce36695b04423c454f0d3fadf76d1a4c33816e&)
-  - [Android No Wave No Fog](https://cdn.discordapp.com/attachments/1127879378378969088/1128002861607960756/newb-x-14b1-android-no_wave_no_fog.mcpack?ex=65c10f87&is=65ae9a87&hm=7d04a8b3bfc1f67063029bbc064f57c6c1a91094f16dfcea0b46908432ba3523&)
-  - [Android No Fog](https://cdn.discordapp.com/attachments/1127879378378969088/1128002861918322698/newb-x-14b1-android-no_fog.mcpack?ex=65c10f87&is=65ae9a87&hm=449ce0d9ddb8a8fae6458480cd74211170ea25a9f10347702e3340d28c95049b&)
-  - [Andorid Subpack](https://cdn.discordapp.com/attachments/1127879378378969088/1128010713630244884/newb-x-14b1-android-subpack_test.mcpack?ex=65c116d7&is=65aea1d7&hm=fe04cf6e0140b99c27b37dc6ddf420fc2cca4c102b82906e8f928b9af4668677&)
+- [v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-android.mcpack)
+  - [Winodows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-windows.mcpack)
+  - [iOS](hhttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-ios.zip)
+
 - [013](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
-  - [Android no fog](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841156063273/newb-x-013-android-no-fog.zip?ex=660a5968&is=65f7e468&hm=5a6018ae3e00a4f8539c5a1dfcb78ade643da008abea168996449d2cd5d0f7a9&)
-  - [Android lantern wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841529339975/newb-x-013-no-lantern-wave.zip?ex=660a5968&is=65f7e468&hm=eb44872a5423bf8bfebda693ff2594d8af10e82d6004aedb9d07509fa809b624&)
-  - [Android no wave](https://cdn.discordapp.com/attachments/1116247638094909460/1125317841860706364/newb-x-013-android-no-wave.zip?ex=660a5968&is=65f7e468&hm=df3558ae6ed56e9850e3c09f79641b20ecfa96da6c17a998cfa38648fb651fce&)
-  - [Android all](https://cdn.discordapp.com/attachments/1116247638094909460/1125317842187845692/newb-x-013-android-all.zip?ex=660a5968&is=65f7e468&hm=0e4b09e6832adc52e7d945f94fb7201ae5223c027067830a116139e43ccbd3eb&)
+  - [Android no fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-no-fog.zip)
+  - [Android no lantern wave](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-no-lantern-wave.zip)
+  - [Android no wave](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-no-wave.zip)
+  - [Android all](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-all.zip)
+
 - [012](https://discord.com/channels/844591537430069279/1116247638094909460/1124362397243682948)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1124362395947651246/newb-x-012-android-1.20.zip?ex=66101a14&is=65fda514&hm=c31a5994f74d90800cdab6a3819328ddd446e02fe29f2dfca57757110a2fc3bb&)
-  - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1124362394618052759/newb-x-012-ios-1.19.60.zip?ex=66101a14&is=65fda514&hm=865879b370aadc429b97263c5a871b906a8b45879bea8395b0c2503169b1f655&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1124362395574349925/newb-x-012-win-1.20.zip?ex=66101a14&is=65fda514&hm=be2da1a4e018537fbdc6a59bd84282005136fb40dd34b9e5961be4921852ca1f&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-android-1.20.zip)
+  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-ios-1.19.60.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-win-1.20.zip)
+
 - [011 Lite patch1](https://discord.com/channels/844591537430069279/1116247638094909460/1122941754761543721)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122941754505695273/newb-x-011-android-1.20.0-patch1.zip?ex=660aef01&is=65f87a01&hm=185eb618ccc0bd72d806bd1b865074e1854ad1e8751c3561ab531b7a475a6a7f&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1123219353505107968/newb-x-011-win-1.20.0-patch1.zip?ex=660bf18a&is=65f97c8a&hm=59bdfcc9c50f7d1526bc3e52db661e2fee357bf8bdcae0121ffc04827ed09ea6&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0-patch1.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0-patch1.zip)
+
 - [011 Lite](https://discord.com/channels/844591537430069279/1116247638094909460/1122915916158603414)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122915915810492416/newb-x-011-lite-android-1.20.0.zip?ex=660ad6f1&is=65f861f1&hm=fa650e1b5b04189514970df7c7ae7671c34ca29156550e1838a16179c862361f&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-lite-android-1.20.0.zip)
+
 - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![](https://img.shields.io/badge/Supported_from_this_version-iOS-0A84E1?style=flat-square&logo=Apple)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523479277649/newb-x-011-ios-1.19.60.zip?ex=660acb66&is=65f85666&hm=b389bbdac3afbb8f3066fa2b83ab35b9aaa62bd3580426152eafb51565ae36a6&)
-  - [iOS](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523479277649/newb-x-011-ios-1.19.60.zip?ex=660acb66&is=65f85666&hm=b389bbdac3afbb8f3066fa2b83ab35b9aaa62bd3580426152eafb51565ae36a6&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1122903523118551164/newb-x-011-win-1.20.0.zip?ex=660acb66&is=65f85666&hm=a1f4bf81ba30f617483c57dbd443f1c1508a22d2a8130d64ff641b3d1bfb78b5&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0.zip)
+  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-ios-1.19.60.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0.zip)
+
 - [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969682628668/newb-x-010-android-1.20.0.zip?ex=660eba4f&is=65fc454f&hm=1a4434def05ae28e5057e0c7b660f8ac84c65281b741fdadb32d4d1661a028c5&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1121447969204473918/newb-x-010-win-1.20.0.zip?ex=660eba4f&is=65fc454f&hm=b72176700aaa64d15d2a3fa0b89ae033f7bf9585d5afa8108a90446075d7241a&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-win-1.20.0.zip)
+
 - [009](https://discord.com/channels/844591537430069279/1116247638094909460/1120603151196758066)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1120603150492123236/newb-x-009-android-1.20.0.zip?ex=660ba782&is=65f93282&hm=acbebd21e3223d5799f7e93382b728da28533b978c6383bddfded801eeede9c6&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1120603150089461780/newb-x-009-win-1.20.0.zip?ex=660ba782&is=65f93282&hm=9a06fbb25a229e1c06b1f0f181e9b7dd7f1f4482136c8c7718587f8d165d3541&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-win-1.20.0.zip)
+
 - [008](https://discord.com/channels/844591537430069279/1116247638094909460/1120417436177539152)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1120417435833618464/newb-x-008-android-1.20.0.zip?ex=660afa8d&is=65f8858d&hm=f13a560009ea6422e7892eff4ef7047dd7c3fb9dfef31cba5a4ec2cf58f9c081&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1120417435531608184/newb-x-008-win-1.20.0.zip?ex=660afa8c&is=65f8858c&hm=946f8f43c13cbe59f926defc119887c711c946fbc6e754153c3c58e2a9fa60bb&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-win-1.20.0.zip)
+
 - [007](https://discord.com/channels/844591537430069279/1116247638094909460/1118925382037557371)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1118925381420986398/newb-x-007-android-1.20.0.zip?ex=660ec777&is=65fc5277&hm=0a8ab74b51a2472a02a38a9adf47f39b0490f559e6fcbc7b85b4586c0ec7564d&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1118925381102211124/newb-x-007-win-1.20.0.zip?ex=660ec777&is=65fc5277&hm=52b9e2318ecaacc644b78c0bf68f3505925c242328246c8327826ce63a85163c&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-win-1.20.0.zip)
+
 - [006](https://discord.com/channels/844591537430069279/1116247638094909460/1118175826601582602)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1118175825766928455/newb-x-006-android-1.20.0.zip?ex=660c0d63&is=65f99863&hm=cd9441af143f1be088be20b84e06f8f7af006b125f698f314593c7ec1b2bba33&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1118175825242628238/newb-x-006-win-1.20.0.zip?ex=660c0d63&is=65f99863&hm=08689379344723b083709911a976e800e1ea6463d4d9c75ebb6e27eb18e66371&p)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-win-1.20.0.zip)
+
 - [005](https://discord.com/channels/844591537430069279/1116247638094909460/1117811788931674283)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1117811788570951842/newb-x-005-android-1.20.0.zip?ex=660aba5a&is=65f8455a&hm=b7090ab9d16854d7380ce9c916fc314266cc8c110482a6ced2e3f1c0edf6a1a5&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117811788218634310/newb-x-005-win-1.19.60.zip?ex=660aba5a&is=65f8455a&hm=3328be8a72711061569dfe0a7ac074044be68aa9d281530175cbc8ce8be7e4b8&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-win-1.19.60.zip)
+
 - [004](https://discord.com/channels/844591537430069279/1116247638094909460/1117136656890339431)
-  - [Android](https://cdn.discordapp.com/attachments/1116247638094909460/1117136656210858104/newb-x-004-android-1.19.83.zip?ex=66118016&is=65ff0b16&hm=c8a6dd946dcbd6c37ae2be8561052f958fc1df1d44576345cc7379df325b3862&)
-  - [Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117146008158228511/newb-x-004-win-1.19.60.zip?ex=661188cb&is=65ff13cb&hm=48ff3532603d31a4fc8184e348f8f218de90a12cdd87233b120220f6ec23eac0&)
-- [003 Window](https://cdn.discordapp.com/attachments/1116247638094909460/1117078788883357778/newb-x-003-win-1.19.60.zip?ex=66114a31&is=65fed531&hm=bd1c9de1dc18e656c8fb996814d50f6b3649bb077dbd5e5c06dadfad09957aee&) (Same as 002 Android)
-- [002 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116730003191767070/newb-x-002-android-1.19.83.zip?ex=6610055c&is=65fd905c&hm=10b00b5ff0baa86ee4dc77ffcddaa1be268e933fd99295bb3c14786ba9deb2bb&)
-- [001 Android](https://cdn.discordapp.com/attachments/1116247638094909460/1116362183526330420/newb-x-001-android-1.19.83.zip?ex=660eaecd&is=65fc39cd&hm=5df4d2ef00d370f52a592d94ce7abb64369cf170d54f29a23b45f14bbc638af0&)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-android-1.19.83.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-win-1.19.60.zip)
+
+- [003 Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
+
+- [002 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-002-android-1.19.83.zip)
+
+- [001 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-001-android-1.19.83.zip)
 
 </details>
 
