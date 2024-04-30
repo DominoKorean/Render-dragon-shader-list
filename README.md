@@ -33,9 +33,9 @@ Since the list is manually curated by individuals, there may be occasional mista
 - [Utility](#utility)
   - [MaterialBinLoader](#materialbinloader)
   - [BetterRenderDragon](#betterrenderdragon)
-  - [draco](#draco (outdated))
   - [Patched app](#patched-app)
-  - [mcpelauncher shadersmod](#mcpelauncher-shadersmod (not actively maintained))
+  - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
+  - [draco](#draco)
 
 <br/>
 
@@ -109,16 +109,28 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 
 ### MaterialBinLoader
-ⓘ Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
+
+https://github.com/ddf8196/MaterialBinLoader
+
+<details>
+<summary>Information</summary>
+
+Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
 Supports armeabi-v7a and arm64-v8a as of April 29 2024.
 
-Source code: https://github.com/ddf8196/MaterialBinLoader
 APKs patched with Mbinloader can be found [here](#patched-app)
+
+</details>
+
 
 <br/>
 <br/>
 
 ### BetterRenderDragon
+
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+https://github.com/ddf8196/BetterRenderDragon  
 
 <details>
 <summary>Information</summary>
@@ -130,53 +142,60 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 * Disable raytracing for better performance
 * Loads RenderDragon shaders from the resource pack
 * Configurable ImGui
-</details>
-
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://github.com/ddf8196/BetterRenderDragon  
-
-<br/>
-<br/>
-
-### draco (outdated)
-<details>
-<summary>Information</summary>
-
-ⓘ A multiversion gophertunnel proxy to join the latest MC version without renderdragon. Last working on 1.19.20.
 
 </details>
-
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-https://github.com/cqdetdev/draco
 
 <br/>
 <br/>
 
 ### Patched app
-<details>
-<summary>Information</summary>
-
-A Patched APK that can load renderdragon materialbin file under resource pack, Powered by MaterialBinLoader
-</details>
 
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md
 
-<br/>
-<br/>
-
-### mcpelauncher shadersmod (not actively maintained)
 <details>
 <summary>Information</summary>
 
-ⓘ This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
+A Patched APK that can load renderdragon materialbin file under resource pack, Powered by MaterialBinLoader
+
 </details>
+
+<br/>
+<br/>
+
+### mcpelauncher shadersmod
 
 ![](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)  
+
 https://github.com/GameParrot/mcpelauncher-shadersmod
+
+<details>
+<summary>Information</summary>
+
+This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
+
+</details>
+
+<br/>
+<br/>
+
+### draco
+
+> [!NOTE] Does't work in versions higher than 1.19.20
+
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+https://github.com/cqdetdev/draco
+
+
+
+<details>
+<summary>Information</summary>
+
+A multiversion gophertunnel proxy to join the latest MC version without renderdragon. Last working on 1.19.20.
+
+</details>
 
 <br/>
 <br/>
@@ -207,8 +226,8 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
 
 - 1.9.7.8
-  - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1221190876471230526/YSS_SE_1.9.8.0_Android.mcpack?ex=6611ada1&is=65ff38a1&hm=44a37dd31d85dfaa4c2438e17c8c8d1a3c9a97b6619505b1b018823ba9958ae7&)
-  - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1221190877008105645/YSS_SE_1.9.8.0_Windows.mcpack?ex=6611ada1&is=65ff38a1&hm=9ebb71962b4367000dadb3b22f49f94e24a3dec5f82a9138d0cec0a4bca550e5&)
+  - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1221190876471230526/YSS_SE_1.9.8.0_Android.mcpack?ex=663151a1&is=66300021&hm=911751e92fdbb4c86bce93691d2622870056cf9f04a59e1db71a5aed8e211c31&)
+  - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1221190877008105645/YSS_SE_1.9.8.0_Windows.mcpack?ex=663151a1&is=66300021&hm=88d369f85ca00a2bded6bfd519a513a0d1529816bbba6ab92d20e98d85a51495&)
 
 <details>
 <summary> Show all versions </summary>
@@ -365,7 +384,7 @@ https://github.com/luit04/OriginShaderDeferred
 
 <br/>
 
-- [v1.9.8](https://cdn.discordapp.com/attachments/972141088607436890/1198610834763546704/YSS_RD_1.9.8.mcpack?ex=65bf8854&is=65ad1354&hm=49abcf33015ec90672b187210ed84d4c21a7fcf5a6e8e0ddc5e3df76bc1fbfe9&)
+- [v1.9.8](https://cdn.discordapp.com/attachments/972141088607436890/1198610834763546704/YSS_RD_1.9.8.mcpack?ex=66319214&is=66304094&hm=e56137bb76c430042b398ad61a75755f17db156a7e84eafa701a6fdb31fb530b&)
 
 <details>
 <summary> Show all versions </summary>
