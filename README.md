@@ -183,7 +183,8 @@ This is a mod for mcpelauncher-manifest that allows you to load RenderDragon sha
 
 ### draco
 
-> [!NOTE] Does't work in versions higher than 1.19.20
+> [!NOTE]
+> Does't work in versions higher than 1.19.20
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/cqdetdev/draco
