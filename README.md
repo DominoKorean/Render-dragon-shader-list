@@ -33,9 +33,9 @@ Since the list is manually curated by individuals, there may be occasional mista
 - [Utility](#utility)
   - [MaterialBinLoader](#materialbinloader)
   - [BetterRenderDragon](#betterrenderdragon)
-  - [draco](#draco)
+  - [draco](#draco (outdated))
   - [Patched app](#patched-app)
-  - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
+  - [mcpelauncher shadersmod](#mcpelauncher-shadersmod (not actively maintained))
 
 <br/>
 
@@ -109,7 +109,11 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 
 ### MaterialBinLoader
-https://github.com/ddf8196/MaterialBinLoader
+ⓘ Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
+Supports armeabi-v7a and arm64-v8a as of April 29 2024.
+
+Source code: https://github.com/ddf8196/MaterialBinLoader
+APKs patched with Mbinloader can be found [here](#patched-app)
 
 <br/>
 <br/>
@@ -135,11 +139,11 @@ https://github.com/ddf8196/BetterRenderDragon
 <br/>
 <br/>
 
-### draco
+### draco (outdated)
 <details>
 <summary>Information</summary>
 
-a multiversion gophertunnel proxy to join the latest MC version without renderdragon
+ⓘ A multiversion gophertunnel proxy to join the latest MC version without renderdragon. Last working on 1.19.20.
 
 </details>
 
@@ -163,11 +167,11 @@ https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.m
 <br/>
 <br/>
 
-### mcpelauncher shadersmod
+### mcpelauncher shadersmod (not actively maintained)
 <details>
 <summary>Information</summary>
 
-This is a mod for mcpelauncher-manifest that allows for RenderDragon shaders.
+ⓘ This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
 </details>
 
 ![](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
