@@ -1,4 +1,4 @@
-![](/images/SVG/banner.svg)
+![](/images/banner.png)
 
 <br/>
 
