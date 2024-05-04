@@ -108,24 +108,6 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 <br/>
 
-### MaterialBinLoader
-
-https://github.com/ddf8196/MaterialBinLoader
-
-<details>
-<summary>Information</summary>
-
-Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
-Supports armeabi-v7a and arm64-v8a as of April 29 2024.
-
-APKs patched with Mbinloader can be found [here](#patched-app)
-
-</details>
-
-
-<br/>
-<br/>
-
 ### BetterRenderDragon
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -1195,58 +1177,77 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 <br/>
 <br/>
 
-## Dev
+# Dev
 
 <br/>
 
-### RenderDragon Shaders - Docs
+## RenderDragon Shaders - Docs
 https://devendrn.github.io/renderdragon-shaders/docs/start.html
 
+[RenderDragon Shaders](https://devendrn.github.io/renderdragon-shaders) is a website that contains various resources related to RenderDragon shaders, including the RenderDragon Shader List. In the [Docs](https://devendrn.github.io/renderdragon-shaders/docs/start.html), you can find detailed explanations of RenderDragon shader pack development written by [devendrn](https://github.com/devendrn), the developer of the [NewbX](https://github.com/devendrn/newb-x-mcbe) shader pack.
+
 <br/>
 <br/>
 
-### ShaderLABS
+## ShaderLABS
 https://discord.gg/RpzWN9S  
+
 ShaderLABS is a community where developers and users involved in the graphics of Minecraft, including shader packs, resource packs, and mods, gather.  
 If you need assistance in creating the RenderDragon shader, you can seek help from various developers in the [bedrock-shaders](https://discord.com/channels/237199950235041794/327203882180542484) channel.
 
 <br/>
 <br/>
 
-### RenderDragonSourceCodeInv
-https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv
- 
-<br/>
-<br/>
+## Lazurite
+https://github.com/veka0/lazurite
 
-### MaterialBinTool
-https://github.com/ddf8196/MaterialBinTool
- 
-<br/>
-<br/>
-
-### RenderDragonData
-https://github.com/ddf8196/RenderDragonData
+Unofficial shader development tool for Minecraft: Bedrock Edition with RenderDragon graphics engine.  
+It helps package and compile RenderDragon shaders, providing various helpful features.
 
 <br/>
 <br/>
 
-### mcbe-shader-codebase
+## mcbe-shader-codebase
 https://github.com/Veka0/mcbe-shader-codebase
 
-<br/>
-<br/>
-
-### bgfx-mcbe
-https://github.com/ddf8196/bgfx-mcbe
-
+This repository provides a comprehensive codebase for Minecraft Bedrock Edition shader development. It includes valuable resources, samples, and guidelines aimed at helping developers understand and create shaders for the Bedrock Edition of Minecraft. Whether you're just starting out or looking to expand your shader knowledge, this repository offers a strong foundation for working with RenderDragon and other shader-related tasks.
 
 <br/>
 <br/>
+
+## RenderDragonSourceCodeInv
+https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv
+ 
+This repository includes the internal files of material.bin and provides a way to rebuild them back into material.bin.
+
+
+<br/>
 <br/>
 
-## Docs
+### MaterialBinLoader
+
+https://github.com/ddf8196/MaterialBinLoader
+
+Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
+Supports armeabi-v7a and arm64-v8a as of April 29 2024.
+
+APKs patched with Mbinloader can be found [here](#patched-app)
+
+<br/>
 <br/>
 
-### Renderdragon Shader Installation
+## MaterialBinTool
+https://github.com/ddf8196/MaterialBinTool
+
+RenderDragon .material.bin unpacking/packaging/compilation tool
+
+
+<br/>
+<br/>
+<br/>
+
+# Docs
+<br/>
+
+## Renderdragon Shader Installation
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
