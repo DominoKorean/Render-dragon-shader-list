@@ -1,4 +1,4 @@
-![](https://repository-images.githubusercontent.com/628325764/1d7d3a93-0a81-4f3e-886a-f825e50b7221)
+![](/images/SVG/banner.svg)
 
 <br/>
 
@@ -661,6 +661,11 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <details>
 <summary> Show Beta versions </summary>
+
+- [v15.36](https://discord.com/channels/844591537430069279/1127879378378969088/1232371378947231774)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-android-15.36.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-windows-15.36.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-ios-15.36-materials.zip)
 
 - [v15.27](https://discord.com/channels/844591537430069279/1127879378378969088/1211740254822989895)
   - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-android.mcpack)
