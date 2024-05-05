@@ -31,69 +31,62 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 
 - [Utility](#utility)
-  - [MaterialBinLoader](#materialbinloader)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
   - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
   - [draco injector](#draco-injector)
   - [draco](#draco)
-
-<br/>
-
-- Render dragon shaders
-  - [YSS RD](#yss-rd)
-  - [Bicubic Shaders BE](#bicubic-shaders-be)
-  - [BSBE Lite](#bsbe-lite)
-  - [Vine Shader BE](#vine-shaders-be)
-  - [Musk Rose RD](#musk-rose-rd)
-  - [Reflective Vanilla RD](#reflective-vanilla-rd)
-  - [Harmony Voxel](#harmony-voxel)
-  - [Chill Voxel Shader](#chill-voxel-shader)
-  - [Innovative Shader for BE](#innovative-shader-for-be)
-  - [Darkfall BE](#darkfall-be)
+- [Render dragon shaders](#render-dragon-shaders)
+  - [Deferred Rendering](#deferred-rendering)
+    - [YSS Special Edition](#yss-special-edition)
+    - [BSBE Deffered](#bsbe-deffered)
+    - [Innovative Shader Deferred](#innovative-shader-deferred)
+    - [Harmony Voxel Deferred](#harmony-voxel-deferred)
+    - [OriginShaderDeferred](#originshaderdeferred)
+    - [YSS RD](#yss-rd)
+    - [Bicubic Shaders BE](#bicubic-shaders-be)
+    - [BSBE Lite](#bsbe-lite)
+    - [Vine Shaders BE](#vine-shaders-be)
+    - [Musk Rose RD](#musk-rose-rd)
+    - [Reflective Vanilla RD](#reflective-vanilla-rd)
+    - [Harmony Voxel](#harmony-voxel)
+    - [Chill Voxel Shader](#chill-voxel-shader)
+    - [Innovative Shader for BE](#innovative-shader-for-be)
+    - [Darkfall BE](#darkfall-be)
   - [Shasvat Shader](#shasvat-shader)
-  - [Newb X Legacy](#newb-x-legacy)
-    - [newb variants](#newb-variants)
-  - [AziFy Revive](#azify-revive)
-  - [AziFy Reimagined](#azify-reimagined)
-  - [AziFy EnDefault](#azify-endefault)
-  - [AziFy Natural](#azify-natural)
-  - [Truly Default](#truly-default)
-  - [GLSL RDR](#glsl-rdr)
-  - [Rewanston Shader: Hypercolor](#rewanston-shader-hypercolor)
-  - [GetMoon Shader Renewed](#getmoon-shader-renewed)
-  - [ADIN SHADER](#adin-shader)
-  - [VERT legacy](#vert-legacy)
-  - [Ringo Shaders RenderDragon](#ringo-shaders-renderdragon)
-  - [Grand Shaders](#grand-shaders)
-- [Deferred Rendering](#deferred-rendering)
-  - [YSS Special Edition](#yss-special-edition)
-  - [BSBE Deffered](#bsbe-deffered)
-  - [Innovative Shader Deferred](#innovative-shader-deferred)
-  - [Harmony Voxel Deferred](#harmony-voxel-deferred)
-  - [OriginShaderDeferred](#originshaderdeferred)
-- [RTX](#rtx)
-  - [BetterRTX](#betterrtx)
-    - [BetterRTX Edits](#betterrtx-edits)
-- [Ect Utility Shaders](#ect-utility-shaders)
-  - [RenderDragon FullBright](#renderdragon-fullbright)
-  - [RenderDragonFogRemover](#renderdragonfogremover)
-  - [RD Cubemap Fix](#rd-cubemap-fix)
-  - [HD Font Fix](#hd-font-fix)
-  - [Glow Em All](#glow-em-all)
-- [Discontinued Shaders](#discontinued-shaders)
-  - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
-
-<br/>
-<br/>
-
+    - [Newb X Legacy](#newb-x-legacy)
+      - [newb variants](#newb-variants)
+    - [AziFy Revive](#azify-revive)
+    - [AziFy Reimagined](#azify-reimagined)
+    - [AziFy EnDefault](#azify-endefault)
+    - [AziFy Natural](#azify-natural)
+    - [Truly Default](#truly-default)
+    - [GLSL RDR](#glsl-rdr)
+    - [Rewanston Shader: Hypercolor](#rewanston-shader-hypercolor)
+    - [GetMoon Shader Renewed](#getmoon-shader-renewed)
+    - [ADIN SHADER](#adin-shader)
+    - [VERT legacy](#vert-legacy)
+    - [Ringo Shaders RenderDragon](#ringo-shaders-renderdragon)
+    - [Grand Shaders](#grand-shaders)
+  - [RTX](#rtx)
+    - [BetterRTX](#betterrtx)
+      - [BetterRTX Edits](#betterrtx-edits)
+  - [Ect Utility Shaders](#ect-utility-shaders)
+    - [RenderDragon FullBright](#renderdragon-fullbright)
+    - [RenderDragonFogRemover](#renderdragonfogremover)
+    - [RD Cubemap Fix](#rd-cubemap-fix)
+    - [HD Font Fix](#hd-font-fix)
+    - [Glow Em All](#glow-em-all)
+  - [Discontinued Shaders](#discontinued-shaders)
+    - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
 - [Dev](#dev)
+  - [RenderDragon Shaders - Docs](#renderdragon-shaders---docs)
   - [ShaderLABS](#shaderlabs)
-  - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
-  - [MaterialBinTool](#materialbintool)
-  - [RenderDragonData](#renderdragondata)
+  - [Lazurite](#lazurite)
   - [mcbe-shader-codebase](#mcbe-shader-codebase)
-  - [bgfx-mcbe](#bgfx-mcbe)
+  - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
+  - [MaterialBinLoader](#materialbinloader)
+  - [MaterialBinTool](#materialbintool)
 - [Docs](#docs)
   - [Renderdragon Shader Installation](#renderdragon-shader-installation)
 
@@ -109,7 +102,7 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 <br/>
 
-### BetterRenderDragon
+## BetterRenderDragon
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
@@ -120,7 +113,7 @@ https://github.com/ddf8196/BetterRenderDragon
 
 Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 
-## Functions
+**_Functions_**
 * Enable deferred rendering
 * Disable raytracing for better performance
 * Loads RenderDragon shaders from the resource pack
@@ -131,7 +124,7 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 <br/>
 <br/>
 
-### Patched app
+## Patched app
 
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
@@ -147,7 +140,7 @@ A Patched APK that can load renderdragon materialbin file under resource pack, P
 <br/>
 <br/>
 
-### mcpelauncher shadersmod
+## mcpelauncher shadersmod
 
 ![](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)  
@@ -164,12 +157,12 @@ This is a mod for mcpelauncher-manifest that allows you to load RenderDragon sha
 <br/>
 <br/>
 
-### draco injector
+## draco injector
 
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/mcbegamerxx954/draco-injector
 
 
@@ -183,7 +176,7 @@ A crossplatform injector that can be used to make minecraft apk's load shaders (
 <br/>
 <br/>
 
-### draco
+## draco
 
 > [!NOTE]
 > Does't work in versions higher than 1.19.20
@@ -1249,7 +1242,7 @@ This repository includes the internal files of material.bin and provides a way t
 <br/>
 <br/>
 
-### MaterialBinLoader
+## MaterialBinLoader
 
 https://github.com/ddf8196/MaterialBinLoader
 
