@@ -35,6 +35,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
   - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
+  - [draco injector](#draco-injector)
   - [draco](#draco)
 
 <br/>
@@ -157,6 +158,25 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <summary>Information</summary>
 
 This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
+
+</details>
+
+<br/>
+<br/>
+
+### draco injector
+
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+https://github.com/mcbegamerxx954/draco-injector
+
+
+<details>
+<summary>Information</summary>
+
+A crossplatform injector that can be used to make minecraft apk's load shaders (not patched apk) and can clone the apk to have it aside the original one.
 
 </details>
 
