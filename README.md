@@ -53,7 +53,7 @@ Since the list is manually curated by individuals, there may be occasional mista
     - [Chill Voxel Shader](#chill-voxel-shader)
     - [Innovative Shader for BE](#innovative-shader-for-be)
     - [Darkfall BE](#darkfall-be)
-  - [Shasvat Shader](#shasvat-shader)
+    - [Shasvat Shader](#shasvat-shader)
     - [Newb X Legacy](#newb-x-legacy)
       - [newb variants](#newb-variants)
     - [AziFy Revive](#azify-revive)
@@ -63,11 +63,14 @@ Since the list is manually curated by individuals, there may be occasional mista
     - [Truly Default](#truly-default)
     - [GLSL RDR](#glsl-rdr)
     - [Rewanston Shader: Hypercolor](#rewanston-shader-hypercolor)
+    - [ReXD](#rexd)
     - [GetMoon Shader Renewed](#getmoon-shader-renewed)
     - [ADIN SHADER](#adin-shader)
     - [VERT legacy](#vert-legacy)
     - [Ringo Shaders RenderDragon](#ringo-shaders-renderdragon)
     - [Grand Shaders](#grand-shaders)
+    - [HSD Shaders](#hsd-shaders)
+    - [Zebra Shaders](#zebra-shaders)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
       - [BetterRTX Edits](#betterrtx-edits)
@@ -646,7 +649,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 <br/>
 
-## Shasvat Shader
+### Shasvat Shader
 [![](/banners/Shasvat%20Shader.png)](https://magnificentshaders.home.blog/2024/02/23/shasvat-shader-v0-1/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
@@ -835,18 +838,18 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [0.6](https://linkvertise.com/1015125/azify-rev-v06?o=sharing) (Ad link exists)
+- [0.6](https://linkvertise.com/1015125/azify-rev-v06?o=sharing) ( Ad link exists )
 
 <details>
 <summary> Show all versions </summary>
 
-- 1.4.0 (Ad link exists)
+- 1.4.0 ( Ad link exists )
   - [Ultra](https://linkvertise.com/1015125/azify-revive4?o=sharing)
   - [Medium](https://linkvertise.com/1015125/azify-revive3?o=sharing)
 
-- [1.3.0](https://linkvertise.com/1015125/azify-revive?o=sharing) (Ad link exists)
-- [v1.2.9](https://linkvertise.com/381213/azify-revive?o=sharing) (Ad link exists)
-- [1.0](https://linkvertise.com/381213/revive-azify1?o=sharing) (Ad link exists)
+- [1.3.0](https://linkvertise.com/1015125/azify-revive?o=sharing) ( Ad link exists )
+- [v1.2.9](https://linkvertise.com/381213/azify-revive?o=sharing) ( Ad link exists )
+- [1.0](https://linkvertise.com/381213/revive-azify1?o=sharing) ( Ad link exists )
 
 </details>
 
@@ -860,7 +863,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [2.1](https://linkvertise.com/1015125/azify-reimagined?o=sharing) (Ad link exists)
+- [2.1](https://linkvertise.com/1015125/azify-reimagined?o=sharing) ( Ad link exists )
 
 <br/>
 <br/>
@@ -907,12 +910,12 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) (Ad link exists)
+- [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) ( Ad link exists )
 
 <details>
 <summary> Show all versions </summary>
 
-- [v1.0](https://linkvertise.com/1015125/truly-default-ultra?o=sharing) (Ad link exists)
+- [v1.0](https://linkvertise.com/1015125/truly-default-ultra?o=sharing) ( Ad link exists )
 
 </details>
 
@@ -952,6 +955,17 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 <br/>
 
+### ReXD
+[![](/banners/ReXD.png)](https://modbay.org/textures/1420-rexd.html)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
+- [v1](https://download2269.mediafire.com/qwzq12fggp2gL651-sze4mnRDPcKRCXsZ0R7POXrr56qPbovYUEkZIV0farsmudoG-rnsvU1fzPHLAmI4XhunZO3BwcsrXrpuGVP99U3dRzl_EUBNXFdpgxVnrgxB6YMMvflatvzds1Hn50MzwGX_4vXY-OFCvsqc4mUzvjwiw/pjde8ezejsadnaf/ReXD+V1+RD.mcpack)
+
+
+<br/>
+<br/>
+
 ### GetMoon Shader Renewed
 [![](/banners/GetMoon%20Shader%20Renewed.png)](https://youtu.be/60OVpyUBLXk?si=dbzQL5yYO7d4hwef)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
@@ -959,7 +973,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-- [V5](https://sfile.mobi/7an1e6sm76M) (Ad link exists)
+- [V5](https://sfile.mobi/7an1e6sm76M) ( Ad link exists )
 
 <details>
 <summary> Show all versions </summary>
@@ -969,13 +983,13 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [V5 Beta9](https://cdn.discordapp.com/attachments/1131912512787460235/1182483289940959282/GetMoonV5_Beta9.mcpack?ex=660f49e1&is=65fcd4e1&hm=89db812a3769f9a501641ca99d2ace2e33642621f1aaf46f9a0571d3b1241b60&)
 - [V5 Beta8](https://cdn.discordapp.com/attachments/1131912512787460235/1182278478775717959/GetMoonV5_Beta8.mcpack?ex=660e8b23&is=65fc1623&hm=968b3a8195c8d91bd65702bb5367a735751ab3c753d8a0a96965e5451e9c444e&)
 - [V5 Beta7](https://cdn.discordapp.com/attachments/1131912512787460235/1181427887111426069/GetMoonV5_Beta7.mcpack?ex=65810576&is=656e9076&hm=b4f78c14762815b7cc90502d70bdca25acfb95545042100a04572d06492d7a26&)
-- [Renewed Build-2](https://tutwuri.id/cduNZWPxR) (Ad link exists)
+- [Renewed Build-2](https://tutwuri.id/cduNZWPxR) ( Ad link exists )
 - [Renewed B10](https://cdn.discordapp.com/attachments/1131912512787460235/1149122596210741258/GMS-Renewed-B10.mcpack?ex=660de4d0&is=65fb6fd0&hm=fe48de3612941361010b1415ff3b33d9e1c98ad655c0ff45a88767a72fc974ca&)
 - [Renewed B9](https://cdn.discordapp.com/attachments/1131912512787460235/1147503613376213092/GMRD-Renewed-B9.mcpack?ex=66113b85&is=65fec685&hm=dd47ee89f1923f22d078d50a10366450a604540304910f9cb0e2c3cde0657435&)
 - [Renewed B8](https://cdn.discordapp.com/attachments/1131912512787460235/1145945063478808646/GetMoon-Renewed_B8.mcpack?ex=660b9001&is=65f91b01&hm=b30fc97471b76e051095a091ead072ccdfa1658ea68a4ffda9dde77805ea591c&)
 - [Renewed B7](https://cdn.discordapp.com/attachments/1131912512787460235/1145503721850163251/GetMoon-Renewed_B7.mcpack?ex=6609f4f9&is=65f77ff9&hm=af00e46bc08e63e9cbd701811a44989154751074d5707f7f38fbe132f42e9db3&)
 - [Renewed B6](https://cdn.discordapp.com/attachments/1131912512787460235/1145355283107938324/GetMoon-Renewed_B6.mcpack?ex=66096abb&is=65f6f5bb&hm=e0cae476214f1983f739698d6337cd5adb3a000dc89a4828fc213ad5b0325b11&)
-- [Renewed release]( https://sfile.mobi/1Gvl8vYTfyY) (Ad link exists)
+- [Renewed release]( https://sfile.mobi/1Gvl8vYTfyY) ( Ad link exists )
 - [Renewed B5](https://cdn.discordapp.com/attachments/1131912512787460235/1144469207426285688/GetMoon-RD-Renewed_B5.mcpack?ex=660f6c02&is=65fcf702&hm=cf1a4f9177f6e8c8f1dcd947af56b9a4ec638d9476df2acc9e628c7dd803c60b&)
 - [Renewed B4](https://cdn.discordapp.com/attachments/1131912512787460235/1144221460785811507/GetMoon-RD-Renewed_B4.mcpack?ex=660e8546&is=65fc1046&hm=b57c45c5bb62fa3a29ab2097295e2084315372f9d525b10f61a51a6b238e5af3&)
 - [Renewed B3](https://cdn.discordapp.com/attachments/1131912512787460235/1144124108565655602/GetMoon-RD-Renewed_B3.mcpack?ex=660e2a9c&is=65fbb59c&hm=b9f460e2e28418908c499546e4bbe75589bef47e1d93bd5b68ba55a04a67d174&)
@@ -1046,7 +1060,31 @@ https://www.youtube.com/@KinKaren
 
 <br/>
 
-- [Grand Shaders For Minecraft Render Dragon](https://linkvertise.com/898765/grand-shaders-for-mcpe-rd?o=sharing) (Ad link exists)
+- [Grand Shaders For Minecraft Render Dragon](https://linkvertise.com/898765/grand-shaders-for-mcpe-rd?o=sharing) ( Ad link exists )
+
+
+<br/>
+<br/>
+
+### HSD Shaders
+[![](/banners/HSD%20Shaders.png)](https://youtu.be/QvvAwAnj4l0?si=Rwt76U8U9F9AF_fF)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
+
+- [v1.5.0](https://khaddavi.net/7nkMrhlJm) ( Ad link exists )
+
+<br/>
+<br/>
+
+### Zebra Shaders
+[![](/banners/Zebra%20Shaders.png)](https://youtu.be/QvvAwAnj4l0?si=Rwt76U8U9F9AF_fF)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
+- v3.0
+  - [Android](https://download2267.mediafire.com/9vbxzs85ybug4KJOJoboWs20GuHlF3SYy9rnU9H-QTpHuUhUItEU7OZMHDL5vEreyo0AFCvysezx2yB-trOBLStgsW6NTFfh-2gqHzZxa-7MfK4dUgieUb0eiSAPILD4Ey1HT8iQBjoh1lgsZZ_D8J7Hw-GIDElD0cS1rZJqEA/ibr84lfx3py7x2j/Zebra+Shaders+RD+v3.0+%28Mobile%29.mcpack)
+  - [Windows](https://download1511.mediafire.com/wu10mwe37xwgcdkNXvXcGRCL1Fi8K6oDzxo8SWb_AEKWK3bI8lsGLeuOjseixmUntyM3tQ5_0wfiLXjGUPBXX8vSneK8-bFAEknPeRRqKpbeDl7JaHNaJkkpTbCvm3j81u6fbg3rJaI9OMaTXTHtaA6jvr2Icka_SCp9SG-gYw/q2co2rze8vwkfvc/Zebra+Shaders+RD+v3.0+%28Windows%29.mcpack)
 
 <br/>
 <br/>
