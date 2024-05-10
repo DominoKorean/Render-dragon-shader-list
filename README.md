@@ -90,6 +90,7 @@ Since the list is manually curated by individuals, there may be occasional mista
   - [mcbe-shader-codebase](#mcbe-shader-codebase)
   - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
   - [MaterialBinLoader](#materialbinloader)
+  - [Simple MCRTX PostFX Shader](#simple-mcrtx-postfx-shader)
   - [MaterialBinTool](#materialbintool)
 - [Docs](#docs)
   - [Renderdragon Shader Installation](#renderdragon-shader-installation)
@@ -1294,7 +1295,6 @@ This repository includes the internal files of material.bin and provides a way t
 <br/>
 
 ## MaterialBinLoader
-
 https://github.com/ddf8196/MaterialBinLoader
 
 Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
@@ -1305,11 +1305,18 @@ APKs patched with Mbinloader can be found [here](#patched-app)
 <br/>
 <br/>
 
+## Simple MCRTX PostFX Shader
+https://github.com/veka0/simple-mcrtx-postfx-shader
+
+Just a basic template shader written from scratch for Bedrock RTX that modifies PostFX materials (bloom and tonemapping).
+
+<br/>
+<br/>
+
 ## MaterialBinTool
 https://github.com/ddf8196/MaterialBinTool
 
 RenderDragon .material.bin unpacking/packaging/compilation tool
-
 
 <br/>
 <br/>
