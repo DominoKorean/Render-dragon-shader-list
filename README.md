@@ -2,12 +2,20 @@
 
 <br/>
 
-## About RenderDragon Shader List
+# RenderDragon Shader List
 
 The RenderDragon Shader List is a GitHub repository that compiles information about RenderDragon. It was created to address the difficulty for existing Bedrock users to access information due to a new and unfamiliar approach. Additionally, it serves the purpose of distinguishing the information from other fake RenderDragon shaders.
 
 Since the list is manually curated by individuals, there may be occasional mistakes or delays in updates. Users can report issues, unupdated information, list errors, or restrictions on the [Issues](https://github.com/DominoKorean/Render-dragon-shader-list/issues) page. Contributions to translating the list into more languages are also welcome through [Pull Requests](https://github.com/DominoKorean/Render-dragon-shader-list/pulls).
 
+<br/>
+
+## What is RenderDragon?
+According to [Fandom Wiki](https://minecraft.fandom.com/wiki/RenderDragon), it's a new rendering engine made for Minecraft Bedrock edition which replaces old OpenGL/DirectX engine.  
+Since its introduction, third-party shaders have become unusable, and therefore users are developing and advancing RenderDragon shaders by modifying Minecraft's Material files themselves.
+
+<br/>
+<br/>
 <br/>
 
 > [!NOTE]
@@ -30,6 +38,8 @@ Since the list is manually curated by individuals, there may be occasional mista
 
 <br/>
 
+- [RenderDragon Shader List](#renderdragon-shader-list)
+  - [What is RenderDragon?](#what-is-renderdragon)
 - [Utility](#utility)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
