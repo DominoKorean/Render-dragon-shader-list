@@ -45,13 +45,28 @@ Any Patched APP not labeled as 32bit is all 64bit.
 * [1.20.51.01_arm32_v7a_patched](https://download2435.mediafire.com/35m0ztyd63sgmnPRgKzXddVuCuHNZvFyvPUp-2ZK9gkumaOQD31f0b0QMp04ZQLgMIA4ZNi3ib1phB73_j838Vzjurt5a0k_iqLB6UI6wJoMHnx3PjYUsENoiWT1DnqSU5GiD--CGAAPOeagOqO_RiRXelv_PEiysGOBu1GYf1JenVM/f6qaggi56jn8tk9/1.20.51.01_arm32_v7a_patched.apk) (32 bit)
 * [1.20.70.20_arm32_arm64_patched](https://download1585.mediafire.com/qu1tk2v8h6xgoDsZhJ63rbJGjOL_lgFKOe_q8TSoPwpNvrKd0k5Sh2dqGc3WReIoqBki-EmAbvesg8Y6J41FYbB8X9VJaLOmuHoUs-YIJJboMkpDUgZRJ-ZpWrMX-zxl3jFM4eE9RkVHbqT-KlRA3RFWJ2MF0chr75wKqX-JwA/e6c54z0zr4eb18g/1.20.70.20_arm32_arm64_patched.apk) (Preview/Beta Version)
 
-
 ---
 
-Starting from the next version, it will be compatible with both 32-bit and 64-bit.
+> Starting from the next version, a single APK will be compatible with both 64-bit and 32-bit.
 
 * [1.20.60.04_arm32_arm64_patched](https://download2393.mediafire.com/dz2im2vh2gggcwDKfu4cCMzWXJYPXmiSk8Rj1sEfr259WSYalbTb0AU7HvgNjpFXKyLPAfoqms-fQArT-RiuW2fRaxRMJ1k458T3JxfoLLCD_YQ3el2qi5WW5EBsT7cLLx97nRWDDujxbPn-_ACX3W5KBtR40schpEPgbttocw/464olxxg76ng27d/1.20.60.04_arm32_arm64_patched..apk)
 * [1.20.62.02_arm32_arm64_patched](https://download2294.mediafire.com/o1j0g5aar3dgIvP2Zo9BY-mWrpBByRIODAKiy5_kb-3udleJ_rilKMCTt5s3tsiVmJ3gQyRUuztUMyHwnaQGVhNrRXeoDul_0brWb5Nf46xsDLKTnZKbPbWKuaoUg_DNCjifpyBNaxeyUyLf964STK8_UAGc5MTZynS1xLw2Rg/qumb90mv6rslv2a/1.20.62.02_arm32_arm64_patched.apk)
 * [1.20.71.01_arm32_arm64_patched](https://download2433.mediafire.com/91foyodhjhfg_YudARFlwmZgOz1Hav9FnUh7GK8loPEJJiGJalKQ-nSO14OvQwh27qR_PNWhtefxBJBShHY5DpgUYvprQn3oFeuvtB-zKYCZquHjPI9dCh7T07BDmpbFIzycO6tR6q0A8cFeuvzuX9QNLGDmOI_1qZjWsSZ-IQ/n47z19qhm7xqtel/1.20.71.01_arm32_arm64_patched.apk)
 * [1.20.70.22_arm32_arm64_patched](https://download2390.mediafire.com/13slmhmv89bglob39cdZNM8Rh_esgg_GnepyP1vWM4qnLtzsUkk695Sjd4blsocuoXIS8cdAfbBkQKgP0jlirDyIxyGuP-EY3KpSjkImpO-wx9RRSfYEnaVb7dfpSRjvwd5x2B2ozKUi0IEuW5Dv_95Y8OGSkqk4xFr5H86gIw/tvh6x8ihp7fvpmb/1.20.70.22_arm32_arm64_patched.apk) (Preview/Beta Version)
 * [1.20.73.01_arm32_arm64_patched](https://download2438.mediafire.com/xnvgf1bwrvfgWpQXYADXHeSc-kJd8Mnk7vPDeRCQCfFPXEKOcA073svZNgTYQ6sfHitpfBxK13LTDQ0Q1b9YrnWODr0GUH182gm_QBu2FuTulC79C-JHNxl3gthG-N5pyguxUCYczNFIzzJpI4pMEq8SodQ1LKloCp9UGvLEDA/jo15op4cxyyoh7o/1.20.73.01_arm32_arm64_patched.apk)
+
+---
+
+> The following version is a patched app created by the [Newb Community](https://discord.gg/newb-community-844591537430069279) using [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector).
+
+> [!NOTE]
+> * Only supports loading shaders from Global Resources  
+> * App may crash on some devices  
+> * Only shaders that use 1.20.80+ material source will work  
+
+> [!WARNING]
+> Minecraft APK file was sourced from mcpedl.org. Use it at your own risk. We would suggest you to wait for YSS Group's Patch APK.
+
+* [Minecraft-1.20.81.01-Patched](https://download2431.mediafire.com/dlh54e2v3hzgjmPQG4tYELNj6JtpAwZsE4yyT2O9uFp620KZbUnd8GdbtcyRXudR5HTKZg4704x8K9eQKFsxqsJKDbszXfb9fBKBUqb7gt5ffK4460AFe-sos59GXMCwfrzIrXNayyUhXSj4Wpbk-ARDkYW4cZU9vvuao5Q27w/g0w2qco82dnf30y/Minecraft-1.20.81.01-Patched.apk)
+
+

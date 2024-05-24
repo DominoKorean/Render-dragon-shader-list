@@ -669,6 +669,14 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <details>
 <summary> Show Beta versions </summary>
 
+- [v15.38-b1](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.38-b1-android.mcpack)
+![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~-2d7a3e?style=flat-square)  
+
+- [v15.37](https://github.com/devendrn/newb-shader/releases/tag/v15)
+  - [Andorid](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-windows.mcpack)
+  - [iOS Materails](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.57-ios-materials.zip)
+
 - [v15.36](https://discord.com/channels/844591537430069279/1127879378378969088/1232371378947231774)
   - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-android-15.36.mcpack)
   - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-windows-15.36.mcpack)
