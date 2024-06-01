@@ -65,8 +65,12 @@ Any Patched APP not labeled as 32bit is all 64bit.
 > * Only shaders that use 1.20.80+ material source will work  
 
 > [!WARNING]
-> Minecraft APK file was sourced from mcpedl.org. Use it at your own risk. We would suggest you to wait for YSS Group's Patch APK.
+> Minecraft APK file was sourced from mcpedl.org. Use it at your own risk. We would suggest you to wait for YSS Group's Patch APK. 
+>  
+> *Untrusted: APK was sourced from modscraft.net. Use it at your own risk.
 
 * [Minecraft-1.20.81.01-Patched](https://download2431.mediafire.com/dlh54e2v3hzgjmPQG4tYELNj6JtpAwZsE4yyT2O9uFp620KZbUnd8GdbtcyRXudR5HTKZg4704x8K9eQKFsxqsJKDbszXfb9fBKBUqb7gt5ffK4460AFe-sos59GXMCwfrzIrXNayyUhXSj4Wpbk-ARDkYW4cZU9vvuao5Q27w/g0w2qco82dnf30y/Minecraft-1.20.81.01-Patched.apk)
 
+* [1.20.81.01 armeabi-v7a](https://download2278.mediafire.com/1rzbh26a7btgpcPzuWqoyHM3TZ6uHeumaB431bEnclIGX70uLTUJ6bTpaK-ip6ZUmFZj39yAd8tCQQt09zAcTUnCtDg279x08aBQHtq20osC0YUGC0BMOIe_qIT0JWLvK42A27DPr7lkGIEpMMhVk_c0bTkezq_FRJ4VthBh9g/1qu8x52x06iauk5/minecraft-1.20.81.01-armeabi_v7a-patched.apk) (Untrusted)
 
+* [1.20.81.01 arm64-v8a](https://download2336.mediafire.com/lgvdktnclsdgcrBUuSSUYvux4IM0PFUWx0Y2F6b2ze9Plxb5-Roas-Po1JtL2k3nSBFmyw-jp8UEva17195n4BEBXaH6IutqCJjavpjzq4lfJxY3neI9odHzoKKYKk4qtw3oei8kK8NO69vH49PdnHF113kou3SvQmnB1rpSaQ/azar13e4hb3uk3f/minecraft-1.20.81.01-arm64_v8a-patched.apk)
