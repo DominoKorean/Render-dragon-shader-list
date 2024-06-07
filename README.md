@@ -237,8 +237,8 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
 
 - 1.9.7.8
-  - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1221190876471230526/YSS_SE_1.9.8.0_Android.mcpack?ex=663151a1&is=66300021&hm=911751e92fdbb4c86bce93691d2622870056cf9f04a59e1db71a5aed8e211c31&)
-  - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1221190877008105645/YSS_SE_1.9.8.0_Windows.mcpack?ex=663151a1&is=66300021&hm=88d369f85ca00a2bded6bfd519a513a0d1529816bbba6ab92d20e98d85a51495&)
+  - [Android](https://yss.minecraft.pe/YSS_SE/YSS_SE_1.9.7.8_Android.mcpack)
+  - [Windows](https://yss.minecraft.pe/YSS_SE/YSS_SE_1.9.7.8_Windows.mcpack)
 
 <details>
 <summary> Show all versions </summary>
@@ -374,7 +374,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 
 <br/>
 
-- [v1.9.8](https://cdn.discordapp.com/attachments/972141088607436890/1198610834763546704/YSS_RD_1.9.8.mcpack?ex=66319214&is=66304094&hm=e56137bb76c430042b398ad61a75755f17db156a7e84eafa701a6fdb31fb530b&)
+- [v1.9.8](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)
 
 <details>
 <summary> Show all versions </summary>
