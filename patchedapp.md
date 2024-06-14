@@ -2,9 +2,10 @@ https://yss.minecraft.pe/en/MinecraftPatched
 Patched app is an APK file of Minecraft that includes the [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader) supported by the developer of the Years Static Shader.  
 With Materialbinloader, you can easily apply or remove the Render Dragon shader pack, which is compatible with it, as a resource pack.  
 
-Any Patched APP not labeled as 32bit is all 64bit.
+Check if your phone is **32-bit** or **64-bit**.  
+If the APK's name contains `arm64`, it means it supports **64-bit**, and if it contains `arm32`, it means it supports **32-bit**.  
+If you want to create a Patched app yourself, use [Draco Injector](https://github.com/mcbegamerxx954/draco-injector).
 
-[What is 64, 32bit?](installation/android.md)
 
 <br/>
 <br/>
@@ -44,20 +45,19 @@ Any Patched APP not labeled as 32bit is all 64bit.
 * [1.20.51.01_arm64_v8a_patched](https://download2392.mediafire.com/coem6ymgxfygfcRFa4iXylTTONHDJAtthN5qRWuXPRI54XxjQXgOa6zyAsEAevfPnufE2GlgpZB_WeTY512HFHEVn3ZnDXBz_rISWV8wKo3DNzM4Qxc88ouj1IJf8wkRROb6VbcSqQk_7tI17MHV0S4t89TdtbLi3HDZmcTDFg/pplk51uj3cflkv2/1.20.51.01_arm64_v8a_patched.apk)
 * [1.20.51.01_arm32_v7a_patched](https://download2435.mediafire.com/35m0ztyd63sgmnPRgKzXddVuCuHNZvFyvPUp-2ZK9gkumaOQD31f0b0QMp04ZQLgMIA4ZNi3ib1phB73_j838Vzjurt5a0k_iqLB6UI6wJoMHnx3PjYUsENoiWT1DnqSU5GiD--CGAAPOeagOqO_RiRXelv_PEiysGOBu1GYf1JenVM/f6qaggi56jn8tk9/1.20.51.01_arm32_v7a_patched.apk) (32 bit)
 * [1.20.70.20_arm32_arm64_patched](https://download1585.mediafire.com/qu1tk2v8h6xgoDsZhJ63rbJGjOL_lgFKOe_q8TSoPwpNvrKd0k5Sh2dqGc3WReIoqBki-EmAbvesg8Y6J41FYbB8X9VJaLOmuHoUs-YIJJboMkpDUgZRJ-ZpWrMX-zxl3jFM4eE9RkVHbqT-KlRA3RFWJ2MF0chr75wKqX-JwA/e6c54z0zr4eb18g/1.20.70.20_arm32_arm64_patched.apk) (Preview/Beta Version)
-
----
-
-> Starting from the next version, a single APK will be compatible with both 64-bit and 32-bit.
-
 * [1.20.60.04_arm32_arm64_patched](https://download2393.mediafire.com/dz2im2vh2gggcwDKfu4cCMzWXJYPXmiSk8Rj1sEfr259WSYalbTb0AU7HvgNjpFXKyLPAfoqms-fQArT-RiuW2fRaxRMJ1k458T3JxfoLLCD_YQ3el2qi5WW5EBsT7cLLx97nRWDDujxbPn-_ACX3W5KBtR40schpEPgbttocw/464olxxg76ng27d/1.20.60.04_arm32_arm64_patched..apk)
 * [1.20.62.02_arm32_arm64_patched](https://download2294.mediafire.com/o1j0g5aar3dgIvP2Zo9BY-mWrpBByRIODAKiy5_kb-3udleJ_rilKMCTt5s3tsiVmJ3gQyRUuztUMyHwnaQGVhNrRXeoDul_0brWb5Nf46xsDLKTnZKbPbWKuaoUg_DNCjifpyBNaxeyUyLf964STK8_UAGc5MTZynS1xLw2Rg/qumb90mv6rslv2a/1.20.62.02_arm32_arm64_patched.apk)
 * [1.20.71.01_arm32_arm64_patched](https://download2433.mediafire.com/91foyodhjhfg_YudARFlwmZgOz1Hav9FnUh7GK8loPEJJiGJalKQ-nSO14OvQwh27qR_PNWhtefxBJBShHY5DpgUYvprQn3oFeuvtB-zKYCZquHjPI9dCh7T07BDmpbFIzycO6tR6q0A8cFeuvzuX9QNLGDmOI_1qZjWsSZ-IQ/n47z19qhm7xqtel/1.20.71.01_arm32_arm64_patched.apk)
 * [1.20.70.22_arm32_arm64_patched](https://download2390.mediafire.com/13slmhmv89bglob39cdZNM8Rh_esgg_GnepyP1vWM4qnLtzsUkk695Sjd4blsocuoXIS8cdAfbBkQKgP0jlirDyIxyGuP-EY3KpSjkImpO-wx9RRSfYEnaVb7dfpSRjvwd5x2B2ozKUi0IEuW5Dv_95Y8OGSkqk4xFr5H86gIw/tvh6x8ihp7fvpmb/1.20.70.22_arm32_arm64_patched.apk) (Preview/Beta Version)
 * [1.20.73.01_arm32_arm64_patched](https://download2438.mediafire.com/xnvgf1bwrvfgWpQXYADXHeSc-kJd8Mnk7vPDeRCQCfFPXEKOcA073svZNgTYQ6sfHitpfBxK13LTDQ0Q1b9YrnWODr0GUH182gm_QBu2FuTulC79C-JHNxl3gthG-N5pyguxUCYczNFIzzJpI4pMEq8SodQ1LKloCp9UGvLEDA/jo15op4cxyyoh7o/1.20.73.01_arm32_arm64_patched.apk)
+* [1.21.0.03_arm64_patched](https://download2434.mediafire.com/apcsbk6z3mkgC6SO5Diq21zXdN4pHN24eyEYlWmfi2JVlUl4xCw7mWWLhqfh9HSCqUHY_NTnaYEgOtg7OZ-UpqGHtgkkH12GRT6_IGspR_Umo9wZyiY65XlsvV9c88XRbwG7vmwJZC0BdreSrOdWpqktcU1-wIuxc7ew6wNtew/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
 
 ---
 
 > The following version is a patched app created by the [Newb Community](https://discord.gg/newb-community-844591537430069279) using [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector).
+
+<details>
+<summary>Patched APP</summary>
 
 > [!NOTE]
 > * Only supports loading shaders from Global Resources  
@@ -74,3 +74,5 @@ Any Patched APP not labeled as 32bit is all 64bit.
 * [1.20.81.01 armeabi-v7a](https://download2278.mediafire.com/1rzbh26a7btgpcPzuWqoyHM3TZ6uHeumaB431bEnclIGX70uLTUJ6bTpaK-ip6ZUmFZj39yAd8tCQQt09zAcTUnCtDg279x08aBQHtq20osC0YUGC0BMOIe_qIT0JWLvK42A27DPr7lkGIEpMMhVk_c0bTkezq_FRJ4VthBh9g/1qu8x52x06iauk5/minecraft-1.20.81.01-armeabi_v7a-patched.apk) (Untrusted)
 
 * [1.20.81.01 arm64-v8a](https://download2336.mediafire.com/lgvdktnclsdgcrBUuSSUYvux4IM0PFUWx0Y2F6b2ze9Plxb5-Roas-Po1JtL2k3nSBFmyw-jp8UEva17195n4BEBXaH6IutqCJjavpjzq4lfJxY3neI9odHzoKKYKk4qtw3oei8kK8NO69vH49PdnHF113kou3SvQmnB1rpSaQ/azar13e4hb3uk3f/minecraft-1.20.81.01-arm64_v8a-patched.apk)
+
+</details>
