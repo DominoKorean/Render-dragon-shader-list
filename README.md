@@ -137,7 +137,7 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 </details>
 
 >[!NOTE]
-> The version below is provided by YSS Group and has not yet been released on GitHub.  
+> The version below is provided by [YSS Group](https://discord.gg/yss) and has not yet been released on GitHub.  
 > If it is classified as an Old version, it means that a new BetterRenderDragon has been updated on GitHub.
 
 * [BetterRenderDragon-1.4.3](https://cdn.discordapp.com/attachments/1234853561280761927/1251792994047361044/BetterRenderDragon-1.4.3.zip?ex=666fde92&is=666e8d12&hm=510083863afce70a4d3bac5d8572738a2fadc50976177db56d66f80575b4e6b9&)
