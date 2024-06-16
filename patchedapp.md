@@ -7,6 +7,10 @@ If the APK's name contains `arm64`, it means it supports **64-bit**, and if it c
 If you want to create a Patched app yourself, use [Draco Injector](https://github.com/mcbegamerxx954/draco-injector).
 
 
+>[!WARNING]
+> Significant changes have been made to existing materials since version **<U>1.20.80</U>**.  
+> Please check if the shader you intend to use is supported by versions **<U>1.20.80</U>** and above.
+
 <br/>
 <br/>
 <br/>
@@ -50,14 +54,16 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 * [1.20.71.01_arm32_arm64_patched](https://download2433.mediafire.com/91foyodhjhfg_YudARFlwmZgOz1Hav9FnUh7GK8loPEJJiGJalKQ-nSO14OvQwh27qR_PNWhtefxBJBShHY5DpgUYvprQn3oFeuvtB-zKYCZquHjPI9dCh7T07BDmpbFIzycO6tR6q0A8cFeuvzuX9QNLGDmOI_1qZjWsSZ-IQ/n47z19qhm7xqtel/1.20.71.01_arm32_arm64_patched.apk)
 * [1.20.70.22_arm32_arm64_patched](https://download2390.mediafire.com/13slmhmv89bglob39cdZNM8Rh_esgg_GnepyP1vWM4qnLtzsUkk695Sjd4blsocuoXIS8cdAfbBkQKgP0jlirDyIxyGuP-EY3KpSjkImpO-wx9RRSfYEnaVb7dfpSRjvwd5x2B2ozKUi0IEuW5Dv_95Y8OGSkqk4xFr5H86gIw/tvh6x8ihp7fvpmb/1.20.70.22_arm32_arm64_patched.apk) (Preview/Beta Version)
 * [1.20.73.01_arm32_arm64_patched](https://download2438.mediafire.com/xnvgf1bwrvfgWpQXYADXHeSc-kJd8Mnk7vPDeRCQCfFPXEKOcA073svZNgTYQ6sfHitpfBxK13LTDQ0Q1b9YrnWODr0GUH182gm_QBu2FuTulC79C-JHNxl3gthG-N5pyguxUCYczNFIzzJpI4pMEq8SodQ1LKloCp9UGvLEDA/jo15op4cxyyoh7o/1.20.73.01_arm32_arm64_patched.apk)
-* [1.21.0.03_arm64_patched](https://download2434.mediafire.com/apcsbk6z3mkgC6SO5Diq21zXdN4pHN24eyEYlWmfi2JVlUl4xCw7mWWLhqfh9HSCqUHY_NTnaYEgOtg7OZ-UpqGHtgkkH12GRT6_IGspR_Umo9wZyiY65XlsvV9c88XRbwG7vmwJZC0BdreSrOdWpqktcU1-wIuxc7ew6wNtew/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
+* [1.21.0.03_arm64_patched](https://download2444.mediafire.com/45z2d0c467vgbfNcoFW7vt2sEp6UK7rxYogZl8d6Y_boOOVtm88cQhP6t6BLXJ_ellz_LDWkIumXZQDn-hAbFl3x5T2UIA5bYwReJvidCmqb6EU9QQ9xqLEvrtZsvebfH3tyeB2cjeIn9M5-7pi5s5oPIPvXDir1j99jG0taEQ/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
+  * <details> <summary>Old verison 1.21.0.03 Patched APP</summary>
+
+    [1.21.0.03_arm64_patched](https://download2434.mediafire.com/apcsbk6z3mkgC6SO5Diq21zXdN4pHN24eyEYlWmfi2JVlUl4xCw7mWWLhqfh9HSCqUHY_NTnaYEgOtg7OZ-UpqGHtgkkH12GRT6_IGspR_Umo9wZyiY65XlsvV9c88XRbwG7vmwJZC0BdreSrOdWpqktcU1-wIuxc7ew6wNtew/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
+
+</details>
 
 ---
 
 > The following version is a patched app created by the [Newb Community](https://discord.gg/newb-community-844591537430069279) using [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector).
-
-<details>
-<summary>Patched APP</summary>
 
 > [!NOTE]
 > * Only supports loading shaders from Global Resources  
@@ -75,4 +81,5 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 
 * [1.20.81.01 arm64-v8a](https://download2336.mediafire.com/lgvdktnclsdgcrBUuSSUYvux4IM0PFUWx0Y2F6b2ze9Plxb5-Roas-Po1JtL2k3nSBFmyw-jp8UEva17195n4BEBXaH6IutqCJjavpjzq4lfJxY3neI9odHzoKKYKk4qtw3oei8kK8NO69vH49PdnHF113kou3SvQmnB1rpSaQ/azar13e4hb3uk3f/minecraft-1.20.81.01-arm64_v8a-patched.apk)
 
-</details>
+
+* [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
