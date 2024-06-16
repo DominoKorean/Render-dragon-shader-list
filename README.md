@@ -136,6 +136,13 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 
 </details>
 
+>[!NOTE]
+> The version below is provided by YSS Group and has not yet been released on GitHub.  
+> If it is classified as an Old version, it means that a new BetterRenderDragon has been updated on GitHub.
+
+* [BetterRenderDragon-1.4.3](https://cdn.discordapp.com/attachments/1234853561280761927/1251792994047361044/BetterRenderDragon-1.4.3.zip?ex=666fde92&is=666e8d12&hm=510083863afce70a4d3bac5d8572738a2fadc50976177db56d66f80575b4e6b9&)
+![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~_1.21.0,_Preview_1.21.10.20_~_-2d7a3e?style=flat-square) 
+
 <br/>
 <br/>
 
@@ -374,7 +381,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 
 <br/>
 
-- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666d08e1&is=666bb761&hm=b2f08ef6e661aa14c61284dad49cce5324f979dd825eefbc13cb97578a6583d1&)
+- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
 ![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
 
 <details>

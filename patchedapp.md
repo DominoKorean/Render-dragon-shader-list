@@ -6,6 +6,7 @@ Check if your phone is **32-bit** or **64-bit**.
 If the APK's name contains `arm64`, it means it supports **64-bit**, and if it contains `arm32`, it means it supports **32-bit**.  
 If you want to create a Patched app yourself, use [Draco Injector](https://github.com/mcbegamerxx954/draco-injector).
 
+<br/>
 
 >[!WARNING]
 > Significant changes have been made to existing materials since version **<U>1.20.80</U>**.  
