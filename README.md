@@ -666,7 +666,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Eternity Shader
-[![](/banners/Eternity%20Shader.png)](https://devendrn.github.io/newb-shader/)
+[![](/banners/Eternity%20Shader.png)](https://discord.com/channels/660840983117955072/1252148029683925055)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
