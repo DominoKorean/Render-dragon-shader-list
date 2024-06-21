@@ -64,6 +64,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
     - [Innovative Shader for BE](#innovative-shader-for-be)
     - [Darkfall BE](#darkfall-be)
     - [Shasvat Shader](#shasvat-shader)
+    - [Eternity Shader](#eternity-shader)
     - [Newb X Legacy](#newb-x-legacy)
       - [newb variants](#newb-variants)
     - [AziFy Revive](#azify-revive)
@@ -660,6 +661,19 @@ https://github.com/Rinloid/reflective-vanilla-rd
   - [Extreme](https://download2278.mediafire.com/mduj447b1ewgMD7F_a6Enpp-6kQDDfHLz5QdF8h3e2xdVfWWaZ3fuIl1FqbZqZQXfmCXI5f7EfmGIeNpxBXxK5c82l_g_BgX8cnYPVFvYN44yDEUqH7boIEpS3HXDLI8ghozEG9RVEOCEEZQ1MhpyE-BE6IsNWBhFCb8nyEqQQ/r50o8ainbn81f0q/Shasvat+Shader+V0.1+%5BExtreme%5D.zip)
   - [High](https://download2270.mediafire.com/xj2se3lf5ocgjnR_HdS0Eh2ySgHyDWUZlsgvHyIz6jo0hpvznvgDSQS5oCQojNUu-tS3Od_21mxFHXCa6qq4jgMaKuDRx5HtMoQdi4XCA5zJEHwqRqUUic-B4eT273aRg4g5lDENoLL4s5f2k6zsx8luluoCbwpXrzkDWaP9tw/77domjee8zc6pip/Shasvat+Shader+V0.1+%5BHigh%5D.zip)
   - [Medium](https://download2275.mediafire.com/m2tfy7cydgfgYgvezGZ0fgb2fZSxEm3-YLxr9Lp8_jcViiwkAvs9WV1pf_2MV_pmlOAQN2BAQ7GFlAX0P0ytXVSvRZZ_9z6SnDU76rHsJiQhe7FJ7tvcJIVpj1hVUX78ZYgvDO6FmfUjw7UlvQUhu1vbN5mxpw6kgl5ZaWwyUA/k8hd4koldmuxmin/Shasvat+Shader+V0.1+%5BMedium%5D.zip)
+
+<br/>
+<br/>
+
+### Eternity Shader
+[![](/banners/Eternity%20Shader.png)](https://devendrn.github.io/newb-shader/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Eternity%20Shader/README.md)  
+
+- [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
 
 <br/>
 <br/>
@@ -1354,3 +1368,10 @@ RenderDragon .material.bin unpacking/packaging/compilation tool
 
 ## Renderdragon Shader Installation
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
+
+<br/>
+<br/>
+<br/>
+
+---
+THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. IT IS NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
