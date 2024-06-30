@@ -67,9 +67,9 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 > The following version is a patched app created by the [Newb Community](https://discord.gg/newb-community-844591537430069279) using [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector).
 
 > [!NOTE]
-> * Only supports loading shaders from Global Resources  
+> * Only supports loading shaders from Global Resources
+> * Some devices might have issues with external storage
 > * App may crash on some devices  
-> * Only shaders that use 1.20.80+ material source will work  
 
 > [!WARNING]
 > Minecraft APK file was sourced from mcpedl.org. Use it at your own risk. We would suggest you to wait for YSS Group's Patch APK. 
@@ -111,3 +111,5 @@ __**After installing apk you must give these perms manually to Minecraft in app 
 > * [1.21.03ESSL_310_onlyincrease_lag.mcpack](ttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
 
 * [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
+> This version onward, draco patch can load pre 1.20.80 renderdragon shaders
+* [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)

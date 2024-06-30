@@ -11,7 +11,7 @@ Since the list is manually curated by individuals, there may be occasional mista
 <br/>
 
 ## What is RenderDragon?
-According to [Fandom Wiki](https://minecraft.fandom.com/wiki/RenderDragon), it's a new rendering engine made for Minecraft Bedrock edition which replaces old OpenGL/DirectX engine.  
+According to [Minecraft Wiki](https://minecraft.wiki/RenderDragon), it's a new rendering engine made for Minecraft Bedrock edition which replaces old OpenGL/DirectX engine.  
 Since its introduction, third-party shaders have become unusable, and therefore users are developing and advancing RenderDragon shaders by modifying Minecraft's Material files themselves.
 
 <br/>
