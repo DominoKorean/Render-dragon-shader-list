@@ -19,7 +19,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 <br/>
 
 > [!NOTE]
-> Due to [changes in the Discord download link format](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), the download links for [YSS RD](#yss-rd), [YSS SE](#yss-special-edition), [NewbX](#newb-x-legacy), and the [Getmoon](#getmoon-shader-renewed) shader packs may not work and display the message `This content is no longer available.`. In this case, please click on the banner to enter the Discord server directly and download the files.
+> Unlike in the past, [Discord now periodically changes the links to files](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), which may result in direct file links showing the message `This content is no longer available.`. In this case, please access Discord directly to download the files.
 
 <br/>
 
@@ -94,17 +94,12 @@ Since its introduction, third-party shaders have become unusable, and therefore 
   - [Discontinued Shaders](#discontinued-shaders)
     - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
     - [OriginShaderDeferred](#originshaderdeferred)
-- [Dev](#dev)
-  - [RenderDragon Shaders - Docs](#renderdragon-shaders---docs)
-  - [ShaderLABS](#shaderlabs)
-  - [Lazurite](#lazurite)
-  - [mcbe-shader-codebase](#mcbe-shader-codebase)
-  - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
-  - [MaterialBinLoader](#materialbinloader)
-  - [Simple MCRTX PostFX Shader](#simple-mcrtx-postfx-shader)
-  - [MaterialBinTool](#materialbintool)
+- [Render Dragon content](#render-dragon-content)
+  - [README\_wip](#readme_wip)
+  - [RenderDragon Shaders](#renderdragon-shaders)
 - [Docs](#docs)
   - [Renderdragon Shader Installation](#renderdragon-shader-installation)
+  - [Dev](#dev)
 
 <br/>
 
@@ -666,7 +661,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Eternity Shader
-[![](/banners/Eternity%20Shader.png)](https://discord.com/channels/660840983117955072/1252148029683925055)
+[![](/banners/Eternity%20Shader.png)](https://youtu.be/iBxe6z3TLnI?si=kGtxdbkrtZat0NbT)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
@@ -689,8 +684,25 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
  <br/>
 
+![](https://img.shields.io/badge/Supported_MC_version-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
+- [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-windows.mcpack)
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-ios.zip)
+
 <details>
-<summary> Show Beta versions </summary>
+<summary> Show All Beta versions </summary>
+
+- [v15.46](https://discord.com/channels/844591537430069279/1127879378378969088/1255200939997134938)
+  - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-windows.mcpack)
+  - [iOS](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-ios.zip)
+
+- [v15.44](https://discord.com/channels/844591537430069279/1127879378378969088/1255086510294696018)
+  - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-windows.mcpack)
+  - [iOS](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-ios.zip)
 
 - [v15.38-b1](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.38-b1-android.mcpack)
 ![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~-2d7a3e?style=flat-square)  
@@ -926,16 +938,18 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 
 ### Truly Default
-[![](/banners/Truly%20Default.png)](https://youtu.be/VxQfcZZ8Tf0?si=Soo2dg80jpjxnc9C)
+[![](/banners/Truly%20Default.png)](https://youtu.be/9ZqUUrgAmWs?si=DJuR9daRXIZlQT2d)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
 <br/>
 
-- [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) ( Ad link exists )
+- [v3.0](https://bit.ly/4enufeT) ( Ad link exists )
 
 <details>
 <summary> Show all versions </summary>
+
+- [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) ( Ad link exists )
 
 - [v1.0](https://linkvertise.com/1015125/truly-default-ultra?o=sharing) ( Ad link exists )
 
@@ -1124,14 +1138,6 @@ https://www.youtube.com/@KinKaren
 
 - [Installer](https://github.com/ABUCKY0/betterrtx-installer)
 
-<br/>
-
-
-**The latest version allows installation through the BetterRTX installer.**
-
-- 1.0
-  - [RTXPostFX.Tonemapping.material.bin](https://cdn.discordapp.com/attachments/1106815836624277535/1107023065667354694/RTXPostFX.Tonemapping.material.bin?ex=66119f12&is=65ff2a12&hm=9363777b76b9926b2b8c0a4369d82aa781eee497e054846e74c00fe0098cbc49&)
-  - [RTXStub.material.bin](https://cdn.discordapp.com/attachments/1106815836624277535/1107023065256308777/RTXStub.material.bin?ex=66119f12&is=65ff2a12&hm=03236d3268a3cee9f2b4cfec6229d76385532c5789814ebebb828dcd4d59c09d&)
 
 <br/>
 <br/>
@@ -1288,77 +1294,28 @@ https://github.com/luit04/OriginShaderDeferred
 <br/>
 <br/>
 
-# Dev
+# Render Dragon content
+
+This covers Render Dragon-related materials, sites, and communities, aside from the RenderDragon Shader List.
+
 
 <br/>
 
-## RenderDragon Shaders - Docs
-https://devendrn.github.io/renderdragon-shaders/docs/start.html
+## README_wip
+https://github.com/atashi764/rd-shader-list/blob/atashi764/readme_wip.md
 
-[RenderDragon Shaders](https://devendrn.github.io/renderdragon-shaders) is a website that contains various resources related to RenderDragon shaders, including the RenderDragon Shader List. In the [Docs](https://devendrn.github.io/renderdragon-shaders/docs/start.html), you can find detailed explanations of RenderDragon shader pack development written by [devendrn](https://github.com/devendrn), the developer of the [NewbX](https://github.com/devendrn/newb-x-mcbe) shader pack.
-
-<br/>
-<br/>
-
-## ShaderLABS
-https://discord.gg/RpzWN9S  
-
-ShaderLABS is a community where developers and users involved in the graphics of Minecraft, including shader packs, resource packs, and mods, gather.  
-If you need assistance in creating the RenderDragon shader, you can seek help from various developers in the [bedrock-shaders](https://discord.com/channels/237199950235041794/327203882180542484) channel.
+Another version of the RenderDragon Shader List created by [atashi764](https://github.com/atashi764).
 
 <br/>
 <br/>
 
-## Lazurite
-https://github.com/veka0/lazurite
+## RenderDragon Shaders
+https://devendrn.github.io/renderdragon-shaders
 
-Unofficial shader development tool for Minecraft: Bedrock Edition with RenderDragon graphics engine.  
-It helps package and compile RenderDragon shaders, providing various helpful features.
-
-<br/>
-<br/>
-
-## mcbe-shader-codebase
-https://github.com/Veka0/mcbe-shader-codebase
-
-This repository provides a comprehensive codebase for Minecraft Bedrock Edition shader development. It includes valuable resources, samples, and guidelines aimed at helping developers understand and create shaders for the Bedrock Edition of Minecraft. Whether you're just starting out or looking to expand your shader knowledge, this repository offers a strong foundation for working with RenderDragon and other shader-related tasks.
-
-<br/>
-<br/>
-
-## RenderDragonSourceCodeInv
-https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv
- 
-This repository includes the internal files of material.bin and provides a way to rebuild them back into material.bin.
+This is the website version of the RenderDragon shader list created by devendrn, the developer of Newb X Legacy. In addition to the RenderDragon Shader List, it also includes documentation for developers.
 
 
 <br/>
-<br/>
-
-## MaterialBinLoader
-https://github.com/ddf8196/MaterialBinLoader
-
-Open source .so modification for Android that allows you to load shaders directly from resource packs. Actively maintained by [ENDERMANYK](https://github.com/ENDERMANYK) [here.](https://github.com/ENDERMANYK/MaterialBinLoader)
-Supports armeabi-v7a and arm64-v8a as of April 29 2024.
-
-APKs patched with Mbinloader can be found [here](#patched-app)
-
-<br/>
-<br/>
-
-## Simple MCRTX PostFX Shader
-https://github.com/veka0/simple-mcrtx-postfx-shader
-
-Just a basic template shader written from scratch for Bedrock RTX that modifies PostFX materials (bloom and tonemapping).
-
-<br/>
-<br/>
-
-## MaterialBinTool
-https://github.com/ddf8196/MaterialBinTool
-
-RenderDragon .material.bin unpacking/packaging/compilation tool
-
 <br/>
 <br/>
 <br/>
@@ -1371,7 +1328,19 @@ https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
 
 <br/>
 <br/>
+
+## Dev
+https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/dev.md
+
+This document contains materials necessary for RenderDragon shader development.
+
+<br/>
+<br/>
 <br/>
 
 ---
-THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. IT IS NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
+<br/>
+<br/>
+
+**THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. IT IS NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**

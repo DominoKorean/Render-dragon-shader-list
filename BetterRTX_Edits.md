@@ -3,6 +3,11 @@
 List of other versions or modified versions of BetterRTX.
 They can also be installed through the BetterRTX installer.
 
+> [!NOTE]
+> Unlike in the past, [Discord now periodically changes the links to files](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), which may result in direct file links showing the message `This content is no longer available.`. In this case, please use the [BetterRTX Installer](https://github.com/BetterRTX/BetterRTX-Installer) or access Discord directly to download the files.
+
+<br/>
+
 - [BetterRTX Edits](#betterrtx-edits)
   - [BetterRTX: Experimental](#betterrtx-experimental)
   - [BetterRTX with Motion Blur](#betterrtx-with-motion-blur)
@@ -11,6 +16,8 @@ They can also be installed through the BetterRTX installer.
   - [Realistic RTX (TheBlackDragon's Edit)](#realistic-rtx-theblackdragons-edit)
   - [BetterRTX Prizma Preset](#betterrtx-prizma-preset)
   - [JG's Cinematic Presets](#jgs-cinematic-presets)
+
+<br/>
 
 ## BetterRTX: Experimental
 [![](/banners/BetterRTX%20Edits/BetterRTX%20Experimental.png)](https://discord.com/channels/691547840463241267/1111388664468086836)  

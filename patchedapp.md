@@ -84,3 +84,30 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 
 
 * [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
+
+
+---
+
+> The following version is a patched app created by the [Wind's Scion Hub](https://discord.com/invite/KYKxFTxjyU)
+
+<br/>
+
+This apk has:
+- Profanity filter disabled **__(Only client side censoring is disabled, server will still ban you)__**
+- ESSL_100 renderer materials (stutter fix) 
+- Old games folder storage path (/storage/emulated/0/games/com.mojang/)
+- All old renderdragon shaders (1.18.30+ shaders, 1.19.60+ shaders, and 1.20.80+ shaders) work in this apk, since they get auto-updated by mcbe redirector to support this version when you apply it. [**Used this apk to achieve this**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (message from yss draco chat channel)]
+
+**__Activate shader in Global resources only!!__**
+
+__**After installing apk you must give these perms manually to Minecraft in app info**:__ (or minecraft can't load anything)
+
+
+<br/>
+<br/>
+
+* [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
+> If you think your game has more stutters after using this apk then use this pack to revert the essl_100 change.
+> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](ttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
+
+* [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
