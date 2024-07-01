@@ -22,7 +22,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 > Unlike in the past, [Discord now periodically changes the links to files](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), which may result in direct file links showing the message `This content is no longer available.`. In this case, please access Discord directly to download the files.
 
 > [!WARNING]
-> Do not use 9Minecraft. Fake RenderDragon shaders are mixed in, and shaders are being distributed without the creator's permission.  
+> Do not use `9Minecraft`. Fake RenderDragon shaders are mixed in, and shaders are being distributed without the creator's permission.  
 > **Most importantly, the site may pose a virus and security risk.**  
 > Never use it and inform those around you about the dangers.
 
