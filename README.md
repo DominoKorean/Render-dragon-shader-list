@@ -3,7 +3,6 @@
 <br/>
 
 * [Korean / 한국어](/language/ko_kr/README.md)
-* [Bangla / বাংলা ](/language/bn_bd/README.md)
 
 <br/>
 
