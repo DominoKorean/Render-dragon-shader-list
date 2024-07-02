@@ -1,16 +1,16 @@
 https://yss.minecraft.pe/en/MinecraftPatched  
-Patched app is an APK file of Minecraft that includes the [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader) supported by the developer of the Years Static Shader.  
-With Materialbinloader, you can easily apply or remove the Render Dragon shader pack, which is compatible with it, as a resource pack.  
+Patched APP은 Years Static Shader 개발자가 제작 [Materialbinloader](https://github.com/ddf8196/MaterialBinLoader)가 포함된 Minecraft APK 파일입니다.  
+Materialbinloader를 사용하면 Render Dragon 셰이더 팩을 리소스 팩으로 쉽게 적용하거나 제거할 수 있습니다.
 
-Check if your phone is **32-bit** or **64-bit**.  
-If the APK's name contains `arm64`, it means it supports **64-bit**, and if it contains `arm32`, it means it supports **32-bit**.  
-If you want to create a Patched app yourself, use [Draco Injector](https://github.com/mcbegamerxx954/draco-injector).
+사용 중인 기기가 **32비트**인지 **64비트**인지 확인하세요.  
+APK 이름에 `arm64`가 포함되어 있으면 **64비트**, `arm32`가 포함되어 있으면 **32비트**입니다.  
+패치된 앱을 직접 만들고 싶다면 [Draco Injector](https://github.com/mcbegamerxx954/draco-injector)를 사용하세요.
 
 <br/>
 
 >[!WARNING]
-> Significant changes have been made to existing materials since version **<U>1.20.80</U>**.  
-> Please check if the shader you intend to use is supported by versions **<U>1.20.80</U>** and above.
+> 버전 **<U>1.20.80</U>** 부터 기존 머터리얼에 큰 변경 사항이 있습니다.  
+> 사용하려는 셰이더가 버전 **<U>1.20.80</U>** 이상에서 지원되는지 확인해주세요.
 
 <br/>
 <br/>
@@ -56,7 +56,7 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 * [1.20.70.22_arm32_arm64_patched](https://download2390.mediafire.com/13slmhmv89bglob39cdZNM8Rh_esgg_GnepyP1vWM4qnLtzsUkk695Sjd4blsocuoXIS8cdAfbBkQKgP0jlirDyIxyGuP-EY3KpSjkImpO-wx9RRSfYEnaVb7dfpSRjvwd5x2B2ozKUi0IEuW5Dv_95Y8OGSkqk4xFr5H86gIw/tvh6x8ihp7fvpmb/1.20.70.22_arm32_arm64_patched.apk) (Preview/Beta Version)
 * [1.20.73.01_arm32_arm64_patched](https://download2438.mediafire.com/xnvgf1bwrvfgWpQXYADXHeSc-kJd8Mnk7vPDeRCQCfFPXEKOcA073svZNgTYQ6sfHitpfBxK13LTDQ0Q1b9YrnWODr0GUH182gm_QBu2FuTulC79C-JHNxl3gthG-N5pyguxUCYczNFIzzJpI4pMEq8SodQ1LKloCp9UGvLEDA/jo15op4cxyyoh7o/1.20.73.01_arm32_arm64_patched.apk)
 * [1.21.0.03_arm64_patched](https://download2444.mediafire.com/45z2d0c467vgbfNcoFW7vt2sEp6UK7rxYogZl8d6Y_boOOVtm88cQhP6t6BLXJ_ellz_LDWkIumXZQDn-hAbFl3x5T2UIA5bYwReJvidCmqb6EU9QQ9xqLEvrtZsvebfH3tyeB2cjeIn9M5-7pi5s5oPIPvXDir1j99jG0taEQ/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
-  * <details> <summary>Old verison 1.21.0.03 Patched APP</summary>
+  * <details> <summary>1.21.0.03 Patched APP 구 버전</summary>
 
     [1.21.0.03_arm64_patched](https://download2434.mediafire.com/apcsbk6z3mkgC6SO5Diq21zXdN4pHN24eyEYlWmfi2JVlUl4xCw7mWWLhqfh9HSCqUHY_NTnaYEgOtg7OZ-UpqGHtgkkH12GRT6_IGspR_Umo9wZyiY65XlsvV9c88XRbwG7vmwJZC0BdreSrOdWpqktcU1-wIuxc7ew6wNtew/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
 
@@ -64,21 +64,21 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 
 ---
 
-> The following version is a patched app created by the [Newb Community](https://discord.gg/newb-community-844591537430069279) using [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector).
+> 다음 버전은 [Newb Community](https://discord.gg/newb-community-844591537430069279)에서 [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector)를 사용하여 만든 패치된 앱입니다.
 
 > [!NOTE]
-> * Only supports loading shaders from Global Resources
-> * Some devices might have issues with external storage
-> * App may crash on some devices  
+> * 글로벌 리소스에서 셰이더 로딩만 지원합니다.
+> * 일부 기기는 외부 저장 장치와 관련된 문제가 있을 수 있습니다.
+> * 일부 기기에서 앱이 충돌할 수 있습니다.
 
 > [!WARNING]
-> Minecraft APK file was sourced from mcpedl.org. Use it at your own risk. We would suggest you to wait for YSS Group's Patch APK. 
->  
-> *Untrusted: APK was sourced from modscraft.net. Use it at your own risk.
+> Minecraft APK 파일은 mcpedl.org에서 가져오졌습니다. 사용 시 주의하세요. YSS Group의 패치된 APK를 기다리는 것을 권장합니다.
+> 
+> *신뢰할 수 없음: APK는 modscraft.net에서 가져왔습니다. 사용 시 주의하세요.
 
 * [Minecraft-1.20.81.01-Patched](https://download2431.mediafire.com/dlh54e2v3hzgjmPQG4tYELNj6JtpAwZsE4yyT2O9uFp620KZbUnd8GdbtcyRXudR5HTKZg4704x8K9eQKFsxqsJKDbszXfb9fBKBUqb7gt5ffK4460AFe-sos59GXMCwfrzIrXNayyUhXSj4Wpbk-ARDkYW4cZU9vvuao5Q27w/g0w2qco82dnf30y/Minecraft-1.20.81.01-Patched.apk)
 
-* [1.20.81.01 armeabi-v7a](https://download2278.mediafire.com/1rzbh26a7btgpcPzuWqoyHM3TZ6uHeumaB431bEnclIGX70uLTUJ6bTpaK-ip6ZUmFZj39yAd8tCQQt09zAcTUnCtDg279x08aBQHtq20osC0YUGC0BMOIe_qIT0JWLvK42A27DPr7lkGIEpMMhVk_c0bTkezq_FRJ4VthBh9g/1qu8x52x06iauk5/minecraft-1.20.81.01-armeabi_v7a-patched.apk) (Untrusted)
+* [1.20.81.01 armeabi-v7a](https://download2278.mediafire.com/1rzbh26a7btgpcPzuWqoyHM3TZ6uHeumaB431bEnclIGX70uLTUJ6bTpaK-ip6ZUmFZj39yAd8tCQQt09zAcTUnCtDg279x08aBQHtq20osC0YUGC0BMOIe_qIT0JWLvK42A27DPr7lkGIEpMMhVk_c0bTkezq_FRJ4VthBh9g/1qu8x52x06iauk5/minecraft-1.20.81.01-armeabi_v7a-patched.apk) (신뢰할 수 없음)
 
 * [1.20.81.01 arm64-v8a](https://download2336.mediafire.com/lgvdktnclsdgcrBUuSSUYvux4IM0PFUWx0Y2F6b2ze9Plxb5-Roas-Po1JtL2k3nSBFmyw-jp8UEva17195n4BEBXaH6IutqCJjavpjzq4lfJxY3neI9odHzoKKYKk4qtw3oei8kK8NO69vH49PdnHF113kou3SvQmnB1rpSaQ/azar13e4hb3uk3f/minecraft-1.20.81.01-arm64_v8a-patched.apk)
 
@@ -88,28 +88,28 @@ If you want to create a Patched app yourself, use [Draco Injector](https://githu
 
 ---
 
-> The following version is a patched app created by the [Wind's Scion Hub](https://discord.com/invite/KYKxFTxjyU)
+> 아래 버전은 [Wind's Scion Hub](https://discord.com/invite/KYKxFTxjyU)에서 만든 패치된 앱입니다.
 
 <br/>
 
-This apk has:
-- Profanity filter disabled **__(Only client side censoring is disabled, server will still ban you)__**
-- ESSL_100 renderer materials (stutter fix) 
-- Old games folder storage path (/storage/emulated/0/games/com.mojang/)
-- All old renderdragon shaders (1.18.30+ shaders, 1.19.60+ shaders, and 1.20.80+ shaders) work in this apk, since they get auto-updated by mcbe redirector to support this version when you apply it. [**Used this apk to achieve this**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (message from yss draco chat channel)]
+이 APK는 다음을 포함합니다:
+- 욕설 필터 비활성화 **__(클라이언트 측 검열만 비활성화되며, 서버에서는 여전히 차단됩니다)__**
+- ESSL_100 렌더러 머터리얼 (버벅임 수정)
+- 예전 게임 폴더 저장 경로 (/storage/emulated/0/games/com.mojang/)
+- 모든 구버전 RenderDragon 셰이더 (1.18.30+ 셰이더, 1.19.60+ 셰이더, 1.20.80+ 셰이더)가 이 APK에서 작동하며, 적용 시 mcbe 리다이렉터에 의해 이 버전을 지원하도록 자동 업데이트됩니다. [**이 APK를 사용하여 달성했습니다**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (yss 드라코 채팅 채널의 메시지)]
 
-**__Activate shader in Global resources only!!__**
+**__글로벌 리소스에서만 셰이더를 활성화하세요!!__**
 
-__**After installing apk you must give these perms manually to Minecraft in app info**:__ (or minecraft can't load anything)
+__**APK 설치 후 Minecraft에 수동으로 다음 권한을 부여해야 합니다**__: (그렇지 않으면 Minecraft가 아무것도 로드할 수 없습니다)
 
 
 <br/>
 <br/>
 
 * [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
-> If you think your game has more stutters after using this apk then use this pack to revert the essl_100 change.
+> 이 APK를 사용한 후 게임이 더 버벅인다고 생각되면, 이 팩을 사용하여 essl_100 변경 사항을 되돌리세요.
 > * [1.21.03ESSL_310_onlyincrease_lag.mcpack](ttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
 
 * [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
-> This version onward, draco patch can load pre 1.20.80 renderdragon shaders
+> 이 버전부터 드라코 패치가 1.20.80 이전 RenderDragon 셰이더를 로드할 수 있습니다.
 * [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)

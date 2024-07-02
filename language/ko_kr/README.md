@@ -149,7 +149,7 @@ https://github.com/ddf8196/BetterRenderDragon
 
 ![](https://img.shields.io/badge/안드로이드-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md
+https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/language/ko_kr/patchedapp.md
 
 <details>
 <summary>설명</summary>
@@ -369,7 +369,7 @@ RenderDragon 없이 최신 Minecraft 버전에 접속할 수 있는 멀티버전
 <br/>
 
 ### YSS RD
-[![](banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
+[![](/banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
 ![](https://img.shields.io/badge/안드로이드-black?style=flat-square&logo=android)
 ![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/윈도우-0078D6?style=flat-square&logo=Windows)

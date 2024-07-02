@@ -2,6 +2,11 @@
 
 <br/>
 
+* [Korean / 한국어](/language/ko_kr/README.md)
+* [Bangla / বাংলা ](/language/bn_bd/README.md)
+
+<br/>
+
 # RenderDragon Shader List
 
 The RenderDragon Shader List is a GitHub repository that compiles information about RenderDragon. It was created to address the difficulty for existing Bedrock users to access information due to a new and unfamiliar approach. Additionally, it serves the purpose of distinguishing the information from other fake RenderDragon shaders.
