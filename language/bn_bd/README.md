@@ -1,55 +1,40 @@
 ![](/images/banner.png)
-
-<br/>
-
-* [Korean / 한국어](/language/ko_kr/README.md)
-* [Bangla / বাংলা ](/language/bn_bd/README.md)
-
-<br/>
-
+<br>
 # RenderDragon Shader List
 
-The RenderDragon Shader List is a GitHub repository that compiles information about RenderDragon. It was created to address the difficulty for existing Bedrock users to access information due to a new and unfamiliar approach. Additionally, it serves the purpose of distinguishing the information from other fake RenderDragon shaders.
-
-Since the list is manually curated by individuals, there may be occasional mistakes or delays in updates. Users can report issues, unupdated information, list errors, or restrictions on the [Issues](https://github.com/DominoKorean/Render-dragon-shader-list/issues) page. Contributions to translating the list into more languages are also welcome through [Pull Requests](https://github.com/DominoKorean/Render-dragon-shader-list/pulls).
-
-<br/>
-
-## What is RenderDragon?
-According to [Minecraft Wiki](https://minecraft.wiki/RenderDragon), it's a new rendering engine made for Minecraft Bedrock edition which replaces old OpenGL/DirectX engine.  
-Since its introduction, third-party shaders have become unusable, and therefore users are developing and advancing RenderDragon shaders by modifying Minecraft's Material files themselves.
-
-<br/>
-<br/>
-<br/>
+রেন্ডারড্রাগন শেডার লিস্ট (কমিউনিটি দ্বারা পরিচালিত) একটা গিটহাব রিপোজিটরি যেখানে রেন্ডারড্রাগন সংক্রান্ত যাবতীয় তথ্য পাবেন। এই লিস্ট বানানো হয়েছে সাধারণ পাবলিকের বেডরক এডিশনে শেডার ইন্সটলেশন সহজতর করতে। কেননা, নতুন বেডরক ভার্সনগুলায় শেডার ইন্সটলের প্রক্রিয়াটা কিছুটা জটিল। যার দরুণ পুরো কমিউনিটিতে বিভ্রান্তি ছড়িয়ে যাচ্ছে। এ বিভ্রান্তি নির্মূল করাই এই লিস্টের প্রধান লক্ষ্য।
+<br>
+যেহেতু লিস্টটা ম্যানুয়ালি বিভিন্ন মানুষ তাদের অবসরে এডিট করে থাকে তাই মাঝে মাঝে লিস্টে ভুল বা আউটডেটেড তথ্য পেতে পারেন। আপনি চাইলে এসব ভুল, পুরাতন তথ্য, সমস্যা বা পরামর্শ [Issue](github.com/DominoKorean/Render-dragon-shader-list/issues) এ সাবমিট করতে পারেন।
+এছাড়াও অন্যান্য দেশের মানুষের পড়ার সুবিধার্থে লিস্টটা অনুবাদে সাহায্য করতে পারেন [Pull request](github.com/DominoKorean/Render-dragon-shader-list/pulls) এর মাধ্যমে।
+<br>
+## RenderDragon কী?
+[Minecraft Wiki](https://minecraft.wiki/RenderDragon) অনুসারে এটা মাইনক্রাফট বেডরক এডিশনের জন্য নতুন একটা রেন্ডারিং ইঞ্জিন যা আগে ব্যবহৃত OpenGL/DirectX ইঞ্জিনকে রিপ্লেস করে।
+রেন্ডারড্রাগনের সূচনা হওয়ার পর থেকে মাইনক্রাফটে পুরাতন থার্ড পার্টি শেডার চলা বন্ধ হয়ে গিয়েছে। যার জন্য ডেভেলপাররা এখন গেমের ফাইল এডিট করে রেন্ডারড্রাগনে শেডার সাপোর্টকে নতুন এক মাত্রায় নিয়ে যাচ্ছে।
+<br><br><br>
 
 > [!NOTE]
-> Unlike in the past, [Discord now periodically changes the links to files](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), which may result in direct file links showing the message `This content is no longer available.`. In this case, please access Discord directly to download the files.
+> বর্তমানে, [Discord ঘন ঘন তাদের ফাইল লিংকগুলো চেঞ্জ করতেছে](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), যার ফলে লিংকগুলো `This content is no longer available.` মেসেজ দেখায়।. এক্ষেত্রে সরাসরি শেডারের ডিস্কোর্ড সার্ভার জয়েন করে ডাউনলোড করতে হবে।
 
 > [!WARNING]
-> Do not use `9Minecraft`. Fake RenderDragon shaders are mixed in, and shaders are being distributed without the creator's permission.  
-> **Most importantly, the site may pose a virus and security risk.**  
-> Never use it and inform those around you about the dangers.
-
-<br/>
+> `9Minecraft` জাতীয় ওয়েবসাইট ইউজ করা থেকে বিরত থাকুন। এসব সাইটে প্রায়ই নকল রেন্ডারড্রাগন শেডার পাবলিশ করা হয় আর অনেক ক্ষেত্রে তা ক্রিয়েটরের অনুমতি ছাড়া করা হয়।<br>
+> **এছাড়াও এসব সাইটে সিকিউরিটি রিস্কের সাথে ভাইরাস/ম্যালওয়্যার থাকতে পারে।**<br>
+> কখনোই এধরণের সাইট থেকে ডাউনলোড করবেন না। এ ঝুঁকির ব্যাপারে অন্যদেরও সচেতন করবেন!
+<br>
 
 ---
 
-<br/>
-
-- [Renderdragon Shader Installation](installation/README.md)
-
+<br>
+- [কীভাবে রেন্ডারড্রাগন শেডার ইন্সটল করবেন](installation/README.md)
 - [Terms of Use](/TERMS_OF_USE.md)
-
-
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
 
+## সূচি
 - [RenderDragon Shader List](#renderdragon-shader-list)
-  - [What is RenderDragon?](#what-is-renderdragon)
+  - [RenderDragon কী?](#renderdragon-%E0%A6%95%E0%A7%80)
 - [Utility](#utility)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
@@ -132,19 +117,19 @@ https://github.com/ddf8196/BetterRenderDragon
 <details>
 <summary>Information</summary>
 
-Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
+_**Minecraft: Bedrock Edition**_ এর জন্য রেন্ডারড্রাগন মড।
 
-**_Functions_**
-* Enable deferred rendering
-* Disable raytracing for better performance
-* Loads RenderDragon shaders from the resource pack
-* Configurable ImGui
+**_সুবিধা_**
+* Deferred rendering চালু করা
+* পারফরম্যান্স বাড়ানোর জন্য RTX বন্ধ করা
+* রিসোর্স প্যাক থেকে শেডার লোড করা
+* কনফিগার করার মতো GUI
 
 </details>
 
 >[!NOTE]
-> The version below is provided by [YSS Group](https://discord.gg/yss) and has not yet been released on GitHub.  
-> If it is classified as an Old version, it means that a new BetterRenderDragon has been updated on GitHub.
+> নিচের ভার্সনটা [YSS Group](https://discord.gg/yss) হতে প্রাপ্ত। গিটহাবে এখনো রিলিজ করা হয়নি।
+> যদি নিচের ভার্সনটা পুরাতন হিসেবে গণ্য করা হয় তাহলে বুঝে নিবেন গিটহাবে লেটেস্ট ভার্সন আছে।
 
 * [BetterRenderDragon-1.4.3](https://cdn.discordapp.com/attachments/1234853561280761927/1251792994047361044/BetterRenderDragon-1.4.3.zip?ex=666fde92&is=666e8d12&hm=510083863afce70a4d3bac5d8572738a2fadc50976177db56d66f80575b4e6b9&)
 ![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~_1.21.0,_Preview_1.21.10.20_~_-2d7a3e?style=flat-square) 
@@ -161,7 +146,7 @@ https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.m
 <details>
 <summary>Information</summary>
 
-A Patched APK that can load renderdragon materialbin file under resource pack, Powered by MaterialBinLoader
+YSS এর বানানো মডেড মাইনক্রাফট এপিকে। যা সরাসরি রিসোর্স প্যাক থেকে শেডার লোড করতে পারে MaterialBinLoader এর সাহায্যে।
 
 </details>
 
@@ -178,7 +163,7 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <details>
 <summary>Information</summary>
 
-This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
+লিনাক্স মাইনক্রাফট লাঞ্চারের জন্য একটা মড যার মাধ্যমে গেমের ফাইলস মডিফাই না করে শেডার অ্যাড করতে পারবেন।
 
 </details>
 
@@ -197,7 +182,7 @@ https://github.com/mcbegamerxx954/draco-injector
 <details>
 <summary>Information</summary>
 
-A crossplatform injector that can be used to make minecraft apk's load shaders (not patched apk) and can clone the apk to have it aside the original one.
+একটা ক্রস প্লাটফর্ম ইঞ্জেকটর যা দিয়ে শেডার সরাসরি (রিসোর্স প্যাক থেকে) লোড করতে পারে এমন মাইনক্রাফট এপিকে বানাতে পারবেন। পাশাপাশি ক্লোনও করতে পারবেন। উল্লেখ্য, এটা YSS এর Patched Minecraft (MaterialBinLoader) না।
 
 </details>
 
@@ -207,7 +192,7 @@ A crossplatform injector that can be used to make minecraft apk's load shaders (
 ## draco
 
 > [!NOTE]
-> Does't work in versions higher than 1.19.20
+> 1.19.20 এর উপরের ভার্সনে কাজ করে না।
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/cqdetdev/draco
@@ -217,7 +202,7 @@ https://github.com/cqdetdev/draco
 <details>
 <summary>Information</summary>
 
-A multiversion gophertunnel proxy to join the latest MC version without renderdragon. Last working on 1.19.20.
+একটা মাল্টি-ভার্সন প্রোক্সি যা দিয়ে মাইনক্রাফট সার্ভার রেন্ডারড্রাগন ছাড়া কানেক্ট করতে পারবেন। সর্বশেষ ভার্সন যেখানে কাজ করে: 1.19.20.
 
 </details>
 
@@ -254,7 +239,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
   - [Windows](https://yss.minecraft.pe/YSS_SE/YSS_SE_1.9.7.8_Windows.mcpack)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 <br/>
 
@@ -318,7 +303,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 - [Beta 1.1.0](https://github.com/bambosan/BSBE-Deferred/releases/download/1.1.0-beta/BSBE-Deferred-Beta-1.1.0.mcpack)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 <br/>
 
@@ -391,7 +376,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 ![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 <br/>
 
@@ -452,7 +437,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
     - [3.3 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/Bicubic-Shaders-BE-3.3.mcpack)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [3.2](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
     - [3.2 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
@@ -486,7 +471,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
     - [1.6 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Windows-1.6.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [1.5](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
     - [1.5 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Android-1.5.zip)
@@ -550,7 +535,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
   - [v4.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0r/musk_rose_rd-v4.0r.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [v4.0 Beta](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0b/musk_rose_rd-v4.0b.zip)
   - [v2.1](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.1/musk_rose_rd-v2.1.zip)
@@ -576,7 +561,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
 
@@ -616,7 +601,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)  
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [V2.0](https://download2389.mediafire.com/fbwrmfm9bpbgKL5hHIDQ0R23EfYbQcT9UP0ber9JQiK6wSNpCH_FZIW3Rv8ZrkypZjrZGmi19qcmauJHkErantL9/c26hmb2uyipbvbe/Chill+Voxel+Shader+for+R.D+Bedrock+platforms.zip)
 
@@ -702,7 +687,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
   - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-ios.zip)
 
 <details>
-<summary> Show All Beta versions </summary>
+<summary> সব বিটা ভার্সন </summary>
 
 - [v15.46](https://discord.com/channels/844591537430069279/1127879378378969088/1255200939997134938)
   - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)
@@ -799,7 +784,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
   - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-ios.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - [v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-android.mcpack)
@@ -885,7 +870,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [0.6](https://linkvertise.com/1015125/azify-rev-v06?o=sharing) ( Ad link exists )
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - 1.4.0 ( Ad link exists )
   - [Ultra](https://linkvertise.com/1015125/azify-revive4?o=sharing)
@@ -926,7 +911,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
     - [Low](https://download1527.mediafire.com/higqq5ybqddgAX2T55l-WcVHdBBIdTNqLigb1fut0_VuACr3j7Ao8axaNe5RSbVTAcfRgT4n4JKrvmW1mdjtQNdRb2q_rwKkuAreh-doYTAx4bTM9sxXr6QF6CRQuFtX7PqnRvdQ0qrZKu4yS5qwuDOWOoben5PEFhugMzqeNQ/k6xgpksdioqyzve/EnDefault+1.2.0+Low.mcpack) (Removed Fake Terrain Reflection, Waves/ Waving Effect, Glossy Effect.)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [1.0](https://download2262.mediafire.com/flh39ua16pkgfBilxlIjdMk6XGmEblTFF5IlbXGbmKrGJjM3HBhTJzXEkYHp9TSCrc2LrFXVi3oqS9egegryWibNrrLTxBDqF6XV-MolZIyisG6XkPDpZ5rEzAtSpYiHGuPSJFVmHUE1zQ1-pZTPc9Q8l3eEE1zrR1u9o8lvEQ/0e16y86o7e9yebe/AziFy+EnDefault+v1.0.zip)
 
@@ -957,7 +942,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [v3.0](https://bit.ly/4enufeT) ( Ad link exists )
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) ( Ad link exists )
 
@@ -992,7 +977,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [0.8](https://download2279.mediafire.com/f7mvfqf2dp1g2n5ccNZff5CzFqwFrH_f9qKSGhZL4JmGxVu3vjP5uSPKcUfTBqC5c2BIVPzj8vkGSiCcvS3O3mxOIaYk2y_pceekRzj6YiKdadKnF-sZjso8RTguo0OlXcRwpOSREtB4lJGMMRL3mHAPMJGu29SiNogfnfY2nA/rqwzwfmryohaj6g/ReSHv0.8RD.mcpack)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - [0.7](https://download2290.mediafire.com/2uoeoc74xkogH61S0r_25kp-k96U84IbCEpk1GNYK4doCaCK8Nuj9QntsbXKu5pGhGSmVC1-P866q5w_s0n4zV9L8JHBVJfvgZ9my3V9KMfph_F2z29Lzu1-M8hl_Jh5b6FdBPaLRaLROmENyUoxL5jrmQzfGnG6etX9xQbJXg/k0ud7jqgnhfuqwg/%5BRD%5DReSH0.7.mcpack)
 
@@ -1022,7 +1007,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [V5](https://sfile.mobi/7an1e6sm76M) ( Ad link exists )
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - [V5 Beta11](https://cdn.discordapp.com/attachments/1131912512787460235/1186866937515483277/GetMoonV5_Beta11.mcpack?ex=660cc778&is=65fa5278&hm=4f0c66c99f851a56d471e7accec13d64a4ed406496e284f061227935580246a4&)
 - [V5 Beta10](https://cdn.discordapp.com/attachments/1131912512787460235/1183674821444374628/GetMoonV5_Beta10.mcpack?ex=660a6515&is=65f7f015&hm=c557a634a8aed5dbaa2a71dfb82c136950f33330250b4169205554377ec49c7a&)
@@ -1173,7 +1158,7 @@ https://github.com/Furzide/RenderDragonFullBright
 - [2.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v2.0.0/RenderDragonFullBright-v2.0.0.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
   - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
   - [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
@@ -1193,7 +1178,7 @@ https://github.com/Furzide/RenderDragonFogRemover
 - [3.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.1.0/RenderDragonFogRemover.3.1.0.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - [3.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.0.0/RenderDragonNoFog-v3.0.0.zip)
 - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
@@ -1214,7 +1199,7 @@ https://github.com/Furzide/RenderDragonCubemapFix
 - [2.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.0.0/RD.Cubemap.Fix.2.0.0.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
 - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
@@ -1250,12 +1235,12 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 <br/>
 <br/>
 
-## Discontinued Shaders
+## ডেভেলপমেন্ট স্থগিত করা শেডারসমূহ
 
 <br/>
 
 > [!CAUTION]
-> The shader packs here may have missing download links or may redirect to strange links.
+> এই অংশের শেডার লিংকগুলো নষ্ট বা ক্ষতিকর সাইটে নিয়ে যেতে পারে। **সাবধান!**
 
 <br/>
 <br/>
@@ -1290,7 +1275,7 @@ https://github.com/luit04/OriginShaderDeferred
   - [Windows](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.2/OriginShaderDeferred-0.0.2-Windows.zip)
 
 <details>
-<summary> Show all versions </summary>
+<summary> সব ভার্সন </summary>
 
 - 0.0.1
   - [Android](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.1/OriginShaderDeferred-0.0.1-Android.zip)
@@ -1305,8 +1290,7 @@ https://github.com/luit04/OriginShaderDeferred
 <br/>
 
 # Render Dragon content
-
-This covers Render Dragon-related materials, sites, and communities, aside from the RenderDragon Shader List.
+এই অংশে রেন্ডারড্রাগন ডেভেলপমেন্টের নির্দেশিকা, সাইট, কমিউনিটি ইত্যাদি পাবেন।
 
 
 <br/>
@@ -1314,7 +1298,7 @@ This covers Render Dragon-related materials, sites, and communities, aside from 
 ## README_wip
 https://github.com/atashi764/rd-shader-list/blob/atashi764/readme_wip.md
 
-Another version of the RenderDragon Shader List created by [atashi764](https://github.com/atashi764).
+<s>Another version of the RenderDragon Shader List created by [atashi764](https://github.com/atashi764).</s>
 
 <br/>
 <br/>
@@ -1322,7 +1306,7 @@ Another version of the RenderDragon Shader List created by [atashi764](https://g
 ## RenderDragon Shaders
 https://devendrn.github.io/renderdragon-shaders
 
-This is the website version of the RenderDragon shader list created by devendrn, the developer of Newb X Legacy. In addition to the RenderDragon Shader List, it also includes documentation for developers.
+Newb X Legacy এর ডেভেলপার devendrn এর বানানো আরেকটা শেডার লিস্ট। এখানে শেডারের পাশাপাশি ডেভেলপারদের জন্য নির্দেশিকা পাবেন।
 
 
 <br/>
@@ -1333,7 +1317,7 @@ This is the website version of the RenderDragon shader list created by devendrn,
 # Docs
 <br/>
 
-## Renderdragon Shader Installation
+## যেভাবে Renderdragon শেডার ইন্সটল করবেন।
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
 
 <br/>
@@ -1342,7 +1326,7 @@ https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
 ## Dev
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/dev.md
 
-This document contains materials necessary for RenderDragon shader development.
+এখানে রেন্ডারড্রাগনের ডেভেলপমেন্ট সংক্রান্ত তথ্য পাবেন।
 
 <br/>
 <br/>
@@ -1353,4 +1337,4 @@ This document contains materials necessary for RenderDragon shader development.
 <br/>
 <br/>
 
-**THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. IT IS NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
+**এটা মাইনক্রাফটের কোনো অফিসিয়াল প্রোডাক্ট না। ইহা মোজাং বা মাইক্রোসফটের সাথে জড়িত না আর তাদের অনুমোদনপ্রাপ্ত না।**

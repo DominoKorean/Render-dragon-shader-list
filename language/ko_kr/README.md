@@ -30,7 +30,7 @@
 
 - [렌더드래곤 셰이더 설치법](installation/README.md)
 
-- [이용약관](/TERMS_OF_USE.md)
+- [이용약관](TERMS_OF_USE.md)
 
 
 <br/>
@@ -43,7 +43,6 @@
   - [렌더드래곤이란?](#렌더드래곤이란)
 - [유틸리티](#유틸리티)
   - [BetterRenderDragon](#betterrenderdragon)
-    - [RenderDragon 엔진 향상 모드 _**Minecraft: Bedrock Edition**_](#renderdragon-엔진-향상-모드-minecraft-bedrock-edition)
   - [Patched app](#patched-app)
   - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
   - [draco injector](#draco-injector)
@@ -124,7 +123,7 @@ https://github.com/ddf8196/BetterRenderDragon
 <details>
 <summary>설명</summary>
 
-### RenderDragon 엔진 향상 모드 _**Minecraft: Bedrock Edition**_
+RenderDragon 엔진 향상 모드 _**Minecraft: Bedrock Edition**_
 
 **_기능_**
 * 지연 렌더링 활성화
