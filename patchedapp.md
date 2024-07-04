@@ -3,12 +3,12 @@ Patched app is an APK file of Minecraft that includes the [MaterialBinLoader](ht
 With MaterialBinLoader, you can easily apply or remove any compatible RenderDragon shader pack, from a resource pack.  
 
 >[!NOTE]
-Check if your phone is **32-bit** or **64-bit**.  
-If the APK's name contains `arm64`, it means it supports **64-bit**, and if it contains `arm32`, it means it supports **32-bit**. Or if it contains `arm32_arm64`, it means it supports **both**.<br>
-You can use [64Bit Checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) to see which one your phone supports.<br><br>
-
-If you want to create a Patched app yourself, use [Draco Injector](https://github.com/mcbegamerxx954/draco-injector).<br>
-Keep in mind this is not the same as MaterialBinLoader.
+> Check if your phone is **32-bit** or **64-bit**.  
+> If the APK's name contains `arm64`, it means it supports **64-bit**, and if it contains `arm32`, it means it supports **32-bit**. Or if it contains `arm32_arm64`, it means it supports **both**.<br>
+> You can use [64Bit Checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) to see which one your phone supports.
+> 
+> If you want to create a Patched app yourself, use [Draco Injector](https://github.com/mcbegamerxx954/draco-injector).<br>
+> Keep in mind this is not the same as MaterialBinLoader.
 
 <br/>
 
@@ -111,7 +111,7 @@ __**After installing apk you must give `Files` permission manually to Minecraft 
 
 * [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
 > If you think your game has more stutters after using this apk then use this pack to revert the essl_100 change.
-> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](ttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
+> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
 
 * [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
 > This version onward, draco patch can load pre 1.20.80 renderdragon shaders
