@@ -1,15 +1,22 @@
 ![](/images/banner.png)
+
 <br>
+
 # RenderDragon Shader List
 
 রেন্ডারড্রাগন শেডার লিস্ট (কমিউনিটি দ্বারা পরিচালিত) একটা গিটহাব রিপোজিটরি যেখানে রেন্ডারড্রাগন সংক্রান্ত যাবতীয় তথ্য পাবেন। এই লিস্ট বানানো হয়েছে সাধারণ পাবলিকের বেডরক এডিশনে শেডার ইন্সটলেশন সহজতর করতে। কেননা, নতুন বেডরক ভার্সনগুলায় শেডার ইন্সটলের প্রক্রিয়াটা কিছুটা জটিল। যার দরুণ পুরো কমিউনিটিতে বিভ্রান্তি ছড়িয়ে যাচ্ছে। এ বিভ্রান্তি নির্মূল করাই এই লিস্টের প্রধান লক্ষ্য।
+
 <br>
+
 যেহেতু লিস্টটা ম্যানুয়ালি বিভিন্ন মানুষ তাদের অবসরে এডিট করে থাকে তাই মাঝে মাঝে লিস্টে ভুল বা আউটডেটেড তথ্য পেতে পারেন। আপনি চাইলে এসব ভুল, পুরাতন তথ্য, সমস্যা বা পরামর্শ [Issue](github.com/DominoKorean/Render-dragon-shader-list/issues) এ সাবমিট করতে পারেন।
 এছাড়াও অন্যান্য দেশের মানুষের পড়ার সুবিধার্থে লিস্টটা অনুবাদে সাহায্য করতে পারেন [Pull request](github.com/DominoKorean/Render-dragon-shader-list/pulls) এর মাধ্যমে।
+
 <br>
+
 ## RenderDragon কী?
 [Minecraft Wiki](https://minecraft.wiki/RenderDragon) অনুসারে এটা মাইনক্রাফট বেডরক এডিশনের জন্য নতুন একটা রেন্ডারিং ইঞ্জিন যা আগে ব্যবহৃত OpenGL/DirectX ইঞ্জিনকে রিপ্লেস করে।
 রেন্ডারড্রাগনের সূচনা হওয়ার পর থেকে মাইনক্রাফটে পুরাতন থার্ড পার্টি শেডার চলা বন্ধ হয়ে গিয়েছে। যার জন্য ডেভেলপাররা এখন গেমের ফাইল এডিট করে রেন্ডারড্রাগনে শেডার সাপোর্টকে নতুন এক মাত্রায় নিয়ে যাচ্ছে।
+
 <br><br><br>
 
 > [!NOTE]
@@ -19,13 +26,16 @@
 > `9Minecraft` জাতীয় ওয়েবসাইট ইউজ করা থেকে বিরত থাকুন। এসব সাইটে প্রায়ই নকল রেন্ডারড্রাগন শেডার পাবলিশ করা হয় আর অনেক ক্ষেত্রে তা ক্রিয়েটরের অনুমতি ছাড়া করা হয়।<br>
 > **এছাড়াও এসব সাইটে সিকিউরিটি রিস্কের সাথে ভাইরাস/ম্যালওয়্যার থাকতে পারে।**<br>
 > কখনোই এধরণের সাইট থেকে ডাউনলোড করবেন না। এ ঝুঁকির ব্যাপারে অন্যদেরও সচেতন করবেন!
+
 <br>
 
 ---
 
 <br>
-- [কীভাবে রেন্ডারড্রাগন শেডার ইন্সটল করবেন](installation/README.md)
+
+- [কীভাবে রেন্ডারড্রাগন শেডার ইন্সটল করবেন](/installation/README.md)
 - [Terms of Use](/TERMS_OF_USE.md)
+
 <br>
 
 ---
@@ -34,7 +44,8 @@
 
 ## সূচি
 - [RenderDragon Shader List](#renderdragon-shader-list)
-  - [RenderDragon কী?](#renderdragon-%E0%A6%95%E0%A7%80)
+  - [RenderDragon কী?](#renderdragon-কী)
+  - [সূচি](#সূচি)
 - [Utility](#utility)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
@@ -86,14 +97,14 @@
     - [RD Cubemap Fix](#rd-cubemap-fix)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
-  - [Discontinued Shaders](#discontinued-shaders)
+  - [ডেভেলপমেন্ট স্থগিত করা শেডারসমূহ](#ডেভেলপমেন্ট-স্থগিত-করা-শেডারসমূহ)
     - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
     - [OriginShaderDeferred](#originshaderdeferred)
 - [Render Dragon content](#render-dragon-content)
   - [README\_wip](#readme_wip)
   - [RenderDragon Shaders](#renderdragon-shaders)
 - [Docs](#docs)
-  - [Renderdragon Shader Installation](#renderdragon-shader-installation)
+  - [যেভাবে Renderdragon শেডার ইন্সটল করবেন।](#যেভাবে-renderdragon-শেডার-ইন্সটল-করবেন)
   - [Dev](#dev)
 
 <br/>
