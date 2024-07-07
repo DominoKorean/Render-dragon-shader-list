@@ -2,8 +2,8 @@
 
 <br/>
 
-* [Korean / 한국어](/language/ko_kr/README.md)
-* [Bangla / বাংলা ](/language/bn_bd/README.md)
+* [🇰🇷 Korean / 한국어](/language/ko_kr/README.md)
+* [🇧🇩 Bangla / বাংলা ](/language/bn_bd/README.md)
 
 <br/>
 
@@ -50,19 +50,32 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 
 - [RenderDragon Shader List](#renderdragon-shader-list)
   - [What is RenderDragon?](#what-is-renderdragon)
-- [Utility](#utility)
+    
+<br>
+
+- [Utilities](#utilities)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
   - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
   - [draco injector](#draco-injector)
   - [draco](#draco)
+    
+<br>
+
+
 - [Render dragon shaders](#render-dragon-shaders)
   - [Deferred Rendering](#deferred-rendering)
     - [YSS Special Edition](#yss-special-edition)
     - [BSBE Deffered](#bsbe-deffered)
     - [Innovative Shader Deferred](#innovative-shader-deferred)
     - [Harmony Voxel Deferred](#harmony-voxel-deferred)
+    
+<br>
+
+
   - [Render dragon](#render-dragon)
+     - [Newb X Legacy](#newb-x-legacy)
+        - [newb variants](#newb-variants)
     - [YSS RD](#yss-rd)
     - [Bicubic Shaders BE](#bicubic-shaders-be)
     - [BSBE Lite](#bsbe-lite)
@@ -75,8 +88,6 @@ Since its introduction, third-party shaders have become unusable, and therefore 
     - [Darkfall BE](#darkfall-be)
     - [Shasvat Shader](#shasvat-shader)
     - [Eternity Shader](#eternity-shader)
-    - [Newb X Legacy](#newb-x-legacy)
-      - [newb variants](#newb-variants)
     - [AziFy Revive](#azify-revive)
     - [AziFy Reimagined](#azify-reimagined)
     - [AziFy EnDefault](#azify-endefault)
@@ -92,21 +103,40 @@ Since its introduction, third-party shaders have become unusable, and therefore 
     - [Grand Shaders](#grand-shaders)
     - [HSD Shaders](#hsd-shaders)
     - [Zebra Shaders](#zebra-shaders)
+    
+<br>
+
+
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
       - [BetterRTX Edits](#betterrtx-edits)
+    
+<br>
+
+
   - [Ect Utility Shaders](#ect-utility-shaders)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
     - [RD Cubemap Fix](#rd-cubemap-fix)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
+    
+<br>
+
+
   - [Discontinued Shaders](#discontinued-shaders)
     - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
     - [OriginShaderDeferred](#originshaderdeferred)
+    
+<br>
+
+
 - [Render Dragon content](#render-dragon-content)
-  - [README\_wip](#readme_wip)
   - [RenderDragon Shaders](#renderdragon-shaders)
+    
+<br>
+
+
 - [Docs](#docs)
   - [Renderdragon Shader Installation](#renderdragon-shader-installation)
   - [Dev](#dev)
@@ -118,7 +148,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 <br/>
 <br/>
 
- # Utility
+ # Utilities
 
 <br/>
 <br/>
@@ -374,6 +404,203 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 ## Render dragon
 
 <br/>
+
+### Newb X Legacy
+[![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
+![](https://img.shields.io/badge/IPA-white?style=flat-square&logo=Appstore)
+
+ <br/>
+
+![](https://img.shields.io/badge/Supported_MC_version-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
+- [v15.49](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-ios.zip)
+
+<details>
+<summary> Show all beta versions </summary>
+  
+- [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-windows.mcpack)
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-ios.zip)
+  
+- [v15.46](https://discord.com/channels/844591537430069279/1127879378378969088/1255200939997134938)
+  - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-windows.mcpack)
+  - [iOS](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-ios.zip)
+
+- [v15.44](https://discord.com/channels/844591537430069279/1127879378378969088/1255086510294696018)
+  - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-windows.mcpack)
+  - [iOS](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-ios.zip)
+
+- [v15.38-b1](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.38-b1-android.mcpack)
+![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~-2d7a3e?style=flat-square)  
+
+- [v15.37](https://github.com/devendrn/newb-shader/releases/tag/v15)
+  - [Andorid](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-windows.mcpack)
+  - [iOS Materails](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.57-ios-materials.zip)
+
+- [v15.36](https://discord.com/channels/844591537430069279/1127879378378969088/1232371378947231774)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-android-15.36.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-windows-15.36.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-ios-15.36-materials.zip)
+
+- [v15.27](https://discord.com/channels/844591537430069279/1127879378378969088/1211740254822989895)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-windows.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-ios-materials.zip)
+
+- [v15.26](https://discord.com/channels/844591537430069279/1127879378378969088/1211306107428020264)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-windows.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-ios-materials.zip)
+
+- [v15.21](https://discord.com/channels/844591537430069279/1127879378378969088/1201107107869634590)
+  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-windows.mcpack)
+  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-ios-materials.zip)
+
+- [v15.20](https://discord.com/channels/844591537430069279/1127879378378969088/1199570927638294609)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-windows.mcpack)
+  - [iOS Materials](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-ios-materials.zip)
+
+- [v15.15](https://discord.com/channels/844591537430069279/1127879378378969088/1178747874977259570)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-windows.mcpack)
+  - [iOS Materials](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-ios-materials.zip)
+
+- [v15.10](https://discord.com/channels/844591537430069279/1127879378378969088/1157635358629044347)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.10-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.10-windows.mcpack)
+
+- [v15.1](https://discord.com/channels/844591537430069279/1127879378378969088/1155538579649478658)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.1-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.1-windows.mcpack)
+
+- [v15b4](https://discord.com/channels/844591537430069279/1127879378378969088/1145978490466865244)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b4-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b4-windows.mcpack)
+
+- [v15b3](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b3-android.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b3-windows.mcpack)
+
+- [v15b2](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b2-android.mcpack)
+
+- [Custom v14 - Saturated version](https://discord.com/channels/844591537430069279/1127879378378969088/1130196780924022885)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
+  - [Custom v14 - Brighter ores: Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
+
+- [Final v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14-android-saturated.mcpack)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14-android-brighter-ores.mcpack)
+
+- [v14b](https://discord.com/channels/844591537430069279/1127879378378969088/1128002862237094019)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-all.mcpack)
+  - [Android Chunk Animation](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-chunk_anim.mcpack)
+  - [Android No Wave No Fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-no_wave_no_fog.mcpack)
+  - [Android No Fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-no_fog.mcpack)
+  - [Andorid Subpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-subpack_test.mcpack)
+
+---
+
+</details>
+
+- [v15](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
+  - Newb Modified MC
+    - [Android (1.20.40.01 - support 32 bit phones)](https://www.mediafire.com/file/j0bfiw2pkf925nz/minecraft-1.20.40.01-newb.apk/file)
+    - [iOS (1.20.40 - doesn't support xbox account login)](https://download1510.mediafire.com/6d8rfo20a0wgkYD83WIG4XF7A5PTZ4TsDoh6_AcriGKhUZV9XWG6TNyJbcvgSkonGR4gYax50DsBGLPVcymOwrtoQsx6F-J6JqeGwnP1wh0-QS1CuOOAQ15wMWxOgTqStJyYB0i17Wcy3gM3d76TggX4TMOIjuaWiseEzPX-qA/p4eg1515iaz9uhh/Minecraft-v1.20.40-newb.ipa)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
+  - [Winodows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-windows.mcpack)
+  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-ios.zip)
+
+<details>
+<summary> Show all versions </summary>
+
+- [v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-android.mcpack)
+  - [Winodows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-windows.mcpack)
+  - [iOS](hhttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-ios.zip)
+
+- [013](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
+  - [Android no fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-no-fog.zip)
+  - [Android no lantern wave](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-no-lantern-wave.zip)
+  - [Android no wave](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-no-wave.zip)
+  - [Android all](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-all.zip)
+
+- [012](https://discord.com/channels/844591537430069279/1116247638094909460/1124362397243682948)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-android-1.20.zip)
+  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-ios-1.19.60.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-win-1.20.zip)
+
+- [011 Lite patch1](https://discord.com/channels/844591537430069279/1116247638094909460/1122941754761543721)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0-patch1.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0-patch1.zip)
+
+- [011 Lite](https://discord.com/channels/844591537430069279/1116247638094909460/1122915916158603414)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-lite-android-1.20.0.zip)
+
+- [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![](https://img.shields.io/badge/Supported_from_this_version-iOS-0A84E1?style=flat-square&logo=Apple)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0.zip)
+  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-ios-1.19.60.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0.zip)
+
+- [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-win-1.20.0.zip)
+
+- [009](https://discord.com/channels/844591537430069279/1116247638094909460/1120603151196758066)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-win-1.20.0.zip)
+
+- [008](https://discord.com/channels/844591537430069279/1116247638094909460/1120417436177539152)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-win-1.20.0.zip)
+
+- [007](https://discord.com/channels/844591537430069279/1116247638094909460/1118925382037557371)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-win-1.20.0.zip)
+
+- [006](https://discord.com/channels/844591537430069279/1116247638094909460/1118175826601582602)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-win-1.20.0.zip)
+
+- [005](https://discord.com/channels/844591537430069279/1116247638094909460/1117811788931674283)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-android-1.20.0.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-win-1.19.60.zip)
+
+- [004](https://discord.com/channels/844591537430069279/1116247638094909460/1117136656890339431)
+  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-android-1.19.83.zip)
+  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-win-1.19.60.zip)
+
+- [003 Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
+
+- [002 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-002-android-1.19.83.zip)
+
+- [001 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-001-android-1.19.83.zip)
+
+</details>
+
+
+#### newb variants
+> [![](/banners/newb%20variant/newb%20variants.png)](/newb_variants.md)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 ### YSS RD
 [![](banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
@@ -680,197 +907,6 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 - [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
 
-<br/>
-<br/>
-
-### Newb X Legacy
-[![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
-![](https://img.shields.io/badge/IPA-white?style=flat-square&logo=Appstore)
-
- <br/>
-
-![](https://img.shields.io/badge/Supported_MC_version-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
-- [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
-  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-merged.mcpack)
-  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-android.mcpack)
-  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-windows.mcpack)
-  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-ios.zip)
-
-<details>
-<summary> Show All Beta versions </summary>
-
-- [v15.46](https://discord.com/channels/844591537430069279/1127879378378969088/1255200939997134938)
-  - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)
-  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-windows.mcpack)
-  - [iOS](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-ios.zip)
-
-- [v15.44](https://discord.com/channels/844591537430069279/1127879378378969088/1255086510294696018)
-  - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-android.mcpack)
-  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-windows.mcpack)
-  - [iOS](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.44-ios.zip)
-
-- [v15.38-b1](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.38-b1-android.mcpack)
-![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~-2d7a3e?style=flat-square)  
-
-- [v15.37](https://github.com/devendrn/newb-shader/releases/tag/v15)
-  - [Andorid](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-android.mcpack)
-  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-windows.mcpack)
-  - [iOS Materails](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.57-ios-materials.zip)
-
-- [v15.36](https://discord.com/channels/844591537430069279/1127879378378969088/1232371378947231774)
-  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-android-15.36.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-windows-15.36.mcpack)
-  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-ios-15.36-materials.zip)
-
-- [v15.27](https://discord.com/channels/844591537430069279/1127879378378969088/1211740254822989895)
-  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-windows.mcpack)
-  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.27-ios-materials.zip)
-
-- [v15.26](https://discord.com/channels/844591537430069279/1127879378378969088/1211306107428020264)
-  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-windows.mcpack)
-  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.26-ios-materials.zip)
-
-- [v15.21](https://discord.com/channels/844591537430069279/1127879378378969088/1201107107869634590)
-  - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-windows.mcpack)
-  - [iOS Materails](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.21-ios-materials.zip)
-
-- [v15.20](https://discord.com/channels/844591537430069279/1127879378378969088/1199570927638294609)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-windows.mcpack)
-  - [iOS Materials](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.20-ios-materials.zip)
-
-- [v15.15](https://discord.com/channels/844591537430069279/1127879378378969088/1178747874977259570)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-windows.mcpack)
-  - [iOS Materials](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.15-ios-materials.zip)
-
-- [v15.10](https://discord.com/channels/844591537430069279/1127879378378969088/1157635358629044347)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.10-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.10-windows.mcpack)
-
-- [v15.1](https://discord.com/channels/844591537430069279/1127879378378969088/1155538579649478658)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.1-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15.1-windows.mcpack)
-
-- [v15b4](https://discord.com/channels/844591537430069279/1127879378378969088/1145978490466865244)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b4-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b4-windows.mcpack)
-
-- [v15b3](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b3-android.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b3-windows.mcpack)
-
-- [v15b2](https://discord.com/channels/844591537430069279/1127879378378969088/1136643278993891458)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-15b2-android.mcpack)
-
-- [Custom v14 - Saturated version](https://discord.com/channels/844591537430069279/1127879378378969088/1130196780924022885)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
-  - [Custom v14 - Brighter ores: Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
-
-- [Final v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14-android-saturated.mcpack)
-  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14-android-brighter-ores.mcpack)
-
-- [v14b](https://discord.com/channels/844591537430069279/1127879378378969088/1128002862237094019)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-all.mcpack)
-  - [Android Chunk Animation](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-chunk_anim.mcpack)
-  - [Android No Wave No Fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-no_wave_no_fog.mcpack)
-  - [Android No Fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-no_fog.mcpack)
-  - [Andorid Subpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-14b1-android-subpack_test.mcpack)
-
----
-
-</details>
-
-- [v15](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
-  - Newb Modified MC
-    - [Android (1.20.40.01 - support 32 bit phones)](https://www.mediafire.com/file/j0bfiw2pkf925nz/minecraft-1.20.40.01-newb.apk/file)
-    - [iOS (1.20.40 - doesn't support xbox account login)](https://download1510.mediafire.com/6d8rfo20a0wgkYD83WIG4XF7A5PTZ4TsDoh6_AcriGKhUZV9XWG6TNyJbcvgSkonGR4gYax50DsBGLPVcymOwrtoQsx6F-J6JqeGwnP1wh0-QS1CuOOAQ15wMWxOgTqStJyYB0i17Wcy3gM3d76TggX4TMOIjuaWiseEzPX-qA/p4eg1515iaz9uhh/Minecraft-v1.20.40-newb.ipa)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
-  - [Winodows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-windows.mcpack)
-  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-ios.zip)
-
-<details>
-<summary> Show all versions </summary>
-
-- [v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-android.mcpack)
-  - [Winodows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-windows.mcpack)
-  - [iOS](hhttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-ios.zip)
-
-- [013](https://discord.com/channels/844591537430069279/1116247638094909460/1125317842619875400)
-  - [Android no fog](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-no-fog.zip)
-  - [Android no lantern wave](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-no-lantern-wave.zip)
-  - [Android no wave](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-no-wave.zip)
-  - [Android all](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-013-android-all.zip)
-
-- [012](https://discord.com/channels/844591537430069279/1116247638094909460/1124362397243682948)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-android-1.20.zip)
-  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-ios-1.19.60.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-win-1.20.zip)
-
-- [011 Lite patch1](https://discord.com/channels/844591537430069279/1116247638094909460/1122941754761543721)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0-patch1.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0-patch1.zip)
-
-- [011 Lite](https://discord.com/channels/844591537430069279/1116247638094909460/1122915916158603414)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-lite-android-1.20.0.zip)
-
-- [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![](https://img.shields.io/badge/Supported_from_this_version-iOS-0A84E1?style=flat-square&logo=Apple)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0.zip)
-  - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-ios-1.19.60.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0.zip)
-
-- [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-win-1.20.0.zip)
-
-- [009](https://discord.com/channels/844591537430069279/1116247638094909460/1120603151196758066)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-win-1.20.0.zip)
-
-- [008](https://discord.com/channels/844591537430069279/1116247638094909460/1120417436177539152)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-win-1.20.0.zip)
-
-- [007](https://discord.com/channels/844591537430069279/1116247638094909460/1118925382037557371)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-win-1.20.0.zip)
-
-- [006](https://discord.com/channels/844591537430069279/1116247638094909460/1118175826601582602)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-win-1.20.0.zip)
-
-- [005](https://discord.com/channels/844591537430069279/1116247638094909460/1117811788931674283)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-win-1.19.60.zip)
-
-- [004](https://discord.com/channels/844591537430069279/1116247638094909460/1117136656890339431)
-  - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-android-1.19.83.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-win-1.19.60.zip)
-
-- [003 Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
-
-- [002 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-002-android-1.19.83.zip)
-
-- [001 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-001-android-1.19.83.zip)
-
-</details>
-
-
-#### newb variants
-> [![](/banners/newb%20variant/newb%20variants.png)](/newb_variants.md)
-
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -1309,14 +1345,6 @@ https://github.com/luit04/OriginShaderDeferred
 This covers Render Dragon-related materials, sites, and communities, aside from the RenderDragon Shader List.
 
 
-<br/>
-
-## README_wip
-https://github.com/atashi764/rd-shader-list/blob/atashi764/readme_wip.md
-
-Another version of the RenderDragon Shader List created by [atashi764](https://github.com/atashi764).
-
-<br/>
 <br/>
 
 ## RenderDragon Shaders
