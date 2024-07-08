@@ -132,7 +132,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 <br>
 
 
-- [Other RenderDragon content](#render-dragon-content)
+- [Other RenderDragon content](#other-renderdragon-content)
   - [RenderDragon shader list by devendrn](#renderdragon-shader-list-by-devendrn)
     
 <br>
@@ -1343,7 +1343,7 @@ https://github.com/luit04/OriginShaderDeferred
 <br/>
 <br/>
 
-# Render Dragon content
+# Other RenderDragon contents
 
 This covers Render Dragon-related materials, sites, and communities, aside from the RenderDragon Shader List.
 
