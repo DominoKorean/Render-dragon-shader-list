@@ -76,7 +76,7 @@
 
   - [RenderDragon শেডারসমূহ](#renderdragon-শেডারসমূহ) <!-- placeholder -->
     - [Newb X Legacy](#newb-x-legacy)
-      - [Newb variants](#newb-variants)
+      - [Newb এর ভ্যারিয়ান্টসমূহ](#newb-এর-ভ্যারিয়ান্টসমূহ)
     - [YSS RD](#yss-rd)
     - [Bicubic Shaders BE](#bicubic-shaders-be)
     - [BSBE Lite](#bsbe-lite)
