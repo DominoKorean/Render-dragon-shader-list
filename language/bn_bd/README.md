@@ -133,7 +133,7 @@
 
 
 - [ অন্যান্য RenderDragon কন্টেন্টসমূহ](#অন্যান্য-renderdragon-কন্টেন্টসমূহ)
-  - [RenderDragon shader list by devendrn](#renderdragon-shaders)
+  - [RenderDragon shader list by devendrn](#renderdragon-shader-list-by-devendrn)
 
 <br>
 
@@ -1350,8 +1350,8 @@ https://github.com/luit04/OriginShaderDeferred
 
 <br/>
 
-## RenderDragon shaders
-https://devendrn.github.io/renderdragon-shaders
+## RenderDragon shader list by devendrn
+https://devendrn.github.io/renderdragon-shader [ডেভেলপমেন্ট স্থগিত]
 
 Newb X Legacy এর ডেভেলপার devendrn এর বানানো আরেকটা শেডার লিস্ট। এখানে শেডারের পাশাপাশি ডেভেলপারদের জন্য নির্দেশিকা পাবেন।
 
