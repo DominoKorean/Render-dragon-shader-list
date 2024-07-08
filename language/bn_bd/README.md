@@ -264,7 +264,7 @@ https://github.com/cqdetdev/draco
 <br/>
 <br/>
 
-# রেন্ডারড্রাগন শেডার তালিকা
+# RenderDragon শেডারের তালিকা
 
 <br/>
 <br/>
