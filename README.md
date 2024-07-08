@@ -133,7 +133,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 
 
 - [Other RenderDragon content](#render-dragon-content)
-  - [RenderDragon shader list by devendrn](#renderdragon-shaders)
+  - [RenderDragon shader list by devendrn](#renderdragon-shader-list-by-devendrn)
     
 <br>
 
@@ -1350,8 +1350,8 @@ This covers Render Dragon-related materials, sites, and communities, aside from 
 
 <br/>
 
-## RenderDragon Shaders
-https://devendrn.github.io/renderdragon-shaders
+## RenderDragon shader list by devendrn
+https://devendrn.github.io/renderdragon-shaders [DISCONTINUED]
 
 This is the website version of the RenderDragon shader list created by devendrn, the developer of Newb X Legacy. In addition to the RenderDragon Shader List, it also includes documentation for developers.
 
