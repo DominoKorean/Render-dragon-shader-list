@@ -138,9 +138,9 @@
 <br>
 
 
-- [Docs](#docs)
-  - [যেভাবে Renderdragon শেডার ইন্সটল করবেন।](#যেভাবে-renderdragon-শেডার-ইন্সটল-করবেন)
-  - [ডেভেলপারদের জন্য বরাদ্দ](#ডেভেলপারদের-জন্য-বরাদ্দ)
+- [বিস্তারিত তথ্যাদি](#বিস্তারিত-তথ্যাদি)
+  - [কীভাবে Renderdragon শেডার ইন্সটল করবেন](#কীভাবে-renderdragon-শেডার-ইন্সটল-করবেন)
+  - [ডেভেলপারদের জন্য নির্দেশিকা](#ডেভেলপারদের-জন্য-নির্দেশিকা)
 
 <br/>
 
@@ -1361,16 +1361,16 @@ Newb X Legacy এর ডেভেলপার devendrn এর বানানো
 <br/>
 <br/>
 
-# Docs
+# বিস্তারিত তথ্যাদি
 <br/>
 
-## যেভাবে Renderdragon শেডার ইন্সটল করবেন।
+## কীভাবে Renderdragon শেডার ইন্সটল করবেন
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
 
 <br/>
 <br/>
 
-## ডেভেলপারদের জন্য বরাদ্দ
+## ডেভেলপারদের জন্য নির্দেশিকা
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/dev.md
 
 এখানে রেন্ডারড্রাগনের ডেভেলপমেন্ট সংক্রান্ত তথ্য পাবেন।
