@@ -209,6 +209,7 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <summary>Information</summary>
 
 This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
+[How to use the mod](https://faizul118.github.io/guides/shadersmodinstallation)
 
 </details>
 
@@ -237,7 +238,7 @@ A crossplatform injector that can be used to make minecraft apk's load shaders (
 ## draco
 
 > [!NOTE]
-> Does't work in versions higher than 1.19.20
+> Doesn't work in versions higher than 1.19.20
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/cqdetdev/draco
