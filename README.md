@@ -229,7 +229,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 ### YSS RD
 [![](banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/Switch-e60012?style=flat-square&logo=nintendoswitch)
 ![](https://img.shields.io/badge/Xbox-107c10?style=flat-square&logo=xbox)
@@ -285,21 +285,27 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 [![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 ![](https://img.shields.io/badge/IPA-white?style=flat-square&logo=Appstore)
 
  <br/>
 
+- [v15.50](https://discord.com/channels/844591537430069279/1127879378378969088/1259888647210139748) ( Beta )
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-ios.zip)
+
+<details>
+<summary> Show all beta versions </summary>
+
 ![](https://img.shields.io/badge/Supported_MC_version-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
 - [v15.49](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
   - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-android.mcpack)
   - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-windows.mcpack) 
   - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-ios.zip)
-
-<details>
-<summary> Show all beta versions </summary>
   
 - [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev)
   - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-android.mcpack)
@@ -477,7 +483,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 ### Eternity Shader
 [![](/banners/Eternity%20Shader.png)](https://youtu.be/iBxe6z3TLnI?si=kGtxdbkrtZat0NbT)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Eternity%20Shader/README.md)  
@@ -505,7 +511,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Bicubic-Shaders-BE)
 [![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
@@ -543,7 +549,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Lite)
 [![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
 
@@ -590,7 +596,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Vine-Shaders-BE)
 [![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
@@ -659,7 +665,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 [![](/banners/Harmony%20Voxel.png)](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-beta-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
@@ -673,7 +679,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ### Chill Voxel Shader 
 [![](/banners/Chill%20Voxel%20Shader.png)](https://magnificentshaders.home.blog/2023/12/24/chill-voxel-shader-v2-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 
@@ -697,7 +703,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 [![](/banners/ISPE.png)](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-for-be-ispe-beta-2-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 
 <br/>
@@ -713,7 +719,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 [![](/banners/Darkfall%20BE.png)](https://magnificentshaders.home.blog/2023/12/24/darkfall-be-v0-1-experimental-2/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 
 <br/>
@@ -726,7 +732,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ### Shasvat Shader
 [![](/banners/Shasvat%20Shader.png)](https://magnificentshaders.home.blog/2024/02/23/shasvat-shader-v0-1/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 
 <br/>
 
@@ -835,7 +841,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 ### GLSL RDR
 [![](/banners/GLSL%20RDR.png)](https://www.patreon.com/posts/download-glsl-1-86536770?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
 
@@ -1158,17 +1164,21 @@ https://www.youtube.com/@KinKaren
 ### RenderDragon FullBright
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Furzide/RenderDragonFullBright)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonFullBright  
 
-- [2.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v2.0.0/RenderDragonFullBright-v2.0.0.zip)
+- [3.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v3.0.0/RenderDragonFullbright-v3.0.0.zip)
 
 <details>
 <summary> Show all versions </summary>
 
-  - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
-  - [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
+- [2.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v2.0.0/RenderDragonFullBright-v2.0.0.zip)
+
+- [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
+
+- [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
 
 </details>
 
@@ -1178,15 +1188,17 @@ https://github.com/Furzide/RenderDragonFullBright
 ### RenderDragonFogRemover
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Furzide/RenderDragonFogRemover)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonFogRemover  
 
-- [3.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.1.0/RenderDragonFogRemover.3.1.0.zip)
+- [v3.2.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.2.0/RenderDragonFogRemover.3.2.0.zip)
 
 <details>
 <summary> Show all versions </summary>
 
+- [3.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.1.0/RenderDragonFogRemover.3.1.0.zip)
 - [3.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.0.0/RenderDragonNoFog-v3.0.0.zip)
 - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
 - [1.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v1.1.0/RenderDragonNoFog_1.1.0.zip)
@@ -1199,34 +1211,21 @@ https://github.com/Furzide/RenderDragonFogRemover
 ### RD Cubemap Fix
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Furzide/RenderDragonCubemapFix)  
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonCubemapFix
 
-- [2.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.0.0/RD.Cubemap.Fix.2.0.0.zip)
+- [v2.1.0]
 
 <details>
 <summary> Show all versions </summary>
 
+- [2.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.0.0/RD.Cubemap.Fix.2.0.0.zip)
 - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
 - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
 
 </details>
-
-<br/>
-<br/>
-
-### HD Font Fix
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/GameParrot/mcpe-hdfont-fix)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/HD%20Font%20Fix/README.md)  
-https://github.com/GameParrot/mcpe-hdfont-fix
-
-  - [v1.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
-    - [Android](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Android.mcpack)
-    - [Windows](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Windows.mcpack)
 
 <br/>
 <br/>
@@ -1242,6 +1241,30 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 <br/>
 <br/>
 
+### HD Font Fix
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/GameParrot/mcpe-hdfont-fix)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/HD%20Font%20Fix/README.md)  
+https://github.com/GameParrot/mcpe-hdfont-fix
+
+- [1.1](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.1)
+    - [Android](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.1/High-Res-Font-Fix-Android.mcpack)
+    - [Windows](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.1/High-Res-Font-Fix-Windows.mcpack)
+
+<details>
+<summary> Show all versions </summary>
+
+  - [v1.0](https://github.com/GameParrot/mcpe-hdfont-fix/releases/tag/1.0)
+    - [Android](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Android.mcpack)
+    - [Windows](https://github.com/GameParrot/mcpe-hdfont-fix/releases/download/1.0/High-Res-Font-Fix-Windows.mcpack)
+
+</details>
+
+
+<br/>
+<br/>
 
 ### Glow Em All
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
@@ -1270,7 +1293,7 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 
 [![](/banners/KMPE%20Shader%20Rebooted%20Edition.png)](https://magnificentshaders.home.blog/2023/04/10/kmpe-shader-rebooted-edition/)
 ![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)  
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)  
 
  <br/>
 
