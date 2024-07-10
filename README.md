@@ -491,6 +491,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 <summary> Show all Shaders </summary>
 
 <br/>
+<br/>
 
 > [!NOTE]
 > The shader below does not support materials of version 1.20.80 or higher.
