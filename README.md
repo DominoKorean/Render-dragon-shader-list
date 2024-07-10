@@ -48,9 +48,10 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 
 <br/>
 
+## Table of contents
 - [RenderDragon Shader List](#renderdragon-shader-list)
   - [What is RenderDragon?](#what-is-renderdragon)
-    
+  - [Table of contents](#table-of-contents)
 <br>
 
 - [Utilities](#utilities)
@@ -74,8 +75,8 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 
 
   - [Render dragon](#render-dragon)
-     - [Newb X Legacy](#newb-x-legacy)
-        - [newb variants](#newb-variants)
+    - [Newb X Legacy](#newb-x-legacy)
+      - [Newb variants](#newb-variants)
     - [YSS RD](#yss-rd)
     - [Bicubic Shaders BE](#bicubic-shaders-be)
     - [BSBE Lite](#bsbe-lite)
@@ -131,8 +132,8 @@ Since its introduction, third-party shaders have become unusable, and therefore 
 <br>
 
 
-- [Render Dragon content](#render-dragon-content)
-  - [RenderDragon Shaders](#renderdragon-shaders)
+- [Other RenderDragon content](#other-renderdragon-content)
+  - [RenderDragon shader list by devendrn](#renderdragon-shader-list-by-devendrn)
     
 <br>
 
@@ -191,7 +192,7 @@ https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.m
 <details>
 <summary>Information</summary>
 
-A Patched APK that can load renderdragon materialbin file under resource pack, Powered by MaterialBinLoader
+A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
 
 </details>
 
@@ -208,7 +209,9 @@ https://github.com/GameParrot/mcpelauncher-shadersmod
 <details>
 <summary>Information</summary>
 
-This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.
+This is a mod for mcpelauncher-manifest that allows you to load RenderDragon shaders without messing with game files.<br>
+
+[How to use the mod](https://faizul118.github.io/guides/shadersmodinstallation)
 
 </details>
 
@@ -227,7 +230,7 @@ https://github.com/mcbegamerxx954/draco-injector
 <details>
 <summary>Information</summary>
 
-A crossplatform injector that can be used to make minecraft apk's load shaders (not patched apk) and can clone the apk to have it aside the original one.
+A cross platform injector that can be used to make Minecraft APKs load shaders and also clone the apk to have it aside the original one. Keep in mind this is not the same as Patched Minecraft (MaterialBinLoader).
 
 </details>
 
@@ -237,7 +240,7 @@ A crossplatform injector that can be used to make minecraft apk's load shaders (
 ## draco
 
 > [!NOTE]
-> Does't work in versions higher than 1.19.20
+> Doesn't work in versions higher than 1.19.20
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
 https://github.com/cqdetdev/draco
@@ -592,7 +595,7 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 </details>
 
 
-#### newb variants
+#### Newb variants
 > [![](/banners/newb%20variant/newb%20variants.png)](/newb_variants.md)
 
 <br/>
@@ -1340,15 +1343,15 @@ https://github.com/luit04/OriginShaderDeferred
 <br/>
 <br/>
 
-# Render Dragon content
+# Other RenderDragon contents
 
 This covers Render Dragon-related materials, sites, and communities, aside from the RenderDragon Shader List.
 
 
 <br/>
 
-## RenderDragon Shaders
-https://devendrn.github.io/renderdragon-shaders
+## RenderDragon shader list by devendrn
+https://devendrn.github.io/renderdragon-shaders [DISCONTINUED]
 
 This is the website version of the RenderDragon shader list created by devendrn, the developer of Newb X Legacy. In addition to the RenderDragon Shader List, it also includes documentation for developers.
 

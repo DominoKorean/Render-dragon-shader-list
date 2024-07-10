@@ -2,14 +2,16 @@
 
 <br>
 
-# RenderDragon Shader List
-
-রেন্ডারড্রাগন শেডার লিস্ট (কমিউনিটি দ্বারা পরিচালিত) একটা গিটহাব রিপোজিটরি যেখানে রেন্ডারড্রাগন সংক্রান্ত যাবতীয় তথ্য পাবেন। এই লিস্ট বানানো হয়েছে সাধারণ পাবলিকের বেডরক এডিশনে শেডার ইন্সটলেশন সহজতর করতে। কেননা, নতুন বেডরক ভার্সনগুলায় শেডার ইন্সটলের প্রক্রিয়াটা কিছুটা জটিল। যার দরুণ পুরো কমিউনিটিতে বিভ্রান্তি ছড়িয়ে যাচ্ছে। এ বিভ্রান্তি নির্মূল করাই এই লিস্টের প্রধান লক্ষ্য।
+<!-- Random comment -->
+<!-- Random comment -->
 
 <br>
 
-যেহেতু লিস্টটা ম্যানুয়ালি বিভিন্ন মানুষ তাদের অবসরে এডিট করে থাকে তাই মাঝে মাঝে লিস্টে ভুল বা আউটডেটেড তথ্য পেতে পারেন। আপনি চাইলে এসব ভুল, পুরাতন তথ্য, সমস্যা বা পরামর্শ [Issue](github.com/DominoKorean/Render-dragon-shader-list/issues) এ সাবমিট করতে পারেন।
-এছাড়াও অন্যান্য দেশের মানুষের পড়ার সুবিধার্থে লিস্টটা অনুবাদে সাহায্য করতে পারেন [Pull request](github.com/DominoKorean/Render-dragon-shader-list/pulls) এর মাধ্যমে।
+# RenderDragon Shader List
+
+রেন্ডারড্রাগন শেডার লিস্ট কমিউনিটি দ্বারা পরিচালিত একটা গিটহাব রিপোজিটরি যেখানে রেন্ডারড্রাগন সংক্রান্ত যাবতীয় তথ্য পাবেন। এই লিস্ট বানানো হয়েছে সাধারণ পাবলিকের বেডরক এডিশনে শেডার ইন্সটলেশন সহজতর করতে। কেননা, নতুন বেডরক ভার্সনগুলায় শেডার ইন্সটলের প্রক্রিয়াটা কিছুটা জটিল। যার দরুণ পুরো কমিউনিটিতে বিভ্রান্তি ছড়িয়ে যাচ্ছে। এ বিভ্রান্তি নির্মূল করাই এই লিস্টের প্রধান লক্ষ্য।
+
+যেহেতু লিস্টটা ম্যানুয়ালি বিভিন্ন মানুষ তাদের অবসরে এডিট করে থাকে তাই মাঝে মাঝে লিস্টে ভুল বা আউটডেটেড তথ্য পেতে পারেন। আপনি চাইলে এসব ভুল, পুরাতন তথ্য, সমস্যা বা পরামর্শ [Issue](github.com/DominoKorean/Render-dragon-shader-list/issues) এ সাবমিট করতে পারেন। এছাড়াও অন্যান্য দেশের মানুষের পড়ার সুবিধার্থে লিস্টটা অনুবাদে সাহায্য করতে পারেন [Pull request](github.com/DominoKorean/Render-dragon-shader-list/pulls) এর মাধ্যমে।
 
 <br>
 
@@ -17,7 +19,9 @@
 [Minecraft Wiki](https://minecraft.wiki/RenderDragon) অনুসারে এটা মাইনক্রাফট বেডরক এডিশনের জন্য নতুন একটা রেন্ডারিং ইঞ্জিন যা আগে ব্যবহৃত OpenGL/DirectX ইঞ্জিনকে রিপ্লেস করে।
 রেন্ডারড্রাগনের সূচনা হওয়ার পর থেকে মাইনক্রাফটে পুরাতন থার্ড পার্টি শেডার চলা বন্ধ হয়ে গিয়েছে। যার জন্য ডেভেলপাররা এখন গেমের ফাইল এডিট করে রেন্ডারড্রাগনে শেডার সাপোর্টকে নতুন এক মাত্রায় নিয়ে যাচ্ছে।
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 > [!NOTE]
 > বর্তমানে, [Discord ঘন ঘন তাদের ফাইল লিংকগুলো চেঞ্জ করতেছে](https://github.com/DominoKorean/Render-dragon-shader-list/issues/13), যার ফলে লিংকগুলো `This content is no longer available.` মেসেজ দেখায়।. এক্ষেত্রে সরাসরি শেডারের ডিস্কোর্ড সার্ভার জয়েন করে ডাউনলোড করতে হবে।
@@ -34,7 +38,9 @@
 <br>
 
 - [কীভাবে রেন্ডারড্রাগন শেডার ইন্সটল করবেন](/installation/README.md)
-- [Terms of Use](/TERMS_OF_USE.md)
+
+- [ব্যবহারের শর্তাবলী](/TERMS_OF_USE.md)
+
 
 <br>
 
@@ -46,19 +52,31 @@
 - [RenderDragon Shader List](#renderdragon-shader-list)
   - [RenderDragon কী?](#renderdragon-কী)
   - [সূচি](#সূচি)
-- [Utility](#utility)
+<br>
+
+- [RenderDragon এর সহায়কসমূহ](#renderdragon-এর-সহায়কসমূহ)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Patched app](#patched-app)
   - [mcpelauncher shadersmod](#mcpelauncher-shadersmod)
   - [draco injector](#draco-injector)
   - [draco](#draco)
-- [Render dragon shaders](#render-dragon-shaders)
-  - [Deferred Rendering](#deferred-rendering)
+
+<br>
+
+
+- [RenderDragon শেডারের তালিকা](#renderdragon-শেডারের-তালিকা)
+  - [Deferred Rendering](#deferred-rendering) <!-- placeholder -->
     - [YSS Special Edition](#yss-special-edition)
     - [BSBE Deffered](#bsbe-deffered)
     - [Innovative Shader Deferred](#innovative-shader-deferred)
     - [Harmony Voxel Deferred](#harmony-voxel-deferred)
-  - [Render dragon](#render-dragon)
+
+<br>
+
+
+  - [RenderDragon শেডারসমূহ](#renderdragon-শেডারসমূহ) <!-- placeholder -->
+    - [Newb X Legacy](#newb-x-legacy)
+      - [Newb এর ভ্যারিয়ান্টসমূহ](#newb-এর-ভ্যারিয়ান্টসমূহ)
     - [YSS RD](#yss-rd)
     - [Bicubic Shaders BE](#bicubic-shaders-be)
     - [BSBE Lite](#bsbe-lite)
@@ -71,8 +89,6 @@
     - [Darkfall BE](#darkfall-be)
     - [Shasvat Shader](#shasvat-shader)
     - [Eternity Shader](#eternity-shader)
-    - [Newb X Legacy](#newb-x-legacy)
-      - [newb variants](#newb-variants)
     - [AziFy Revive](#azify-revive)
     - [AziFy Reimagined](#azify-reimagined)
     - [AziFy EnDefault](#azify-endefault)
@@ -88,24 +104,43 @@
     - [Grand Shaders](#grand-shaders)
     - [HSD Shaders](#hsd-shaders)
     - [Zebra Shaders](#zebra-shaders)
+
+<br>
+
+
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
       - [BetterRTX Edits](#betterrtx-edits)
-  - [Ect Utility Shaders](#ect-utility-shaders)
+
+<br>
+
+      
+  - [ইউটিলিটি শেডারসমূহ](#ইউটিলিটি-শেডারসমূহ)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
     - [RD Cubemap Fix](#rd-cubemap-fix)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
+
+<br>
+
+
   - [ডেভেলপমেন্ট স্থগিত করা শেডারসমূহ](#ডেভেলপমেন্ট-স্থগিত-করা-শেডারসমূহ)
     - [KMPE Shader Rebooted Edition](#kmpe-shader-rebooted-edition)
     - [OriginShaderDeferred](#originshaderdeferred)
-- [Render Dragon content](#render-dragon-content)
-  - [README\_wip](#readme_wip)
-  - [RenderDragon Shaders](#renderdragon-shaders)
-- [Docs](#docs)
-  - [যেভাবে Renderdragon শেডার ইন্সটল করবেন।](#যেভাবে-renderdragon-শেডার-ইন্সটল-করবেন)
-  - [Dev](#dev)
+
+<br>
+
+
+- [ অন্যান্য RenderDragon কন্টেন্টসমূহ](#অন্যান্য-renderdragon-কন্টেন্টসমূহ)
+  - [RenderDragon shader list by devendrn](#renderdragon-shader-list-by-devendrn)
+
+<br>
+
+
+- [বিস্তারিত তথ্যাদি](#বিস্তারিত-তথ্যাদি)
+  - [কীভাবে Renderdragon শেডার ইন্সটল করবেন](#কীভাবে-renderdragon-শেডার-ইন্সটল-করবেন)
+  - [ডেভেলপারদের জন্য নির্দেশিকা](#ডেভেলপারদের-জন্য-নির্দেশিকা)
 
 <br/>
 
@@ -114,7 +149,7 @@
 <br/>
 <br/>
 
- # Utility
+ # RenderDragon এর সহায়কসমূহ
 
 <br/>
 <br/>
@@ -126,7 +161,7 @@
 https://github.com/ddf8196/BetterRenderDragon  
 
 <details>
-<summary>Information</summary>
+<summary>বিস্তারিত</summary>
 
 _**Minecraft: Bedrock Edition**_ এর জন্য রেন্ডারড্রাগন মড।
 
@@ -134,7 +169,7 @@ _**Minecraft: Bedrock Edition**_ এর জন্য রেন্ডারড্
 * Deferred rendering চালু করা
 * পারফরম্যান্স বাড়ানোর জন্য RTX বন্ধ করা
 * রিসোর্স প্যাক থেকে শেডার লোড করা
-* কনফিগার করার মতো GUI
+* কনফিগারেবল GUI
 
 </details>
 
@@ -155,9 +190,9 @@ _**Minecraft: Bedrock Edition**_ এর জন্য রেন্ডারড্
 https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md
 
 <details>
-<summary>Information</summary>
+<summary>বিস্তারিত</summary>
 
-YSS এর বানানো মডেড মাইনক্রাফট এপিকে। যা সরাসরি রিসোর্স প্যাক থেকে শেডার লোড করতে পারে MaterialBinLoader এর সাহায্যে।
+YSS এর বানানো মডেড মাইনক্রাফট apk। যা সরাসরি রিসোর্স প্যাক থেকে শেডার লোড করতে পারে MaterialBinLoader এর সাহায্যে।
 
 </details>
 
@@ -172,9 +207,11 @@ YSS এর বানানো মডেড মাইনক্রাফট এপ
 https://github.com/GameParrot/mcpelauncher-shadersmod
 
 <details>
-<summary>Information</summary>
+<summary>বিস্তারিত</summary>
 
-লিনাক্স মাইনক্রাফট লাঞ্চারের জন্য একটা মড যার মাধ্যমে গেমের ফাইলস মডিফাই না করে শেডার অ্যাড করতে পারবেন।
+লিনাক্স মাইনক্রাফট লাঞ্চারের জন্য একটা মড যার মাধ্যমে গেমের ফাইল মডিফাই না করেই শেডার লোড করতে পারবেন।<br>
+
+[কীভাবে মডটা ইউজ করবেন](https://faizul118.github.io/guides/shadersmodinstallation)
 
 </details>
 
@@ -191,7 +228,7 @@ https://github.com/mcbegamerxx954/draco-injector
 
 
 <details>
-<summary>Information</summary>
+<summary>বিস্তারিত</summary>
 
 একটা ক্রস প্লাটফর্ম ইঞ্জেকটর যা দিয়ে শেডার সরাসরি (রিসোর্স প্যাক থেকে) লোড করতে পারে এমন মাইনক্রাফট এপিকে বানাতে পারবেন। পাশাপাশি ক্লোনও করতে পারবেন। উল্লেখ্য, এটা YSS এর Patched Minecraft (MaterialBinLoader) না।
 
@@ -211,7 +248,7 @@ https://github.com/cqdetdev/draco
 
 
 <details>
-<summary>Information</summary>
+<summary>বিস্তারিত</summary>
 
 একটা মাল্টি-ভার্সন প্রোক্সি যা দিয়ে মাইনক্রাফট সার্ভার রেন্ডারড্রাগন ছাড়া কানেক্ট করতে পারবেন। সর্বশেষ ভার্সন যেখানে কাজ করে: 1.19.20.
 
@@ -227,7 +264,7 @@ https://github.com/cqdetdev/draco
 <br/>
 <br/>
 
-# Render dragon shaders
+# RenderDragon শেডারের তালিকা
 
 <br/>
 <br/>
@@ -250,7 +287,7 @@ https://github.com/cqdetdev/draco
   - [Windows](https://yss.minecraft.pe/YSS_SE/YSS_SE_1.9.7.8_Windows.mcpack)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 <br/>
 
@@ -314,7 +351,7 @@ https://github.com/cqdetdev/draco
 - [Beta 1.1.0](https://github.com/bambosan/BSBE-Deferred/releases/download/1.1.0-beta/BSBE-Deferred-Beta-1.1.0.mcpack)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 <br/>
 
@@ -367,316 +404,8 @@ https://github.com/cqdetdev/draco
 <br/>
 <br/>
 
-## Render dragon
+## RenderDragon শেডারসমূহ
 
-<br/>
-
-### YSS RD
-[![](banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/Switch-e60012?style=flat-square&logo=nintendoswitch)
-![](https://img.shields.io/badge/Xbox-107c10?style=flat-square&logo=xbox)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20RD)  
-
-<br/>
-
-- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
-![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
-
-<details>
-<summary> সব ভার্সন </summary>
-
-<br/>
-
-- [v1.9.8](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)
-- [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip?ex=66124fbe&is=65ffdabe&hm=4188b99cc918e33633a288415dfa3dbb56086c25a139f860cff5c95d899377fa&)
-- [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip?ex=66116883&is=65fef383&hm=553354710af65eaac15149f9f97463418eaa536db5f37e109353d98e8fe23c1f&)
-![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square&logo=xbox)
-- [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip?ex=660ed4ff&is=65fc5fff&hm=5f21cccf8f0e45200326e93a57c2a23b787266ee61af1a6cb15b9a74633d4f7c&)
-- [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip?ex=660ccb6a&is=65fa566a&hm=bf3c05f91d8f240d61224647b921c0df801c1c333a0f5ba4686c2fd30898bd67&)
-![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
-- [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip?ex=660c3fac&is=65f9caac&hm=11eaa4c3156ca590f525db04733c5bc5bb1ec42896e9020ad88849ee3bbd8d3c&)
-![](https://img.shields.io/badge/Supported_from_this_version-Switch-e60012?style=flat-square&logo=nintendoswitch)
-- [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip?ex=660d8cc9&is=65fb17c9&hm=43ff3835758e02b7abdd98d2c2601777c84983af0478af81717813f72f35712d&)
-- [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip?ex=660eb385&is=65fc3e85&hm=beb27eb9246fc44276467cdf1af060be890e44ddddb9c3d9e90781f57dec67ec&)
-- [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip?ex=66100802&is=65fd9302&hm=0af73dc35a8005255ab61d9ce67f65b56fa0cedb9dca0b95e620fc47e8f4b7c9&)
-- [v1.9.3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1089927728544886834/YSS_RD_1.9.3_Lite.zip?ex=660acccc&is=65f857cc&hm=be10fe9f18e1d06e54d249b92495dab6e19c7b5e0f3088e4c1902593f6155a5c&)
-- [v1.9.3](https://cdn.discordapp.com/attachments/972141088607436890/1089533277662085120/YSS_RD_1.9.3.zip?ex=66095d6f&is=65f6e86f&hm=20ac7c0b101b57e4b4ff7cdc2a0c92e522ceb09bbef96dbcb71f30ad0b526c57&)
-- [v1.9.2](https://cdn.discordapp.com/attachments/972141088607436890/1087017885949505616/YSS_RD_1.9.2.zip?ex=6609714b&is=65f6fc4b&hm=e10542260cb37365da189479944b20e002a7ed54bccd11fcba57971ba2ec33ad&)
-- [v1.9.1](https://cdn.discordapp.com/attachments/972141088607436890/1084364006686474251/YSS_RD_1.9.1.zip?ex=66123ead&is=65ffc9ad&hm=cdff5aab14c7a69b7abde6b2fef0f0a4933c99153da61e2da571b5279eb2f76d&)
-- [v1.6 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621328307695726/YSS_RD_1.6_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=d49e73584b8a4cb1238a2cc8a147d5e40595d9bf22e3c3f39bd2d3496fe5b94a&)
-- [v1.4 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621327875674172/YSS_RD_1.4_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=1ea4448c74d23f05dd28adcb839d1f4f513c80828ee10c4e60886e241a74b6ee&)
-- [v1.9](https://cdn.discordapp.com/attachments/972141088607436890/1073634274009419896/YSS_RD_v1.9.zip?ex=66101fd6&is=65fdaad6&hm=3dff2a189cc95b448c412e3ae1091af0692f7f2364a607e05ce8090e8b315f70&)
-- [v1.8](https://cdn.discordapp.com/attachments/972141088607436890/1060557487507525732/YSS_RD_v1.8.zip?ex=660eb1a1&is=65fc3ca1&hm=9d37560f3bd22360f164f5e5a1c470c9a7899fa2ccd3c6e825c690042aed1fcf&)
-- [v1.8 Beta6](https://cdn.discordapp.com/attachments/972141088607436890/1042112926401708043/YSS_RD_1.8_beta_6.zip?ex=660c314b&is=65f9bc4b&hm=0d5c48f6e9b48aecb21bf5038d16c9f18d5cb48b04fcc96bd2ab22fee4739fde&)
-- [v1.8 Beta5](https://cdn.discordapp.com/attachments/972141088607436890/1040820223135199252/YSS_RD_1.8_beta_5.zip?ex=6610b7de&is=65fe42de&hm=369551f65f8cc11559bed26d08782ae515b7181428b84411ba375fcd709e5695&)
-- [v1.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1006752018863489117/YSS_RD_v1.8_beta2.zip?ex=660cbfe1&is=65fa4ae1&hm=63ad6766b727fbbde5eafcdb353699732858b8e548f53ddbc7dc91a50ce700de&)
-- [v1.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1005717121336090624/YSS_RD_v1.8_Beta1.zip?ex=6612368f&is=65ffc18f&hm=02960d61b9de0924ba0412f39638a34a51cd31ee3ca7b6f2235527efec11e5e3&)
-- [v1.6](https://cdn.discordapp.com/attachments/972141088607436890/975756710050426931/YSS_for_RenderDragon_v1.6.zip?ex=660abb40&is=65f84640&hm=774848f5db35866448c070b6ac19bace68e26f5bf1f362f31c388bc1d9668009&)
-- [v1.5](https://cdn.discordapp.com/attachments/972141088607436890/974172944588738580/YSS_for_RenderDragon_v1.5.zip?ex=660e32c1&is=65fbbdc1&hm=1389aa4a08d663e9163a9c10cdcdb245420b8792f79f8665bdfcbabe752fa661&)
-- [v1.4](https://cdn.discordapp.com/attachments/972141088607436890/973825512340336710/YSS_for_RenderDragon_v1.4.zip?ex=660cef2e&is=65fa7a2e&hm=12b23ab33ce41f7c7427b4b279997de312b3a61a544aad67eddc84d357b34b94&)  
-- [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip?ex=6609352a&is=65f6c02a&hm=999fb35cfba4f204ee6e162e36ac60736b413145ed125599cf46e7f7783913f2&)  
-- [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip?ex=6610c96a&is=65fe546a&hm=02259e2214aabdcd894d30ee5758e6036e39b8bbf942ddeab8ddc2382cc96a42&)
-
-</details>
-
-
-<br/>
-<br/>
-
-### Bicubic Shaders BE  
-
-[![](/banners/BSBE.png)](https://bambosan.github.io/bsbe/)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Bicubic-Shaders-BE)
-[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-
-<br/>
-
-  - [3.4 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.4)
-    - [3.4 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Android.mcpack)
-    - [3.4 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Windows.mcpack)
-  - [3.3](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.3)
-    - [3.3 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Android-3.3.zip)
-    - [3.3 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
-    - [3.3 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/Bicubic-Shaders-BE-3.3.mcpack)
-
-<details>
-<summary> সব ভার্সন </summary>
-
-  - [3.2](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
-    - [3.2 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
-    - [3.2 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/BSBE-RD-Materials-Windows.zip)
-    - [3.2 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/Bicubic-Shaders-BE-3.2.mcpack)
-  - [3.1](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.1)
-    - [3.1 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Android-3.1.zip)
-    - [3.1 iOS](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-iOS-3.1.zip)
-    - [3.1 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Windows-3.1.zip)
-    - [3.1 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Material-Support.mcpack)
-  - [3.0 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.0/Bicubic-Shaders-BE-3.0.mcpack)
-
-</details>
-
-<br/>
-<br/>
-
-### BSBE Lite
-[![](/banners/BSBE%20Lite.png)](https://bambosan.github.io/BSBE-Lite/)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Lite)
-[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
-
-<br/>
-
-  - [1.6](https://github.com/bambosan/BSBE-Lite/releases/tag/1.6)
-    - [1.6 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Android-1.6.zip)
-    - [1.6 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Windows-1.6.zip)
-
-<details>
-<summary> সব ভার্সন </summary>
-
-  - [1.5](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
-    - [1.5 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Android-1.5.zip)
-      - [1.5 No Water Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Android-1.5.zip)
-    - [1.5 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-iOS-1.5.zip)
-      - [1.5 No Water iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-iOS-1.5.zip)
-    - [1.5 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Windows-1.5.zip)
-      - [1.5 No Water Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Windows-1.5.zip)
-    - [1.5 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
-  - [1.4](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
-    - [1.4 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Android-1.4.zip)
-    - [1.4 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-iOS-1.4.zip)
-    - [1.4 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Windows-1.4.zip)
-    - [1.4 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
-  - [1.3](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
-    - [1.3 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Android-1.3.zip)
-    - [1.3 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-iOS-1.3.zip)
-    - [1.3 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Windows-1.3.zip)
-    - [1.3 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-RD-Material-Support.mcpack)
-  - [1.2](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
-    - [1.2 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-Lite-RD-Material-Android-1.2.zip)
-    - [1.2 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-RD-Material-Support.mcpack)
-
-</details>
-
-<br/>
-<br/>
-
-### Vine Shaders BE
-
-[![](/banners/vine.png)](https://bambosan.github.io/Vine-Shaders-BE/)
-
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Vine-Shaders-BE)
-[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-
-<br/>
-
-- [1.1.1](https://github.com/bambosan/Vine-Shaders-BE/releases/tag/v1.1.1)
-  - [Windows](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Windows-1.1.1.zip)
-  - [Android](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Android-1.1.1.zip)
-  - [iOS](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-iOS-1.1.1.zip)
-  - [Material Support](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Support.mcpack)
-
-<br/>
-<br/>
-
-### Musk Rose RD  
-
-[![](/banners/Musk%20Rose%20RD.png)](https://github.com/Rinloid/musk_rose_rd)
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/musk_rose_rd)
-[![](https://img.shields.io/badge/CC0_1.0_license-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
- 
- <br/>
-
-  - [v4.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0r/musk_rose_rd-v4.0r.zip)
-
-<details>
-<summary> সব ভার্সন </summary>
-
-  - [v4.0 Beta](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0b/musk_rose_rd-v4.0b.zip)
-  - [v2.1](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.1/musk_rose_rd-v2.1.zip)
-  - [v2.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.0/musk_rose_rd-v2.0.zip)
-  - [v1.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_v1.0.zip)
-    - [v1.0 Base .mcpack](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_Base.mcpack)
-  - [v0.5](https://github.com/Rinloid/musk_rose_rd/releases/download/v0.5/Musk_Rose_RDv0.5.zip)
-
-</details>
-
-<br/>
-<br/>
-
-### Reflective Vanilla RD
-[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/reflective-vanilla-rd)
-[![](https://img.shields.io/badge/CC0_1.0_license-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-https://github.com/Rinloid/reflective-vanilla-rd
-
-- [v3.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v3.0/reflective_vanilla_rd-v3.0.zip)
-![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
-
-<details>
-<summary> সব ভার্সন </summary>
-
-  - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
-
-  - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
-
-</details>
-
-<br/>
-<br/>
-
-### Harmony Voxel
-
-[![](/banners/Harmony%20Voxel.png)](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-beta-2/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-
- <br/>
-
-  - [Beta](https://www.mediafire.com/file/by1z63ejtncbjcu/Harmony_Voxel_%255BBETA%255D_All_Platforms.zip/file#)
-
-<br/>
-<br/>
-
-### Chill Voxel Shader 
-[![](/banners/Chill%20Voxel%20Shader.png)](https://magnificentshaders.home.blog/2023/12/24/chill-voxel-shader-v2-2/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-
- <br/>
-
-  - [v2.2](https://www.mediafire.com/file/hrkcnr6ckoji6pk/Chill_Voxel_V2.2_%2528All_Platforms%2529.zip/file#) 
-![](https://img.shields.io/badge/Supported_from_this_version-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)  
-
-<details>
-<summary> সব ভার্সন </summary>
-
-  - [V2.0](https://download2389.mediafire.com/fbwrmfm9bpbgKL5hHIDQ0R23EfYbQcT9UP0ber9JQiK6wSNpCH_FZIW3Rv8ZrkypZjrZGmi19qcmauJHkErantL9/c26hmb2uyipbvbe/Chill+Voxel+Shader+for+R.D+Bedrock+platforms.zip)
-
-</details>
-
-<br/>
-<br/>
-
-### Innovative Shader for BE
-
-[![](/banners/ISPE.png)](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-for-be-ispe-beta-2-2/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-
-<br/>
-
-  - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
-  - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
-
-
-<br/>
-<br/>
-
-### Darkfall BE
-
-[![](/banners/Darkfall%20BE.png)](https://magnificentshaders.home.blog/2023/12/24/darkfall-be-v0-1-experimental-2/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
-
-<br/>
-
-  - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
-
-<br/>
-<br/>
-
-### Shasvat Shader
-[![](/banners/Shasvat%20Shader.png)](https://magnificentshaders.home.blog/2024/02/23/shasvat-shader-v0-1/)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-
-<br/>
-
-- V0.1
-  - [Extreme](https://download2278.mediafire.com/mduj447b1ewgMD7F_a6Enpp-6kQDDfHLz5QdF8h3e2xdVfWWaZ3fuIl1FqbZqZQXfmCXI5f7EfmGIeNpxBXxK5c82l_g_BgX8cnYPVFvYN44yDEUqH7boIEpS3HXDLI8ghozEG9RVEOCEEZQ1MhpyE-BE6IsNWBhFCb8nyEqQQ/r50o8ainbn81f0q/Shasvat+Shader+V0.1+%5BExtreme%5D.zip)
-  - [High](https://download2270.mediafire.com/xj2se3lf5ocgjnR_HdS0Eh2ySgHyDWUZlsgvHyIz6jo0hpvznvgDSQS5oCQojNUu-tS3Od_21mxFHXCa6qq4jgMaKuDRx5HtMoQdi4XCA5zJEHwqRqUUic-B4eT273aRg4g5lDENoLL4s5f2k6zsx8luluoCbwpXrzkDWaP9tw/77domjee8zc6pip/Shasvat+Shader+V0.1+%5BHigh%5D.zip)
-  - [Medium](https://download2275.mediafire.com/m2tfy7cydgfgYgvezGZ0fgb2fZSxEm3-YLxr9Lp8_jcViiwkAvs9WV1pf_2MV_pmlOAQN2BAQ7GFlAX0P0ytXVSvRZZ_9z6SnDU76rHsJiQhe7FJ7tvcJIVpj1hVUX78ZYgvDO6FmfUjw7UlvQUhu1vbN5mxpw6kgl5ZaWwyUA/k8hd4koldmuxmin/Shasvat+Shader+V0.1+%5BMedium%5D.zip)
-
-<br/>
-<br/>
-
-### Eternity Shader
-[![](/banners/Eternity%20Shader.png)](https://youtu.be/iBxe6z3TLnI?si=kGtxdbkrtZat0NbT)
-![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
-![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
-[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Eternity%20Shader/README.md)  
-
-- [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
-
-<br/>
 <br/>
 
 ### Newb X Legacy
@@ -691,15 +420,19 @@ https://github.com/Rinloid/reflective-vanilla-rd
  <br/>
 
 ![](https://img.shields.io/badge/Supported_MC_version-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
-- [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
-  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-merged.mcpack)
+- [v15.49](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-ios.zip)
+
+<details>
+<summary> Show all beta versions </summary>
+  
+- [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev)
   - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-android.mcpack)
   - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-windows.mcpack)
   - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-ios.zip)
-
-<details>
-<summary> সব বিটা ভার্সন </summary>
-
+  
 - [v15.46](https://discord.com/channels/844591537430069279/1127879378378969088/1255200939997134938)
   - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)
   - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-windows.mcpack)
@@ -795,7 +528,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
   - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-15-ios.zip)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> Show all versions </summary>
 
 - [v14](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-14-android.mcpack)
@@ -862,11 +595,321 @@ https://github.com/Rinloid/reflective-vanilla-rd
 </details>
 
 
-#### newb variants
+#### Newb এর ভ্যারিয়ান্টসমূহ
 > [![](/banners/newb%20variant/newb%20variants.png)](/newb_variants.md)
 
 <br/>
 <br/>
+<br/>
+<br/>
+
+
+
+### YSS RD
+[![](banners/YSS%20RD.png)](https://yss.minecraft.pe/YSS_RD/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Switch-e60012?style=flat-square&logo=nintendoswitch)
+![](https://img.shields.io/badge/Xbox-107c10?style=flat-square&logo=xbox)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20RD)  
+
+<br/>
+
+- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
+![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
+
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+
+<br/>
+
+- [v1.9.8](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)
+- [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip?ex=66124fbe&is=65ffdabe&hm=4188b99cc918e33633a288415dfa3dbb56086c25a139f860cff5c95d899377fa&)
+- [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip?ex=66116883&is=65fef383&hm=553354710af65eaac15149f9f97463418eaa536db5f37e109353d98e8fe23c1f&)
+![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square&logo=xbox)
+- [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip?ex=660ed4ff&is=65fc5fff&hm=5f21cccf8f0e45200326e93a57c2a23b787266ee61af1a6cb15b9a74633d4f7c&)
+- [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip?ex=660ccb6a&is=65fa566a&hm=bf3c05f91d8f240d61224647b921c0df801c1c333a0f5ba4686c2fd30898bd67&)
+![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
+- [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip?ex=660c3fac&is=65f9caac&hm=11eaa4c3156ca590f525db04733c5bc5bb1ec42896e9020ad88849ee3bbd8d3c&)
+![](https://img.shields.io/badge/Supported_from_this_version-Switch-e60012?style=flat-square&logo=nintendoswitch)
+- [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip?ex=660d8cc9&is=65fb17c9&hm=43ff3835758e02b7abdd98d2c2601777c84983af0478af81717813f72f35712d&)
+- [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip?ex=660eb385&is=65fc3e85&hm=beb27eb9246fc44276467cdf1af060be890e44ddddb9c3d9e90781f57dec67ec&)
+- [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip?ex=66100802&is=65fd9302&hm=0af73dc35a8005255ab61d9ce67f65b56fa0cedb9dca0b95e620fc47e8f4b7c9&)
+- [v1.9.3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1089927728544886834/YSS_RD_1.9.3_Lite.zip?ex=660acccc&is=65f857cc&hm=be10fe9f18e1d06e54d249b92495dab6e19c7b5e0f3088e4c1902593f6155a5c&)
+- [v1.9.3](https://cdn.discordapp.com/attachments/972141088607436890/1089533277662085120/YSS_RD_1.9.3.zip?ex=66095d6f&is=65f6e86f&hm=20ac7c0b101b57e4b4ff7cdc2a0c92e522ceb09bbef96dbcb71f30ad0b526c57&)
+- [v1.9.2](https://cdn.discordapp.com/attachments/972141088607436890/1087017885949505616/YSS_RD_1.9.2.zip?ex=6609714b&is=65f6fc4b&hm=e10542260cb37365da189479944b20e002a7ed54bccd11fcba57971ba2ec33ad&)
+- [v1.9.1](https://cdn.discordapp.com/attachments/972141088607436890/1084364006686474251/YSS_RD_1.9.1.zip?ex=66123ead&is=65ffc9ad&hm=cdff5aab14c7a69b7abde6b2fef0f0a4933c99153da61e2da571b5279eb2f76d&)
+- [v1.6 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621328307695726/YSS_RD_1.6_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=d49e73584b8a4cb1238a2cc8a147d5e40595d9bf22e3c3f39bd2d3496fe5b94a&)
+- [v1.4 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621327875674172/YSS_RD_1.4_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=1ea4448c74d23f05dd28adcb839d1f4f513c80828ee10c4e60886e241a74b6ee&)
+- [v1.9](https://cdn.discordapp.com/attachments/972141088607436890/1073634274009419896/YSS_RD_v1.9.zip?ex=66101fd6&is=65fdaad6&hm=3dff2a189cc95b448c412e3ae1091af0692f7f2364a607e05ce8090e8b315f70&)
+- [v1.8](https://cdn.discordapp.com/attachments/972141088607436890/1060557487507525732/YSS_RD_v1.8.zip?ex=660eb1a1&is=65fc3ca1&hm=9d37560f3bd22360f164f5e5a1c470c9a7899fa2ccd3c6e825c690042aed1fcf&)
+- [v1.8 Beta6](https://cdn.discordapp.com/attachments/972141088607436890/1042112926401708043/YSS_RD_1.8_beta_6.zip?ex=660c314b&is=65f9bc4b&hm=0d5c48f6e9b48aecb21bf5038d16c9f18d5cb48b04fcc96bd2ab22fee4739fde&)
+- [v1.8 Beta5](https://cdn.discordapp.com/attachments/972141088607436890/1040820223135199252/YSS_RD_1.8_beta_5.zip?ex=6610b7de&is=65fe42de&hm=369551f65f8cc11559bed26d08782ae515b7181428b84411ba375fcd709e5695&)
+- [v1.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1006752018863489117/YSS_RD_v1.8_beta2.zip?ex=660cbfe1&is=65fa4ae1&hm=63ad6766b727fbbde5eafcdb353699732858b8e548f53ddbc7dc91a50ce700de&)
+- [v1.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1005717121336090624/YSS_RD_v1.8_Beta1.zip?ex=6612368f&is=65ffc18f&hm=02960d61b9de0924ba0412f39638a34a51cd31ee3ca7b6f2235527efec11e5e3&)
+- [v1.6](https://cdn.discordapp.com/attachments/972141088607436890/975756710050426931/YSS_for_RenderDragon_v1.6.zip?ex=660abb40&is=65f84640&hm=774848f5db35866448c070b6ac19bace68e26f5bf1f362f31c388bc1d9668009&)
+- [v1.5](https://cdn.discordapp.com/attachments/972141088607436890/974172944588738580/YSS_for_RenderDragon_v1.5.zip?ex=660e32c1&is=65fbbdc1&hm=1389aa4a08d663e9163a9c10cdcdb245420b8792f79f8665bdfcbabe752fa661&)
+- [v1.4](https://cdn.discordapp.com/attachments/972141088607436890/973825512340336710/YSS_for_RenderDragon_v1.4.zip?ex=660cef2e&is=65fa7a2e&hm=12b23ab33ce41f7c7427b4b279997de312b3a61a544aad67eddc84d357b34b94&)  
+- [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip?ex=6609352a&is=65f6c02a&hm=999fb35cfba4f204ee6e162e36ac60736b413145ed125599cf46e7f7783913f2&)  
+- [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip?ex=6610c96a&is=65fe546a&hm=02259e2214aabdcd894d30ee5758e6036e39b8bbf942ddeab8ddc2382cc96a42&)
+
+</details>
+
+
+<br/>
+<br/>
+
+### Bicubic Shaders BE  
+
+[![](/banners/BSBE.png)](https://bambosan.github.io/bsbe/)
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Bicubic-Shaders-BE)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
+<br/>
+
+  - [3.4 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.4)
+    - [3.4 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Android.mcpack)
+    - [3.4 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Windows.mcpack)
+  - [3.3](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.3)
+    - [3.3 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Android-3.3.zip)
+    - [3.3 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
+    - [3.3 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/Bicubic-Shaders-BE-3.3.mcpack)
+
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+
+  - [3.2](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
+    - [3.2 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
+    - [3.2 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/BSBE-RD-Materials-Windows.zip)
+    - [3.2 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/Bicubic-Shaders-BE-3.2.mcpack)
+  - [3.1](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.1)
+    - [3.1 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Android-3.1.zip)
+    - [3.1 iOS](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-iOS-3.1.zip)
+    - [3.1 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Windows-3.1.zip)
+    - [3.1 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Material-Support.mcpack)
+  - [3.0 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.0/Bicubic-Shaders-BE-3.0.mcpack)
+
+</details>
+
+<br/>
+<br/>
+
+### BSBE Lite
+[![](/banners/BSBE%20Lite.png)](https://bambosan.github.io/BSBE-Lite/)
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Lite)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)
+
+<br/>
+
+  - [1.6](https://github.com/bambosan/BSBE-Lite/releases/tag/1.6)
+    - [1.6 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Android-1.6.zip)
+    - [1.6 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.6/BSBE-Lite-RD-Materials-Windows-1.6.zip)
+
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+
+  - [1.5](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.5 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Android-1.5.zip)
+      - [1.5 No Water Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Android-1.5.zip)
+    - [1.5 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-iOS-1.5.zip)
+      - [1.5 No Water iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-iOS-1.5.zip)
+    - [1.5 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-Windows-1.5.zip)
+      - [1.5 No Water Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.5/BSBE-Lite-RD-Material-NoWater-Windows-1.5.zip)
+    - [1.5 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
+  - [1.4](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.4 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Android-1.4.zip)
+    - [1.4 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-iOS-1.4.zip)
+    - [1.4 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-Lite-RD-Material-Windows-1.4.zip)
+    - [1.4 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.4/BSBE-RD-Material-Support.mcpack)
+  - [1.3](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.3 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Android-1.3.zip)
+    - [1.3 iOS](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-iOS-1.3.zip)
+    - [1.3 Windows](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-Lite-RD-Material-Windows-1.3.zip)
+    - [1.3 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.3/BSBE-RD-Material-Support.mcpack)
+  - [1.2](https://github.com/bambosan/BSBE-Lite/releases/tag/1.2)
+    - [1.2 Android](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-Lite-RD-Material-Android-1.2.zip)
+    - [1.2 Material Support .mcpack](https://github.com/bambosan/BSBE-Lite/releases/download/1.2/BSBE-RD-Material-Support.mcpack)
+
+</details>
+
+<br/>
+<br/>
+
+### Vine Shaders BE
+
+[![](/banners/vine.png)](https://bambosan.github.io/Vine-Shaders-BE/)
+
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/Vine-Shaders-BE)
+[![](https://img.shields.io/badge/MIT_License-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
+<br/>
+
+- [1.1.1](https://github.com/bambosan/Vine-Shaders-BE/releases/tag/v1.1.1)
+  - [Windows](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Windows-1.1.1.zip)
+  - [Android](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Android-1.1.1.zip)
+  - [iOS](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-iOS-1.1.1.zip)
+  - [Material Support](https://github.com/bambosan/Vine-Shaders-BE/releases/download/v1.1.1/Vine-Shaders-RD-Material-Support.mcpack)
+
+<br/>
+<br/>
+
+### Musk Rose RD  
+
+[![](/banners/Musk%20Rose%20RD.png)](https://github.com/Rinloid/musk_rose_rd)
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/musk_rose_rd)
+[![](https://img.shields.io/badge/CC0_1.0_license-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+ 
+ <br/>
+
+  - [v4.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0r/musk_rose_rd-v4.0r.zip)
+
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+
+  - [v4.0 Beta](https://github.com/Rinloid/musk_rose_rd/releases/download/v4.0b/musk_rose_rd-v4.0b.zip)
+  - [v2.1](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.1/musk_rose_rd-v2.1.zip)
+  - [v2.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v2.0/musk_rose_rd-v2.0.zip)
+  - [v1.0](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_v1.0.zip)
+    - [v1.0 Base .mcpack](https://github.com/Rinloid/musk_rose_rd/releases/download/v1.0/Musk_Rose_RD_Base.mcpack)
+  - [v0.5](https://github.com/Rinloid/musk_rose_rd/releases/download/v0.5/Musk_Rose_RDv0.5.zip)
+
+</details>
+
+<br/>
+<br/>
+
+### Reflective Vanilla RD
+[![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/Rinloid/reflective-vanilla-rd)
+[![](https://img.shields.io/badge/CC0_1.0_license-white?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwMi43MiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwMi43MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NS42MSwyMC45MXY3Mi43NGgzNS42M2MwLjM4LDAsMC42OCwwLjMxLDAuNjgsMC42OXY3LjdjMCwwLjM4LTAuMzEsMC42OS0wLjY4LDAuNjlIMjIuODQgYy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OXYtNy43YzAtMC4zOCwwLjMxLTAuNjksMC42OS0wLjY5aDM1LjYzbDAtNzIuNzFjLTMuMS0xLjA4LTUuNTYtMy41My02LjY0LTYuNjNIMjkuM3YzLjQzIGMwLDAuMzgtMC4zMSwwLjY4LTAuNjgsMC42OGgtNS43OGMtMC4zOCwwLTAuNjktMC4zMS0wLjY5LTAuNjh2LTMuNDNoLTUuNzNjLTAuNDQsMC0wLjgtMC4zMS0wLjgtMC42OFY3Ljg0IGMwLTAuMzgsMC4zNi0wLjY5LDAuOC0wLjY5aDM1LjQzQzUzLjMzLDIuOTksNTcuMzEsMCw2MS45OSwwYzQuNjgsMCw4LjY2LDIuOTksMTAuMTQsNy4xNmgzNS41M2MwLjQ0LDAsMC44LDAuMzEsMC44LDAuNjl2NS43OCBjMCwwLjM4LTAuMzYsMC42OC0wLjgsMC42OGgtNi40NnYzLjQzYzAsMC4zOC0wLjMxLDAuNjgtMC42OCwwLjY4aC01Ljc4Yy0wLjM4LDAtMC42OS0wLjMxLTAuNjktMC42OHYtMy40M0g3Mi4xNiBDNzEuMDksMTcuMzgsNjguNjcsMTkuODEsNjUuNjEsMjAuOTFMNjUuNjEsMjAuOTF6IE05OS42NiwyMi4zbDIyLjkxLDQwLjQ4YzAuMiwwLjM1LDAuMjksMC43MywwLjI4LDEuMWgwLjAyYzAsMC4wNSwwLDAuMSwwLDAuMTUgYzAsOS42NC0xMS4zNSwxNy40Ni0yNS4zNSwxNy40NmMtMTMuODUsMC0yNS4xLTcuNjUtMjUuMzQtMTcuMTVjLTAuMDQtMC4xNi0wLjA2LTAuMzQtMC4wNi0wLjUxYzAtMC40NCwwLjE0LTAuODYsMC4zNy0xLjIgbDIzLjQzLTQwLjQzYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4Qzk5LjIsMjEuNjUsOTkuNDgsMjEuOTUsOTkuNjYsMjIuM0w5OS42NiwyMi4zeiBNOTkuNzUsMzEuMTF2MzAuNmgxNy4zMkw5OS43NSwzMS4xMSBMOTkuNzUsMzEuMTF6IE05NS42Nyw2MS43VjMxLjE2TDc3Ljk2LDYxLjdIOTUuNjdMOTUuNjcsNjEuN3ogTTI3LjU0LDIyLjNsMjIuOTEsNDAuNDhjMC4yLDAuMzUsMC4yOSwwLjczLDAuMjgsMS4xaDAuMDIgYzAsMC4wNSwwLDAuMSwwLDAuMTVjMCw5LjY0LTExLjM1LDE3LjQ2LTI1LjM1LDE3LjQ2Yy0xMy44NSwwLTI1LjEtNy42NS0yNS4zNC0xNy4xNUMwLjAyLDY0LjE5LDAsNjQuMDIsMCw2My44NCBjMC0wLjQ0LDAuMTQtMC44NiwwLjM3LTEuMkwyMy44LDIyLjIxYzAuNTktMS4wMiwxLjg5LTEuMzcsMi45MS0wLjc4QzI3LjA4LDIxLjY1LDI3LjM2LDIxLjk1LDI3LjU0LDIyLjNMMjcuNTQsMjIuM3ogTTI3LjYzLDMxLjExdjMwLjZoMTcuMzJMMjcuNjMsMzEuMTFMMjcuNjMsMzEuMTF6IE0yMy41NCw2MS43VjMxLjE2TDUuODQsNjEuN0gyMy41NEwyMy41NCw2MS43eiBNNjEuOTksNi4wNyBjMi41OSwwLDQuNjksMi4xLDQuNjksNC42OWMwLDIuNTktMi4xLDQuNjktNC42OSw0LjY5Yy0yLjU5LDAtNC42OS0yLjEtNC42OS00LjY5QzU3LjMsOC4xNyw1OS40LDYuMDcsNjEuOTksNi4wN0w2MS45OSw2LjA3eiIvPjwvZz48L3N2Zz4=)](https://github.com/bambosan/BSBE-Deferred)  
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+https://github.com/Rinloid/reflective-vanilla-rd
+
+- [v3.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v3.0/reflective_vanilla_rd-v3.0.zip)
+![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
+
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+
+  - [v2.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v2.0/reflective_vanilla_rd-v2.0.zip)
+
+  - [v1.0](https://github.com/Rinloid/reflective-vanilla-rd/releases/download/v1.0/reflective_vanilla_rd-v1.0.zip)
+
+</details>
+
+<br/>
+<br/>
+
+### Harmony Voxel
+
+[![](/banners/Harmony%20Voxel.png)](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-beta-2/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
+ <br/>
+
+  - [Beta](https://www.mediafire.com/file/by1z63ejtncbjcu/Harmony_Voxel_%255BBETA%255D_All_Platforms.zip/file#)
+
+<br/>
+<br/>
+
+### Chill Voxel Shader 
+[![](/banners/Chill%20Voxel%20Shader.png)](https://magnificentshaders.home.blog/2023/12/24/chill-voxel-shader-v2-2/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
+ <br/>
+
+  - [v2.2](https://www.mediafire.com/file/hrkcnr6ckoji6pk/Chill_Voxel_V2.2_%2528All_Platforms%2529.zip/file#) 
+![](https://img.shields.io/badge/Supported_from_this_version-Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)  
+
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+
+  - [V2.0](https://download2389.mediafire.com/fbwrmfm9bpbgKL5hHIDQ0R23EfYbQcT9UP0ber9JQiK6wSNpCH_FZIW3Rv8ZrkypZjrZGmi19qcmauJHkErantL9/c26hmb2uyipbvbe/Chill+Voxel+Shader+for+R.D+Bedrock+platforms.zip)
+
+</details>
+
+<br/>
+<br/>
+
+### Innovative Shader for BE
+
+[![](/banners/ISPE.png)](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-for-be-ispe-beta-2-2/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+
+<br/>
+
+  - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
+  - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
+
+
+<br/>
+<br/>
+
+### Darkfall BE
+
+[![](/banners/Darkfall%20BE.png)](https://magnificentshaders.home.blog/2023/12/24/darkfall-be-v0-1-experimental-2/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)  
+
+<br/>
+
+  - [V1.0 [EXPERIMENTAL]](https://download2336.mediafire.com/tqgbblvc8p6gAmMxLvvT0KXHCaBG7gStt_YmnX6a9OnYefKUrAoDnmIBDN2cNeZwlDBIX9A71_oMuTmadugI51CIaL_lt70dMoFuwlpb6W6R2wpDS6BOOi01qliJaXinQZRUJxX9yvVLtAa_MHuNsSi2JhlNNRkwMX9hwDI6jg/owf3ypee43f8894/DarkFall+BE+V0.1+All+Platforms+%5BEXPERIMENTAL%5D.zip)
+
+<br/>
+<br/>
+
+### Shasvat Shader
+[![](/banners/Shasvat%20Shader.png)](https://magnificentshaders.home.blog/2024/02/23/shasvat-shader-v0-1/)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+
+<br/>
+
+- V0.1
+  - [Extreme](https://download2278.mediafire.com/mduj447b1ewgMD7F_a6Enpp-6kQDDfHLz5QdF8h3e2xdVfWWaZ3fuIl1FqbZqZQXfmCXI5f7EfmGIeNpxBXxK5c82l_g_BgX8cnYPVFvYN44yDEUqH7boIEpS3HXDLI8ghozEG9RVEOCEEZQ1MhpyE-BE6IsNWBhFCb8nyEqQQ/r50o8ainbn81f0q/Shasvat+Shader+V0.1+%5BExtreme%5D.zip)
+  - [High](https://download2270.mediafire.com/xj2se3lf5ocgjnR_HdS0Eh2ySgHyDWUZlsgvHyIz6jo0hpvznvgDSQS5oCQojNUu-tS3Od_21mxFHXCa6qq4jgMaKuDRx5HtMoQdi4XCA5zJEHwqRqUUic-B4eT273aRg4g5lDENoLL4s5f2k6zsx8luluoCbwpXrzkDWaP9tw/77domjee8zc6pip/Shasvat+Shader+V0.1+%5BHigh%5D.zip)
+  - [Medium](https://download2275.mediafire.com/m2tfy7cydgfgYgvezGZ0fgb2fZSxEm3-YLxr9Lp8_jcViiwkAvs9WV1pf_2MV_pmlOAQN2BAQ7GFlAX0P0ytXVSvRZZ_9z6SnDU76rHsJiQhe7FJ7tvcJIVpj1hVUX78ZYgvDO6FmfUjw7UlvQUhu1vbN5mxpw6kgl5ZaWwyUA/k8hd4koldmuxmin/Shasvat+Shader+V0.1+%5BMedium%5D.zip)
+
+<br/>
+<br/>
+
+### Eternity Shader
+[![](/banners/Eternity%20Shader.png)](https://youtu.be/iBxe6z3TLnI?si=kGtxdbkrtZat0NbT)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Eternity%20Shader/README.md)  
+
+- [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
+
 <br/>
 <br/>
 
@@ -881,7 +924,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [0.6](https://linkvertise.com/1015125/azify-rev-v06?o=sharing) ( Ad link exists )
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - 1.4.0 ( Ad link exists )
   - [Ultra](https://linkvertise.com/1015125/azify-revive4?o=sharing)
@@ -922,7 +965,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
     - [Low](https://download1527.mediafire.com/higqq5ybqddgAX2T55l-WcVHdBBIdTNqLigb1fut0_VuACr3j7Ao8axaNe5RSbVTAcfRgT4n4JKrvmW1mdjtQNdRb2q_rwKkuAreh-doYTAx4bTM9sxXr6QF6CRQuFtX7PqnRvdQ0qrZKu4yS5qwuDOWOoben5PEFhugMzqeNQ/k6xgpksdioqyzve/EnDefault+1.2.0+Low.mcpack) (Removed Fake Terrain Reflection, Waves/ Waving Effect, Glossy Effect.)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
   - [1.0](https://download2262.mediafire.com/flh39ua16pkgfBilxlIjdMk6XGmEblTFF5IlbXGbmKrGJjM3HBhTJzXEkYHp9TSCrc2LrFXVi3oqS9egegryWibNrrLTxBDqF6XV-MolZIyisG6XkPDpZ5rEzAtSpYiHGuPSJFVmHUE1zQ1-pZTPc9Q8l3eEE1zrR1u9o8lvEQ/0e16y86o7e9yebe/AziFy+EnDefault+v1.0.zip)
 
@@ -953,7 +996,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [v3.0](https://bit.ly/4enufeT) ( Ad link exists )
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - [v2.0](https://linkvertise.com/1015125/truly-default-v20?o=sharing) ( Ad link exists )
 
@@ -988,7 +1031,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [0.8](https://download2279.mediafire.com/f7mvfqf2dp1g2n5ccNZff5CzFqwFrH_f9qKSGhZL4JmGxVu3vjP5uSPKcUfTBqC5c2BIVPzj8vkGSiCcvS3O3mxOIaYk2y_pceekRzj6YiKdadKnF-sZjso8RTguo0OlXcRwpOSREtB4lJGMMRL3mHAPMJGu29SiNogfnfY2nA/rqwzwfmryohaj6g/ReSHv0.8RD.mcpack)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - [0.7](https://download2290.mediafire.com/2uoeoc74xkogH61S0r_25kp-k96U84IbCEpk1GNYK4doCaCK8Nuj9QntsbXKu5pGhGSmVC1-P866q5w_s0n4zV9L8JHBVJfvgZ9my3V9KMfph_F2z29Lzu1-M8hl_Jh5b6FdBPaLRaLROmENyUoxL5jrmQzfGnG6etX9xQbJXg/k0ud7jqgnhfuqwg/%5BRD%5DReSH0.7.mcpack)
 
@@ -1018,7 +1061,7 @@ https://github.com/Rinloid/reflective-vanilla-rd
 - [V5](https://sfile.mobi/7an1e6sm76M) ( Ad link exists )
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - [V5 Beta11](https://cdn.discordapp.com/attachments/1131912512787460235/1186866937515483277/GetMoonV5_Beta11.mcpack?ex=660cc778&is=65fa5278&hm=4f0c66c99f851a56d471e7accec13d64a4ed406496e284f061227935580246a4&)
 - [V5 Beta10](https://cdn.discordapp.com/attachments/1131912512787460235/1183674821444374628/GetMoonV5_Beta10.mcpack?ex=660a6515&is=65f7f015&hm=c557a634a8aed5dbaa2a71dfb82c136950f33330250b4169205554377ec49c7a&)
@@ -1155,7 +1198,7 @@ https://www.youtube.com/@KinKaren
 <br/>
 <br/>
 
-## Ect Utility Shaders
+## ইউটিলিটি শেডারসমূহ
 
 <br/>
 
@@ -1169,7 +1212,7 @@ https://github.com/Furzide/RenderDragonFullBright
 - [2.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v2.0.0/RenderDragonFullBright-v2.0.0.zip)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
   - [1.0.1](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.1/RenderDragonFullBright.1.0.1.zip)
   - [1.0.0](https://github.com/Furzide/RenderDragonFullBright/releases/download/v1.0.0/RenderDragonFullBright.1.0.0.zip)
@@ -1189,7 +1232,7 @@ https://github.com/Furzide/RenderDragonFogRemover
 - [3.1.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.1.0/RenderDragonFogRemover.3.1.0.zip)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - [3.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v3.0.0/RenderDragonNoFog-v3.0.0.zip)
 - [2.0.0](https://github.com/Furzide/RenderDragonFogRemover/releases/download/v2.0.0/RenderDragonNoFog_2.0.0.zip)
@@ -1210,7 +1253,7 @@ https://github.com/Furzide/RenderDragonCubemapFix
 - [2.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.0.0/RD.Cubemap.Fix.2.0.0.zip)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - [v1.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v1.1.0/RD.Cubemap.Fix.1.1.0.zip)
 - [v1.0.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/Release/RDCubemapFix.zip)
@@ -1286,7 +1329,7 @@ https://github.com/luit04/OriginShaderDeferred
   - [Windows](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.2/OriginShaderDeferred-0.0.2-Windows.zip)
 
 <details>
-<summary> সব ভার্সন </summary>
+<summary> সব ভার্সন দেখুন </summary>
 
 - 0.0.1
   - [Android](https://github.com/luit04/OriginShaderDeferred/releases/download/v0.0.1/OriginShaderDeferred-0.0.1-Android.zip)
@@ -1300,22 +1343,15 @@ https://github.com/luit04/OriginShaderDeferred
 <br/>
 <br/>
 
-# Render Dragon content
+# অন্যান্য RenderDragon কন্টেন্টসমূহ
+
 এই অংশে রেন্ডারড্রাগন ডেভেলপমেন্টের নির্দেশিকা, সাইট, কমিউনিটি ইত্যাদি পাবেন।
 
 
 <br/>
 
-## README_wip
-https://github.com/atashi764/rd-shader-list/blob/atashi764/readme_wip.md
-
-<s>Another version of the RenderDragon Shader List created by [atashi764](https://github.com/atashi764).</s>
-
-<br/>
-<br/>
-
-## RenderDragon Shaders
-https://devendrn.github.io/renderdragon-shaders
+## RenderDragon shader list by devendrn
+https://devendrn.github.io/renderdragon-shader [ডেভেলপমেন্ট স্থগিত]
 
 Newb X Legacy এর ডেভেলপার devendrn এর বানানো আরেকটা শেডার লিস্ট। এখানে শেডারের পাশাপাশি ডেভেলপারদের জন্য নির্দেশিকা পাবেন।
 
@@ -1325,16 +1361,16 @@ Newb X Legacy এর ডেভেলপার devendrn এর বানানো
 <br/>
 <br/>
 
-# Docs
+# বিস্তারিত তথ্যাদি
 <br/>
 
-## যেভাবে Renderdragon শেডার ইন্সটল করবেন।
+## কীভাবে Renderdragon শেডার ইন্সটল করবেন
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
 
 <br/>
 <br/>
 
-## Dev
+## ডেভেলপারদের জন্য নির্দেশিকা
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/dev.md
 
 এখানে রেন্ডারড্রাগনের ডেভেলপমেন্ট সংক্রান্ত তথ্য পাবেন।
@@ -1348,4 +1384,4 @@ https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/dev.md
 <br/>
 <br/>
 
-**এটা মাইনক্রাফটের কোনো অফিসিয়াল প্রোডাক্ট না। ইহা মোজাং বা মাইক্রোসফটের সাথে জড়িত না আর তাদের অনুমোদনপ্রাপ্ত না।**
+**এটা মাইনক্রাফটের কোনো অফিসিয়াল প্রোডাক্ট না। এটা মোজাং বা মাইক্রোসফটের সাথে জড়িত না কিংবা তাদের অনুমোদনপ্রাপ্ত না।**
