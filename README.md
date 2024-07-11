@@ -516,7 +516,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 <!--You may remove this later-->
 
 <details>
-<summary><b>Show other shaders...</b></summary>
+<summary><h2>Show other shaders...</h2></summary>
 
 <br/>
 <br/>
