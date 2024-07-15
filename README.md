@@ -493,8 +493,30 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 <br/>
 <br/>
 
+<!--You may remove this later-->
+
+> [!TIP]
+> <h3>There are more RenderDragon shaders in this list. Click the text below to see them.</h3>
+
+⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
+⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
+⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
+⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡇<br>
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡇<br>
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
+⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇<br>
+⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇<br>
+
+``Random ASCII art to grab your attention``
+
+<!--You may remove this later-->
+
 <details>
-<summary> Show all Shaders </summary>
+<summary><h3>Show other shaders</h3></summary>
 
 <br/>
 <br/>
