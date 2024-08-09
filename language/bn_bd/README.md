@@ -492,27 +492,14 @@ https://github.com/mcbegamerxx954/draco-injector
 
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 > [!TIP]
 > <h3>এই তালিকায় আরো অনেক রেন্ডারড্রাগন শেডার আছে। নিচের টেক্সট ক্লিকের মাধ্যমে দেখতে পারবেন।</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <details>
@@ -522,7 +509,8 @@ https://github.com/mcbegamerxx954/draco-injector
 <br/>
 
 > [!NOTE]
-> নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।
+> <h3>নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।</h3>
+> এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
 <br/>
 <br/>
