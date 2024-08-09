@@ -492,28 +492,15 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<!--You may remove this later-->
 
 > [!TIP]
 > <h3>There are more RenderDragon shaders in this list. Click the text below to see them.</h3>
 
-⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
-⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
-⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
-⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿<br>
-⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡇<br>
-⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡇<br>
-⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
-⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
-⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
-⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
-⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇<br>
-⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇<br>
-
-``Random ASCII art to grab your attention``
-
-<!--You may remove this later-->
 
 <details>
 <summary><h2>Show other shaders...</h2></summary>
@@ -522,7 +509,8 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 <br/>
 
 > [!NOTE]
-> The shader below does not support materials of version 1.20.80 or higher.
+> <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+> If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
 
 <br/>
 <br/>
