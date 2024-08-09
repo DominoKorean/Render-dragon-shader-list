@@ -525,7 +525,7 @@ https://github.com/mcbegamerxx954/draco-injector
 
 > [!NOTE]
 > <h3>নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।</h3>
->
+
 > এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
 <br/>
@@ -1297,7 +1297,7 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 
 > [!NOTE]
 > <h3>নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।</h3>
->
+
 > এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
 <br/>
@@ -1324,7 +1324,6 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 
 </details>
 
-
 <br/>
 <br/>
 
@@ -1341,10 +1340,8 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 
 </details>
 
-
 <br/>
 <br/>
-
 
 ## ডেভেলপমেন্ট স্থগিত করা প্রজেক্টসমূহ
 
