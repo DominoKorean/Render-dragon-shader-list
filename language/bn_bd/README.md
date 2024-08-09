@@ -67,6 +67,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [Newb X Legacy](#newb-x-legacy)
       - [Newb এর ভ্যারিয়ান্টসমূহ](#newb-এর-ভ্যারিয়ান্টসমূহ)
     - [Eternity Shader](#eternity-shader)
+    - [Vanilla X Enhanced](#vanilla-x-enhanced)
     - [Bicubic Shaders BE](#bicubic-shaders-be)
     - [BSBE Lite](#bsbe-lite)
     - [Vine Shaders BE](#vine-shaders-be)
@@ -94,7 +95,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [Zebra Shaders](#zebra-shaders)
   - [Deferred Rendering](#deferred-rendering) <!-- placeholder -->
     - [YSS Special Edition](#yss-special-edition)
-    - [BSBE Deffered](#bsbe-deffered)
+    - [BSBE Deferred](#bsbe-deferred)
     - [Innovative Shader Deferred](#innovative-shader-deferred)
     - [Harmony Voxel Deferred](#harmony-voxel-deferred)
   - [RTX](#rtx)
@@ -104,6 +105,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
     - [RD Cubemap Fix](#rd-cubemap-fix)
+    - [Gray's Night Vision](#grays-night-vision)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
 - [ডেভেলপমেন্ট স্থগিত করা প্রজেক্টসমূহ](#ডেভেলপমেন্ট-স্থগিত-করা-প্রজেক্টসমূহ)
@@ -423,11 +425,11 @@ https://github.com/mcbegamerxx954/draco-injector
 - [012](https://discord.com/channels/844591537430069279/1116247638094909460/1124362397243682948)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-android-1.20.zip)
   - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-ios-1.19.60.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-win-1.20.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-012-win-1.20.zip)
 
 - [011 Lite patch1](https://discord.com/channels/844591537430069279/1116247638094909460/1122941754761543721)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0-patch1.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0-patch1.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0-patch1.zip)
 
 - [011 Lite](https://discord.com/channels/844591537430069279/1116247638094909460/1122915916158603414)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-lite-android-1.20.0.zip)
@@ -435,37 +437,37 @@ https://github.com/mcbegamerxx954/draco-injector
 - [011](https://discord.com/channels/844591537430069279/1116247638094909460/1122903524389425303) ![](https://img.shields.io/badge/Supported_from_this_version-iOS-0A84E1?style=flat-square&logo=Apple)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-android-1.20.0.zip)
   - [iOS](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-ios-1.19.60.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-011-win-1.20.0.zip)
 
 - [010](https://discord.com/channels/844591537430069279/1116247638094909460/1121447970072707123)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-win-1.20.0.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-010-win-1.20.0.zip)
 
 - [009](https://discord.com/channels/844591537430069279/1116247638094909460/1120603151196758066)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-win-1.20.0.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-009-win-1.20.0.zip)
 
 - [008](https://discord.com/channels/844591537430069279/1116247638094909460/1120417436177539152)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-win-1.20.0.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-008-win-1.20.0.zip)
 
 - [007](https://discord.com/channels/844591537430069279/1116247638094909460/1118925382037557371)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-win-1.20.0.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-007-win-1.20.0.zip)
 
 - [006](https://discord.com/channels/844591537430069279/1116247638094909460/1118175826601582602)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-win-1.20.0.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-006-win-1.20.0.zip)
 
 - [005](https://discord.com/channels/844591537430069279/1116247638094909460/1117811788931674283)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-android-1.20.0.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-win-1.19.60.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-005-win-1.19.60.zip)
 
 - [004](https://discord.com/channels/844591537430069279/1116247638094909460/1117136656890339431)
   - [Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-android-1.19.83.zip)
-  - [Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-win-1.19.60.zip)
+  - [Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-004-win-1.19.60.zip)
 
-- [003 Window](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
+- [003 Windows](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-003-win-1.19.60.zip) (Same as 002 Android)
 
 - [002 Android](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/newb-x-002-android-1.19.83.zip)
 
@@ -477,6 +479,8 @@ https://github.com/mcbegamerxx954/draco-injector
 #### Newb এর ভ্যারিয়ান্টসমূহ
 > [![](/banners/newb%20variant/newb%20variants.png)](/newb_variants.md)
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -493,14 +497,36 @@ https://github.com/mcbegamerxx954/draco-injector
 <br/>
 <br/>
 
-<details>
-<summary> সব শেডার দেখুন </summary>
+### Vanilla X Enhanced
 
+[![](/banners/Vanilla%20X%20Enhanced.png)](https://discord.com/channels/660840983117955072/1266291464158314496)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square) 
+
+<br/>
+
+  - [V0.1](https://mediafire.com/file/wqzkeehlyrq2hv1/Vanilla_X_Enhanced_V0.1_%255BExtract_IT_%2526_Read_Instructions%2521%255D_Android%252C_iOS_%2526_Win.zip/file)
+
+<br/>
+<br/>
+<br/>
+
+> [!TIP]
+> <h3>এই তালিকায় আরো অনেক রেন্ডারড্রাগন শেডার আছে। নিচের টেক্সট ক্লিকের মাধ্যমে দেখতে পারবেন।</h3>
+
+
+<details>
+<summary><h2>অন্যান্য শেডার দেখুন...</h2></summary>
+  
 <br/>
 <br/>
 
 > [!NOTE]
-> নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।
+> **নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।**
+
+> এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
 <br/>
 <br/>
@@ -522,7 +548,7 @@ https://github.com/mcbegamerxx954/draco-injector
     - [3.4 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.4/BSBE-3.4-RD-Windows.mcpack)
   - [3.3](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.3)
     - [3.3 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Android-3.3.zip)
-    - [3.3 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
+    - [3.3 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/BSBE-RD-Materials-Windows-3.3.zip)
     - [3.3 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.3/Bicubic-Shaders-BE-3.3.mcpack)
 
 <details>
@@ -530,12 +556,12 @@ https://github.com/mcbegamerxx954/draco-injector
 
   - [3.2](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
     - [3.2 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.2)
-    - [3.2 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/BSBE-RD-Materials-Windows.zip)
+    - [3.2 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/BSBE-RD-Materials-Windows.zip)
     - [3.2 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.2/Bicubic-Shaders-BE-3.2.mcpack)
   - [3.1](https://github.com/bambosan/Bicubic-Shaders-BE/releases/tag/3.1)
     - [3.1 Android](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Android-3.1.zip)
     - [3.1 iOS](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-iOS-3.1.zip)
-    - [3.1 Window](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Windows-3.1.zip)
+    - [3.1 Windows](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Materials-Windows-3.1.zip)
     - [3.1 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.1/BSBE-RD-Material-Support.mcpack)
   - [3.0 mcpack](https://github.com/bambosan/Bicubic-Shaders-BE/releases/download/3.0/Bicubic-Shaders-BE-3.0.mcpack)
 
@@ -708,9 +734,15 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-  - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
-  - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
+  - [Beta V2.5](https://www.mediafire.com/file/2s72yfs2w97nsep/ISBE_BETA-2.5_%255BExtract_IT_%2526_Read_Instructions%2521%255D_Android%252C_iOS_%2526_Win.zip/file)
 
+<details>
+<summary> সব ভার্সন দেখুন </summary>
+  
+- [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
+- [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
+
+</details>
 
 <br/>
 <br/>
@@ -1010,13 +1042,16 @@ https://www.youtube.com/@KinKaren
 
 ## Deferred Rendering
 
+> [!TIP]
+> <h3>এই তালিকায় আরো অনেক রেন্ডারড্রাগন শেডার আছে। নিচের টেক্সট ক্লিকের মাধ্যমে দেখতে পারবেন।</h3>
+
 <details>
-<summary> সব শেডার দেখুন </summary>
+<summary><h2>অন্যান্য শেডার দেখুন...</h2></summary>
 
 <br/>
 
 > [!NOTE]
-> নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।
+> **নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।**
 
 <br/>
 
@@ -1078,7 +1113,7 @@ https://www.youtube.com/@KinKaren
 <br/>
 <br/>
 
-### BSBE Deffered
+### BSBE Deferred
 
 [![](banners/BSBE%20Deferred.png)](https://bambosan.github.io/bsbe-deferred/)
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/bambosan/BSBE-Deferred)
@@ -1216,7 +1251,7 @@ https://github.com/Furzide/RenderDragonFogRemover
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonCubemapFix
 
-- [v2.1.0]()
+- [v2.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.1.0/RD.Cubemap.Fix.2.1.0.zip)
 
 <details>
 <summary> সব ভার্সন দেখুন </summary>
@@ -1227,16 +1262,43 @@ https://github.com/Furzide/RenderDragonCubemapFix
 
 </details>
 
+
 <br/>
 <br/>
+
+### Gray's Night Vision
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+https://discord.com/channels/660840983117955072/1200077652514586624
+
+- [V2.0](https://www.mediafire.com/file/7fbkqf5eakb04vn/Night_Vision_V2.0_%255BAndroid%252C_iOS_and_Windows%255D.zip/file)
 
 <details>
-<summary> Show all Shaders </summary>
+<summary> Show all versions </summary>
 
+- [night vision](https://www.mediafire.com/file/mh0x3ejwcqi8npr/Night_Vision_Render_Dragon_1.19.60_or_above.zip/file)
+</details>
+
+
+<br/>
+<br/>
+
+> [!TIP]
+> <h3>এই তালিকায় আরো অনেক রেন্ডারড্রাগন শেডার আছে। নিচের টেক্সট ক্লিকের মাধ্যমে দেখতে পারবেন।</h3>
+
+
+<details>
+<summary>অন্যান্য শেডার দেখুন...</summary>
+
+<br/>
 <br/>
 
 > [!NOTE]
-> নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।
+> **নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।**
+
+> এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
 <br/>
 <br/>
@@ -1262,7 +1324,6 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 
 </details>
 
-
 <br/>
 <br/>
 
@@ -1278,6 +1339,9 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 <br/>
 
 </details>
+
+<br/>
+<br/>
 
 ## ডেভেলপমেন্ট স্থগিত করা প্রজেক্টসমূহ
 
