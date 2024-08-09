@@ -524,7 +524,7 @@ https://github.com/mcbegamerxx954/draco-injector
 <br/>
 
 > [!NOTE]
-> <h3>নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।</h3>
+> **নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।**
 
 > এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
@@ -1051,7 +1051,7 @@ https://www.youtube.com/@KinKaren
 <br/>
 
 > [!NOTE]
-> নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।
+> **নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।**
 
 <br/>
 
@@ -1290,13 +1290,13 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 
 
 <details>
-<summary> Show all Shaders </summary> <!--MUST CHECK LATER-->
+<summary>অন্যান্য শেডার দেখুন...</summary>
 
 <br/>
 <br/>
 
 > [!NOTE]
-> <h3>নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।</h3>
+> **নিচের শেডার 1.20.80 আর এর উপরের ভার্সন সাপোর্ট করে না।**
 
 > এই শেডারগুলো ব্যবহার করতে চাইলে অনুগ্রহপূর্বক Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app) ব্যবহার করবেন।
 
