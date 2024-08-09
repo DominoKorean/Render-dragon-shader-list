@@ -524,7 +524,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 <br/>
 
 > [!NOTE]
-> <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+> **The shader below does not support materials of version 1.20.80 or higher.**
 
 > If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
 
@@ -1051,7 +1051,7 @@ https://www.youtube.com/@KinKaren
 <br/>
 
 > [!NOTE]
-> <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+> **The shader below does not support materials of version 1.20.80 or higher.**
 
 <br/>
 
@@ -1296,7 +1296,7 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 <br/>
 
 > [!NOTE]
-> <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+> **The shader below does not support materials of version 1.20.80 or higher.</**
 
 > If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
 
