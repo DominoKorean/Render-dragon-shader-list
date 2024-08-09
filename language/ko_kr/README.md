@@ -510,7 +510,7 @@ Minecraft APK가 셰이더를 로드할 수 있도록 하며, 원본 APK와 별�
 
 > [!NOTE]
 > <h3>아래 셰이더는 버전 1.20.80 이상의 머터리얼을 지원하지 않습니다.</h3>
-> 
+ 
 > 만약 이 셰이더들을 최신 버전에서 사용하고싶다면 [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app)을 사용하세요.
 
 
@@ -1296,7 +1296,7 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 
 > [!NOTE]
 > <h3>아래 셰이더는 버전 1.20.80 이상의 머터리얼을 지원하지 않습니다.</h3>
-> 
+ 
 > 만약 이 셰이더들을 최신 버전에서 사용하고싶다면 [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app)을 사용하세요.
 
 <br/>
