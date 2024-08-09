@@ -481,6 +481,8 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### Eternity Shader
 [![](/banners/Eternity%20Shader.png)](https://youtu.be/iBxe6z3TLnI?si=kGtxdbkrtZat0NbT)
@@ -492,11 +494,8 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
 - [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
 
-
-
 <br/>
 <br/>
-
 
 ### Vanilla X Enhanced
 
@@ -510,11 +509,9 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
   - [V0.1](https://mediafire.com/file/wqzkeehlyrq2hv1/Vanilla_X_Enhanced_V0.1_%255BExtract_IT_%2526_Read_Instructions%2521%255D_Android%252C_iOS_%2526_Win.zip/file)
 
-
 <br/>
 <br/>
 <br/>
-
 
 > [!TIP]
 > <h3>There are more RenderDragon shaders in this list. Click the text below to see them.</h3>
@@ -1048,7 +1045,6 @@ https://www.youtube.com/@KinKaren
 > [!TIP]
 > <h3>There are more RenderDragon shaders in this list. Click the text below to see them.</h3>
 
-
 <details>
 <summary><h2>Show other shaders...</h2></summary>
 
@@ -1056,8 +1052,6 @@ https://www.youtube.com/@KinKaren
 
 > [!NOTE]
 > <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
->
-> 
 
 <br/>
 

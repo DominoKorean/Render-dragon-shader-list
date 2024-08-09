@@ -113,3 +113,6 @@ __**APK 설치 후 Minecraft에 수동으로 다음 권한을 부여해야 합�
 * [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
 > 이 버전부터 드라코 패치가 1.20.80 이전 RenderDragon 셰이더를 로드할 수 있습니다.
 * [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
+
+* [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
+* [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
