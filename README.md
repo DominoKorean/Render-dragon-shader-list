@@ -67,6 +67,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [Newb X Legacy](#newb-x-legacy)
       - [Newb variants](#newb-variants)
     - [Eternity Shader](#eternity-shader)
+    - [Vanilla X Enhanced](#vanilla-x-enhanced)
     - [Bicubic Shaders BE](#bicubic-shaders-be)
     - [BSBE Lite](#bsbe-lite)
     - [Vine Shaders BE](#vine-shaders-be)
@@ -104,6 +105,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
     - [RD Cubemap Fix](#rd-cubemap-fix)
+    - [Gray's Night Vision](#grays-night-vision)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
 - [Discontinued Projects](#discontinued-projects)
@@ -490,9 +492,25 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
 - [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
 
+
+
 <br/>
 <br/>
+
+
+### Vanilla X Enhanced
+
+[![](/banners/Vanilla%20X%20Enhanced.png)](https://discord.com/channels/660840983117955072/1266291464158314496)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+
 <br/>
+
+  - [V0.1](https://mediafire.com/file/wqzkeehlyrq2hv1/Vanilla_X_Enhanced_V0.1_%255BExtract_IT_%2526_Read_Instructions%2521%255D_Android%252C_iOS_%2526_Win.zip/file)
+
+
 <br/>
 <br/>
 <br/>
@@ -510,6 +528,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
 > [!NOTE]
 > <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+> 
 > If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
 
 <br/>
@@ -718,9 +737,15 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <br/>
 
-  - [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
-  - [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
+- [Beta V2.5](https://www.mediafire.com/file/2s72yfs2w97nsep/ISBE_BETA-2.5_%255BExtract_IT_%2526_Read_Instructions%2521%255D_Android%252C_iOS_%2526_Win.zip/file)
 
+<details>
+<summary> Show all versions </summary>
+
+- [Beta - 2](https://download2348.mediafire.com/uxi78ypfm6ggfUKrhDk8LUEx5qxDJrr7w6wti6Qf0K0i_x7nZvKoSmGyAOe4cU2jcMiJLGvQREeEdMczFkeN71DYg-P6_0-7UpqhLOqH16qTYJZ_CbsXI_WumgkLfGWg6HbHud0geKfDXI-KkGs3gYy9FptJTuzVJ2CF5YzXHA/5ui1t6m30rrfmgv/ISPE+Renewed+Beta-2+%28All+Platforms%29.zip)
+- [Beta - 1](https://download2261.mediafire.com/hqdb8tohuqbg4VkZS7ab8KeFKbAYslW2A84k74qdj90p8O_hbJ4SG_JDpjz667bjd0lZ9pUTKjNimYJL9vR3v-Xw/zir4nlq7cn5awrh/ISPE+Renewed+R.D.zip)
+
+</details>
 
 <br/>
 <br/>
@@ -1020,13 +1045,19 @@ https://www.youtube.com/@KinKaren
 
 ## Deferred Rendering
 
+> [!TIP]
+> <h3>There are more RenderDragon shaders in this list. Click the text below to see them.</h3>
+
+
 <details>
-<summary> Show all Shaders </summary>
+<summary><h2>Show other shaders...</h2></summary>
 
 <br/>
 
 > [!NOTE]
-> The shader below does not support materials of version 1.20.80 or higher.
+> <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+>
+> 
 
 <br/>
 
@@ -1226,7 +1257,7 @@ https://github.com/Furzide/RenderDragonFogRemover
 ![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
 https://github.com/Furzide/RenderDragonCubemapFix
 
-- [v2.1.0]
+- [v2.1.0](https://github.com/Furzide/RenderDragonCubemapFix/releases/download/v2.1.0/RD.Cubemap.Fix.2.1.0.zip)
 
 <details>
 <summary> Show all versions </summary>
@@ -1237,16 +1268,43 @@ https://github.com/Furzide/RenderDragonCubemapFix
 
 </details>
 
+
 <br/>
 <br/>
+
+### Gray's Night Vision
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+https://discord.com/channels/660840983117955072/1200077652514586624
+
+- [V2.0](https://www.mediafire.com/file/7fbkqf5eakb04vn/Night_Vision_V2.0_%255BAndroid%252C_iOS_and_Windows%255D.zip/file)
 
 <details>
-<summary> Show all Shaders </summary>
+<summary> Show all versions </summary>
 
+- [night vision](https://www.mediafire.com/file/mh0x3ejwcqi8npr/Night_Vision_Render_Dragon_1.19.60_or_above.zip/file)
+</details>
+
+
+<br/>
+<br/>
+
+> [!TIP]
+> <h3>There are more RenderDragon shaders in this list. Click the text below to see them.</h3>
+
+
+<details>
+<summary><h2>Show other shaders...</h2></summary>
+
+<br/>
 <br/>
 
 > [!NOTE]
-> The shader below does not support materials of version 1.20.80 or higher.
+> <h3>The shader below does not support materials of version 1.20.80 or higher.</h3>
+> 
+> If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
 
 <br/>
 <br/>
@@ -1288,6 +1346,11 @@ https://youtu.be/koX5YcHe2Ks?si=OIEDtSWnMJNDDuIR
 <br/>
 
 </details>
+
+
+<br/>
+<br/>
+
 
 # Discontinued Projects
 

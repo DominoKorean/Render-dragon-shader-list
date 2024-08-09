@@ -122,3 +122,6 @@ __**After installing apk you must give `Files` permission manually to Minecraft 
 > This version onward, draco patch can load pre 1.20.80 renderdragon shaders
 * [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
 * [1.21.1.03-64bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1IwsuaTWGzn1WwT4qLf9wwd2mpWM3FEHb/view)
+
+* [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
+* [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
