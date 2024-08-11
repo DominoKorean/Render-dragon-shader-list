@@ -116,7 +116,8 @@ __**APK 설치 후 Minecraft에 수동으로 다음 권한을 부여해야 합�
 
 * [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
 > 이 APK를 사용한 후 게임이 더 버벅인다고 생각되면, 이 팩을 사용하여 essl_100 변경 사항을 되돌리세요.
-> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](ttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
+*
+  * [1.21.03ESSL_310_onlyincrease_lag.mcpack](ttps://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
 
 * [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
 > 이 버전부터 드라코 패치가 1.20.80 이전 RenderDragon 셰이더를 로드할 수 있습니다.
