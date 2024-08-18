@@ -151,8 +151,13 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 > The version below is provided by [YSS Group](https://discord.gg/yss) and has not yet been released on GitHub.  
 > If it is classified as an old version, it means that newer version of BetterRenderDragon has been published on GitHub.
 
+<details>
+<summary>old version</summary>
+
 * [BetterRenderDragon-1.4.3](https://cdn.discordapp.com/attachments/1234853561280761927/1251792994047361044/BetterRenderDragon-1.4.3.zip?ex=666fde92&is=666e8d12&hm=510083863afce70a4d3bac5d8572738a2fadc50976177db56d66f80575b4e6b9&)
 ![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~_1.21.0,_Preview_1.21.10.20_~_-2d7a3e?style=flat-square) 
+
+</details>
 
 <br/>
 <br/>
@@ -240,14 +245,16 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
 <br/>
 
-- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
-![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
+- [1.9.10 Beta2](https://discord.com/channels/738688684223889409/972141088607436890/1273183352924667924)
 
 <details>
 <summary> Show all versions </summary>
 
 <br/>
 
+- [1.9.10 Beta1](https://discord.com/channels/738688684223889409/972141088607436890/1257571994900369409)
+- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
+![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
 - [v1.9.8](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)
 - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip?ex=66124fbe&is=65ffdabe&hm=4188b99cc918e33633a288415dfa3dbb56086c25a139f860cff5c95d899377fa&)
 - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip?ex=66116883&is=65fef383&hm=553354710af65eaac15149f9f97463418eaa536db5f37e109353d98e8fe23c1f&)
@@ -294,17 +301,41 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 
  <br/>
 
-- [v15.50](https://discord.com/channels/844591537430069279/1127879378378969088/1259888647210139748) ( Beta )
+- [v15.54](https://discord.com/channels/844591537430069279/1127879378378969088/1273516953742344253) ( Beta )
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-ios.zip)
+
+<details>
+<summary> Show all beta versions </summary>
+
+- [v15.53](https://discord.com/channels/844591537430069279/1127879378378969088/1273516953742344253)
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-ios.zip)
+
+- [v15.52](https://discord.com/channels/844591537430069279/1127879378378969088/1263495913440018493)
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-ios.zip)
+
+- [v15.51](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev)
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-ios.zip)
+
+- [v15.50](https://discord.com/channels/844591537430069279/1127879378378969088/1259888647210139748)
   - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-merged.mcpack)
   - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-android.mcpack)
   - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-windows.mcpack) 
   - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.50-ios.zip)
 
-<details>
-<summary> Show all beta versions </summary>
-
 ![](https://img.shields.io/badge/Supported_MC_version-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
-- [v15.49](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
+- [v15.49](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev)
   - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-android.mcpack)
   - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-windows.mcpack) 
   - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.49-ios.zip)
@@ -526,7 +557,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 > [!NOTE]
 > **The shader below does not support materials of version 1.20.80 or higher.**
 
-> If you want to use these shaders in the latest version, please use the [MCPatch]().
+> If you want to use these shaders in the latest version, please use the [MCPatch](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#mcpatch).
 
 <br/>
 <br/>
@@ -1298,7 +1329,7 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 > [!NOTE]
 > **The shader below does not support materials of version 1.20.80 or higher.**
 
-> If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
+> If you want to use these shaders in the latest version, please use the  [MCPatch](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#mcpatch).
 
 <br/>
 <br/>

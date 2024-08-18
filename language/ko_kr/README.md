@@ -150,8 +150,13 @@ RenderDragon 엔진 향상 모드 _**Minecraft: Bedrock Edition**_
 > 아래 버전은 [YSS Group](https://discord.gg/yss)에서 제공하며 아직 GitHub에 공개되지 않았습니다.  
 > 구 버전으로 분류된 경우, 이는 새로운 BetterRenderDragon이 GitHub에 업데이트되었음을 의미합니다.
 
+<details>
+<summary>구 버전</summary>
+
 * [BetterRenderDragon-1.4.3](https://cdn.discordapp.com/attachments/1234853561280761927/1251792994047361044/BetterRenderDragon-1.4.3.zip?ex=666fde92&is=666e8d12&hm=510083863afce70a4d3bac5d8572738a2fadc50976177db56d66f80575b4e6b9&)
 ![](https://img.shields.io/badge/다음_마인크래프트_버전_지원됨-1.20.80_~_1.21.0,_Preview_1.21.10.20_~_-2d7a3e?style=flat-square) 
+
+</details>
 
 <br/>
 <br/>
@@ -236,14 +241,16 @@ Minecraft APK가 셰이더를 로드할 수 있도록 하며, 원본 APK와 별�
 
 <br/>
 
-- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
-![](https://img.shields.io/badge/다음_마인크래프트_버전_지원됨-1.21_~-2d7a3e?style=flat-square)  
+- [1.9.10 Beta2](https://discord.com/channels/738688684223889409/972141088607436890/1273183352924667924)
 
 <details>
-<summary> 모든 버전 확인 </summary>
+<summary> Show all versions </summary>
 
 <br/>
 
+- [1.9.10 Beta1](https://discord.com/channels/738688684223889409/972141088607436890/1257571994900369409)
+- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
+![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square) 
 - [v1.9.8](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)
 - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip?ex=66124fbe&is=65ffdabe&hm=4188b99cc918e33633a288415dfa3dbb56086c25a139f860cff5c95d899377fa&)
 - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip?ex=66116883&is=65fef383&hm=553354710af65eaac15149f9f97463418eaa536db5f37e109353d98e8fe23c1f&)
@@ -290,16 +297,32 @@ Minecraft APK가 셰이더를 로드할 수 있도록 하며, 원본 APK와 별�
 
  <br/>
 
-![](https://img.shields.io/badge/다음_마인크래프트_버전_지원됨-1.21.0_~_1.21.1-2d7a3e?style=flat-square)  
-- [v15.48](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev) ( Beta )
-  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-merged.mcpack)
-  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-android.mcpack)
-  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-windows.mcpack)
-  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.48-ios.zip)
+- [v15.54](https://discord.com/channels/844591537430069279/1127879378378969088/1273516953742344253) ( Beta )
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.54-ios.zip)
 
 <details>
-<summary> 모든 베타 버전 확인 </summary>
+<summary> 모든 베타버전 확인 </summary>
 
+- [v15.53](https://discord.com/channels/844591537430069279/1127879378378969088/1273516953742344253)
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.53-ios.zip)
+
+- [v15.52](https://discord.com/channels/844591537430069279/1127879378378969088/1263495913440018493)
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.52-ios.zip)
+
+- [v15.51](https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev)
+  - [Merged](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-merged.mcpack)
+  - [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-windows.mcpack) 
+  - [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15-dev/newb-x-legacy-15.51-ios.zip)
 - [v15.46](https://discord.com/channels/844591537430069279/1127879378378969088/1255200939997134938)
   - [Android](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)
   - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-windows.mcpack)
@@ -511,7 +534,7 @@ Minecraft APK가 셰이더를 로드할 수 있도록 하며, 원본 APK와 별�
 > [!NOTE]
 > **아래 셰이더는 버전 1.20.80 이상의 머터리얼을 지원하지 않습니다.**
  
-> 만약 아래 셰이더팩을 최신 버전에서 사용하고싶다면 [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app)을 사용하세요.
+> 만약 아래 셰이더팩을 최신 버전에서 사용하고싶다면 [MCPatch](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/language/ko_kr/patchedapp.md#mcpatch)을 사용하세요.
 
 
 ### Bicubic Shaders BE  
@@ -1297,7 +1320,7 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 > [!NOTE]
 > **아래 셰이더는 버전 1.20.80 이상의 머터리얼을 지원하지 않습니다.**
  
-> 만약 아래 셰이더팩을 최신 버전에서 사용하고싶다면 [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app)을 사용하세요.
+> 만약 아래 셰이더팩을 최신 버전에서 사용하고싶다면 [MCPatch](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/language/ko_kr/patchedapp.md#mcpatch)를 사용하세요.
 
 <br/>
 <br/>

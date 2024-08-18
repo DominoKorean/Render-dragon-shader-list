@@ -20,6 +20,8 @@ APK 이름에 `arm64`가 포함되어 있으면 **64비트**, `arm32`가 포함�
 
 <br/>
 
+* [1.21.21.01_arm32_arm64_patched](https://www.mediafire.com/file/jwjwcx32fxx9gt2/1.21.21.01_arm32_arm64_patched.apk/file)
+* [1.21.20.03_arm32_arm64_patched](https://www.mediafire.com/file/to5z0przp673rat/1.21.20.03_arm32_arm64_patched.apk/file)
 * [1.19.20.02_arm64-v8a_Patched](https://download2294.mediafire.com/pj08kazd64ag1OgXaLAT-SQnlOMZpCy3f4-AeceT87X6Hm810hQjCW5JGSsrTSrBQ76VhuubgRdeon0d4d_S-wZOTXVAI8i768krpbONUGC3lzC6RBeQwpBFRRI30IrJwSW-WPy0wPIReZAecgWeboRg-v5FEmrZxr7f41bK-g/6qsqi648qudbwso/1.19.20.02_arm64-v8a_Patched.apk)
 * [1.19.40.02_arm64_v8a_patched](https://download1074.mediafire.com/agc2ubr682vgtumchjOPp5cQhQYJQoy-yWLG0P6qEMpmogFhUT5U1jcIR5VgDr-73IROuMLl7einzgFLSnzGM-_y63Ni7hKdNWd3AXD3wm0aHgfKOB29iWt6b36MPPHyQcWtMckwoxvuWwCBAcryuPvNlHi3roQlRgvZ6IBWkg/c4w3xvh4zjf33ce/1.19.40.02_arm64_v8a_patched.apk)
 * [1.19.51.01_arm64_v8a_patched](https://download2301.mediafire.com/pib0hwlfmt0grkO_--VUPIGPnrKqo7V_Ewc4_YzLoZuK6oVeBJQ4HiTz_LEtJnF0nmdvu-bFMjB9w2cyn9YHnY2DFaY25MQle72Es4cb1DZx0I0LCZ9Ai61TkA2yJgW1SelNLkjgzbEwM74jOBL_6pVrJ9XkpsOmy8gbRJyD_Q/p00u4q2fre1ra7c/1.19.51.01_arm64_v8a_patched.apk)
@@ -68,6 +70,72 @@ APK 이름에 `arm64`가 포함되어 있으면 **64비트**, `arm32`가 포함�
 
 ---
 
+## MCPatch
+
+> 아래 버전은 [CallMeSoumya](https://discord.com/invite/Ue5Pbmjnwt)가 만든 Patch APP입니다.
+
+<br/>
+
+이 APK는 다음을 포함합니다:
+- 욕설 필터 비활성화 **__(클라이언트 측 검열만 비활성화되며, 서버에서는 여전히 차단됩니다)__**
+- ESSL_100 렌더러 머터리얼 (버벅임 수정)
+- 예전 게임 폴더 저장 경로 (/storage/emulated/0/games/com.mojang/)
+- 모든 구버전 RenderDragon 셰이더 (1.18.30+ 셰이더, 1.19.60+ 셰이더, 1.20.80+ 셰이더)가 이 APK에서 작동하며, 적용 시 mcbe 리다이렉터에 의해 이 버전을 지원하도록 자동 업데이트됩니다. [**이 APK를 사용하여 달성했습니다**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (yss 드라코 채팅 채널의 메시지)]
+
+**__글로벌 리소스에서만 셰이더를 활성화하세요!!__**
+
+__**APK 설치 후 Minecraft에 수동으로 다음 권한을 부여해야 합니다**__: (그렇지 않으면 Minecraft가 아무것도 로드할 수 없습니다)
+
+### ⚠️경고⚠️
+
+* 이 패치 앱을 사용하려면 설정의 앱 정보에서 파일/저장소 권한을 수동으로 활성화해야 합니다.
+
+* Google Play Protect가 "안전하지 않은 앱 차단됨"이라는 메시지와 함께 APK 설치를 차단할 수 있으며, 이 경우 "계속 설치"를 눌러야 합니다.
+
+* 게임을 처음 열 때 다음과 같은 오류가 발생할 수 있습니다:
+```
+파일 이동 중 문제 발생!
+
+모든 파일을 이동할 수 없습니다.
+[재시도]
+```
+**재시도를 누르지 말고, 오른쪽 상단의 X를 눌러주세요.** 그러면 문제는 자동으로 해결됩니다.
+
+* 이 패치 앱은 Minecraft가 실행되고 로딩 화면이 표시되기까지 평소보다 몇 초 더 걸릴 수 있습니다.
+
+* 이 패치 앱은 글로벌 리소스에서만 셰이더를 로드할 수 있습니다.
+
+* 가끔 셰이더가 제대로 로드되지 않는 경우가 있습니다. 이 경우:
+> 게임을 재시작하거나
+> 게임을 백그라운드로 전환한 후 몇 초 기다린 다음, 백그라운드에서 다시 실행하세요.
+
+### __면책 조항:__
+ * 이곳에 제공된 패치 앱은 공식 앱이 아닙니다. Minecraft APK를 수동으로 패치하고 몇 가지 오픈 소스 프로젝트를 사용하여 제가 직접 수정했습니다.
+ * 모든 패치 정보(필요한 수정 사항 및 오픈 소스 프로젝트에 대한 출처 포함)는 [여기](<https://github.com/CallMeSoumya2063/MinePatcher?tab=readme-ov-file#information-of-patches>) 추가되었습니다.
+ * 자동 패치 방법이 완전히 기능을 갖추게 되면 이 APK 파일 제공을 중단할 예정입니다. 이 방법이 완성되면 추가적인 사용 정보와 함께 공지할 것입니다.
+ * 이 패치 앱을 소개하거나 다른 사람에게 알릴 때 출처(CallMeSoumya)를 남겨주세요 주세요.
+
+<br/>
+<br/>
+
+* [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
+> 이 APK를 사용한 후 게임이 더 버벅인다고 생각되면, 이 팩을 사용하여 essl_100 변경 사항을 되돌리세요.
+> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
+
+<br/>
+
+* [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
+> 이 버전부터 드라코 패치가 1.20.80 이전 RenderDragon 셰이더를 로드할 수 있습니다.
+* [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
+
+* [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
+* [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
+
+* [1.21.21.01-64bit-patch-modded](https://www.mediafire.com/file/di1oywbdkwz4nkd/1.21.21.01-64bit-patch-modded.apk/file)
+* [1.21.21.01-32bit-patch-modded](https://www.mediafire.com/file/ldt2nil0mx20yki/1.21.21.01-32bit-patch-modded.apk/file)
+
+---
+
 ## Newb Community's Patch APP
 
 > 다음 버전은 [Newb Community](https://discord.gg/newb-community-844591537430069279)에서 [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector)를 사용하여 만든 Patch APP입니다.
@@ -92,37 +160,5 @@ APK 이름에 `arm64`가 포함되어 있으면 **64비트**, `arm32`가 포함�
 * [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
 
 
----
-
-## MCPatch
-
-> 아래 버전은 [CallMeSoumya](https://discord.com/invite/Ue5Pbmjnwt)가 만든 Patch APP입니다.
-
-<br/>
-
-이 APK는 다음을 포함합니다:
-- 욕설 필터 비활성화 **__(클라이언트 측 검열만 비활성화되며, 서버에서는 여전히 차단됩니다)__**
-- ESSL_100 렌더러 머터리얼 (버벅임 수정)
-- 예전 게임 폴더 저장 경로 (/storage/emulated/0/games/com.mojang/)
-- 모든 구버전 RenderDragon 셰이더 (1.18.30+ 셰이더, 1.19.60+ 셰이더, 1.20.80+ 셰이더)가 이 APK에서 작동하며, 적용 시 mcbe 리다이렉터에 의해 이 버전을 지원하도록 자동 업데이트됩니다. [**이 APK를 사용하여 달성했습니다**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (yss 드라코 채팅 채널의 메시지)]
-
-**__글로벌 리소스에서만 셰이더를 활성화하세요!!__**
-
-__**APK 설치 후 Minecraft에 수동으로 다음 권한을 부여해야 합니다**__: (그렇지 않으면 Minecraft가 아무것도 로드할 수 없습니다)
-
-
-<br/>
-<br/>
-
-* [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
-> 이 APK를 사용한 후 게임이 더 버벅인다고 생각되면, 이 팩을 사용하여 essl_100 변경 사항을 되돌리세요.
-> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
-
-<br/>
-
-* [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
-> 이 버전부터 드라코 패치가 1.20.80 이전 RenderDragon 셰이더를 로드할 수 있습니다.
-* [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
-
-* [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
-* [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
+* [v1.21.21_dracopatch_arm32+64](https://www.mediafire.com/file/nlc113tp83coy0m/v1.21.21_dracopatch_arm32+64.apk/file)  
+no vanilla songs, had to reupload due to copyright detection

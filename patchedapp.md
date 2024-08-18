@@ -25,6 +25,8 @@ With MaterialBinLoader, you can easily apply or remove any compatible RenderDrag
 
 <br/>
 
+* [1.21.21.01_arm32_arm64_patched](https://www.mediafire.com/file/jwjwcx32fxx9gt2/1.21.21.01_arm32_arm64_patched.apk/file)
+* [1.21.20.03_arm32_arm64_patched](https://www.mediafire.com/file/to5z0przp673rat/1.21.20.03_arm32_arm64_patched.apk/file)
 * [1.21.2.02_arm32_arm64_patched](https://www.mediafire.com/file/9qw72efpy3oi109/1.21.2.02_arm32_arm64_patched.apk)
 * [1.21.0.03_arm64_patched](https://download2444.mediafire.com/45z2d0c467vgbfNcoFW7vt2sEp6UK7rxYogZl8d6Y_boOOVtm88cQhP6t6BLXJ_ellz_LDWkIumXZQDn-hAbFl3x5T2UIA5bYwReJvidCmqb6EU9QQ9xqLEvrtZsvebfH3tyeB2cjeIn9M5-7pi5s5oPIPvXDir1j99jG0taEQ/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk)
 * [1.20.73.01_arm32_arm64_patched](https://download2438.mediafire.com/xnvgf1bwrvfgWpQXYADXHeSc-kJd8Mnk7vPDeRCQCfFPXEKOcA073svZNgTYQ6sfHitpfBxK13LTDQ0Q1b9YrnWODr0GUH182gm_QBu2FuTulC79C-JHNxl3gthG-N5pyguxUCYczNFIzzJpI4pMEq8SodQ1LKloCp9UGvLEDA/jo15op4cxyyoh7o/1.20.73.01_arm32_arm64_patched.apk)
@@ -68,6 +70,65 @@ With MaterialBinLoader, you can easily apply or remove any compatible RenderDrag
 
 ---
 
+## MCPatch
+
+> The following version is a patched app created by the [CallMeSoumya](https://discord.com/invite/Ue5Pbmjnwt)
+
+<br/>
+
+This apk has:
+- Profanity filter disabled **__(Only client side censoring is disabled, servers will still ban you)__**
+- ESSL_100 renderer materials (stutter fix) 
+- Old games folder storage path (/storage/emulated/0/games/com.mojang/)
+- All old renderdragon shaders (1.18.30+ shaders, 1.19.60+ shaders, and 1.20.80+ shaders) work in this apk, since they get auto-updated by mcbe redirector to support this version when you apply it. [**Used this apk to achieve this**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (message from yss draco chat channel)]
+
+### ⚠️WARNING⚠️
+
+* This patchapp requires you to manually enable files/storage permission from app info in settings.
+
+* Google play protect may block the apk's installation saying "Unsafe app blocked", you have to tap "install anyway".
+
+* The first time you open the game, you may have this error:
+```
+Trouble moving files!
+
+We couldn't move all your files.
+[Retry]
+```
+**Do not press retry, just press the cross (X) at the top-right corner**, it'll fix itself.
+
+* This patchapp takes a few seconds longer than usual for Minecraft to launch and display the loading screen.
+
+* This patchapp can only load shaders from global resources.
+
+* Sometimes shader doesn't load correctly, in that case:
+> restart game
+OR
+> put game in background, wait a few seconds, then relaunch game from background
+
+### __DISCLAIMER:__
+ * These patchapps provided here are not official. They are manually patched entirely by me by editing Minecraft apk and using a few open source projects.
+ * All patches info (with necessary fixes and credits for the open source projects) have been added [here](<https://github.com/CallMeSoumya2063/MinePatcher?tab=readme-ov-file#information-of-patches>)
+ * I will stop providing these apk files once I finish up making a functional automatic patching method. You will be notified when this happens, with additional info on how to use it.
+ * Please credit me(CallMeSoumya) when showcasing this patchapp or telling others about it.
+
+<br/>
+<br/>
+
+* [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
+> If you think your game has more stutters after using this apk then use this pack to revert the essl_100 change.
+> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
+
+* [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
+> This version onward, draco patch can load pre 1.20.80 renderdragon shaders
+* [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
+* [1.21.1.03-64bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1IwsuaTWGzn1WwT4qLf9wwd2mpWM3FEHb/view)
+
+* [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
+* [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
+
+---
+
 ## Newb Community's Patch APP
 
 > The following version is a patched app created by the [Newb Community](https://discord.gg/newb-community-844591537430069279) using [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector).
@@ -92,36 +153,7 @@ With MaterialBinLoader, you can easily apply or remove any compatible RenderDrag
 * [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
 
 
+* [v1.21.21_dracopatch_arm32+64](https://www.mediafire.com/file/nlc113tp83coy0m/v1.21.21_dracopatch_arm32+64.apk/file)  
+no vanilla songs, had to reupload due to copyright detection
+
 ---
-
-## MCPatch
-
-> The following version is a patched app created by the [CallMeSoumya](https://discord.com/invite/Ue5Pbmjnwt)
-
-<br/>
-
-This apk has:
-- Profanity filter disabled **__(Only client side censoring is disabled, servers will still ban you)__**
-- ESSL_100 renderer materials (stutter fix) 
-- Old games folder storage path (/storage/emulated/0/games/com.mojang/)
-- All old renderdragon shaders (1.18.30+ shaders, 1.19.60+ shaders, and 1.20.80+ shaders) work in this apk, since they get auto-updated by mcbe redirector to support this version when you apply it. [**Used this apk to achieve this**: [YSS Static Shader Group](https://discord.com/channels/738688684223889409/1252921239413063690/1256413665184190525) (message from yss draco chat channel)]
-
-**__Activate shader in Global resources only!!__**
-
-__**After installing apk you must give `Files` permission manually to Minecraft in app info**:__ (or minecraft can't load anything)
-
-
-<br/>
-<br/>
-
-* [1.21.0.03_arm64-essl100_materialbinloader_mod.apk](https://drive.google.com/file/d/19vnZmmtGcfVhFEfbFlGdYJbWP65RQV-r/view?usp=drivesdk)
-> If you think your game has more stutters after using this apk then use this pack to revert the essl_100 change.
-> * [1.21.03ESSL_310_onlyincrease_lag.mcpack](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/patchedapp/1.21.03ESSL_310_onlyincrease_lag.mcpack)
-
-* [1.21.1.03-32bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1I1ExlNaI7JuvE45AWF11aqHlYMZygvMl/view?usp=drivesdk)
-> This version onward, draco patch can load pre 1.20.80 renderdragon shaders
-* [1.21.0.03_arm32_Draco_Patched](https://download2292.mediafire.com/hrpoq6ecufhg01XnOQP9mcoss7gafcOAhStfQ5nOrkEvrH3K9O144GdO4LcWAjdoCZ_hG2eQVasP3Kdvneud5KfEVMCrFz3C6GK2jRlSsH2NrPoCDx5i2HjHzE7L3Jkyfu8gjWH4_2cPP_JQAiPO0dOlU-nUGKTv-Wwsze3Drg/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk)
-* [1.21.1.03-64bit_Draco_essl100_mod.apk](https://drive.google.com/file/d/1IwsuaTWGzn1WwT4qLf9wwd2mpWM3FEHb/view)
-
-* [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
-* [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
