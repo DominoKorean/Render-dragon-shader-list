@@ -94,9 +94,9 @@ With MaterialBinLoader, you can easily apply or remove any compatible RenderDrag
 
 ---
 
-## Wind's Scion Hub's Patch APP
+## MCPatch
 
-> The following version is a patched app created by the [Wind's Scion Hub](https://discord.com/invite/KYKxFTxjyU)
+> The following version is a patched app created by the [CallMeSoumya](https://discord.com/invite/Ue5Pbmjnwt)
 
 <br/>
 

@@ -526,7 +526,7 @@ A cross platform injector that can be used to make Minecraft APKs load shaders a
 > [!NOTE]
 > **The shader below does not support materials of version 1.20.80 or higher.**
 
-> If you want to use these shaders in the latest version, please use the Wind's [Scion Hub's Patch APP](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/patchedapp.md#winds-scion-hubs-patch-app).
+> If you want to use these shaders in the latest version, please use the [MCPatch]().
 
 <br/>
 <br/>

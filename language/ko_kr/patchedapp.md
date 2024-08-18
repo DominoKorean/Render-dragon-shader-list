@@ -70,7 +70,7 @@ APK 이름에 `arm64`가 포함되어 있으면 **64비트**, `arm32`가 포함�
 
 ## Newb Community's Patch APP
 
-> 다음 버전은 [Newb Community](https://discord.gg/newb-community-844591537430069279)에서 [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector)를 사용하여 만든 패치된 앱입니다.
+> 다음 버전은 [Newb Community](https://discord.gg/newb-community-844591537430069279)에서 [Draco-Injector](https://github.com/mcbegamerxx954/draco-injector)를 사용하여 만든 Patch APP입니다.
 
 > [!NOTE]
 > * 글로벌 리소스에서 셰이더 로딩만 지원합니다.
@@ -94,9 +94,9 @@ APK 이름에 `arm64`가 포함되어 있으면 **64비트**, `arm32`가 포함�
 
 ---
 
-## Wind's Scion Hub's Patch APP
+## MCPatch
 
-> 아래 버전은 [Wind's Scion Hub](https://discord.com/invite/KYKxFTxjyU)에서 만든 패치된 앱입니다.
+> 아래 버전은 [CallMeSoumya](https://discord.com/invite/Ue5Pbmjnwt)가 만든 Patch APP입니다.
 
 <br/>
 
