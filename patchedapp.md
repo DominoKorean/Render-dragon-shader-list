@@ -127,6 +127,9 @@ OR
 * [1.21.2.02-64bit_Draco_essl100_mod](https://www.mediafire.com/file/waynk0hpeqktsb0/1.21.2.02-64bit_Draco_essl100_mod.apk/file)
 * [1.21.2.02-32bit_Draco_essl100_mod](https://www.mediafire.com/file/hc8xfaxtk90nxsg/1.21.2.02-32bit_Draco_essl100_mod.apk/file)
 
+* [1.21.21.01-64bit-patch-modded](https://www.mediafire.com/file/di1oywbdkwz4nkd/1.21.21.01-64bit-patch-modded.apk/file)
+* [1.21.21.01-32bit-patch-modded](https://www.mediafire.com/file/ldt2nil0mx20yki/1.21.21.01-32bit-patch-modded.apk/file)
+
 ---
 
 ## Newb Community's Patch APP
