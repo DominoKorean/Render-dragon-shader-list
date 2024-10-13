@@ -1,22 +1,23 @@
 > [!NOTE]
-> 
-You may be aware that the RenderDragon shader list has not been updated recently.  
+>You may be aware that the RenderDragon shader list has not been updated recently.  
 Yes, I am a 17-year-old high school student living in South Korea, and this means that I have much less personal time due to exams and academic work. Especially, when I turn 18, the "College Scholastic Ability Test" (CSAT), a crucial exam in the lives of many Koreans, will be approaching, which means even less time can be dedicated here.  
 The RenderDragon shader list has been the longest and most popular project I've worked on, and I have invested a tremendous amount of time in it (though this is from the perspective of a Korean high school student. Many shader developers constantly dedicate countless hours to their projects).  
 However, I am now exhausted. There are many things I need to focus on, there are no further changes to mobile shaders, and the development of deferred shaders has been halted since the start of the Deferred Technical Preview development.  
 The time I can dedicate to "Minecraft" has been reduced to a quarter of what it used to be, and in this situation, the ever-growing RenderDragon shader list has left me feeling fatigued.
-
-<br/>
-
-Yes, I will no longer be maintaining the RenderDragon shader list.  
+>
+> <br/>
+>
+>Yes, I will no longer be maintaining the RenderDragon shader list.  
 It's true that this document has been helpful to many users, but the fact that such a widely used document has been updated regularly by just one person without any profit was a miracle.
-
-<br/>
-
-Now, I plan to focus more on my personal matters and explore and develop other PBR resource packs like Aether PBR.
-
-If you wish to use the RenderDragon shaders, I recommend clicking the banner and downloading them from the original creator’s website, Discord, or YouTube channel.  
+>
+> <br/>
+>
+>Now, I plan to focus more on my personal matters and explore and develop other PBR resource packs like Aether PBR.
+>
+>If you wish to use the RenderDragon shaders, I recommend clicking the banner and downloading them from the original creator’s website, Discord, or YouTube channel.  
 There are still a few developers who are actively working on RenderDragon, and they are keeping the scene alive.
+
+> 
 
 ---
 
