@@ -1,6 +1,12 @@
-# Renderdragon Shader Installation
+# WIP
+> [!NOTE]
+> Work is still in progress. A new guide tailored to the new mode is required.
 
-* [Korean / 한국어](https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation/ko_KR)
+> Pull requests for the new guide are always welcome.
+
+<br>
+
+# Renderdragon Shader Installation
 
 Documentation on how to install Render Dragon Shader.
 
