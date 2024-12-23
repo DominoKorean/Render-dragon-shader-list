@@ -1,6 +1,9 @@
 > [!NOTE]
-> Please use this page for the patched app  
-> https://mcpebd.github.io
+> If you want to use the existing **YSS Patched APP**, download it from the [YSSBE Discord](https://discord.gg/years-static-shader-group-738688684223889409).  
+If you want to use the Patched APP with **MaterialBinLoader2**, visit [https://mcpebd.github.io](https://mcpebd.github.io).
+
+- https://discord.gg/years-static-shader-group-738688684223889409
+- https://mcpebd.github.io
 
 ---
 

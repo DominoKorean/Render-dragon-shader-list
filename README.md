@@ -76,6 +76,11 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [Cool Voxel](#cool-voxel)
     - [MLYX 弥浪隐霄 Shader](#mlyx-弥浪隐霄-shader)
     - [Ranzie's Vibrant Shader](#ranzies-vibrant-shader)
+    - [AziFy: REVIVE](#azify-revive)
+    - [AziFy: REIMAGINED](#azify-reimagined)
+    - [AziFy Natural](#azify-natural)
+    - [Truly Default](#truly-default)
+    - [FHD Shader](#fhd-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
   - [Utility Shaders](#utility-shaders)
@@ -100,9 +105,14 @@ The following Table of contents is automatically updated by the "Markdown All in
 
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://mcpebd.github.io
+- https://discord.gg/years-static-shader-group-738688684223889409
+- https://mcpebd.github.io
 
-A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
+> A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
+
+> [!NOTE]
+> If you want to use the existing **YSS Patched APP**, download it from the [YSSBE Discord](https://discord.gg/years-static-shader-group-738688684223889409).  
+If you want to use the Patched APP with **MaterialBinLoader2**, visit [https://mcpebd.github.io](https://mcpebd.github.io).
 
 <br>
 <br>
@@ -113,7 +123,7 @@ A Patched APK that can load renderdragon .material.bin file under resource packs
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 https://mcpebd.github.io
 
-A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
+> A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
 
 <br>
 <br>
@@ -124,7 +134,7 @@ A Patched APK that can load renderdragon .material.bin file under resource packs
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 https://github.com/CallMeSoumya2063/RandomCoolStuff/blob/main/MB%20Loader%20Mods.md
 
-You can use **MB Loader2** and **Draco** with the **MB Loader APK**.
+> You can use **MB Loader2** and **Draco** with the **MB Loader APK**.
 
 <br>
 <br>
@@ -134,7 +144,7 @@ You can use **MB Loader2** and **Draco** with the **MB Loader APK**.
 ![](/tags/platform/Windows.svg)
 https://github.com/faizul726/matject
 
-This is a program that automatically replaces Minecraft's **materialbin** file with a shader **materialbin** file using **IObit Unlocker**.
+> This is a program that automatically replaces Minecraft's **materialbin** file with a shader **materialbin** file using **IObit Unlocker**.
 
 <br>
 <br>
@@ -201,7 +211,6 @@ This is a program that automatically replaces Minecraft's **materialbin** file w
 <br>
 
 ### Vanilla X Enhanced
-
 [![](/banners/Vanilla%20X%20Enhanced.png)](https://discord.com/channels/660840983117955072/1266291464158314496)
 [![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1266291464158314496)  
 ![](/tags/platform/Android.svg)
@@ -214,7 +223,6 @@ This is a program that automatically replaces Minecraft's **materialbin** file w
 <br>
 
 ### Innovative Shader
-
 [![](/banners/Innovative%20Shader.png)](https://discord.com/channels/660840983117955072/1270566044552921099)
 [![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1270566044552921099)  
 ![](/tags/platform/Android.svg)
@@ -227,7 +235,6 @@ This is a program that automatically replaces Minecraft's **materialbin** file w
 <br>
 
 ### Cool Voxel
-
 [![](/banners/Cool%20Voxel.png)](https://discord.com/channels/660840983117955072/1285110443173478403)
 [![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1285110443173478403)  
 ![](/tags/platform/Android.svg)
@@ -240,7 +247,6 @@ This is a program that automatically replaces Minecraft's **materialbin** file w
 <br>
 
 ### MLYX 弥浪隐霄 Shader
-
 [![](/banners/MLYX%20弥浪隐霄%20Shader.png)](https://discord.com/channels/738688684223889409/1318985632239845517)
 [![](/tags/link/Discord.svg)](https://discord.com/channels/738688684223889409/1318985632239845517)  
 ![](/tags/platform/Android.svg)
@@ -253,13 +259,76 @@ This is a program that automatically replaces Minecraft's **materialbin** file w
 <br>
 
 ### Ranzie's Vibrant Shader
-
 [![](/banners/Ranzie's%20Vibrant%20Shader.png)](https://www.patreon.com/ZnarGeenGuy)
 [![](/tags/link/Patreon.svg)](https://www.patreon.com/ZnarGeenGuy)
 [![](/tags/link/YouTube.svg)](https://youtu.be/6Kg9OlggkQU?si=qGxfXsG9Fp-oIvSo)  
-![](/tags/platform/Android.svg)  
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![](/tags/style/Cartoon.svg)
+
+<br>
+<br>
+
+### AziFy: REVIVE
+[![](/banners/AziFy%20Revive.png)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)
+[![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/style/Vanilla.svg)
+
+<br/>
+<br/>
+
+### AziFy: REIMAGINED
+[![](/banners/AziFy%20Reimagined.png)](https://discord.com/channels/1081953994601152522/1251561490373415013)
+[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251561490373415013)
+[![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/style/Vanilla.svg)
+
+<br/>
+<br/>
+
+### AziFy Natural
+[![](/banners/AziFy%20Natural.png)](https://discord.com/channels/1081953994601152522/1251559255186739280)
+[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251559255186739280)
+[![](/tags/link/YouTube.svg)](https://youtu.be/AzfwPB-T2BA?si=d88tqm5xTFyQbK26)  
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/style/Vanilla.svg)
+
+<br>
+<br>
+
+### Truly Default
+[![](/banners/Truly%20Default.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+[![](/tags/link/YouTube.svg)](https://youtu.be/9ZqUUrgAmWs?si=BXRzE191aSqV_Khh)  
+![](/tags/platform/Android.svg)  
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/style/Vanilla.svg)
+
+<br>
+<br>
+
+### FHD Shader
+[![](/banners/FHD%20Shader.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+[![](/tags/link/YouTube.svg)](https://youtu.be/kEzznDBdCSQ?si=Z3thF6HkaCH0SQo_)  
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/style/Vanilla.svg)
 
 <br>
 <br>
