@@ -2,6 +2,10 @@
 
 <br>
 
+* [Korean / 한국어](/language/ko_kr/README.md)
+
+<br>
+
 # RenderDragon Shader List
 
 This is a GitHub repository created to prevent downloading fake shaders and to help you find reliable shader packs.  
