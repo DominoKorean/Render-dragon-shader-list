@@ -172,7 +172,7 @@ https://github.com/faizul726/matject
 <br>
 
 ### YSS RD
-[![](banners/YSS%20RD.png)](https://discord.gg/years-static-shader-group-738688684223889409)
+[![](/banners/YSS%20RD.png)](https://discord.gg/years-static-shader-group-738688684223889409)
 [![](/language/ko_kr/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
