@@ -1,5 +1,16 @@
 ![](/images/banner.png)
 
+<!--
+> [!WARNING]
+> **Outdated**  
+> The documentation for this language has not yet been updated with the latest changes.
+-->
+
+<!--
+This comment is for another language.  
+If there are any changes to the RenderDragon shader list, the comment in the other language's documentation will be removed, making the Outdated label visible.
+-->
+
 <br>
 
 * [Korean / 한국어](/language/ko_kr/README.md)
@@ -30,6 +41,10 @@ Render Dragon shaders are custom shaders created by modding Render Dragon files,
 
 <br>
 
+## Bedrock Graphics
+[![](/banners/Bedrock%20Graphics/Bedrock%20Graphics.png)](https://discord.gg/WwUEe7hYBz)
+
+<br>
 
 ## How to Install?
 
@@ -63,6 +78,7 @@ The following Table of contents is automatically updated by the "Markdown All in
 ## Table of contents
 - [RenderDragon Shader List](#renderdragon-shader-list)
   - [What is RenderDragon?](#what-is-renderdragon)
+  - [Bedrock Graphics](#bedrock-graphics)
   - [How to Install?](#how-to-install)
   - [Table of contents](#table-of-contents)
 - [Render Dragon Shader Mod](#render-dragon-shader-mod)
@@ -188,6 +204,7 @@ https://github.com/faizul726/matject
 
 ### Newb X Legacy
 [![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
 [![](/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
 [![](/tags/link/Discord.svg)](https://discord.gg/newb-community-844591537430069279)  
 ![](/tags/platform/Android.svg)

@@ -1,5 +1,11 @@
 ![](/images/banner.png)
 
+<!--
+> [!WARNING]
+> **최신버전이 아님**  
+> 이 언어의 문서는 아직 최신 업데이트가 포함돼지 않았습니다.
+-->
+
 <br>
 
 * [Back to English](/README.md)
@@ -31,6 +37,10 @@
 
 <br>
 
+## Bedrock Graphics
+[![](/banners/Bedrock%20Graphics/Bedrock%20Graphics.png)](https://discord.gg/WwUEe7hYBz)
+
+<br>
 
 ## 어떻게 설치하나요?
 
@@ -64,6 +74,7 @@
 ## 목차
 - [렌더드래곤 셰이더 리스트](#렌더드래곤-셰이더-리스트)
   - [렌더드래곤이 뭔가요?](#렌더드래곤이-뭔가요)
+  - [Bedrock Graphics](#bedrock-graphics)
   - [어떻게 설치하나요?](#어떻게-설치하나요)
   - [목차](#목차)
 - [렌더드래곤 셰이더 모드](#렌더드래곤-셰이더-모드)
@@ -189,6 +200,7 @@ https://github.com/faizul726/matject
 
 ### Newb X Legacy
 [![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/newb-community-844591537430069279)  
 ![](/language/ko_kr/tags/platform/Android.svg)
