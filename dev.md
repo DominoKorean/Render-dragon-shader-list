@@ -8,6 +8,7 @@ This document contains materials necessary for RenderDragon shader development.
   - [ShaderLABS](#shaderlabs)
   - [Lazurite](#lazurite)
   - [mcbe-shader-codebase](#mcbe-shader-codebase)
+  - [mcrtx-shader-template](#mcrtx-shader-template)
   - [RenderDragonSourceCodeInv](#renderdragonsourcecodeinv)
   - [MaterialBinLoader](#materialbinloader)
   - [Simple MCRTX PostFX Shader](#simple-mcrtx-postfx-shader)
@@ -47,6 +48,16 @@ It helps package and compile RenderDragon shaders, providing various helpful fea
 https://github.com/Veka0/mcbe-shader-codebase
 
 This repository provides a comprehensive codebase for Minecraft Bedrock Edition shader development. It includes valuable resources, samples, and guidelines aimed at helping developers understand and create shaders for the Bedrock Edition of Minecraft. Whether you're just starting out or looking to expand your shader knowledge, this repository offers a strong foundation for working with RenderDragon and other shader-related tasks.
+
+<br/>
+<br/>
+
+## mcrtx-shader-template
+https://github.com/veka0/mcrtx-shader-template
+> [!NOTE]
+>  **WIP**
+
+Basic template shader for Bedrock RTX
 
 <br/>
 <br/>
