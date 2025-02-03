@@ -188,13 +188,18 @@ https://github.com/faizul726/matject
 
 ### YSS RD
 [![](/banners/shader/YSS%20RD.png)](https://discord.gg/years-static-shader-group-738688684223889409)
+![Creator](https://img.shields.io/badge/Creator-ENDERMANYK-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)
 ![](/tags/platform/Switch.svg)
 ![](/tags/platform/Xbox.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 [![](/tags/etc/Screen_Shots.svg)](screenshots/Years%20static%20shader/YSS%20RD)  
@@ -204,26 +209,37 @@ https://github.com/faizul726/matject
 
 ### Newb X Legacy
 [![](/banners/shader/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
-[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
+![Creator](https://img.shields.io/badge/Creator-Gray-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
 [![](/tags/link/Discord.svg)](https://discord.gg/newb-community-844591537430069279)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)
 ![](/tags/pre_supported_packaging/IPA.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### Eternity Shader
-[![](/banners/shader/Eternity%20Shader.png)](https://discord.gg/EdG4x85Sgm)
+[![](/banners/shader/Eternity%20Shader.png)](https://mcpedl.com/eternity-shader-v1-3-beta-mcpe-renderdragon-support-1-21)
+![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/eternity-shader-v1-3-beta-mcpe-renderdragon-support-1-21)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Fantasy.svg)
 
 [![](/tags/etc/Screen_Shots.svg)](screenshots/Eternity%20Shader/README.md)  
@@ -232,12 +248,18 @@ https://github.com/faizul726/matject
 <br>
 
 ### Vanilla X Enhanced
-[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://discord.gg/EdG4x85Sgm)
+[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://mcpedl.com/vanilla-x-enhanced-v0-1-for-be-pe)
+![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/vanilla-x-enhanced-v0-1-for-be-pe)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br>
@@ -245,23 +267,34 @@ https://github.com/faizul726/matject
 
 ### Innovative Shader
 [![](/banners/shader/Innovative%20Shader.png)](https://discord.gg/EdG4x85Sgm)
+![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Realistic.svg)
 
 <br>
 <br>
 
 ### Cool Voxel
-[![](/banners/shader/Cool%20Voxel.png)](https://discord.com/channels/660840983117955072/1285110443173478403)
+[![](/banners/shader/Cool%20Voxel.png)](https://mcpedl.com/cool-voxel-v1-0-for-mcpe-be)
+![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/cool-voxel-v1-0-for-mcpe-be)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br>
@@ -269,11 +302,16 @@ https://github.com/faizul726/matject
 
 ### MLYX 弥浪隐霄 Shader
 [![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.gg/years-static-shader-group-738688684223889409)
+![Creator](https://img.shields.io/badge/Creator-mlyx__chuchu-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Semi_Realistic.svg)  
 
 <br>
@@ -281,61 +319,90 @@ https://github.com/faizul726/matject
 
 ### Ranzie's Vibrant Shader
 [![](/banners/shader/Ranzie's%20Vibrant%20Shader.png)](https://www.patreon.com/ZnarGeenGuy)
+![Creator](https://img.shields.io/badge/Creator-Ranzie-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/Patreon.svg)](https://www.patreon.com/ZnarGeenGuy)
 [![](/tags/link/YouTube.svg)](https://youtu.be/6Kg9OlggkQU?si=qGxfXsG9Fp-oIvSo)  
+![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Cartoon.svg)
 
 <br>
 <br>
 
 ### AziFy: REVIVE
-[![](/banners/shader/AziFy%20Revive.png)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)
-[![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/azify-revive-1-4-0-mcpe-1-20-shaders/)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/azify-revive-1-4-0-mcpe-1-20-shaders/)
+[![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N) 
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br/>
 <br/>
 
 ### AziFy: REIMAGINED
-[![](/banners/shader/AziFy%20Reimagined.png)](https://discord.com/channels/1081953994601152522/1251561490373415013)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251561490373415013)
+[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/afreimagined21/)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/afreimagined21/)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br/>
 <br/>
 
 ### AziFy Natural
-[![](/banners/shader/AziFy%20Natural.png)](https://discord.com/channels/1081953994601152522/1251559255186739280)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251559255186739280)
-[![](/tags/link/YouTube.svg)](https://youtu.be/AzfwPB-T2BA?si=d88tqm5xTFyQbK26)  
+[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/afn/)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/afn/)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
+[![](/tags/link/YouTube.svg)](https://youtu.be/AzfwPB-T2BA?si=onh53IbgxChsEMwn)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### Truly Default
-[![](/banners/shader/Truly%20Default.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/af-truly-default/)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/af-truly-default/)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://youtu.be/9ZqUUrgAmWs?si=BXRzE191aSqV_Khh)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br>
@@ -343,12 +410,18 @@ https://github.com/faizul726/matject
 
 ### FHD Shader
 [![](/banners/shader/FHD%20Shader.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/fhd-shader/)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://youtu.be/kEzznDBdCSQ?si=Z3thF6HkaCH0SQo_)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
 <br>
@@ -375,10 +448,14 @@ https://github.com/faizul726/matject
 <br>
 
 ### RenderDragon FullBright
+![Creator](https://img.shields.io/badge/Creator-Furzide-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/Furzide/RenderDragonFullBright)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > The screen remains bright as if night vision is always enabled, eliminating dark areas.
 
@@ -388,10 +465,14 @@ https://github.com/Furzide/RenderDragonFullBright
 <br>
 
 ### RenderDragonFogRemover
+![Creator](https://img.shields.io/badge/Creator-Furzide-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/Furzide/RenderDragonFogRemover)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > Removes fog.
 
@@ -401,10 +482,14 @@ https://github.com/Furzide/RenderDragonFogRemover
 <br>
 
 ### RD Cubemap Fix
+![Creator](https://img.shields.io/badge/Creator-Furzide-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/Furzide/RenderDragonCubemapFix)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > Fixes the incorrect cubemap positions in the original Minecraft.
 
@@ -414,25 +499,35 @@ https://github.com/Furzide/RenderDragonCubemapFix
 <br>
 
 ### Gray's Night Vision
+![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon/)
+[![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > The screen remains bright as if night vision is always enabled, eliminating dark areas.
 
-https://discord.com/channels/660840983117955072/1200077652514586624
+https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon
 
 <br>
 <br>
 
 ### HD Font Fix
+![Creator](https://img.shields.io/badge/Creator-GameParrot-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/GameParrot/mcpe-hdfont-fix)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+> Corrects texture issues when using high-resolution fonts.
 
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/HD%20Font%20Fix/README.md)  
-> Corrects texture issues when using high-resolution fonts.
 
 https://github.com/GameParrot/mcpe-hdfont-fix
 
@@ -440,14 +535,19 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 <br>
 
 ### Glow Em All
-[![](/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1252628259137392741)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/glow-em-all)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://youtu.be/91xzwza8F84?si=SsgUojdXQTk0v-hF)  
+![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)
 > Makes ores glow.
 
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Ringo/README.md)  
-https://youtu.be/91xzwza8F84?si=9WXnkK3ZW0yYkpZT
+https://mcpedl.com/glow-em-all
 
 <br>
 <br>
