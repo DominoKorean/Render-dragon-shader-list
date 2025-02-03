@@ -85,7 +85,7 @@ The following Table of contents is automatically updated by the "Markdown All in
   - [Patched app](#patched-app)
   - [MaterialBinLoader Apk](#materialbinloader-apk)
   - [MB Loader Mods](#mb-loader-mods)
-  - [~~Matject~~](#matject)
+  - [Matject](#matject)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -159,13 +159,10 @@ https://github.com/CallMeSoumya2063/RandomCoolStuff/blob/main/MB%20Loader%20Mods
 <br>
 <br>
 
-## ~~Matject~~
+## Matject
 
 ![](/tags/platform/Windows.svg)  
 https://github.com/faizul726/matject
-
->[!WARNING]
-> Metject has temporarily been made unavailable due to the discovery of a critical bug that deletes all files on the current computer.
 
 > This is a program that automatically replaces Minecraft's **materialbin** file with a shader **materialbin** file using **IObit Unlocker**.
 
@@ -221,8 +218,8 @@ https://github.com/faizul726/matject
 <br>
 
 ### Eternity Shader
-[![](/banners/shader/Eternity%20Shader.png)](https://discord.com/channels/660840983117955072/1317049994053816351)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1317049994053816351)  
+[![](/banners/shader/Eternity%20Shader.png)](https://discord.gg/EdG4x85Sgm)
+[![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
@@ -235,8 +232,8 @@ https://github.com/faizul726/matject
 <br>
 
 ### Vanilla X Enhanced
-[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://discord.com/channels/660840983117955072/1266291464158314496)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1266291464158314496)  
+[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://discord.gg/EdG4x85Sgm)
+[![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
@@ -247,8 +244,8 @@ https://github.com/faizul726/matject
 <br>
 
 ### Innovative Shader
-[![](/banners/shader/Innovative%20Shader.png)](https://discord.com/channels/660840983117955072/1270566044552921099)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1270566044552921099)  
+[![](/banners/shader/Innovative%20Shader.png)](https://discord.gg/EdG4x85Sgm)
+[![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
@@ -260,7 +257,7 @@ https://github.com/faizul726/matject
 
 ### Cool Voxel
 [![](/banners/shader/Cool%20Voxel.png)](https://discord.com/channels/660840983117955072/1285110443173478403)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1285110443173478403)  
+[![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
@@ -271,8 +268,8 @@ https://github.com/faizul726/matject
 <br>
 
 ### MLYX 弥浪隐霄 Shader
-[![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.com/channels/738688684223889409/1318985632239845517)
-[![](/tags/link/Discord.svg)](https://discord.com/channels/738688684223889409/1318985632239845517)  
+[![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.gg/years-static-shader-group-738688684223889409)
+[![](/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
 ![](/tags/platform/Windows.svg)  
