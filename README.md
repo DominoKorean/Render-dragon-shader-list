@@ -209,7 +209,7 @@ https://github.com/faizul726/matject
 
 ### Newb X Legacy
 [![](/banners/shader/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
-![Creator](https://img.shields.io/badge/Creator-Gray-3D444D?style=flat-square&labelColor=white)  
+![Creator](https://img.shields.io/badge/Creator-devendrn-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
 [![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
