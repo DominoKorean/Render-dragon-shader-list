@@ -83,8 +83,7 @@ The following Table of contents is automatically updated by the "Markdown All in
   - [Table of contents](#table-of-contents)
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
   - [Patched app](#patched-app)
-  - [MaterialBinLoader Apk](#materialbinloader-apk)
-  - [MB Loader Mods](#mb-loader-mods)
+  - [MB Loader](#mb-loader)
   - [Matject](#matject)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
@@ -125,36 +124,23 @@ The following Table of contents is automatically updated by the "Markdown All in
 
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-- https://discord.gg/years-static-shader-group-738688684223889409
-- https://mcpebd.github.io
+https://discord.gg/years-static-shader-group-738688684223889409
 
 > A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
+
+<br>
+<br>
+
+## MB Loader
+![](/tags/platform/Android.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+
+https://play.google.com/store/apps/details?id=io.bambosan.mbloader
+
+> A Bedrock launcher that allows you to use Material Bin Loader with a single installation.
 
 > [!NOTE]
-> If you want to use the existing **YSS Patched APP**, download it from the [YSSBE Discord](https://discord.gg/years-static-shader-group-738688684223889409).  
-If you want to use the Patched APP with **MaterialBinLoader2**, visit [https://mcpebd.github.io](https://mcpebd.github.io).
-
-<br>
-<br>
-
-##  MaterialBinLoader Apk
-
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://mcpebd.github.io
-
-> A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
-
-<br>
-<br>
-
-##  MB Loader Mods
-
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://github.com/CallMeSoumya2063/RandomCoolStuff/blob/main/MB%20Loader%20Mods.md
-
-> You can use **MB Loader2** and **Draco** with the **MB Loader APK**.
+> This app cannot yet load all shaders properly. 
 
 <br>
 <br>
