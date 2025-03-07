@@ -84,6 +84,7 @@ The following Table of contents is automatically updated by the "Markdown All in
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
   - [Patched app](#patched-app)
   - [MB Loader](#mb-loader)
+  - [Draco Injector](#draco-injector)
   - [Matject](#matject)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
@@ -141,6 +142,15 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 
 > [!NOTE]
 > This app cannot yet load all shaders properly. 
+
+<br>
+<br>
+
+## Draco Injector
+![](/tags/platform/Android.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+https://github.com/mcbegamerxx954/draco-injector
+> A tool to inject into any Minecraft render dragon apk the ability to load shaders from global resourcepacks
 
 <br>
 <br>
