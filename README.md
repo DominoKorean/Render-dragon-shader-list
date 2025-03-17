@@ -125,7 +125,7 @@ The following Table of contents is automatically updated by the "Markdown All in
 
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://discord.gg/years-static-shader-group-738688684223889409
+https://discord.gg/yss
 
 > A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
 
