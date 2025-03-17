@@ -121,7 +121,7 @@
 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://discord.gg/years-static-shader-group-738688684223889409
+https://discord.gg/yss
 
 > MaterialBinLoader를 기반으로 글로벌 리소스팩에서 렌더드래곤의 `.material.bin` 파일을 로드할 수 있도록 수정된 APK파일.
 
