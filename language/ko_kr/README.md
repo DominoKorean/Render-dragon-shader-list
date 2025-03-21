@@ -1,10 +1,10 @@
 ![](/images/banner.png)
 
-<!--
+
 > [!WARNING]
 > **최신버전이 아님**  
 > 이 언어의 문서는 아직 최신 업데이트가 포함돼지 않았습니다.
--->
+
 
 <br>
 
@@ -286,7 +286,7 @@ https://github.com/faizul726/matject
 <br>
 
 ### AziFy: REVIVE
-[![](/banners/shader/AziFy%20Revive.png)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)
+[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azi-angelo-real)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)

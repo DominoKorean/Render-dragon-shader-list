@@ -332,11 +332,11 @@ https://github.com/faizul726/matject
 <br>
 
 ### AziFy: REVIVE
-[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/azify-revive-1-4-0-mcpe-1-20-shaders/)
+[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azi-angelo-real)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/azify-revive-1-4-0-mcpe-1-20-shaders/)
-[![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N) 
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo) 
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
@@ -350,12 +350,12 @@ https://github.com/faizul726/matject
 <br/>
 
 ### AziFy: REIMAGINED
-[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/afreimagined21/)
+[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/user/azi-angelo-real)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/afreimagined21/)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
-[![](/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
@@ -369,12 +369,12 @@ https://github.com/faizul726/matject
 <br/>
 
 ### AziFy Natural
-[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/afn/)
+[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/user/azi-angelo-real)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/afn/)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
-[![](/tags/link/YouTube.svg)](https://youtu.be/AzfwPB-T2BA?si=onh53IbgxChsEMwn)  
+[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
@@ -388,12 +388,12 @@ https://github.com/faizul726/matject
 <br>
 
 ### Truly Default
-[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/af-truly-default/)
+[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/user/azi-angelo-real)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/af-truly-default/)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
-[![](/tags/link/YouTube.svg)](https://youtu.be/9ZqUUrgAmWs?si=BXRzE191aSqV_Khh)  
+[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)  
 ![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
@@ -405,12 +405,12 @@ https://github.com/faizul726/matject
 <br>
 
 ### FHD Shader
-[![](/banners/shader/FHD%20Shader.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
+[![](/banners/shader/FHD%20Shader.png)](https://mcpedl.com/user/azi-angelo-real)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/fhd-shader/)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
-[![](/tags/link/YouTube.svg)](https://youtu.be/kEzznDBdCSQ?si=Z3thF6HkaCH0SQo_)  
+[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
