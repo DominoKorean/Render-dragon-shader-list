@@ -1,4 +1,4 @@
-(![](/images/aprilfalse.jpg))[https://namu.wiki/w/%EB%A7%8C%EC%9A%B0%EC%A0%88]
+[![](/images/aprilfalse.jpg)](https://namu.wiki/w/%EB%A7%8C%EC%9A%B0%EC%A0%88)
 
 # [모장공식엔비디아 RTX 모바일 쉐이더 무료다운로드](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
