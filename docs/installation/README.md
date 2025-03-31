@@ -2,6 +2,8 @@
 
 This is a guide on how to install RenderDragon shaders.
 
+- [Go back to the RenderDragon shader list.](/README.md)
+
 </br>
 
 ## Mobile
