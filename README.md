@@ -1,4 +1,6 @@
-![](/images/banner.png)
+[![](/images/aprilfalse.jpg)](https://en.wikipedia.org/wiki/April_Fools%27_Day)
+
+# [DOWNLOAD NOW!!!!!!!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
 > [!WARNING]
@@ -74,6 +76,7 @@ The following Table of contents is automatically updated by the "Markdown All in
 -->
 
 ## Table of contents
+- [DOWNLOAD NOW!!!!!!!!!!!!!!!!!!!!!](#download-now)
 - [RenderDragon Shader List](#renderdragon-shader-list)
   - [What is RenderDragon?](#what-is-renderdragon)
   - [Bedrock Graphics](#bedrock-graphics)
