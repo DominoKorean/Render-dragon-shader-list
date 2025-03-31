@@ -82,10 +82,11 @@ The following Table of contents is automatically updated by the "Markdown All in
   - [How to Install?](#how-to-install)
   - [Table of contents](#table-of-contents)
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
-  - [Patched app](#patched-app)
   - [MB Loader](#mb-loader)
+  - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
   - [Draco Injector](#draco-injector)
   - [Matject](#matject)
+  - [Patched app](#patched-app)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -121,17 +122,6 @@ The following Table of contents is automatically updated by the "Markdown All in
 
 <br>
 
-## Patched app
-
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://discord.gg/yss
-
-> A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
-
-<br>
-<br>
-
 ## MB Loader
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
@@ -140,8 +130,20 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 
 > A Bedrock launcher that allows you to use Material Bin Loader with a single installation.
 
-> [!NOTE]
-> This app cannot yet load all shaders properly. 
+<br>
+<br>
+
+## BetterRenderDragon-xmake
+![](/tags/platform/Windows.svg)  
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+
+https://github.com/dreamguxiang/BetterRenderDragon-xmake
+
+> Provides the following features as a third-party mod.
+> - Enable Deferred Rendering
+> - Disable Raytracing for better performance
+> - Loads RenderDragon shaders from the resource pack
+> - Configurable ImGui
 
 <br>
 <br>
@@ -150,6 +152,7 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 https://github.com/mcbegamerxx954/draco-injector
+
 > A tool to inject into any Minecraft render dragon apk the ability to load shaders from global resourcepacks
 
 <br>
@@ -165,6 +168,20 @@ https://github.com/faizul726/matject
 <br>
 <br>
 
+## Patched app
+
+![](/tags/platform/Android.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+https://discord.gg/yss
+
+> A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
+
+> [!NOTE]
+> The Patched APP is no longer being updated. Please use [MB Loader](#mb-loader) instead.
+
+<br>
+<br>
+
 ---
 
 <br>
@@ -173,7 +190,6 @@ https://github.com/faizul726/matject
 <br>
 
 # Render dragon shaders
-
 
 <br>
 <br>
@@ -224,10 +240,10 @@ https://github.com/faizul726/matject
 <br>
 
 ### Eternity Shader
-[![](/banners/shader/Eternity%20Shader.png)](https://mcpedl.com/eternity-shader-v1-3-beta-mcpe-renderdragon-support-1-21)
+[![](/banners/shader/Eternity%20Shader.png)](https://mcpedl.com/user/WindsScion)
 ![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/eternity-shader-v1-3-beta-mcpe-renderdragon-support-1-21)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/WindsScion)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
@@ -244,10 +260,10 @@ https://github.com/faizul726/matject
 <br>
 
 ### Vanilla X Enhanced
-[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://mcpedl.com/vanilla-x-enhanced-v0-1-for-be-pe)
+[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://mcpedl.com/user/WindsScion)
 ![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/vanilla-x-enhanced-v0-1-for-be-pe)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/WindsScion)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
@@ -279,10 +295,10 @@ https://github.com/faizul726/matject
 <br>
 
 ### Cool Voxel
-[![](/banners/shader/Cool%20Voxel.png)](https://mcpedl.com/cool-voxel-v1-0-for-mcpe-be)
+[![](/banners/shader/Cool%20Voxel.png)](https://mcpedl.com/user/WindsScion)
 ![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/cool-voxel-v1-0-for-mcpe-be)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/WindsScion)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
@@ -336,7 +352,7 @@ https://github.com/faizul726/matject
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
 [![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
-[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo) 
+[![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)

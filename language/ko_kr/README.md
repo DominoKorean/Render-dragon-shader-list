@@ -1,10 +1,15 @@
 ![](/images/banner.png)
 
-
+<!--
 > [!WARNING]
 > **최신버전이 아님**  
 > 이 언어의 문서는 아직 최신 업데이트가 포함돼지 않았습니다.
+-->
 
+<!--
+This comment is for another language.  
+If there are any changes to the RenderDragon shader list, the comment in the other language's documentation will be removed, making the Outdated label visible.
+-->
 
 <br>
 
@@ -30,8 +35,7 @@
 
 > [!WARNING]
 > `9Minecraft`를 사용하지 마시길 바랍니다.   
-> 해당 사이트에서는 가짜 RenderDragon 셰이더가 포함되어 있고   
-> 셰이더가 제작자의 허락 없이 배포되고 있으며  
+> 해당 사이트에서는 가짜 RenderDragon 셰이더가 포함되어 있고 셰이더가 제작자의 허락 없이 배포되고 있으며  
 > **가장 중요한 점은, 해당 사이트가 바이러스 및 보안 위험을 초래할 수 있다는 것입니다.**  
 > 따라서 절대 사용하지 말고 주변 사람들에게도 그 위험성을 알려주시길 바랍니다.
 
@@ -78,10 +82,11 @@
   - [어떻게 설치하나요?](#어떻게-설치하나요)
   - [목차](#목차)
 - [렌더드래곤 셰이더 모드 / 유틸리티](#렌더드래곤-셰이더-모드--유틸리티)
-  - [Patched app](#patched-app)
   - [MB Loader](#mb-loader)
+  - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
   - [Draco Injector](#draco-injector)
   - [Matject](#matject)
+  - [Patched app](#patched-app)
 - [렌더드래곤 셰이더](#렌더드래곤-셰이더)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -117,34 +122,35 @@
 
 <br>
 
-## Patched app
-
+## MB Loader
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://discord.gg/yss
-
-> MaterialBinLoader를 기반으로 글로벌 리소스팩에서 렌더드래곤의 `.material.bin` 파일을 로드할 수 있도록 수정된 APK파일.
-
-<br>
-<br>
-
-## MB Loader
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
 https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 
 > 한번의 설치만으로 Material Bin Loader을 쓸 수 있는 베드락 런처.
 
-> [!NOTE]
-> This app cannot yet load all shaders properly. 
+<br>
+<br>
+
+## BetterRenderDragon-xmake
+![](/language/ko_kr/tags/platform/Windows.svg)  
+![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+
+https://github.com/dreamguxiang/BetterRenderDragon-xmake
+
+> 다음 기능을 제공하는 써드파티 모드입니다.
+> - 디퍼드 렌더링 활성화
+> - 성능 향상을 위해 레이트레이싱 비활성화
+> - 리소스 팩에서 렌더드래곤 셰이더 불러오기
+> - 설정 가능한 ImGui
 
 <br>
 <br>
 
 ## Draco Injector
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/language/ko_kr/tags/platform/Android.svg)
+![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 https://github.com/mcbegamerxx954/draco-injector
 
 > 마인크래프트 파일을 추출해서 글로벌 리소스팩으로 셰이더팩을 불러올 수 있게 패치를 자동으로 해주는 프로그램
@@ -162,6 +168,20 @@ https://github.com/faizul726/matject
 <br>
 <br>
 
+## Patched app
+
+![](/language/ko_kr/tags/platform/Android.svg)
+![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+https://discord.gg/yss
+
+> MaterialBinLoader를 기반으로 글로벌 리소스팩에서 렌더드래곤의 `.material.bin` 파일을 로드할 수 있도록 수정된 APK파일.
+
+> [!NOTE]
+> Patched APP은 더이상 업데이트 되지 않습니다. 대신 [MB Loader](#mb-loader)을 사용하시길 바랍니다.
+
+<br>
+<br>
+
 ---
 
 <br>
@@ -170,7 +190,6 @@ https://github.com/faizul726/matject
 <br>
 
 # 렌더드래곤 셰이더
-
 
 <br>
 <br>
@@ -181,13 +200,18 @@ https://github.com/faizul726/matject
 
 ### YSS RD
 [![](/banners/shader/YSS%20RD.png)](https://discord.gg/years-static-shader-group-738688684223889409)
-[![](/language/ko_kr/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+![Creator](https://img.shields.io/badge/개발자-ENDERMANYK-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)
 ![](/language/ko_kr/tags/platform/Switch.svg)
 ![](/language/ko_kr/tags/platform/Xbox.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 [![](/language/ko_kr/tags/etc/Screen_Shots.svg)](screenshots/Years%20static%20shader/YSS%20RD)  
@@ -197,26 +221,37 @@ https://github.com/faizul726/matject
 
 ### Newb X Legacy
 [![](/banners/shader/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
-[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
+![Creator](https://img.shields.io/badge/개발자-devendrn-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
+[![](/language/ko_kr/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/newb-community-844591537430069279)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/IPA.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### Eternity Shader
-[![](/banners/shader/Eternity%20Shader.png)](https://discord.com/channels/660840983117955072/1317049994053816351)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1317049994053816351)  
+[![](/banners/shader/Eternity%20Shader.png)](https://mcpedl.com/user/WindsScion)
+![Creator](https://img.shields.io/badge/개발자-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/eternity-shader-v1-3-beta-mcpe-renderdragon-support-1-21)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg) 
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Fantasy.svg)
 
 [![](/language/ko_kr/tags/etc/Screen_Shots.svg)](screenshots/Eternity%20Shader/README.md)  
@@ -225,48 +260,70 @@ https://github.com/faizul726/matject
 <br>
 
 ### Vanilla X Enhanced
-[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://discord.com/channels/660840983117955072/1266291464158314496)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1266291464158314496)  
+[![](/banners/shader/Vanilla%20X%20Enhanced.png)](https://mcpedl.com/user/WindsScion)
+![Creator](https://img.shields.io/badge/개발자-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/vanilla-x-enhanced-v0-1-for-be-pe)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg) 
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### Innovative Shader
-[![](/banners/shader/Innovative%20Shader.png)](https://discord.com/channels/660840983117955072/1270566044552921099)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1270566044552921099)  
+[![](/banners/shader/Innovative%20Shader.png)](https://discord.gg/EdG4x85Sgm)
+![Creator](https://img.shields.io/badge/개발자-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg) 
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Realistic.svg)
 
 <br>
 <br>
 
 ### Cool Voxel
-[![](/banners/shader/Cool%20Voxel.png)](https://discord.com/channels/660840983117955072/1285110443173478403)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/660840983117955072/1285110443173478403)  
+[![](/banners/shader/Cool%20Voxel.png)](https://mcpedl.com/user/WindsScion)
+![Creator](https://img.shields.io/badge/개발자-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/cool-voxel-v1-0-for-mcpe-be)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg) 
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### MLYX 弥浪隐霄 Shader
-[![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.com/channels/738688684223889409/1318985632239845517)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/738688684223889409/1318985632239845517)  
+[![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.gg/years-static-shader-group-738688684223889409)
+![Creator](https://img.shields.io/badge/개발자-mlyx__chuchu-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg) 
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Semi_Realistic.svg)  
 
 <br>
@@ -274,12 +331,17 @@ https://github.com/faizul726/matject
 
 ### Ranzie's Vibrant Shader
 [![](/banners/shader/Ranzie's%20Vibrant%20Shader.png)](https://www.patreon.com/ZnarGeenGuy)
+![Creator](https://img.shields.io/badge/개발자-Ranzie-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/Patreon.svg)](https://www.patreon.com/ZnarGeenGuy)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/6Kg9OlggkQU?si=qGxfXsG9Fp-oIvSo)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg) 
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Cartoon.svg)
 
 <br>
@@ -287,61 +349,91 @@ https://github.com/faizul726/matject
 
 ### AziFy: REVIVE
 [![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azi-angelo-real)
-[![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br/>
 <br/>
 
 ### AziFy: REIMAGINED
-[![](/banners/shader/AziFy%20Reimagined.png)](https://discord.com/channels/1081953994601152522/1251561490373415013)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251561490373415013)
-[![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/WKmEIyvU_TE?si=LCcEPT41r57Azj8N)  
+[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/user/azi-angelo-real)
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
+[![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br/>
 <br/>
 
 ### AziFy Natural
-[![](/banners/shader/AziFy%20Natural.png)](https://discord.com/channels/1081953994601152522/1251559255186739280)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251559255186739280)
-[![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/AzfwPB-T2BA?si=d88tqm5xTFyQbK26)  
+[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/user/azi-angelo-real)
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
+[![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### Truly Default
-[![](/banners/shader/Truly%20Default.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251568988513898628)
-[![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/9ZqUUrgAmWs?si=BXRzE191aSqV_Khh)  
+[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/user/azi-angelo-real)
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
+[![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br>
 <br>
 
 ### FHD Shader
-[![](/banners/shader/FHD%20Shader.png)](https://discord.com/channels/1081953994601152522/1251568988513898628)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1251568988513898628)
-[![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/kEzznDBdCSQ?si=Z3thF6HkaCH0SQo_)  
+[![](/banners/shader/FHD%20Shader.png)](https://mcpedl.com/user/azi-angelo-real)
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
+[![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
 <br>
@@ -354,11 +446,11 @@ https://github.com/faizul726/matject
 
 ### BetterRTX
 [![](/banners/shader/BetterRTX.png)](https://github.com/BetterRTX)
-![](https://img.shields.io/badge/Bedrock_RTX-Windows-0078D6?style=flat-square&logo=nvidia) 
+![](https://img.shields.io/badge/Bedrock_RTX-윈도우-0078D6?style=flat-square&logo=nvidia) 
 
 <br>
 
-- [Installer](https://github.com/ABUCKY0/betterrtx-installer)
+- [설치 프로그램](https://github.com/ABUCKY0/betterrtx-installer)
 
 <br>
 <br>
@@ -368,10 +460,14 @@ https://github.com/faizul726/matject
 <br>
 
 ### RenderDragon FullBright
+![Creator](https://img.shields.io/badge/개발자-Furzide-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/Furzide/RenderDragonFullBright)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > 화면이 항상 야간투시인것처럼 어두운곳 없이 밝게 해줍니다.
 
@@ -381,10 +477,14 @@ https://github.com/Furzide/RenderDragonFullBright
 <br>
 
 ### RenderDragonFogRemover
+![Creator](https://img.shields.io/badge/개발자-Furzide-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/Furzide/RenderDragonFogRemover)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > 안개를 제거해줍니다.
 
@@ -394,10 +494,14 @@ https://github.com/Furzide/RenderDragonFogRemover
 <br>
 
 ### RD Cubemap Fix
+![Creator](https://img.shields.io/badge/개발자-Furzide-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/Furzide/RenderDragonCubemapFix)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > 기존의 마인크래프트의 잘못된 큐브맵 위치를 고쳐줍니다.
 
@@ -407,9 +511,15 @@ https://github.com/Furzide/RenderDragonCubemapFix
 <br>
 
 ### Gray's Night Vision
+![Creator](https://img.shields.io/badge/개발자-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon/)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 > 화면이 항상 야간투시인것처럼 어두운곳 없이 밝게 해줍니다.
 
@@ -419,13 +529,17 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 <br>
 
 ### HD Font Fix
+![Creator](https://img.shields.io/badge/개발자-GameParrot-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/GameParrot/mcpe-hdfont-fix)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+> 높은 해상도의 폰트를 사용할때 텍스쳐가 이상하게 보이는걸 고쳐줍니다.
 
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/HD%20Font%20Fix/README.md)  
-> 높은 해상도의 폰트를 사용할때 텍스쳐가 이상하게 보이는걸 고쳐줍니다.
 
 https://github.com/GameParrot/mcpe-hdfont-fix
 
@@ -433,14 +547,19 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 <br>
 
 ### Glow Em All
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.com/channels/1081953994601152522/1252628259137392741)
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/glow-em-all)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/91xzwza8F84?si=SsgUojdXQTk0v-hF)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)
 > 광물을 빛나게 합니다.
 
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Ringo/README.md)  
-https://youtu.be/91xzwza8F84?si=9WXnkK3ZW0yYkpZT
+https://mcpedl.com/glow-em-all
 
 <br>
 <br>
