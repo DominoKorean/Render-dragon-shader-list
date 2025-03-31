@@ -48,7 +48,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 ## 어떻게 설치하나요?
 
-- [렌더드래곤 셰이더 설치법](installation/README.md) (한국어 준비중)
+- [렌더드래곤 셰이더 설치법](/language/ko_kr/docs/installation/README.md)
 
 <br>
 
@@ -60,10 +60,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 > [!NOTE]
 > 이 문서는 RD Shader list 2.0입니다.  
-> 구 문서를 보고싶다면 1.0을 이용해주세요.
-
-- [렌더드래곤 셰이더 리스트 **1.0**](/1.0/README.md)
-  - [1.0과 2.0의 차이가 뭔가요?](/docs/about2.0.md)
+> - [렌더드래곤 셰이더 리스트 **1.0**](/1.0/README.md)
+>   - [1.0과 2.0의 차이가 뭔가요?](/docs/about2.0.md)
 
 <br>
 
