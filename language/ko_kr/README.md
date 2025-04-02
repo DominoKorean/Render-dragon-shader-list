@@ -1,6 +1,4 @@
-[![](/images/aprilfalse.jpg)](https://namu.wiki/w/%EB%A7%8C%EC%9A%B0%EC%A0%88)
-
-# [모장공식엔비디아 RTX 모바일 쉐이더 무료다운로드](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![](/images/banner.png)
 
 <!--
 > [!WARNING]
@@ -76,7 +74,6 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 -->
 
 ## 목차
-- [모장공식엔비디아 RTX 모바일 쉐이더 무료다운로드](#모장공식엔비디아-rtx-모바일-쉐이더-무료다운로드)
 - [렌더드래곤 셰이더 리스트](#렌더드래곤-셰이더-리스트)
   - [렌더드래곤이 뭔가요?](#렌더드래곤이-뭔가요)
   - [Bedrock Graphics](#bedrock-graphics)
