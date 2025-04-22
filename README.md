@@ -84,7 +84,6 @@ The following Table of contents is automatically updated by the "Markdown All in
   - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
   - [Draco Injector](#draco-injector)
   - [Matject](#matject)
-  - [Patched app](#patched-app)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -126,7 +125,8 @@ The following Table of contents is automatically updated by the "Markdown All in
 
 https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 
-> A Bedrock launcher that allows you to use Material Bin Loader with a single installation.
+> Allows RenderDragon shaders to be used as a resource pack.  
+> For more details, see [this post](https://faizul726.github.io/blog/what-is-mb-loader/).
 
 <br>
 <br>
@@ -162,20 +162,6 @@ https://github.com/mcbegamerxx954/draco-injector
 https://github.com/faizul726/matject
 
 > This is a program that automatically replaces Minecraft's **materialbin** file with a shader **materialbin** file using **IObit Unlocker**.
-
-<br>
-<br>
-
-## Patched app
-
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://discord.gg/yss
-
-> A Patched APK that can load renderdragon .material.bin file under resource packs, powered by MaterialBinLoader.
-
-> [!NOTE]
-> The Patched APP is no longer being updated. Please use [MB Loader](#mb-loader) instead.
 
 <br>
 <br>

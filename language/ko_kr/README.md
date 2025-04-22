@@ -84,7 +84,6 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
   - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
   - [Draco Injector](#draco-injector)
   - [Matject](#matject)
-  - [Patched app](#patched-app)
 - [렌더드래곤 셰이더](#렌더드래곤-셰이더)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -126,7 +125,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 
-> 한번의 설치만으로 Material Bin Loader을 쓸 수 있는 베드락 런처.
+> 렌더드래곤 셰이더를 리소스팩으로 사용할 수 있습니다.  
+> 자세한 설명은 [이 글](https://faizul726.github.io/blog/what-is-mb-loader/)을 확인하세요.
 
 <br>
 <br>
@@ -162,20 +162,6 @@ https://github.com/mcbegamerxx954/draco-injector
 https://github.com/faizul726/matject
 
 > 마인크래프트 materialbin 파일을 **셰이더 materialbin 파일**로 교체하는 작업을 IObit Unlocker를 이용하여 자동으로 해주는 프로그램.
-
-<br>
-<br>
-
-## Patched app
-
-![](/language/ko_kr/tags/platform/Android.svg)
-![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://discord.gg/yss
-
-> MaterialBinLoader를 기반으로 글로벌 리소스팩에서 렌더드래곤의 `.material.bin` 파일을 로드할 수 있도록 수정된 APK파일.
-
-> [!NOTE]
-> Patched APP은 더이상 업데이트 되지 않습니다. 대신 [MB Loader](#mb-loader)을 사용하시길 바랍니다.
 
 <br>
 <br>
