@@ -6,6 +6,15 @@ This document explains how to install RenderDragon shaders.
 
 </br>
 
+> [!NOTE]
+> If you want real-time shadows, reflections of surrounding objects on water and iron blocks, and dynamic colored lighting, what you're looking for is not the RenderDragon shader, but **Vibrant Visuals (Deferred Rendering)**.
+
+> What is the difference between the RenderDragon shader and Vibrant Visuals?  
+> How do I apply Vibrant Visuals?  
+> > [Instructions and Explanation for Applying Vibrant Visuals](/docs/virbrant_visuals.md)
+
+<br>
+
 ## Mobile
 
 ### Android
