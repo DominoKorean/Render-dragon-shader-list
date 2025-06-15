@@ -82,8 +82,8 @@ The following Table of contents is automatically updated by the "Markdown All in
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
   - [MB Loader](#mb-loader)
   - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
-  - [Draco Injector](#draco-injector)
   - [Matject](#matject)
+  - [Draco Injector](#draco-injector)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -120,6 +120,7 @@ The following Table of contents is automatically updated by the "Markdown All in
 <br>
 
 ## MB Loader
+![](/tags/etc/Recommended.svg)  
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
@@ -132,7 +133,8 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 <br>
 
 ## BetterRenderDragon-xmake
-![](/tags/platform/Windows.svg)  
+![](/tags/etc/Recommended.svg)  
+![](/tags/platform/Windows.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
 https://github.com/dreamguxiang/BetterRenderDragon-xmake
@@ -146,22 +148,22 @@ https://github.com/dreamguxiang/BetterRenderDragon-xmake
 <br>
 <br>
 
+## Matject
+
+![](/tags/platform/Windows.svg)  
+https://github.com/faizul726/matject
+
+> A macro program that makes it easy to install RenderDragon shaders.
+
+<br>
+<br>
+
 ## Draco Injector
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 https://github.com/mcbegamerxx954/draco-injector
 
 > A tool to inject into any Minecraft render dragon apk the ability to load shaders from global resourcepacks
-
-<br>
-<br>
-
-## Matject
-
-![](/tags/platform/Windows.svg)  
-https://github.com/faizul726/matject
-
-> This is a program that automatically replaces Minecraft's **materialbin** file with a shader **materialbin** file using **IObit Unlocker**.
 
 <br>
 <br>
@@ -209,6 +211,7 @@ https://github.com/faizul726/matject
 ![link](/tags/tag/link.svg)
 [![](/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
 [![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/newb-shader)
 [![](/tags/link/Discord.svg)](https://discord.gg/newb-community-844591537430069279)  
 ![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
@@ -219,6 +222,16 @@ https://github.com/faizul726/matject
 ![](/tags/pre_supported_packaging/IPA.svg)  
 ![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
+
+> [!NOTE]
+> **Development Discontinued**
+
+>This shader is no longer being updated.  
+If the version and date listed below become significantly outdated compared to the current version, the shader may no longer function properly.  
+> - Last Version: `v16`
+> - Last Update Date: `June 14, 2025`
+> - Bedrock Version at Last Update: `1.21.81`
+
 
 <br>
 <br>

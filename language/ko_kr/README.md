@@ -82,8 +82,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 - [렌더드래곤 셰이더 모드 / 유틸리티](#렌더드래곤-셰이더-모드--유틸리티)
   - [MB Loader](#mb-loader)
   - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
-  - [Draco Injector](#draco-injector)
   - [Matject](#matject)
+  - [Draco Injector](#draco-injector)
 - [렌더드래곤 셰이더](#렌더드래곤-셰이더)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -119,7 +119,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 <br>
 
-## MB Loader
+## MB Loader 
+![](/language/ko_kr/tags/etc/Recommended.svg)  
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
@@ -132,7 +133,8 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 <br>
 
 ## BetterRenderDragon-xmake
-![](/language/ko_kr/tags/platform/Windows.svg)  
+![](/language/ko_kr/tags/etc/Recommended.svg)  
+![](/language/ko_kr/tags/platform/Windows.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
 https://github.com/dreamguxiang/BetterRenderDragon-xmake
@@ -146,22 +148,22 @@ https://github.com/dreamguxiang/BetterRenderDragon-xmake
 <br>
 <br>
 
+## Matject
+
+![](/language/ko_kr/tags/platform/Windows.svg)  
+https://github.com/faizul726/matject
+
+> 렌더드래곤 셰이더를 쉽게 설치할 수 있게 해주는 매크로 프로그램
+
+<br>
+<br>
+
 ## Draco Injector
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 https://github.com/mcbegamerxx954/draco-injector
 
 > 마인크래프트 파일을 추출해서 글로벌 리소스팩으로 셰이더팩을 불러올 수 있게 패치를 자동으로 해주는 프로그램
-
-<br>
-<br>
-
-## Matject
-
-![](/language/ko_kr/tags/platform/Windows.svg)  
-https://github.com/faizul726/matject
-
-> 마인크래프트 materialbin 파일을 **셰이더 materialbin 파일**로 교체하는 작업을 IObit Unlocker를 이용하여 자동으로 해주는 프로그램.
 
 <br>
 <br>
@@ -209,6 +211,7 @@ https://github.com/faizul726/matject
 ![link](/language/ko_kr/tags/tag/link.svg)
 [![](/language/ko_kr/tags/link/GitHub.svg)](https://github.com/devendrn/newb-x-mcbe)
 [![](/language/ko_kr/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/newb-shader)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/newb-community-844591537430069279)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
@@ -219,6 +222,15 @@ https://github.com/faizul726/matject
 ![](/language/ko_kr/tags/pre_supported_packaging/IPA.svg)  
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
+
+> [!NOTE]
+> **개발 중단됨**
+
+>이 셰이더는 더이상 업데이트 되지 않습니다.  
+아래 표기된 버전과 날짜가 현제 버전과 더 많이 차이가 나게 될경우 작동하지 않을 수 있습니다.  
+> - 마지막 버전: `v16`
+> - 마지막 업데이트 일자: `2025년 6월 15일`
+> - 마지막 업데이트때 베드락 버전: `1.21.81`
 
 <br>
 <br>

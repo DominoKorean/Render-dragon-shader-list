@@ -4,7 +4,16 @@
 
 - [렌더드래곤 셰이더 리스트로 돌아가기](/language/ko_kr/README.md)
 
-</br>
+<br>
+
+> [!NOTE]
+> 실시간 그림자, 물과 철블록에 반사돼는 주변 사물, 동적 색 조명등을 원한다면 당신이 원하는것은 렌더드래곤 셰이더가 아닌 Virbrant Visuals(Deffered Rendering)일것입니다.
+
+> 렌더드래곤 셰이더와 Virbrant Visuals의 차이가 뭔가요?  
+> Virbrant Visuals는 어떻게 적용하나요?
+> > [Virbrant Visuals 적용법및 설명](/language/ko_kr/docs/virbrant_visuals.md)
+
+<br>
 
 ## 모바일
 
