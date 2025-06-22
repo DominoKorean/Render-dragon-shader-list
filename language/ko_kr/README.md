@@ -81,7 +81,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
   - [목차](#목차)
 - [렌더드래곤 셰이더 모드 / 유틸리티](#렌더드래곤-셰이더-모드--유틸리티)
   - [MB Loader](#mb-loader)
-  - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
+  - [BetterRenderDragon](#betterrenderdragon)
   - [Matject](#matject)
   - [Draco Injector](#draco-injector)
 - [렌더드래곤 셰이더](#렌더드래곤-셰이더)
@@ -132,12 +132,12 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 <br>
 <br>
 
-## BetterRenderDragon-xmake
+## BetterRenderDragon
 ![](/language/ko_kr/tags/etc/Recommended.svg)  
 ![](/language/ko_kr/tags/platform/Windows.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
-https://github.com/dreamguxiang/BetterRenderDragon-xmake
+https://github.com/QYCottage/BetterRenderDragon
 
 > 다음 기능을 제공하는 써드파티 모드입니다.
 > - 디퍼드 렌더링 활성화

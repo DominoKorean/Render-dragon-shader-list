@@ -81,7 +81,7 @@ The following Table of contents is automatically updated by the "Markdown All in
   - [Table of contents](#table-of-contents)
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
   - [MB Loader](#mb-loader)
-  - [BetterRenderDragon-xmake](#betterrenderdragon-xmake)
+  - [BetterRenderDragon](#betterrenderdragon)
   - [Matject](#matject)
   - [Draco Injector](#draco-injector)
 - [Render dragon shaders](#render-dragon-shaders)
@@ -132,12 +132,12 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 <br>
 <br>
 
-## BetterRenderDragon-xmake
+## BetterRenderDragon
 ![](/tags/etc/Recommended.svg)  
 ![](/tags/platform/Windows.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
-https://github.com/dreamguxiang/BetterRenderDragon-xmake
+https://github.com/QYCottage/BetterRenderDragon
 
 > Provides the following features as a third-party mod.
 > - Enable Deferred Rendering
