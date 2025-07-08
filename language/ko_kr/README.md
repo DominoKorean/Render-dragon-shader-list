@@ -106,6 +106,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
     - [RenderDragonFogRemover](#renderdragonfogremover)
     - [RD Cubemap Fix](#rd-cubemap-fix)
     - [Gray's Night Vision](#grays-night-vision)
+    - [Night Emissive Vision](#night-emissive-vision)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
   - [개발](#개발)
@@ -547,6 +548,26 @@ https://github.com/Furzide/RenderDragonCubemapFix
 > 화면이 항상 야간투시인것처럼 어두운곳 없이 밝게 해줍니다.
 
 https://discord.com/channels/660840983117955072/1200077652514586624
+
+<br>
+<br>
+
+### Night Emissive Vision
+![Creator](https://img.shields.io/badge/개발자-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon/)
+[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
+![](/language/ko_kr/tags/platform/Android.svg)
+![](/language/ko_kr/tags/platform/iOS.svg)
+![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
+![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg) 
+
+> - 면이 항상 야간투시인것처럼 어두운곳 없이 밝게 해줍니다.  
+> - 광물을 빛나게 합니다.
+
+https://mcpedl.com/night-emissive-vision-for-mcpe-be-v1-21
 
 <br>
 <br>

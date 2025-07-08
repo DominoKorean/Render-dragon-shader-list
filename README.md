@@ -106,6 +106,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [RenderDragonFogRemover](#renderdragonfogremover)
     - [RD Cubemap Fix](#rd-cubemap-fix)
     - [Gray's Night Vision](#grays-night-vision)
+    - [Night Emissive Vision](#night-emissive-vision)
     - [HD Font Fix](#hd-font-fix)
     - [Glow Em All](#glow-em-all)
   - [Dev](#dev)
@@ -548,6 +549,26 @@ https://github.com/Furzide/RenderDragonCubemapFix
 > The screen remains bright as if night vision is always enabled, eliminating dark areas.
 
 https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon
+
+<br>
+<br>
+
+### Night Emissive Vision
+![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon/)
+[![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
+![Platform](/tags/tag/Platform.svg) 
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+
+> - The screen remains bright as if night vision is always enabled, eliminating dark areas.  
+> - Makes ores glow. 
+
+https://mcpedl.com/night-emissive-vision-for-mcpe-be-v1-21
 
 <br>
 <br>
