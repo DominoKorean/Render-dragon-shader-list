@@ -83,7 +83,7 @@ The following Table of contents is automatically updated by the "Markdown All in
   - [MB Loader](#mb-loader)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Matject](#matject)
-  - [Draco Injector](#draco-injector)
+  - [BetterResourcePackManager](#betterresourcepackmanager)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -123,7 +123,8 @@ The following Table of contents is automatically updated by the "Markdown All in
 ![](/tags/etc/Recommended.svg)  
 ![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-
+![](/tags/pre_supported_packaging/APK.svg)
+  
 https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 
 > Allows RenderDragon shaders to be used as a resource pack.  
@@ -135,12 +136,16 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 ## BetterRenderDragon
 ![](/tags/etc/Recommended.svg)  
 ![](/tags/platform/Windows.svg)
+![](/tags/platform/Android.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/pre_supported_packaging/EXE.svg)
+![](/tags/pre_supported_packaging/DLL.svg)
+![](/tags/pre_supported_packaging/SO.svg)
 
 https://github.com/QYCottage/BetterRenderDragon
 
 > Provides the following features as a third-party mod.
-> - Enable Deferred Rendering
+> - Enable Vibrant Visuals
 > - Disable Raytracing for better performance
 > - Loads RenderDragon shaders from the resource pack
 > - Configurable ImGui
@@ -148,9 +153,22 @@ https://github.com/QYCottage/BetterRenderDragon
 <br>
 <br>
 
-## Matject
+> ### Fzul's BRD Updater
+> ![](/tags/pre_supported_packaging/BAT.svg)
+>
+> https://github.com/faizul726/brd-updater-script
+>
+>> This is a script that automatically updates BetterRenderDragon.
+>> * Automatically updates BRD.
+>> * Prevents the BRD executable `mcbe_injector.exe` from being automatically removed by Windows Defender.
 
+<br>
+<br>
+
+## Matject
 ![](/tags/platform/Windows.svg)  
+![](/tags/pre_supported_packaging/BAT.svg)
+
 https://github.com/faizul726/matject
 
 > A macro program that makes it easy to install RenderDragon shaders.
@@ -158,12 +176,21 @@ https://github.com/faizul726/matject
 <br>
 <br>
 
-## Draco Injector
-![](/tags/platform/Android.svg)
-![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://github.com/mcbegamerxx954/draco-injector
+## BetterResourcePackManager
+![](/language/ko_kr/tags/platform/Windows.svg) ![](/tags/platform/Android.svg)
+![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/pre_supported_packaging/DLL.svg)
+![](/tags/pre_supported_packaging/SO.svg)
 
-> A tool to inject into any Minecraft render dragon apk the ability to load shaders from global resourcepacks
+https://discord.gg/8nGcV8QkKZ
+
+> This is a third-party mod that provides the following features:
+> * Load RenderDragon shaders and OreUI from resource packs
+> * Switch resource packs in-game
+> * Load custom geometry skins via skin packs
+
+> [!NOTE]
+> This mod is still in the testing phase and may be unstable.
 
 <br>
 <br>

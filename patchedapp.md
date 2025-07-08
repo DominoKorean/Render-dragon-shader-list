@@ -1,23 +1,8 @@
 > [!NOTE]
-> If you want to use the existing **YSS Patched APP**, download it from the [YSSBE Discord](https://discord.gg/years-static-shader-group-738688684223889409).  
-If you want to use the Patched APP with **MaterialBinLoader2**, visit [https://mcpebd.github.io](https://mcpebd.github.io).
-
-- https://discord.gg/years-static-shader-group-738688684223889409
-- https://mcpebd.github.io
-
----
-
-<br>
-<br>
+> The patched app is no longer being updated.  
+> Please use [MB Loader](https://github.com/DominoKorean/Render-dragon-shader-list?tab=readme-ov-file#mb-loader) to run RenderDragon shaders on mobile.
 
 [Return to the **Render Dragon Shader List**](/README.md)
-
-> [!WARNING]
-> This document is no longer in use.  
-> To view the older version of the document, please refer to the link below.  
-> [patchedapp.md (RD shader list 1.0)](/1.0/patchedapp.md)
-
-<br>
 
 ---
 
@@ -25,9 +10,8 @@ If you want to use the Patched APP with **MaterialBinLoader2**, visit [https://m
 
 > 🇰🇷  
 
-[**Render dragon shader list** 로 돌아가기](/language/ko_kr/README.md)
+> [!NOTE]
+> Patched APP은 더이상 업데이트돼지 않습니다.  
+> 모바일에서 렌더드래곤 셰이더를 사용할려면 [MB Loader](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/language/ko_kr/README.md#mb-loader) 을 사용하세요.
 
-> [!WARNING]
-> 이 문서는 더이상 사용되지 않습니다.  
-> 구 버전의 문서를 볼려면 아래 링크를 참고해주세요.  
-> [patchedapp.md (RD shader list 1.0)](/1.0/language/ko_kr/patchedapp.md)
+[**Render dragon shader list** 로 돌아가기](/language/ko_kr/README.md)

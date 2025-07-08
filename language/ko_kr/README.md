@@ -83,7 +83,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
   - [MB Loader](#mb-loader)
   - [BetterRenderDragon](#betterrenderdragon)
   - [Matject](#matject)
-  - [Draco Injector](#draco-injector)
+  - [BetterResourcePackManager](#betterresourcepackmanager)
 - [렌더드래곤 셰이더](#렌더드래곤-셰이더)
   - [Render dragon](#render-dragon)
     - [YSS RD](#yss-rd)
@@ -121,7 +121,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 ## MB Loader 
 ![](/language/ko_kr/tags/etc/Recommended.svg)  
-![](/language/ko_kr/tags/platform/Android.svg)
+![](/language/ko_kr/tags/platform/Android.svg)  
+![](/language/ko_kr/tags/pre_supported_packaging/APK.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 
 https://play.google.com/store/apps/details?id=io.bambosan.mbloader
@@ -135,12 +136,16 @@ https://play.google.com/store/apps/details?id=io.bambosan.mbloader
 ## BetterRenderDragon
 ![](/language/ko_kr/tags/etc/Recommended.svg)  
 ![](/language/ko_kr/tags/platform/Windows.svg)
+![](/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![](/tags/pre_supported_packaging/EXE.svg)
+![](/tags/pre_supported_packaging/DLL.svg)
+![](/tags/pre_supported_packaging/SO.svg)
 
 https://github.com/QYCottage/BetterRenderDragon
 
 > 다음 기능을 제공하는 써드파티 모드입니다.
-> - 디퍼드 렌더링 활성화
+> - 선명한 비쥬얼 활성화
 > - 성능 향상을 위해 레이트레이싱 비활성화
 > - 리소스 팩에서 렌더드래곤 셰이더 불러오기
 > - 설정 가능한 ImGui
@@ -148,22 +153,44 @@ https://github.com/QYCottage/BetterRenderDragon
 <br>
 <br>
 
-## Matject
+> ### Fzul's BRD Updater
+> ![](/tags/pre_supported_packaging/BAT.svg)
+>
+> https://github.com/faizul726/brd-updater-script
+>
+>> BetterRenderDragon을 자동으로 업데이트해주는 스크립트입니다.
+>> - BRD를 자동으로 업데이트합니다.
+>> - BRD 모드 실행 파일 `mcbe_injector.exe` 이 Windows 보안으로 인해 자동으로 제거돼지 않게 합니다.
 
+<br>
+<br>
+
+## Matject
 ![](/language/ko_kr/tags/platform/Windows.svg)  
-https://github.com/faizul726/matject
+![](/tags/pre_supported_packaging/BAT.svg)
+
+https://github.com/faizul726/matject  
 
 > 렌더드래곤 셰이더를 쉽게 설치할 수 있게 해주는 매크로 프로그램
 
 <br>
 <br>
 
-## Draco Injector
-![](/language/ko_kr/tags/platform/Android.svg)
+## BetterResourcePackManager
+![](/language/ko_kr/tags/platform/Windows.svg) ![](/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
-https://github.com/mcbegamerxx954/draco-injector
+![](/tags/pre_supported_packaging/DLL.svg)
+![](/tags/pre_supported_packaging/SO.svg)
 
-> 마인크래프트 파일을 추출해서 글로벌 리소스팩으로 셰이더팩을 불러올 수 있게 패치를 자동으로 해주는 프로그램
+https://discord.gg/8nGcV8QkKZ
+
+> 다음 기능을 제공하는 써드파티 모드입니다.
+> - 리소스 팩에서 렌더드래곤 셰이더및 OreUI 불러오기
+> - 인게임에서 리소스팩 전환 가능
+> - 스킨팩으로 커스텀 지오메트리 스킨 불러오기
+
+> [!NOTE]
+> 이 모드는 아직 테스트 단계로 불안정할 수 있습니다.
 
 <br>
 <br>
