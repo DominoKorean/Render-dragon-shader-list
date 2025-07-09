@@ -178,7 +178,7 @@ https://github.com/faizul726/matject
 <br>
 
 ## BetterResourcePackManager
-![](/language/ko_kr/tags/platform/Windows.svg) ![](/tags/platform/Android.svg)
+![](/tags/platform/Windows.svg) ![](/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![](/tags/pre_supported_packaging/DLL.svg)
 ![](/tags/pre_supported_packaging/SO.svg)
@@ -556,7 +556,7 @@ https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon
 ### Night Emissive Vision
 ![Creator](https://img.shields.io/badge/Creator-Wind's_Scion-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/night-vision-v2-2-for-mcpe-be-v1-21-support-renderdragon/)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/night-emissive-vision-for-mcpe-be-v1-21)
 [![](/tags/link/Discord.svg)](https://discord.gg/EdG4x85Sgm)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
