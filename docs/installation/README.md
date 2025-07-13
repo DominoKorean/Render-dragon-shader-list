@@ -28,7 +28,7 @@ This document explains how to install RenderDragon shaders.
 
 > Most phones except for Apple devices—such as Samsung Galaxy, Xiaomi, and Google Pixel—use Android.
 
-1. Install [MB Loader](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/language/ko_kr/README.md#mb-loader).
+1. Install [MB Loader](https://github.com/DominoKorean/Render-dragon-shader-list/blob/main/README.md#mb-loader).
 2. Press the `Load to mbl2` button to launch the currently installed version of Minecraft.
 3. Download a shader pack from the Renderdragon Shader List and load it as a resource pack, then apply it under **Global Resources**.
 
