@@ -101,6 +101,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
     - [FHD Shader](#fhd-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
+  - [선명한 비주얼](#선명한-비주얼)
+    - [Lynx's Post Processing](#lynxs-post-processing)
   - [유틸리티 셰이더](#유틸리티-셰이더)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
@@ -475,6 +477,29 @@ https://discord.gg/8nGcV8QkKZ
 <br>
 
 - [설치 프로그램](https://github.com/ABUCKY0/betterrtx-installer)
+
+<br>
+<br>
+
+## 선명한 비주얼
+
+<br>
+
+### Lynx's Post Processing
+[![](/banners/shader/Lynx's%20Post%20Processing.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
+![Creator](https://img.shields.io/badge/개발자-Lynx-3D444D?style=flat-square&labelColor=white)  
+![link](https://img.shields.io/badge/링크-안드로이드-DCDCE2?style=flat-square&labelColor=white)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
+&nbsp;&nbsp;
+![link](https://img.shields.io/badge/링크-윈도우-DCDCE2?style=flat-square&labelColor=white) 
+[![](https://img.shields.io/badge/Bedrock_Graphics-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/WwUEe7hYBz)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
+![](/language/ko_kr//tags/platform/Android.svg)
+![](/language/ko_kr//tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
+![](https://img.shields.io/badge/포스트_프로세싱-black?style=flat-square)
 
 <br>
 <br>

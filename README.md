@@ -101,6 +101,8 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [FHD Shader](#fhd-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
+  - [Vibrant Visuals](#vibrant-visuals)
+    - [Lynx's Post Processing](#lynxs-post-processing)
   - [Utility Shaders](#utility-shaders)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
@@ -259,7 +261,6 @@ If the version and date listed below become significantly outdated compared to t
 > - Last Version: `v16`
 > - Last Update Date: `June 14, 2025`
 > - Bedrock Version at Last Update: `1.21.81`
-
 
 <br>
 <br>
@@ -471,11 +472,34 @@ If the version and date listed below become significantly outdated compared to t
 
 ### BetterRTX
 [![](/banners/shader/BetterRTX.png)](https://github.com/BetterRTX)
-![](https://img.shields.io/badge/Bedrock_RTX-Windows-0078D6?style=flat-square&logo=nvidia) 
+![](https://img.shields.io/badge/Bedrock_RTX-Windows-0078D6?style=flat-square&labelColor=black&logo=nvidia) 
 
 <br>
 
 - [Installer](https://github.com/ABUCKY0/betterrtx-installer)
+
+<br>
+<br>
+
+## Vibrant Visuals
+
+<br>
+
+### Lynx's Post Processing
+[![](/banners/shader/Lynx's%20Post%20Processing.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
+![Creator](https://img.shields.io/badge/Creator-Lynx-3D444D?style=flat-square&labelColor=white)  
+![link](https://img.shields.io/badge/Link-Android-DCDCE2?style=flat-square&labelColor=white)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
+&nbsp;&nbsp;
+![link](https://img.shields.io/badge/Link-Windows-DCDCE2?style=flat-square&labelColor=white) 
+[![](https://img.shields.io/badge/Bedrock_Graphics-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/WwUEe7hYBz)  
+![Platform](/tags/tag/Platform.svg) 
+![](/tags/platform/Android.svg)
+![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
+![](https://img.shields.io/badge/Post_Processing-black?style=flat-square)
 
 <br>
 <br>
