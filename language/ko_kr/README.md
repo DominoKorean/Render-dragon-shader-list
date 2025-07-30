@@ -60,8 +60,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 > [!NOTE]
 > 이 문서는 RD Shader list 2.0입니다.  
-> - [렌더드래곤 셰이더 리스트 **1.0**](/1.0/README.md)
->   - [1.0과 2.0의 차이가 뭔가요?](/docs/about2.0.md)
+> - [1.0과 2.0의 차이가 뭔가요?](/docs/about2.0.md)
 
 <br>
 
@@ -99,6 +98,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
     - [AziFy Natural](#azify-natural)
     - [Truly Default](#truly-default)
     - [FHD Shader](#fhd-shader)
+    - [Nullistic Shader](#nullistic-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
   - [선명한 비주얼](#선명한-비주얼)
@@ -230,7 +230,7 @@ https://discord.gg/8nGcV8QkKZ
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
 
-[![](/language/ko_kr/tags/etc/Screen_Shots.svg)](screenshots/Years%20static%20shader/YSS%20RD)  
+[![](/language/ko_kr/tags/etc/Screen_Shots.svg)](/language/ko_kr/screenshots/YSS%20RD/README.md)
 
 <br>
 <br>
@@ -280,8 +280,6 @@ https://discord.gg/8nGcV8QkKZ
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Fantasy.svg)
 
-[![](/language/ko_kr/tags/etc/Screen_Shots.svg)](screenshots/Eternity%20Shader/README.md)  
-
 <br>
 <br>
 
@@ -317,6 +315,8 @@ https://discord.gg/8nGcV8QkKZ
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Realistic.svg)
 
+[![](/language/ko_kr/tags/etc/Screen_Shots.svg)](/language/ko_kr/screenshots/Innovative%20Shader/README.md)
+
 <br>
 <br>
 
@@ -342,7 +342,7 @@ https://discord.gg/8nGcV8QkKZ
 [![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.gg/years-static-shader-group-738688684223889409)
 ![Creator](https://img.shields.io/badge/개발자-mlyx__chuchu-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+[![](https://img.shields.io/badge/Years_Static_Shader_Group-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/years-static-shader-group-7386886842238894099)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg)
 ![](/language/ko_kr/tags/platform/Android.svg)
 ![](/language/ko_kr/tags/platform/iOS.svg)
@@ -351,6 +351,8 @@ https://discord.gg/8nGcV8QkKZ
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Semi_Realistic.svg)  
+
+[![](/language/ko_kr/tags/etc/Screen_Shots.svg)](/language/ko_kr/screenshots/MLYX%20弥浪隐霄%20Shader/README.md)
 
 <br>
 <br>
@@ -464,6 +466,23 @@ https://discord.gg/8nGcV8QkKZ
 
 <br>
 <br>
+
+### Nullistic Shader
+[![](/banners/shader/Nullistic%20Shader.png)](https://discord.com/invite/newb-community-844591537430069279)
+![Creator](https://img.shields.io/badge/개발자-Indeed-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](https://img.shields.io/badge/Newb_Community-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.com/invite/newb-community-844591537430069279)    
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
+![](/language/ko_kr/tags/platform/Android.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
+![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
+![](/language/ko_kr/tags/style/Vanilla.svg)
+
+[![](/language/ko_kr/tags/etc/Screen_Shots.svg)](/language/ko_kr/screenshots/Nullistic%20Shader/README.md)
+
+<br>
+<br>
 <br>
 
 ## RTX
@@ -472,7 +491,7 @@ https://discord.gg/8nGcV8QkKZ
 
 ### BetterRTX
 [![](/banners/shader/BetterRTX.png)](https://github.com/BetterRTX)
-![](https://img.shields.io/badge/Bedrock_RTX-윈도우-0078D6?style=flat-square&logo=nvidia) 
+![](https://img.shields.io/badge/Bedrock_RTX-윈도우-0078D6?style=flat-square&labelColor=black&logo=nvidia) 
 
 <br>
 
@@ -489,8 +508,7 @@ https://discord.gg/8nGcV8QkKZ
 [![](/banners/shader/Lynx's%20Post%20Processing.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
 ![Creator](https://img.shields.io/badge/개발자-Lynx-3D444D?style=flat-square&labelColor=white)  
 ![link](https://img.shields.io/badge/링크-안드로이드-DCDCE2?style=flat-square&labelColor=white)
-[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
-&nbsp;&nbsp;
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)  
 ![link](https://img.shields.io/badge/링크-윈도우-DCDCE2?style=flat-square&labelColor=white) 
 [![](https://img.shields.io/badge/Bedrock_Graphics-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/WwUEe7hYBz)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
@@ -589,7 +607,7 @@ https://discord.com/channels/660840983117955072/1200077652514586624
 ![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg) 
 
-> - 면이 항상 야간투시인것처럼 어두운곳 없이 밝게 해줍니다.  
+> - 화면이 항상 야간투시인것처럼 어두운곳 없이 밝게 해줍니다.  
 > - 광물을 빛나게 합니다.
 
 https://mcpedl.com/night-emissive-vision-for-mcpe-be-v1-21

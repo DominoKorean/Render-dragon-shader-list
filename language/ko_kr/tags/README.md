@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/개발자-_-3D444D?style=flat-square&labelColor=white)  
 ![](https://img.shields.io/badge/플랫폼-_-3D444D?style=flat-square&labelColor=white)  
 ![](https://img.shields.io/badge/사전_패키징됨-_-3D444D?style=flat-square&labelColor=white)  
-![](https://img.shields.io/badge/링크-_-3D444D?style=flat-square&labelColor=white)  
+![](https://img.shields.io/badge/다운로드_링크-_-3D444D?style=flat-square&labelColor=white)  
 ![](https://img.shields.io/badge/스타일-_-3D444D?style=flat-square&labelColor=white) 
 
 # platform

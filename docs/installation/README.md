@@ -97,6 +97,25 @@ You can use DLL-format mod files through **mc-w10-version-launcher**.
 If you cannot use **BetterRenderDragon**, you may use [**Matject**](https://github.com/faizul726/matject) instead.
 
 <br>
+
+If **Matject** does not work, you will need to manually replace the `material.bin` file using [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php).  
+You can find the `material.bin` file after extracting the resource pack at:
+
+```
+🖼️ pack_icon.png
+🗒️ manifiest.mcmeta
+📁 renderer
+    ↳ 📁 materials
+        ↳  .material.bin
+```
+
+The `.material.bin` file of vanilla Bedrock Minecraft can be found at:
+
+```
+C:\Program Files\WindowsApps\Microsoft.MinecraftUWP_1.21.9401.0_x64__8wekyb3d8bbwe\data\renderer\materials
+```
+
+<br>
 <br>
 
 ## Troubleshooting

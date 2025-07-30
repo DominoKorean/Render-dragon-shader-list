@@ -1,8 +1,8 @@
 # tag
 ![](https://img.shields.io/badge/Creator-_-3D444D?style=flat-square&labelColor=white)  
 ![](https://img.shields.io/badge/Platform-_-3D444D?style=flat-square&labelColor=white)  
-![](https://img.shields.io/badge/Pre--_Packaging-_-3D444D?style=flat-square&labelColor=white)  
-![](https://img.shields.io/badge/link-_-3D444D?style=flat-square&labelColor=white)  
+![](https://img.shields.io/badge/Pre--Packaging-_-3D444D?style=flat-square&labelColor=white)  
+![](https://img.shields.io/badge/Donwload_link-_-3D444D?style=flat-square&labelColor=white)  
 ![](https://img.shields.io/badge/Style-_-3D444D?style=flat-square&labelColor=white)  
 
 # platform

@@ -60,8 +60,7 @@ Render Dragon shaders are custom shaders created by modding Render Dragon files,
 
 > [!NOTE]  
 > This document is RD Shader List 2.0.  
-> - [Back to RenderDragon Shader List **1.0**](/1.0/README.md)
->   - [What are the differences between 2.0 and 1.0?](/docs/about2.0.md)
+> - [What are the differences between 2.0 and 1.0?](/docs/about2.0.md)
 
 <br>
 
@@ -99,6 +98,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [AziFy Natural](#azify-natural)
     - [Truly Default](#truly-default)
     - [FHD Shader](#fhd-shader)
+    - [Nullistic Shader](#nullistic-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
   - [Vibrant Visuals](#vibrant-visuals)
@@ -230,7 +230,7 @@ https://discord.gg/8nGcV8QkKZ
 ![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
-[![](/tags/etc/Screen_Shots.svg)](screenshots/Years%20static%20shader/YSS%20RD)  
+[![](/tags/etc/Screen_Shots.svg)](screenshots/YSS%20RD/README.md)  
 
 <br>
 <br>
@@ -278,9 +278,7 @@ If the version and date listed below become significantly outdated compared to t
 ![Pre-Packaging](/tags/tag/Pre-Packaging.svg) 
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/tags/tag/Style.svg)
-![](/tags/style/Fantasy.svg)
-
-[![](/tags/etc/Screen_Shots.svg)](screenshots/Eternity%20Shader/README.md)  
+![](/tags/style/Fantasy.svg) 
 
 <br>
 <br>
@@ -317,6 +315,8 @@ If the version and date listed below become significantly outdated compared to t
 ![Style](/tags/tag/Style.svg)
 ![](/tags/style/Realistic.svg)
 
+[![](/tags/etc/Screen_Shots.svg)](/screenshots/Innovative%20Shader/README.md)
+
 <br>
 <br>
 
@@ -342,7 +342,7 @@ If the version and date listed below become significantly outdated compared to t
 [![](/banners/shader/MLYX%20弥浪隐霄%20Shader.png)](https://discord.gg/years-static-shader-group-738688684223889409)
 ![Creator](https://img.shields.io/badge/Creator-mlyx__chuchu-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/Discord.svg)](https://discord.gg/years-static-shader-group-738688684223889409)  
+[![](https://img.shields.io/badge/Years_Static_Shader_Group-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/years-static-shader-group-7386886842238894099)  
 ![Platform](/tags/tag/Platform.svg)
 ![](/tags/platform/Android.svg)
 ![](/tags/platform/iOS.svg)
@@ -351,6 +351,8 @@ If the version and date listed below become significantly outdated compared to t
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/tags/tag/Style.svg)
 ![](/tags/style/Semi_Realistic.svg)  
+
+[![](/tags/etc/Screen_Shots.svg)](/screenshots/MLYX%20弥浪隐霄%20Shader/README.md)
 
 <br>
 <br>
@@ -464,6 +466,23 @@ If the version and date listed below become significantly outdated compared to t
 
 <br>
 <br>
+
+### Nullistic Shader
+[![](/banners/shader/Nullistic%20Shader.png)](https://discord.com/invite/newb-community-844591537430069279)
+![Creator](https://img.shields.io/badge/Creator-Indeed-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](https://img.shields.io/badge/Newb_Community-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.com/invite/newb-community-844591537430069279)    
+![Platform](/tags/tag/Platform.svg) 
+![](/tags/platform/Android.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
+![](/tags/style/Vanilla.svg)
+
+[![](/tags/etc/Screen_Shots.svg)](/screenshots/Innovative%20Shader/README.md)
+
+<br>
+<br>
 <br>
 
 ## RTX
@@ -488,10 +507,9 @@ If the version and date listed below become significantly outdated compared to t
 ### Lynx's Post Processing
 [![](/banners/shader/Lynx's%20Post%20Processing.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
 ![Creator](https://img.shields.io/badge/Creator-Lynx-3D444D?style=flat-square&labelColor=white)  
-![link](https://img.shields.io/badge/Link-Android-DCDCE2?style=flat-square&labelColor=white)
-[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
-&nbsp;&nbsp;
-![link](https://img.shields.io/badge/Link-Windows-DCDCE2?style=flat-square&labelColor=white) 
+![link](https://img.shields.io/badge/Download_Link-Android-DCDCE2?style=flat-square&labelColor=white)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)  
+![link](https://img.shields.io/badge/Download_Link-Windows-DCDCE2?style=flat-square&labelColor=white) 
 [![](https://img.shields.io/badge/Bedrock_Graphics-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/WwUEe7hYBz)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
