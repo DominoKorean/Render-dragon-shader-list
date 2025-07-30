@@ -96,11 +96,11 @@ mc-w10-version-launcher을 통해 DLL형태의 모드파일을 사용할 수 있
 
 <br>
 
-Matject가 작동하지 않을경우 [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php)을 통해 `material.bin`파일을 수동으로 교체해야합니다.  
+Matject가 작동하지 않을경우 [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php)을 통해 `material.bin`파일을 수동으로 교체할 수 있습니다.  
 `materiall.bin`파일은 리소스팩의 압축을 푼 후
 ```
 🖼️ pack_icon.png
-🗒️ manifiest.json
+🗒️ manifest.json
 📁 renderer
     ↳ 📁 materials
         ↳  .material.bin
