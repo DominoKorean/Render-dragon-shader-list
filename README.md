@@ -479,7 +479,7 @@ If the version and date listed below become significantly outdated compared to t
 ![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
 
-[![](/tags/etc/Screen_Shots.svg)](/screenshots/Innovative%20Shader/README.md)
+[![](/tags/etc/Screen_Shots.svg)](/screenshots/Nullistic%20Shader/README.md)
 
 <br>
 <br>
