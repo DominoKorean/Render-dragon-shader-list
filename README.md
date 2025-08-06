@@ -98,6 +98,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [AziFy Natural](#azify-natural)
     - [Truly Default](#truly-default)
     - [FHD Shader](#fhd-shader)
+    - [AziFy: SmooTea](#azify-smootea)
     - [Nullistic Shader](#nullistic-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
@@ -376,10 +377,11 @@ If the version and date listed below become significantly outdated compared to t
 <br>
 
 ### AziFy: REVIVE
-[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
@@ -394,10 +396,10 @@ If the version and date listed below become significantly outdated compared to t
 <br/>
 
 ### AziFy: REIMAGINED
-[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
@@ -413,10 +415,10 @@ If the version and date listed below become significantly outdated compared to t
 <br/>
 
 ### AziFy Natural
-[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
@@ -432,10 +434,11 @@ If the version and date listed below become significantly outdated compared to t
 <br>
 
 ### Truly Default
-[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
@@ -449,11 +452,9 @@ If the version and date listed below become significantly outdated compared to t
 <br>
 
 ### FHD Shader
-[![](/banners/shader/FHD%20Shader.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/FHD%20Shader.png)](https://youtu.be/kEzznDBdCSQ?si=MLEijYf0sJouBPO3)
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
-[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
-[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
@@ -463,6 +464,25 @@ If the version and date listed below become significantly outdated compared to t
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/tags/tag/Style.svg)
 ![](/tags/style/Vanilla.svg)
+
+<br>
+<br>
+
+### AziFy: SmooTea
+[![](/banners/shader/AziFy%20SmooTea.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea)
+![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/azifysmootea/)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)  
+![Platform](/tags/tag/Platform.svg) 
+![](/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/tags/platform/Windows.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
+![](/tags/style/Semi_Realistic.svg)
 
 <br>
 <br>
@@ -518,6 +538,20 @@ If the version and date listed below become significantly outdated compared to t
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/tags/tag/Style.svg)
 ![](https://img.shields.io/badge/Post_Processing-black?style=flat-square)
+
+<br>
+<br>
+
+[![](/banners/shader/Dynamic%20EndSky%20for%20Vibrant%20visuals.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/dynamic-endsky-for-vibrant-visuals)
+![Creator](https://img.shields.io/badge/Creator-Lynx-3D444D?style=flat-square&labelColor=white)  
+![link](/tags/tag/link.svg)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)  
+![Platform](/tags/tag/Platform.svg) 
+![](/tags/platform/Android.svg)  
+![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/tags/tag/Style.svg)
+![](/tags/style/Realistic.svg)
 
 <br>
 <br>
@@ -636,6 +670,7 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 ### Glow Em All
 ![Creator](https://img.shields.io/badge/Creator-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
 [![](/tags/link/MCPEDL.svg)](https://mcpedl.com/glow-em-all)
 [![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/tags/link/YouTube.svg)](https://youtu.be/91xzwza8F84?si=SsgUojdXQTk0v-hF)  

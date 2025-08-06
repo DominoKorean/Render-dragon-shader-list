@@ -98,6 +98,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
     - [AziFy Natural](#azify-natural)
     - [Truly Default](#truly-default)
     - [FHD Shader](#fhd-shader)
+    - [AziFy: SmooTea](#azify-smootea)
     - [Nullistic Shader](#nullistic-shader)
   - [RTX](#rtx)
     - [BetterRTX](#betterrtx)
@@ -376,10 +377,11 @@ https://discord.gg/8nGcV8QkKZ
 <br>
 
 ### AziFy: REVIVE
-[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/AziFy%20Revive.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
-[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
@@ -394,10 +396,11 @@ https://discord.gg/8nGcV8QkKZ
 <br/>
 
 ### AziFy: REIMAGINED
-[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/AziFy%20Reimagined.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
-[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
@@ -413,10 +416,10 @@ https://discord.gg/8nGcV8QkKZ
 <br/>
 
 ### AziFy Natural
-[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/AziFy%20Natural.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
-[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
@@ -432,10 +435,10 @@ https://discord.gg/8nGcV8QkKZ
 <br>
 
 ### Truly Default
-[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/Truly%20Default.png)](https://mcpedl.com/user/azion-studios/)
 ![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
-[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
+[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azion-studios/)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
@@ -449,11 +452,9 @@ https://discord.gg/8nGcV8QkKZ
 <br>
 
 ### FHD Shader
-[![](/banners/shader/FHD%20Shader.png)](https://mcpedl.com/user/azi-angelo-real)
+[![](/banners/shader/FHD%20Shader.png)](https://youtu.be/kEzznDBdCSQ?si=MLEijYf0sJouBPO3)
 ![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
-[![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/user/azi-angelo-real)
-[![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://www.youtube.com/@aziangelo)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr/tags/platform/Android.svg)
@@ -463,6 +464,25 @@ https://discord.gg/8nGcV8QkKZ
 ![](/language/ko_kr/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](/language/ko_kr/tags/style/Vanilla.svg)
+
+<br>
+<br>
+
+### AziFy: SmooTea
+[![](/banners/shader/AziFy%20SmooTea.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea)
+![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea)
+[![](/tags/link/MCPEDL.svg)](https://mcpedl.com/azifysmootea/)
+[![](/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
+![](/language/ko_kr/tags/platform/Android.svg)
+![](/tags/platform/iOS.svg)
+![](/language/ko_kr/tags/platform/Windows.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
+![](/language/ko_kr/tags/style/Semi_Realistic.svg)
 
 <br>
 <br>
@@ -518,6 +538,20 @@ https://discord.gg/8nGcV8QkKZ
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/language/ko_kr/tags/tag/Style.svg)
 ![](https://img.shields.io/badge/포스트_프로세싱-black?style=flat-square)
+
+<br>
+<br>
+
+[![](/banners/shader/Dynamic%20EndSky%20for%20Vibrant%20visuals.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/dynamic-endsky-for-vibrant-visuals)
+![Creator](https://img.shields.io/badge/개발-Lynx-3D444D?style=flat-square&labelColor=white)  
+![link](/language/ko_kr/tags/tag/link.svg)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)  
+![Platform](/language/ko_kr/tags/tag/Platform.svg) 
+![](/language/ko_kr/tags/platform/Android.svg)  
+![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
+![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
+![Style](/language/ko_kr/tags/tag/Style.svg)
+![](/language/ko_kr/tags/style/Realistic.svg)
 
 <br>
 <br>
@@ -636,6 +670,7 @@ https://github.com/GameParrot/mcpe-hdfont-fix
 ### Glow Em All
 ![Creator](https://img.shields.io/badge/개발자-Azi_Angelo_Real-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
+[![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
 [![](/language/ko_kr/tags/link/MCPEDL.svg)](https://mcpedl.com/glow-em-all)
 [![](/language/ko_kr/tags/link/Discord.svg)](https://discord.gg/MZfYkY8tmD)
 [![](/language/ko_kr/tags/link/YouTube.svg)](https://youtu.be/91xzwza8F84?si=SsgUojdXQTk0v-hF)  

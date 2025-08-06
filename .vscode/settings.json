@@ -1,5 +1,7 @@
 {
     "markdown.marp.themes": [
         "C:\\Users\\user\\AppData\\Roaming\\Code\\User\\github-markdown-dark.css"
-    ]
+    ],
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.preview.scrollPreviewWithEditor": false
 }
