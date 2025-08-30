@@ -94,7 +94,9 @@ You can use DLL-format mod files through **mc-w10-version-launcher**.
 
 <br>
 
-If Matject does not work, you can manually replace the `material.bin` file using [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php).
+### Manual Installation
+
+You can manually replace the `material.bin` file using [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php).
 After extracting the resource pack, you can find the `material.bin` file in the following path:
 
 ```

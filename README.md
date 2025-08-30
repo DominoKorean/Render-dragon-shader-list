@@ -81,7 +81,6 @@ The following Table of contents is automatically updated by the "Markdown All in
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
   - [MB Loader](#mb-loader)
   - [BetterRenderDragon](#betterrenderdragon)
-  - [Matject](#matject)
   - [BetterResourcePackManager](#betterresourcepackmanager)
 - [Render dragon shaders](#render-dragon-shaders)
   - [Render dragon](#render-dragon)
@@ -165,17 +164,6 @@ https://github.com/QYCottage/BetterRenderDragon
 >> This is a script that automatically updates BetterRenderDragon.
 >> * Automatically updates BRD.
 >> * Prevents the BRD executable `mcbe_injector.exe` from being automatically removed by Windows Defender.
-
-<br>
-<br>
-
-## Matject
-![](/tags/platform/Windows.svg)  
-![](/tags/pre_supported_packaging/BAT.svg)
-
-https://github.com/faizul726/matject
-
-> A macro program that makes it easy to install RenderDragon shaders.
 
 <br>
 <br>

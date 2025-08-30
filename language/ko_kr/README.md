@@ -81,7 +81,6 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 - [렌더드래곤 셰이더 모드 / 유틸리티](#렌더드래곤-셰이더-모드--유틸리티)
   - [MB Loader](#mb-loader)
   - [BetterRenderDragon](#betterrenderdragon)
-  - [Matject](#matject)
   - [BetterResourcePackManager](#betterresourcepackmanager)
 - [렌더드래곤 셰이더](#렌더드래곤-셰이더)
   - [Render dragon](#render-dragon)
@@ -165,17 +164,6 @@ https://github.com/QYCottage/BetterRenderDragon
 >> BetterRenderDragon을 자동으로 업데이트해주는 스크립트입니다.
 >> - BRD를 자동으로 업데이트합니다.
 >> - BRD 모드 실행 파일 `mcbe_injector.exe` 이 Windows 보안으로 인해 자동으로 제거돼지 않게 합니다.
-
-<br>
-<br>
-
-## Matject
-![](/language/ko_kr/tags/platform/Windows.svg)  
-![](/tags/pre_supported_packaging/BAT.svg)
-
-https://github.com/faizul726/matject  
-
-> 렌더드래곤 셰이더를 쉽게 설치할 수 있게 해주는 매크로 프로그램
 
 <br>
 <br>
