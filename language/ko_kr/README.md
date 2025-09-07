@@ -43,10 +43,11 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 ## Bedrock Graphics
 [![](/banners/comunity/Bedrock%20Graphics.png)](https://discord.gg/WwUEe7hYBz)
+Bedrock Graphics는 이름 그대로 베드락의 렌더드래곤 셰이더 및 선명한 비주얼과 같은 베드락의 그래픽에 관한 디스코드 서버입니다. ( 영어만 가능 )
 
 <br>
 
-## 어떻게 설치하나요?
+# 어떻게 설치하나요?
 
 - [렌더드래곤 셰이더 설치법](/language/ko_kr/docs/installation/README.md)
 
@@ -54,15 +55,11 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 ---
 
-- [이용약관](/language/ko_kr/TERMS_OF_USE.md)
-
-<br>
-
 > [!NOTE]
-> 이 문서는 RD Shader list 2.0입니다.  
-> - [1.0과 2.0의 차이가 뭔가요?](/docs/about2.0.md)
+> 셰이더팩의 다운로드 링크로 이동할려면 배너 이미지 또는 Links 태그를 누르세요.
 
-<br>
+> 렌더드래곤 셰이더 리스트를 당신의 블로그또는 사이트에 재게시 하고싶을 경우 이용약관을 참고해주세요.  
+> [이용약관](/language/ko_kr/TERMS_OF_USE.md)
 
 ---
 
@@ -76,7 +73,7 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 - [렌더드래곤 셰이더 리스트](#렌더드래곤-셰이더-리스트)
   - [렌더드래곤이 뭔가요?](#렌더드래곤이-뭔가요)
   - [Bedrock Graphics](#bedrock-graphics)
-  - [어떻게 설치하나요?](#어떻게-설치하나요)
+- [어떻게 설치하나요?](#어떻게-설치하나요)
   - [목차](#목차)
 - [렌더드래곤 셰이더 모드 / 유틸리티](#렌더드래곤-셰이더-모드--유틸리티)
   - [MB Loader](#mb-loader)

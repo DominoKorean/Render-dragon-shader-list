@@ -43,10 +43,12 @@ Render Dragon shaders are custom shaders created by modding Render Dragon files,
 
 ## Bedrock Graphics
 [![](/banners/comunity/Bedrock%20Graphics.png)](https://discord.gg/WwUEe7hYBz)
+Bedrock Graphics is, as the name suggests, a Discord server about Bedrock’s graphics, such as RenderDragon shaders and vibrant visuals.
+
 
 <br>
 
-## How to Install?
+# How to Install?
 
 - [Renderdragon Shader Installation](/docs/installation/README.md)
 
@@ -54,15 +56,13 @@ Render Dragon shaders are custom shaders created by modding Render Dragon files,
 
 ---
 
-- [Terms of Use](/TERMS_OF_USE.md)
+> [!NOTE]
+> To go to the download link of the shader pack, click the banner image or the Links tag.
 
 <br>
 
-> [!NOTE]  
-> This document is RD Shader List 2.0.  
-> - [What are the differences between 2.0 and 1.0?](/docs/about2.0.md)
-
-<br>
+> If you want to repost the RenderDragon Shader List on your blog or website, please refer to the Terms of Use.  
+> [**Terms of Use**](/TERMS_OF_USE.md)
 
 ---
 
@@ -76,7 +76,7 @@ The following Table of contents is automatically updated by the "Markdown All in
 - [RenderDragon Shader List](#renderdragon-shader-list)
   - [What is RenderDragon?](#what-is-renderdragon)
   - [Bedrock Graphics](#bedrock-graphics)
-  - [How to Install?](#how-to-install)
+- [How to Install?](#how-to-install)
   - [Table of contents](#table-of-contents)
 - [Render Dragon Shader Mod / Utilities](#render-dragon-shader-mod--utilities)
   - [MB Loader](#mb-loader)
