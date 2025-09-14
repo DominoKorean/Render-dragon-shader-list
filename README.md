@@ -103,6 +103,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [BetterRTX](#betterrtx)
   - [Vibrant Visuals](#vibrant-visuals)
     - [Lynx's Post Processing](#lynxs-post-processing)
+    - [Dynamic EndSky for Vibrant visuals](#dynamic-endsky-for-vibrant-visuals)
   - [Utility Shaders](#utility-shaders)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
@@ -515,13 +516,12 @@ If the version and date listed below become significantly outdated compared to t
 ### Lynx's Post Processing
 [![](/banners/shader/Lynx's%20Post%20Processing.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
 ![Creator](https://img.shields.io/badge/Creator-Lynx-3D444D?style=flat-square&labelColor=white)  
-![link](https://img.shields.io/badge/Download_Link-Android-DCDCE2?style=flat-square&labelColor=white)
+![link](/tags/tag/link.svg)
 [![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)  
-![link](https://img.shields.io/badge/Download_Link-Windows-DCDCE2?style=flat-square&labelColor=white) 
-[![](https://img.shields.io/badge/Bedrock_Graphics-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/WwUEe7hYBz)  
 ![Platform](/tags/tag/Platform.svg) 
 ![](/tags/platform/Android.svg)
-![](/tags/platform/Windows.svg)  
+![](/tags/platform/Windows.svg)
+![](/tags/platform/iOS.svg)  
 ![Pre-Packaging](/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/tags/tag/Style.svg)
@@ -530,6 +530,7 @@ If the version and date listed below become significantly outdated compared to t
 <br>
 <br>
 
+### Dynamic EndSky for Vibrant visuals
 [![](/banners/shader/Dynamic%20EndSky%20for%20Vibrant%20visuals.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/dynamic-endsky-for-vibrant-visuals)
 ![Creator](https://img.shields.io/badge/Creator-Lynx-3D444D?style=flat-square&labelColor=white)  
 ![link](/tags/tag/link.svg)

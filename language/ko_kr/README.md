@@ -100,6 +100,7 @@ Bedrock Graphics는 이름 그대로 베드락의 렌더드래곤 셰이더 및 
     - [BetterRTX](#betterrtx)
   - [선명한 비주얼](#선명한-비주얼)
     - [Lynx's Post Processing](#lynxs-post-processing)
+    - [Dynamic EndSky for Vibrant visuals](#dynamic-endsky-for-vibrant-visuals)
   - [유틸리티 셰이더](#유틸리티-셰이더)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
@@ -512,13 +513,12 @@ https://discord.gg/8nGcV8QkKZ
 ### Lynx's Post Processing
 [![](/banners/shader/Lynx's%20Post%20Processing.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)
 ![Creator](https://img.shields.io/badge/개발자-Lynx-3D444D?style=flat-square&labelColor=white)  
-![link](https://img.shields.io/badge/링크-안드로이드-DCDCE2?style=flat-square&labelColor=white)
+![link](/language/ko_kr/tags/tag/link.svg)
 [![](/tags/link/CurseForge.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing)  
-![link](https://img.shields.io/badge/링크-윈도우-DCDCE2?style=flat-square&labelColor=white) 
-[![](https://img.shields.io/badge/Bedrock_Graphics-Discord-5865F2?style=flat-square&labelColor=2E39A0&logo=discord&logoColor=white)](https://discord.gg/WwUEe7hYBz)  
 ![Platform](/language/ko_kr/tags/tag/Platform.svg) 
 ![](/language/ko_kr//tags/platform/Android.svg)
-![](/language/ko_kr//tags/platform/Windows.svg)  
+![](/language/ko_kr//tags/platform/Windows.svg)
+![](/language/ko_kr//tags/platform/iOS.svg)  
 ![Pre-Packaging](/language/ko_kr/tags/tag/Pre-Packaging.svg)
 ![](/tags/pre_supported_packaging/MaterialBinLoader.svg)  
 ![Style](/language/ko_kr/tags/tag/Style.svg)
@@ -527,6 +527,7 @@ https://discord.gg/8nGcV8QkKZ
 <br>
 <br>
 
+### Dynamic EndSky for Vibrant visuals
 [![](/banners/shader/Dynamic%20EndSky%20for%20Vibrant%20visuals.png)](https://www.curseforge.com/minecraft-bedrock/texture-packs/dynamic-endsky-for-vibrant-visuals)
 ![Creator](https://img.shields.io/badge/개발-Lynx-3D444D?style=flat-square&labelColor=white)  
 ![link](/language/ko_kr/tags/tag/link.svg)
