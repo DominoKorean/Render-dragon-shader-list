@@ -147,6 +147,7 @@ OR
 > ¹ This APK is sourced from a really questionable source. Use at your own risk.
 
 * [Minecraft-1.20.81.01-Patched](https://download2431.mediafire.com/dlh54e2v3hzgjmPQG4tYELNj6JtpAwZsE4yyT2O9uFp620KZbUnd8GdbtcyRXudR5HTKZg4704x8K9eQKFsxqsJKDbszXfb9fBKBUqb7gt5ffK4460AFe-sos59GXMCwfrzIrXNayyUhXSj4Wpbk-ARDkYW4cZU9vvuao5Q27w/g0w2qco82dnf30y/Minecraft-1.20.81.01-Patched.apk)
+* [Minecraft Patch 1.21.120](https://minecrftpatch.com/)
 
 * [1.20.81.01 armeabi-v7a](https://download2278.mediafire.com/1rzbh26a7btgpcPzuWqoyHM3TZ6uHeumaB431bEnclIGX70uLTUJ6bTpaK-ip6ZUmFZj39yAd8tCQQt09zAcTUnCtDg279x08aBQHtq20osC0YUGC0BMOIe_qIT0JWLvK42A27DPr7lkGIEpMMhVk_c0bTkezq_FRJ4VthBh9g/1qu8x52x06iauk5/minecraft-1.20.81.01-armeabi_v7a-patched.apk) ¹
 
